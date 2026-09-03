@@ -1,0 +1,4 @@
+dist/
+.ankidaiku/
+media/
+tools/.venv/
