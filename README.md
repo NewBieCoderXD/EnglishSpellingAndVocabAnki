@@ -127,24 +127,31 @@ builds its examples/mapping from `syn_examples`.
 `synonyms.html` declares `each: syn_examples` in its front matter, so every
 `syn_examples` entry becomes its **own card**: the front shows the sentence
 with the word `<u>underlined</u>`, and you must supply the synonym that fits
-*that specific context* (per-record `types` and `map` fields hold the answer).
-Ids are stable per context (`syn-<word>-<n>` or `<syn_id>-<n>`), so rebuilding
-does not duplicate or churn cards.
+*that specific context* (per-context `syns` lists the fitting synonyms;
+plurals/inflections are matched via a per-context `types` field, so answers
+like `prospects`/`possibilities` are accepted too). The `# Type` header lists
+every fitting synonym, and the back shows each with `<small>` notes from
+`syn_notes` so you learn the *distinction* (e.g. `attain` = by age/status,
+`accomplish` = by effort). Ids are stable per context (`syn-<word>-<n>` or
+`<syn_id>-<n>`), so rebuilding does not duplicate or churn cards.
 
 To add a word to all three decks, add one entry to `words.yaml` listing the three
 components (inventing 2–3 context sentences for `syn_examples`), then run
-`./build.sh`. To spin up a brand-new card type, add a new template in `cards/types/`.
+`./build.sh`. Many words (esp. the hard B2–C1 additions) are `[spelling,
+definitions]` only — the `synonyms`/`syn_examples` fields are still required but
+no drill cards fan out without `syn_examples`. To spin up a brand-new card type,
+add a new template in `cards/types/`.
 
 ### Deck sizes (current)
 
 | Deck | Cards |
 |------|-------|
-| Spelling | 87 (1 per word, all with spelling tips) |
-| Definitions | 87 (1 per word) |
+| Spelling | 318 (1 per word, all with spelling tips) |
+| Definitions | 318 (1 per word) |
 | Synonyms | 236 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
 | Pronunciation (all) | 56 |
-| **Total** | **475** |
+| **Total** | **937** |
 
 ## Pronunciation audio
 

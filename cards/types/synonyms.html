@@ -16,7 +16,7 @@ id: "{{#if ../syn_id}}{{../syn_id}}-{{n}}{{else}}syn-{{../word}}-{{n}}{{/if}}"
 
 # Type
 
-{{join(syns, ", ")}}
+{{join(fallback(types, syns), ", ")}}
 
 ---
 
@@ -24,6 +24,6 @@ id: "{{#if ../syn_id}}{{../syn_id}}-{{n}}{{else}}syn-{{../word}}-{{n}}{{/if}}"
 
 <div class="pos">{{../syn_pos}}</div>
 
-<p>{{join_html(syns, " &middot; ")}}</p>
+<p>{{#each syns}}<b>{{this}}</b> <small style="color:#888">({{lookup(../../syn_notes, this)}})</small> · {{/each}}</p>
 
 <span class="ex">{{../syn_example}}</span>
