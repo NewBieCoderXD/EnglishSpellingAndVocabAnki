@@ -52,16 +52,72 @@ significant, crucial, vital, essential, key   <- accepted answers, matched as AN
   `significant, crucial` marks either as correct. Wrong input is reported per
   token ("Recognized: rise. Not in this card's answer list: foo."), a
   **Show answers** button reveals the list, and it auto-reveals after 3 failed
-  tries. This is a small script in the card template — Anki's built-in
-  `{{type:...}}` only supports exact matches. Omit `# Type` for plain recall
-  cards. Requires the AnkiDaiku build with `# Type` support (see `build.sh`).
-
-  On **AnkiDroid**, enable **Settings → Advanced → "Type answer into the card"**
-  so the on-screen keyboard appears for these custom inputs.
+  tries. Anki's built-in `{{type:...}}` only supports exact matches, which is
+  why the answer box is supplied by a **widget** (below). Omit `# Type` for
+  plain recall cards.
+- `# Widget` (optional) — inline HTML/JS that replaces the answer box for this
+  single card. `{{answers}}` is replaced with the escaped `# Type` list.
+  Omitting it uses the deck default (see Widgets).
 - `# Style` (optional) — per-card CSS.
+
+On **AnkiDroid**, enable **Settings → Advanced → "Type answer into the card"**
+so the on-screen keyboard appears for these custom inputs.
+
+## Widgets: templating on top of "Type"
+
+Two templating levels work together:
+
+- **Type** is the Anki-native template — the notetype's Front/Back shells the
+  deck ships. It is shared by every card, one copy per notetype:
+  `{{Front}}` + `{{#Type}}{{Widget}}{{/Type}}`. It is meant to stay stable:
+  Anki only conditionally applies note-type template changes on import. Fully
+  overridable via `cards/template.yaml` (qfmt/afmt/fields/css) if a deck needs
+  a different shell.
+- **Widget** is *our* card templating on top of Type — a per-card HTML/JS
+  interaction built at build time and stored in the note's `Widget` field
+  (plain field updates apply on every import, on any Anki version).
+
+The most specific widget wins:
+
+1. `# Widget` section in a single card's `.md` (per-card).
+2. `# Widget` section inside `cards/types/<name>.html`, rendered with that
+   type's props like any other section (per component type).
+3. `widget: <name>` front matter on a card or component type → uses
+   `cards/widgets/<name>.html`.
+4. `cards/widgets/default.html` — this deck's answer box (deck-wide default).
+5. AnkiDaiku's built-in fallback (used when no deck file exists).
+
+Fragments reference the accepted answers as `{{answers}}` (HTML-escaped into
+the `data-answers` attribute at build time). Cards without `# Type` get no
+widget. Editing `cards/widgets/default.html` restyles the box deck-wide;
+per-type cards can carry their own `# Widget` section (e.g. a mini-synonym map).
 
 Shared styling lives in `shared.css` (merged into the notetype). The type-in box,
 IPA, part-of-speech and answer colors are defined there.
+
+## Word decks: components + data
+
+The `Spelling`, `Definitions`, and `Synonyms` decks are **data-driven**. Their
+card HTML comes from reusable component templates (`cards/types/*.html`) rendered
+with props from `cards/words.yaml` — no hand-written HTML per word.
+
+- `cards/types/spelling.html`, `definitions.html`, `synonyms.html` — each is a
+  standard card body (`# Front` / `# Type` / `# Back`) containing `{{prop}}`
+  placeholders, plus a small front matter declaring the sub-deck and card id:
+  `deck: Spelling` and `id: "{{word}}"`.
+- `cards/words.yaml` — one entry per word with all fields (ipa, pos, spelling
+  tip, definition, example, synonym list, syn_pos, syn_example) and the
+  `components` it should fan out to (e.g. `[spelling, definitions, synonyms]`).
+
+The build fans each word out to the requested components and renders each
+template, producing one card per deck. Computed props are derived where a
+template needs them: `spell_hint` (letter count + first letter + pos, unless an
+explicit `spelling_hint` is given), `synonyms_list` (comma-joined answer
+list), and `synonyms_bold` (the bolded back display).
+
+To add a word to all three decks, add one entry to `words.yaml` listing the three
+components, then run `./build.sh`. To spin up a brand-new card type, add a new
+template in `cards/types/`.
 
 ## Pronunciation audio
 
@@ -89,6 +145,12 @@ Output: `dist/output.apkg` — import into Anki. Rebuilding the same deck update
 existing notes instead of duplicating, as long as `id`s (and folder paths) stay the same.
 
 ## Adding words
+
+**Word decks (Spelling / Definitions / Synonyms):** add one entry to
+`cards/words.yaml` (with the fields above and `components:`), then `./build.sh`.
+The build renders all three cards for you.
+
+**Other decks (IELTS, Pronunciation, manual synonym cards):**
 
 1. Copy an existing card in the relevant deck folder and rename the file.
 2. Change the `id` and the front/type/back content.

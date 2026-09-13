@@ -74,6 +74,51 @@ hr {
   justify-content: center;
 }
 
+/* ---- Synonyms: example-based cards ---- */
+
+.exs {
+  margin-top: 1em;
+}
+
+.exs p {
+  font-size: 1.05em;
+  margin: 0.4em 0;
+}
+
+.exs u,
+.map u {
+  font-weight: 700;
+  text-decoration-thickness: 2px;
+}
+
+.map {
+  font-size: 0.95em;
+  margin: 1em auto;
+  max-width: 25em;
+  text-align: left;
+}
+
+.map p {
+  margin: 0.45em 0;
+}
+
+.map .from {
+  color: #64748b;
+}
+
+.map .to {
+  color: #059669;
+  font-weight: 600;
+}
+
+.nightMode .map .from {
+  color: #94a3b8;
+}
+
+.nightMode .map .to {
+  color: #4ade80;
+}
+
 .type-box input {
   font-size: 1em;
   padding: 0.45em 0.7em;

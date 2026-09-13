@@ -1,0 +1,68 @@
+<div class="type-box" id="td-wrap" data-answers="{{answers}}">
+  <input id="td-input" class="typed-input" type="text"
+         autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"
+         placeholder="Type your answer">
+  <button id="td-btn" class="typed-btn" type="button">Check</button>
+  <button id="td-show" class="typed-show" type="button">Show answers</button>
+  <div id="td-msg" class="td-msg"></div>
+</div>
+<script>
+(function() {
+  var wrap = document.getElementById("td-wrap");
+  if (!wrap || wrap.getAttribute("data-bound")) return;
+  wrap.setAttribute("data-bound", "1");
+  wrap.setAttribute("data-tries", "0");
+  var answers = (wrap.getAttribute("data-answers") || "").split(/[,;]/).map(function(s) { return s.trim().toLowerCase(); }).filter(Boolean);
+  var input = document.getElementById("td-input");
+  var msg = document.getElementById("td-msg");
+  function setMsg(html, cls) {
+    msg.innerHTML = html;
+    msg.className = "td-msg " + cls;
+  }
+  function check() {
+    var given = (input.value || "").trim().toLowerCase();
+    if (!given) { setMsg("Type an answer first.", "td-hint"); input.focus(); return; }
+    var parts = given.split(/\s*[,;]\s*/).filter(Boolean);
+    var isFull = answers.indexOf(given) >= 0;
+    var matched = parts.filter(function(p) { return answers.indexOf(p) >= 0; });
+    var ok = isFull || (matched.length > 0 && matched.length === parts.length);
+    if (ok) {
+      let label;
+      if (parts.length!==answers.length){
+        let remaining = answers.length - matched.length;
+        label = matched.length + " are correct.<br>" + remaining + " more remaining.";
+      } else {
+        label = "All are correct";
+      }
+      setMsg(label + " ✓", "typeGood");
+      input.className = "typed-input typeGood";
+      return;
+    }
+    var tries = parseInt(wrap.getAttribute("data-tries") || "0", 10) + 1;
+    wrap.setAttribute("data-tries", String(tries));
+    input.className = "typed-input typeBad";
+    if (matched.length > 0 && matched.length < parts.length) {
+      var wrong = parts.filter(function(p) { return answers.indexOf(p) < 0; });
+      var remaining = answers.length - matched.length;
+      setMsg(matched.length + " are correct.<br>" + remaining + " more remaining.<br>Unrecognized: " + wrong.join(", ") + ".", "typeBad");
+    } else if (matched.length === 0 && tries >= 3) {
+      setMsg("Not quite. Accepted answers: " + answers.join(", ") + ".", "typeBad");
+    } else if (matched.length === 0) {
+      setMsg("None of those are in the answer list. Try again (" + tries + "/3) or tap Show answers.", "typeBad");
+    } else {
+      setMsg("Try again.", "typeBad");
+    }
+  }
+  function reveal() {
+    setMsg("Accepted answers: " + answers.join(", ") + ".", "td-hint");
+  }
+  input.addEventListener("keydown", function(e) { if (e.key === "Enter") check(); });
+  document.getElementById("td-btn").addEventListener("click", check);
+  document.getElementById("td-show").addEventListener("click", reveal);
+  try {
+    // Pre-focus the field so a visible keyboard opens on mobile where the
+    // "Type answer into the card" setting is enabled.
+    input.focus({ preventScroll: true });
+  } catch (e) {}
+})();
+</script>

@@ -1,0 +1,2461 @@
+words:
+- word: achieve
+  ipa: /əˈtʃiːv/
+  pos: verb
+  tip: a-chieve — the common 'ie' after c is the trap
+  spelling_hint: ''
+  definition: To successfully reach a desired aim or result by effort.
+  example: She worked hard to achieve her goals.
+  synonyms:
+  - attain
+  - accomplish
+  - reach
+  - realize
+  - fulfil
+  syn_pos: verb
+  syn_example: Achieve / attain / reach your goals — all are formal IELTS verbs.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She worked hard to achieve her goals.
+    syns:
+    - accomplish
+    - attain
+  - the: The team managed to achieve the performance target.
+    syns:
+    - reach
+  - the: He hoped to achieve his ambition of living abroad.
+    syns:
+    - realize
+    - fulfil
+- word: alternative
+  ipa: /ɔːlˈtɜː.nə.tɪv/
+  pos: adjective/noun
+  tip: alt-ern-ative — keep the 'ern' in the middle
+  spelling_hint: ''
+  definition: One of two or more available possibilities; a different option.
+  example: We considered an alternative plan.
+  synonyms:
+  - option
+  - choice
+  - substitute
+  - fallback
+  syn_pos: noun
+  syn_example: Offer an alternative or an option when presenting solutions in an essay.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We need an alternative to the current plan.
+    syns:
+    - option
+    - choice
+  - the: They proposed a cheaper alternative.
+    syns:
+    - substitute
+    - fallback
+- word: analyze
+  ipa: /ˈæn.əl.aɪz/
+  pos: verb
+  tip: an-a-lyze — 'a-na-ly-ze', three syllables
+  spelling_hint: ''
+  definition: To examine something in detail in order to understand or explain it.
+  example: We analyzed the data carefully.
+  synonyms:
+  - examine
+  - inspect
+  - study
+  - evaluate
+  - investigate
+  syn_pos: verb
+  syn_example: Analyze, examine or investigate a problem in your task 2 body.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We need to analyze the data before deciding.
+    syns:
+    - examine
+    - inspect
+    - investigate
+  - the: The report is designed to analyze the causes of the problem.
+    syns:
+    - study
+    - evaluate
+- word: apparent
+  ipa: /əˈpær.ənt/
+  pos: adjective
+  tip: ap-parent — one p, then 'arent'
+  spelling_hint: ''
+  definition: Clearly visible or understood; obvious.
+  example: It became apparent that we were lost.
+  synonyms:
+  - obvious
+  - evident
+  - clear
+  - visible
+  - plain
+  syn_pos: adjective
+  syn_example: It was apparent / evident / obvious that costs were rising.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: It became apparent that the plan would fail.
+    syns:
+    - obvious
+    - evident
+    - clear
+  - the: The benefits of the policy are apparent to everyone.
+    syns:
+    - clear
+    - visible
+    - plain
+- word: aspect
+  ipa: /ˈæs.pekt/
+  pos: noun
+  tip: a-spect — no 'e' before the final t
+  spelling_hint: ''
+  definition: A particular feature or part of something.
+  example: We looked at every aspect of the problem.
+  synonyms:
+  - feature
+  - facet
+  - side
+  - dimension
+  - element
+  - factor
+  syn_pos: noun
+  syn_example: Discuss every aspect / facet / dimension of the issue.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We discussed every aspect of the issue.
+    syns:
+    - feature
+    - side
+  - the: Cost is just one aspect of a complex decision.
+    syns:
+    - factor
+    - facet
+    - dimension
+    - element
+- word: assumption
+  ipa: /əˈsʌmp.ʃən/
+  pos: noun
+  tip: as-sump-tion — double s, then 'ump'
+  spelling_hint: ''
+  definition: Something accepted as true without proof.
+  example: That was based on a false assumption.
+  synonyms:
+  - belief
+  - supposition
+  - premise
+  - hypothesis
+  - presumption
+  syn_pos: noun
+  syn_example: Challenge a common assumption / belief / premise in your essay.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The argument rests on a false assumption.
+    syns:
+    - belief
+    - supposition
+    - premise
+  - the: Scientists test each assumption before proceeding.
+    syns:
+    - hypothesis
+    - presumption
+- word: benefit
+  ipa: /ˈben.ɪ.fɪt/
+  pos: noun/verb
+  tip: bene-fit — no double letters
+  spelling_hint: ''
+  definition: An advantage or profit gained from something; to gain from it.
+  example: The plan offers clear benefits to everyone.
+  synonyms:
+  - advantage
+  - gain
+  - profit
+  - plus
+  - upside
+  syn_pos: noun
+  syn_example: List the benefits / advantages / pluses of a policy.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: A key benefit is stress relief.
+    syns:
+    - advantage
+    - plus
+    - upside
+  - the: Both sides can benefit from the agreement.
+    syns:
+    - gain
+    - profit
+- word: comprehensive
+  ipa: /ˌkɒm.prɪˈhen.sɪv/
+  pos: adjective
+  tip: com-pre-hen-sive — note the 'hen'
+  spelling_hint: ''
+  definition: Including everything or nearly everything; complete and thorough.
+  example: The report gives a comprehensive overview.
+  synonyms:
+  - thorough
+  - complete
+  - extensive
+  - full
+  - all-inclusive
+  syn_pos: adjective
+  syn_example: A comprehensive / thorough / extensive study of the topic.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The report provides a comprehensive overview.
+    syns:
+    - thorough
+    - complete
+    - full
+  - the: We offer comprehensive support.
+    syns:
+    - extensive
+    - all-inclusive
+- word: consequence
+  ipa: /ˈkɒn.sɪ.kwəns/
+  pos: noun
+  tip: con-se-quence — the 'ue' before 'nce'
+  spelling_hint: ''
+  definition: A result or effect of an action or condition.
+  example: Pollution has serious consequences for health.
+  synonyms:
+  - result
+  - outcome
+  - effect
+  - repercussion
+  - impact
+  syn_pos: noun
+  syn_example: Weigh the consequences / repercussions / outcomes of a decision.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: A serious consequence of climate change is rising sea levels.
+    syns:
+    - effect
+    - impact
+    - repercussion
+  - the: Every action has some consequence.
+    syns:
+    - outcome
+    - result
+- word: constitute
+  ipa: /ˈkɒn.stɪ.tjuːt/
+  pos: verb
+  tip: con-sti-tute — 'sti', not 'stit'
+  spelling_hint: ''
+  definition: To be or form part of something; to make up.
+  example: Women constitute the majority of the workforce.
+  synonyms:
+  - form
+  - make up
+  - comprise
+  - represent
+  - account for
+  syn_pos: verb
+  syn_example: Students constitute / form / make up a large share of users.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Women constitute the majority of the workforce.
+    syns:
+    - form
+    - make up
+    - comprise
+  - the: This single payment will constitute the entire fee.
+    syns:
+    - represent
+    - account for
+- word: contemporary
+  ipa: /kənˈtem.pər.ər.i/
+  pos: adjective
+  tip: con-tem-por-ary — keep the 'por'
+  spelling_hint: ''
+  definition: Living or occurring at the same time; modern or current.
+  example: Contemporary art challenges traditional ideas.
+  synonyms:
+  - modern
+  - current
+  - present-day
+  - recent
+  - up-to-date
+  syn_pos: adjective
+  syn_example: Modern / contemporary / present-day society faces new problems.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She buys contemporary art.
+    syns:
+    - modern
+    - present-day
+    - current
+  - the: This fossil is contemporary with the dinosaurs.
+    syns:
+    - modern
+    - current
+  - the: The journal covers contemporary research in biology.
+    syns:
+    - current
+    - up-to-date
+    - recent
+- word: contribute
+  ipa: /kənˈtrɪb.juːt/
+  pos: verb
+  tip: con-tri-bute — the stressed 'trɪ'
+  spelling_hint: ''
+  definition: To give something (money, effort, ideas) to help achieve something.
+  example: Everyone contributed to the discussion.
+  synonyms:
+  - donate
+  - add to
+  - help
+  - play a part in
+  - chip in
+  syn_pos: verb
+  syn_example: Several factors contribute / add to the rising cost.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Several factors contribute to the rising cost.
+    syns:
+    - add to
+    - play a part in
+  - the: Each member can contribute ideas to the discussion.
+    syns:
+    - chip in
+    - help
+  - the: Companies are urged to contribute to local charities.
+    syns:
+    - donate
+- word: controversial
+  ipa: /ˌkɒn.trəˈvɜː.ʃəl/
+  pos: adjective
+  tip: con-tro-vers-ial — the 'ro' then 'vers'
+  spelling_hint: ''
+  definition: Causing disagreement or discussion.
+  example: The policy proved highly controversial.
+  synonyms:
+  - debatable
+  - disputed
+  - contentious
+  - arguable
+  - divisive
+  syn_pos: adjective
+  syn_example: A controversial / contentious / debated topic in the news.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The new policy is highly controversial.
+    syns:
+    - contentious
+    - divisive
+    - debatable
+  - the: It remains a controversial decision.
+    syns:
+    - disputed
+    - arguable
+- word: crucial
+  ipa: /ˈkruː.ʃəl/
+  pos: adjective
+  tip: cru-cial — 'cru', then 'cial'
+  spelling_hint: ''
+  definition: Extremely important; critical to the success of something.
+  example: Timing is crucial to the project.
+  synonyms:
+  - vital
+  - essential
+  - critical
+  - key
+  - necessary
+  syn_pos: adjective
+  syn_example: It is crucial / vital / essential to plan ahead.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Timing is crucial to the success of the project.
+    syns:
+    - critical
+    - vital
+  - the: It is crucial that we act quickly.
+    syns:
+    - essential
+    - necessary
+  - the: Trust plays a crucial role here.
+    syns:
+    - key
+- word: demonstrate
+  ipa: /ˈdem.ən.streɪt/
+  pos: verb
+  tip: de-mon-strate — 'mon', then 'strate'
+  spelling_hint: ''
+  definition: To show clearly; to prove by giving evidence or examples.
+  example: The study demonstrates a clear link.
+  synonyms:
+  - show
+  - prove
+  - illustrate
+  - evidence
+  - exhibit
+  syn_pos: verb
+  syn_example: Demonstrate / show / illustrate a point with examples.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The study aims to demonstrate a clear link between the two.
+    syns:
+    - show
+    - prove
+    - evidence
+  - the: She used several examples to demonstrate her point.
+    syns:
+    - illustrate
+  - the: He will demonstrate how the machine works.
+    syns:
+    - show
+    - exhibit
+- word: diminish
+  ipa: /dɪˈmɪn.ɪʃ/
+  pos: verb
+  tip: di-min-ish — 'min', then 'ish'
+  spelling_hint: ''
+  definition: To make or become smaller or weaker.
+  example: Demand for the product is diminishing.
+  synonyms:
+  - decrease
+  - reduce
+  - decline
+  - lessen
+  - weaken
+  syn_pos: verb
+  syn_example: Costs diminish / decline / decrease over time.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Demand for the product continues to diminish.
+    syns:
+    - decrease
+    - decline
+    - lessen
+  - the: The new policy could diminish workers' rights.
+    syns:
+    - reduce
+    - weaken
+- word: emphasize
+  ipa: /ˈem.fə.saɪz/
+  pos: verb
+  tip: em-pha-size — the 'pha' after 'em'
+  spelling_hint: ''
+  definition: To give special importance or attention to something.
+  example: The report emphasizes the need for change.
+  synonyms:
+  - stress
+  - highlight
+  - underline
+  - accentuate
+  - spotlight
+  syn_pos: verb
+  syn_example: Emphasize / stress / highlight the main point.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The report goes on to emphasize the need for reform.
+    syns:
+    - stress
+    - highlight
+    - underline
+  - the: She will emphasize the importance of preparation.
+    syns:
+    - accentuate
+    - spotlight
+- word: enhance
+  ipa: /ɪnˈhɑːns/
+  pos: verb
+  tip: en-hance — the 'h' is part of the word
+  spelling_hint: ''
+  definition: To improve the quality, value or extent of something.
+  example: Technology can enhance the learning experience.
+  synonyms:
+  - improve
+  - boost
+  - strengthen
+  - augment
+  - heighten
+  syn_pos: verb
+  syn_example: Enhance / boost / improve performance at work.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Technology can enhance the learning experience.
+    syns:
+    - improve
+    - strengthen
+  - the: The new feature aims to enhance productivity.
+    syns:
+    - boost
+    - augment
+    - heighten
+- word: essential
+  ipa: /ɪˈsen.ʃəl/
+  pos: adjective
+  tip: es-sen-tial — double s, then 'en'
+  spelling_hint: ''
+  definition: Absolutely necessary; extremely important.
+  example: Water is essential for life.
+  synonyms:
+  - vital
+  - crucial
+  - indispensable
+  - necessary
+  - required
+  syn_pos: adjective
+  syn_example: Essential / vital / indispensable skills for study.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Water is essential for life.
+    syns:
+    - vital
+    - crucial
+    - necessary
+  - the: Good communication is an essential part of teamwork.
+    syns:
+    - indispensable
+    - required
+- word: establish
+  ipa: /ɪˈstæb.lɪʃ/
+  pos: verb
+  tip: es-tab-lish — 'tab', then 'lish'
+  spelling_hint: ''
+  definition: To start or set up something lasting; to prove or confirm.
+  example: The company was established in 1990.
+  synonyms:
+  - set up
+  - found
+  - create
+  - institute
+  - launch
+  - prove
+  - confirm
+  syn_pos: verb
+  syn_example: Establish / set up / found an organization.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: They plan to establish a new company.
+    syns:
+    - found
+    - create
+    - set up
+    - launch
+  - the: We need to establish clear rules.
+    syns:
+    - institute
+    - set up
+  - the: The study failed to establish a clear cause.
+    syns:
+    - prove
+    - confirm
+- word: evaluate
+  ipa: /ɪˈvæl.ju.eɪt/
+  pos: verb
+  tip: e-val-u-ate — 'val', then 'u-ate'
+  spelling_hint: ''
+  definition: To judge or assess the value, quality or importance of something.
+  example: We need to evaluate the results carefully.
+  synonyms:
+  - assess
+  - appraise
+  - judge
+  - review
+  - examine
+  syn_pos: verb
+  syn_example: Evaluate / assess / judge the evidence.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We must evaluate the results carefully.
+    syns:
+    - assess
+    - review
+    - judge
+  - the: Experts will evaluate each proposal.
+    syns:
+    - appraise
+    - examine
+- word: evident
+  ipa: /ˈev.ɪ.dənt/
+  pos: adjective
+  tip: e-vi-dent — 'vi', then 'dent'
+  spelling_hint: ''
+  definition: Clearly seen or understood; obvious.
+  example: It was evident that she was tired.
+  synonyms:
+  - obvious
+  - apparent
+  - clear
+  - plain
+  - noticeable
+  syn_pos: adjective
+  syn_example: It was evident / apparent / obvious from the data.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: It was evident that she was tired.
+    syns:
+    - obvious
+    - apparent
+    - clear
+  - the: The improvement was evident in the latest figures.
+    syns:
+    - noticeable
+    - plain
+- word: facilitate
+  ipa: /fəˈsɪl.ɪ.teɪt/
+  pos: verb
+  tip: fa-cil-i-tate — 'cil', then 'i-tate'
+  spelling_hint: ''
+  definition: To make an action or process easier.
+  example: The new software facilitates communication.
+  synonyms:
+  - ease
+  - enable
+  - assist
+  - help
+  - streamline
+  syn_pos: verb
+  syn_example: This facilitates / eases / enables faster decision-making.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The new system is designed to facilitate communication.
+    syns:
+    - ease
+    - enable
+  - the: A mediator was brought in to facilitate the talks.
+    syns:
+    - help
+    - assist
+  - the: The software is designed to facilitate the whole process.
+    syns:
+    - ease
+    - streamline
+- word: fundamental
+  ipa: /ˌfʌn.dəˈmen.təl/
+  pos: adjective
+  tip: fun-da-men-tal — 'da', then 'mental'
+  spelling_hint: ''
+  definition: Forming a necessary base or core; of central importance.
+  example: Trust is fundamental to any relationship.
+  synonyms:
+  - basic
+  - essential
+  - core
+  - primary
+  - foundational
+  - underlying
+  syn_pos: adjective
+  syn_example: A fundamental / basic / core issue to address.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Trust is fundamental to any relationship.
+    syns:
+    - basic
+    - essential
+    - core
+  - the: There is a fundamental difference between the two views.
+    syns:
+    - basic
+    - primary
+  - the: We must address the fundamental causes.
+    syns:
+    - underlying
+    - foundational
+- word: generate
+  ipa: /ˈdʒen.ər.eɪt/
+  pos: verb
+  tip: gen-er-ate — 'er' in the middle
+  spelling_hint: ''
+  definition: To produce or create something, such as energy or ideas.
+  example: Solar panels generate electricity.
+  synonyms:
+  - produce
+  - create
+  - yield
+  - cause
+  - give rise to
+  syn_pos: verb
+  syn_example: The scheme generates / produces / creates many jobs.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Solar panels generate electricity.
+    syns:
+    - produce
+    - create
+    - yield
+  - the: The scheme is expected to generate many jobs.
+    syns:
+    - create
+    - produce
+  - the: The findings are likely to generate a lot of debate.
+    syns:
+    - cause
+    - give rise to
+- word: hypothesis
+  ipa: /haɪˈpɒθ.ə.sɪs/
+  pos: noun
+  tip: hy-poth-e-sis — 'poth', then 'e-sis'
+  spelling_hint: ''
+  definition: A proposed explanation based on limited evidence, to be tested.
+  example: The results support our hypothesis.
+  synonyms:
+  - theory
+  - premise
+  - supposition
+  - assumption
+  - proposition
+  syn_pos: noun
+  syn_example: Test a hypothesis / theory / assumption.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The results support our hypothesis.
+    syns:
+    - theory
+    - assumption
+    - supposition
+  - the: Researchers tested the hypothesis with new data.
+    syns:
+    - premise
+    - proposition
+- word: immediate
+  ipa: /ɪˈmiː.di.ət/
+  pos: adjective
+  tip: im-me-di-ate — double m, then 'di'
+  spelling_hint: ''
+  definition: Happening now or without delay; direct and close.
+  example: We need an immediate response.
+  synonyms:
+  - instant
+  - prompt
+  - swift
+  - direct
+  - urgent
+  - pressing
+  syn_pos: adjective
+  syn_example: An immediate / instant / prompt reaction.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We need an immediate response.
+    syns:
+    - instant
+    - prompt
+    - swift
+  - the: The storm caused immediate damage.
+    syns:
+    - direct
+  - the: The safety of the crew is our immediate priority.
+    syns:
+    - urgent
+    - pressing
+- word: indicate
+  ipa: /ˈɪn.dɪ.keɪt/
+  pos: verb
+  tip: in-di-cate — 'di', then 'cate'
+  spelling_hint: ''
+  definition: To point out or show; to be a sign of something.
+  example: The results indicate a clear improvement.
+  synonyms:
+  - show
+  - suggest
+  - signal
+  - point to
+  - demonstrate
+  syn_pos: verb
+  syn_example: The data indicates / suggests / shows a trend.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The results indicate a clear improvement.
+    syns:
+    - show
+    - demonstrate
+  - the: The clouds indicate that rain is coming.
+    syns:
+    - suggest
+    - signal
+    - point to
+- word: integral
+  ipa: /ˈɪn.tɪ.ɡrəl/
+  pos: adjective
+  tip: in-te-gral — 'te', then 'gral'
+  spelling_hint: ''
+  definition: Necessary to make something complete; essential.
+  example: Teamwork is integral to the project.
+  synonyms:
+  - essential
+  - vital
+  - intrinsic
+  - indispensable
+  - key
+  syn_pos: adjective
+  syn_example: R&D is integral / essential / key to growth.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Teamwork is integral to the project.
+    syns:
+    - essential
+    - vital
+    - key
+  - the: Exercise is an integral part of a healthy life.
+    syns:
+    - intrinsic
+    - essential
+  - the: She is an integral member of the team.
+    syns:
+    - indispensable
+- word: interpret
+  ipa: /ɪnˈtɜː.prɪt/
+  pos: verb
+  tip: in-ter-pret — 'ter', then 'pret'
+  spelling_hint: ''
+  definition: To explain the meaning of something; to translate.
+  example: How should we interpret these findings?
+  synonyms:
+  - explain
+  - read
+  - decode
+  - understand
+  - translate
+  syn_pos: verb
+  syn_example: Interpret / read / explain the data carefully.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: How should we interpret these findings?
+    syns:
+    - explain
+    - understand
+    - read
+    - decode
+  - the: He chose to interpret her silence as agreement.
+    syns:
+    - read
+    - understand
+  - the: She will interpret the speech for the audience.
+    syns:
+    - translate
+- word: investigate
+  ipa: /ɪnˈves.tɪ.ɡeɪt/
+  pos: verb
+  tip: in-ves-ti-gate — 'ves', then 'ti-gate'
+  spelling_hint: ''
+  definition: To carry out a systematic inquiry into something.
+  example: Police are investigating the incident.
+  synonyms:
+  - examine
+  - probe
+  - explore
+  - study
+  - look into
+  syn_pos: verb
+  syn_example: Investigate / examine / probe the causes.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Police plan to investigate the incident.
+    syns:
+    - probe
+    - look into
+    - examine
+  - the: Scientists investigate the causes of the disease.
+    syns:
+    - study
+    - explore
+    - examine
+- word: justify
+  ipa: /ˈdʒʌs.tɪ.faɪ/
+  pos: verb
+  tip: just-ify — 'just', then 'ify'
+  spelling_hint: ''
+  definition: To give a good reason for an action or decision.
+  example: He tried to justify his decision.
+  synonyms:
+  - explain
+  - defend
+  - argue
+  - account for
+  - rationalize
+  - support
+  - warrant
+  syn_pos: verb
+  syn_example: Justify / defend / argue your position.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: He tried to justify his decision.
+    syns:
+    - explain
+    - defend
+    - account for
+    - argue
+    - rationalize
+  - the: The evidence may justify this conclusion.
+    syns:
+    - support
+    - warrant
+- word: maintain
+  ipa: /meɪnˈteɪn/
+  pos: verb
+  tip: main-tain — the 'ai' and 'ai'
+  spelling_hint: ''
+  definition: To keep something in a particular state; to continue or preserve.
+  example: We must maintain high standards.
+  synonyms:
+  - keep
+  - preserve
+  - uphold
+  - sustain
+  - retain
+  syn_pos: verb
+  syn_example: Maintain / sustain / preserve the current level.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We must maintain high standards.
+    syns:
+    - keep
+    - uphold
+    - preserve
+  - the: The company works to maintain its position.
+    syns:
+    - sustain
+    - retain
+- word: negotiate
+  ipa: /nɪˈɡəʊ.ʃi.eɪt/
+  pos: verb
+  tip: ne-go-ti-ate — 'go', then 'ti-ate'
+  spelling_hint: ''
+  definition: To discuss something formally to reach an agreement.
+  example: They negotiated a new contract.
+  synonyms:
+  - bargain
+  - discuss
+  - arrange
+  - mediate
+  - settle
+  syn_pos: verb
+  syn_example: Negotiate / bargain / settle a deal.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The union met to negotiate a new contract.
+    syns:
+    - bargain
+    - settle
+  - the: The two sides met to negotiate a deal.
+    syns:
+    - discuss
+    - arrange
+  - the: A neutral party helped to negotiate the dispute.
+    syns:
+    - mediate
+- word: notion
+  ipa: /ˈnəʊ.ʃən/
+  pos: noun
+  tip: no-tion — 'no', then 'tion'
+  spelling_hint: ''
+  definition: An idea or belief about something.
+  example: She rejected the notion that change is easy.
+  synonyms:
+  - idea
+  - concept
+  - belief
+  - impression
+  - view
+  syn_pos: noun
+  syn_example: Challenge the notion / idea / concept that...
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She rejected the notion that change is easy.
+    syns:
+    - idea
+    - belief
+    - view
+    - impression
+  - the: The notion of time travel fascinates many people.
+    syns:
+    - concept
+    - idea
+- word: objective
+  ipa: /əbˈdʒek.tɪv/
+  pos: noun/adjective
+  tip: ob-jec-tive — 'ject', then 'ive'
+  spelling_hint: ''
+  definition: A goal or aim; also, based on facts rather than feelings.
+  example: Our main objective is to cut costs.
+  synonyms:
+  - goal
+  - aim
+  - target
+  - purpose
+  - intention
+  syn_pos: noun
+  syn_example: Set a clear objective / goal / target.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Our main objective is to cut costs.
+    syns:
+    - goal
+    - aim
+    - target
+  - the: Set a clear objective before starting.
+    syns:
+    - goal
+    - purpose
+    - intention
+- word: prioritize
+  ipa: /praɪˈɒr.ɪ.taɪz/
+  pos: verb
+  tip: pri-or-i-tize — 'or', then 'i-tize'
+  spelling_hint: ''
+  definition: To treat something as more important than others.
+  example: We must prioritize safety.
+  synonyms:
+  - rank
+  - favour
+  - emphasize
+  - put first
+  - prefer
+  syn_pos: verb
+  syn_example: Prioritize / rank / put first the key tasks.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We must prioritize safety above all.
+    syns:
+    - rank
+    - put first
+  - the: She tends to prioritize her studies over socialising.
+    syns:
+    - prefer
+    - favour
+  - the: The plan is designed to prioritize the most urgent tasks.
+    syns:
+    - emphasize
+- word: pursue
+  ipa: /pəˈsjuː/
+  pos: verb
+  tip: pur-sue — the 'ue' at the end
+  spelling_hint: ''
+  definition: To follow or chase; to aim to achieve something.
+  example: She decided to pursue a career in science.
+  synonyms:
+  - chase
+  - seek
+  - follow
+  - strive for
+  - aim for
+  syn_pos: verb
+  syn_example: Pursue / seek / strive for excellence.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She decided to pursue a career in science.
+    syns:
+    - seek
+    - strive for
+    - chase
+  - the: The police decided to pursue the suspect on foot.
+    syns:
+    - chase
+    - follow
+  - the: We will pursue every possible option.
+    syns:
+    - follow
+    - aim for
+- word: quarantine
+  ipa: /ˈkwɒr.ən.tiːn/
+  pos: noun/verb
+  tip: quar-an-tine — 'quar', then 'an-tine'
+  spelling_hint: ''
+  definition: A period of isolation to prevent the spread of disease.
+  example: The patient was placed in quarantine.
+  synonyms:
+  - isolation
+  - seclusion
+  - lockdown
+  - detention
+  - confinement
+  syn_pos: noun
+  syn_example: A period of quarantine / isolation / lockdown.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Travelers were kept in quarantine.
+    syns:
+    - isolation
+    - seclusion
+    - confinement
+    - detention
+  - the: The city was placed under quarantine.
+    syns:
+    - lockdown
+    - isolation
+- word: recommend
+  ipa: /ˌrek.əˈmend/
+  pos: verb
+  tip: rec-om-mend — double m at the end
+  spelling_hint: ''
+  definition: To suggest something as suitable or good.
+  example: I recommend trying the local food.
+  synonyms:
+  - suggest
+  - advise
+  - propose
+  - counsel
+  - endorse
+  syn_pos: verb
+  syn_example: Recommend / suggest / advise a change.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: I recommend trying the local food.
+    syns:
+    - suggest
+    - propose
+  - the: Doctors recommend regular exercise.
+    syns:
+    - advise
+    - counsel
+  - the: The committee is expected to recommend the new plan.
+    syns:
+    - endorse
+- word: regulate
+  ipa: /ˈreɡ.jʊ.leɪt/
+  pos: verb
+  tip: reg-u-late — 'reg', then 'u-late'
+  spelling_hint: ''
+  definition: To control or maintain something by rules or laws.
+  example: The government regulates the market.
+  synonyms:
+  - control
+  - govern
+  - monitor
+  - manage
+  - oversee
+  syn_pos: verb
+  syn_example: Regulate / control / govern the sector.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The government has powers to regulate the market.
+    syns:
+    - control
+    - govern
+  - the: New rules regulate how companies operate.
+    syns:
+    - control
+    - manage
+  - the: A supervisor is on hand to regulate the flow of work.
+    syns:
+    - monitor
+    - oversee
+- word: relevant
+  ipa: /ˈrel.ə.vənt/
+  pos: adjective
+  tip: rel-e-vant — 'e-va', keep all vowels
+  spelling_hint: ''
+  definition: Closely connected to the matter at hand; applicable.
+  example: Please share all relevant information.
+  synonyms:
+  - pertinent
+  - applicable
+  - related
+  - germane
+  - apt
+  syn_pos: adjective
+  syn_example: Include all relevant / pertinent / applicable details.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Please share all relevant information.
+    syns:
+    - pertinent
+    - applicable
+  - the: Her experience is directly relevant to the job.
+    syns:
+    - related
+    - germane
+    - apt
+- word: research
+  ipa: /rɪˈsɜːtʃ/
+  pos: noun/verb
+  tip: re-search — the prefix re-
+  spelling_hint: ''
+  definition: Systematic investigation to discover or establish facts.
+  example: She is doing research on climate change.
+  synonyms:
+  - study
+  - inquiry
+  - investigation
+  - analysis
+  - exploration
+  syn_pos: noun
+  syn_example: Conduct research / a study / an inquiry.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She is doing research on climate change.
+    syns:
+    - study
+    - investigation
+    - analysis
+    - exploration
+  - the: The team conducted research into the disease.
+    syns:
+    - study
+    - inquiry
+- word: strategy
+  ipa: /ˈstræt.ə.dʒi/
+  pos: noun
+  tip: strat-egy — 'at', then 'egy'
+  spelling_hint: ''
+  definition: A plan of action designed to achieve a long-term goal.
+  example: We agreed on a new strategy.
+  synonyms:
+  - plan
+  - approach
+  - tactic
+  - scheme
+  - method
+  syn_pos: noun
+  syn_example: Develop a strategy / plan / approach.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We agreed on a new strategy.
+    syns:
+    - plan
+    - approach
+    - scheme
+  - the: Their marketing strategy targets young adults.
+    syns:
+    - approach
+    - tactic
+    - method
+- word: sufficient
+  ipa: /səˈfɪʃ.ənt/
+  pos: adjective
+  tip: suf-fi-cient — double f, then 'icient'
+  spelling_hint: ''
+  definition: Enough; adequate for a purpose.
+  example: We have sufficient funds to proceed.
+  synonyms:
+  - enough
+  - adequate
+  - ample
+  - plenty
+  - satisfactory
+  syn_pos: adjective
+  syn_example: Provide sufficient / enough / adequate evidence.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We have sufficient funds to proceed.
+    syns:
+    - enough
+    - adequate
+  - the: The report provides sufficient evidence.
+    syns:
+    - adequate
+    - satisfactory
+  - the: There is sufficient space for everyone.
+    syns:
+    - enough
+    - ample
+    - plenty
+- word: transform
+  ipa: /trænsˈfɔːm/
+  pos: verb
+  tip: trans-form — the prefix 'trans'
+  spelling_hint: ''
+  definition: To change something completely, usually for the better.
+  example: Technology has transformed the industry.
+  synonyms:
+  - change
+  - convert
+  - alter
+  - renovate
+  - reshape
+  syn_pos: verb
+  syn_example: Technology has transformed / reshaped / revolutionised work.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Technology continues to transform the industry.
+    syns:
+    - change
+    - reshape
+  - the: They plan to transform the old factory into flats.
+    syns:
+    - convert
+    - renovate
+  - the: We need to transform the way we work.
+    syns:
+    - change
+    - alter
+    - reshape
+- word: transmit
+  ipa: /trænzˈmɪt/
+  pos: verb
+  tip: trans-mit — the prefix 'trans', double t at end
+  spelling_hint: ''
+  definition: To send or pass on something from one place or person to another.
+  example: The signal is transmitted over long distances.
+  synonyms:
+  - send
+  - pass on
+  - convey
+  - transfer
+  - broadcast
+  syn_pos: verb
+  syn_example: Transmit / convey / pass on information.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The signal is designed to transmit over long distances.
+    syns:
+    - send
+    - transfer
+    - broadcast
+  - the: Water can transmit the disease.
+    syns:
+    - pass on
+    - transfer
+  - the: She will transmit the message to the whole team.
+    syns:
+    - convey
+    - pass on
+- word: vast
+  ipa: /vɑːst/
+  pos: adjective
+  tip: vast — short word, one 'a'
+  spelling_hint: ''
+  definition: Of very great extent or size; immense.
+  example: The desert is a vast area.
+  synonyms:
+  - huge
+  - immense
+  - enormous
+  - extensive
+  - massive
+  syn_pos: adjective
+  syn_example: A vast / huge / immense amount of data.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The desert is a vast area.
+    syns:
+    - huge
+    - immense
+    - enormous
+  - the: They have a vast amount of data.
+    syns:
+    - huge
+    - massive
+    - extensive
+- word: widespread
+  ipa: /ˈwaɪd.spred/
+  pos: adjective
+  tip: wide-spread — two words joined
+  spelling_hint: ''
+  definition: Existing or happening over a large area or among many people.
+  example: There is widespread support for the plan.
+  synonyms:
+  - prevalent
+  - common
+  - broad
+  - extensive
+  - universal
+  - rampant
+  syn_pos: adjective
+  syn_example: Widespread / prevalent / common concern.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: There is widespread support for the plan.
+    syns:
+    - broad
+    - universal
+    - extensive
+    - common
+  - the: The disease is widespread in rural areas.
+    syns:
+    - prevalent
+    - common
+    - rampant
+- word: limited
+  ipa: /ˈlɪm.ɪ.tɪd/
+  pos: adjective
+  tip: lim-it-ed — 'lim', then 'it-ed'
+  spelling_hint: ''
+  definition: Small in amount, number or extent; restricted.
+  example: Resources are limited this year.
+  synonyms:
+  - restricted
+  - narrow
+  - scarce
+  - finite
+  - constrained
+  syn_pos: adjective
+  syn_example: Limited / scarce / narrow resources.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Resources are limited this year.
+    syns:
+    - restricted
+    - constrained
+    - scarce
+  - the: We have a limited amount of time.
+    syns:
+    - narrow
+    - finite
+- word: accurate
+  ipa: /ˈæk.jər.ət/
+  pos: adjective
+  tip: ac-cu-rate — double c, then 'cu-rate'
+  spelling_hint: ''
+  definition: Correct in all details; exact and free from error.
+  example: The figures were accurate.
+  synonyms:
+  - exact
+  - precise
+  - correct
+  - faithful
+  - 'true'
+  syn_pos: adjective
+  syn_example: An accurate / precise / exact measurement.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The figures were accurate.
+    syns:
+    - exact
+    - precise
+    - correct
+  - the: She gave accurate details of the events.
+    syns:
+    - faithful
+    - 'true'
+    - correct
+- word: liability
+  ipa: /ˌlaɪ.əˈbɪl.ə.ti/
+  pos: noun
+  tip: li-a-bil-ity — 'a-bil', then 'ity'
+  spelling_hint: ''
+  definition: Legal or financial responsibility for something; a debt or a disadvantage.
+  example: The company faces huge liabilities from the lawsuit.
+  synonyms:
+  - responsibility
+  - obligation
+  - debt
+  - burden
+  - accountability
+  syn_pos: noun
+  syn_example: A company must disclose its liabilities / debts / obligations.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The firm took on a heavy liability.
+    syns:
+    - debt
+    - obligation
+    - burden
+  - the: He accepted full liability for the accident.
+    syns:
+    - responsibility
+    - accountability
+- word: severance
+  ipa: /ˈsev.ər.əns/
+  pos: noun
+  tip: sev-er-ance — 'er', then 'ance'
+  spelling_hint: ''
+  definition: The ending of a contract or employment; compensation paid on dismissal.
+  example: He received a large severance package.
+  synonyms:
+  - termination
+  - dismissal
+  - redundancy
+  - separation
+  - compensation
+  syn_pos: noun
+  syn_example: Discuss severance / redundancy / termination pay in corporate contexts.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: He received a large severance package.
+    syns:
+    - redundancy
+    - compensation
+  - the: The contract ended after a lengthy severance.
+    syns:
+    - termination
+    - separation
+    - dismissal
+- word: intricate
+  ipa: /ˈɪn.trɪ.kət/
+  pos: adjective
+  tip: in-tri-cate — 'tri', then 'cate'
+  spelling_hint: ''
+  definition: Very complicated or detailed; made up of many interconnected parts.
+  example: The watch has an intricate mechanism.
+  synonyms:
+  - complex
+  - elaborate
+  - complicated
+  - detailed
+  - convoluted
+  syn_pos: adjective
+  syn_example: An intricate / elaborate / complex design.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The watch has intricate machinery.
+    syns:
+    - complex
+    - complicated
+  - the: She drew an intricate pattern.
+    syns:
+    - elaborate
+    - detailed
+    - convoluted
+- word: intact
+  ipa: /ɪnˈtækt/
+  pos: adjective
+  tip: in-tact — the 'tac' in the middle
+  spelling_hint: ''
+  definition: Not damaged, broken or altered; complete and whole.
+  example: Despite the crash, the cargo survived intact.
+  synonyms:
+  - whole
+  - undamaged
+  - complete
+  - unbroken
+  - pristine
+  syn_pos: adjective
+  syn_example: The evidence must remain intact / whole / undamaged.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The cargo survived the crash intact.
+    syns:
+    - whole
+    - undamaged
+    - unbroken
+  - the: The evidence must remain intact.
+    syns:
+    - whole
+    - complete
+    - pristine
+- word: imminent
+  ipa: /ˈɪm.ɪ.nənt/
+  pos: adjective
+  tip: im-mi-nent — double m, then 'inent'
+  spelling_hint: ''
+  definition: About to happen very soon; impending.
+  example: The company warned of imminent job losses.
+  synonyms:
+  - impending
+  - approaching
+  - looming
+  - forthcoming
+  - near
+  syn_pos: adjective
+  syn_example: Warn of imminent / impending / looming changes.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The company warned of imminent job losses.
+    syns:
+    - impending
+    - looming
+  - the: An imminent storm forced the evacuation.
+    syns:
+    - approaching
+    - near
+    - forthcoming
+- word: plausible
+  ipa: /ˈplɔː.zə.bəl/
+  pos: adjective
+  tip: plau-si-ble — 'plau', then 'sible'
+  spelling_hint: ''
+  definition: Seeming reasonable or likely to be true.
+  example: She offered a plausible explanation.
+  synonyms:
+  - credible
+  - believable
+  - reasonable
+  - convincing
+  - likely
+  syn_pos: adjective
+  syn_example: A plausible / credible / convincing explanation.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She offered a plausible explanation.
+    syns:
+    - credible
+    - believable
+    - reasonable
+  - the: There is a plausible link between the two events.
+    syns:
+    - likely
+    - convincing
+- word: obsolete
+  ipa: /ˈɒb.sə.liːt/
+  pos: adjective
+  tip: ob-so-lete — 'so', then 'lete'
+  spelling_hint: ''
+  definition: No longer used or needed; out of date.
+  example: Many skills have become obsolete.
+  synonyms:
+  - outdated
+  - outmoded
+  - antiquated
+  - archaic
+  - superseded
+  syn_pos: adjective
+  syn_example: Outdated / obsolete / antiquated technology.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Many skills have become obsolete.
+    syns:
+    - outdated
+    - outmoded
+  - the: The old equipment is now obsolete.
+    syns:
+    - superseded
+    - antiquated
+    - archaic
+- word: meticulous
+  ipa: /məˈtɪk.jə.ləs/
+  pos: adjective
+  tip: me-tic-u-lous — 'tic', then 'u-lous'
+  spelling_hint: ''
+  definition: Extremely careful and precise about details.
+  example: He kept meticulous records of the project.
+  synonyms:
+  - careful
+  - thorough
+  - precise
+  - painstaking
+  - scrupulous
+  syn_pos: adjective
+  syn_example: A meticulous / thorough / scrupulous examination.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: He kept meticulous records.
+    syns:
+    - careful
+    - precise
+    - thorough
+  - the: She was meticulous about every detail.
+    syns:
+    - painstaking
+    - scrupulous
+    - careful
+- word: empirical
+  ipa: /ɪmˈpɪr.ɪ.kəl/
+  pos: adjective
+  tip: em-pir-i-cal — the 'pir' in the middle
+  spelling_hint: ''
+  definition: Based on evidence, observation or experience rather than theory.
+  example: The theory lacks empirical support.
+  synonyms:
+  - evidence-based
+  - observed
+  - experimental
+  - factual
+  syn_pos: adjective
+  syn_example: Back a claim with empirical / observed / factual evidence.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The theory lacks empirical support.
+    syns:
+    - evidence-based
+    - factual
+    - observed
+  - the: The claim is based on empirical data.
+    syns:
+    - observed
+    - experimental
+    - factual
+- word: consensus
+  ipa: /kənˈsen.səs/
+  pos: noun
+  tip: con-sen-sus — 'sen', then 'sus'
+  spelling_hint: ''
+  definition: A general agreement among a group of people.
+  example: The committee reached a consensus.
+  synonyms:
+  - agreement
+  - accord
+  - unanimity
+  - consent
+  - harmony
+  syn_pos: noun
+  syn_example: Reach a consensus / agreement / accord.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The committee reached consensus.
+    syns:
+    - agreement
+    - accord
+    - unanimity
+  - the: There is a growing consensus that action is needed.
+    syns:
+    - agreement
+    - consent
+    - harmony
+- word: disparity
+  ipa: /dɪˈspær.ə.ti/
+  pos: noun
+  tip: dis-par-ity — 'par', then 'ity'
+  spelling_hint: ''
+  definition: A great difference or inequality between things.
+  example: There is a wide disparity in income.
+  synonyms:
+  - inequality
+  - gap
+  - difference
+  - imbalance
+  - discrepancy
+  syn_pos: noun
+  syn_example: Highlight the disparity / gap / imbalance between groups.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: There is a wide disparity in income.
+    syns:
+    - inequality
+    - gap
+    - imbalance
+  - the: The study highlights a disparity between regions.
+    syns:
+    - difference
+    - discrepancy
+- word: arbitrary
+  ipa: /ˈɑː.bɪ.trər.i/
+  pos: adjective
+  tip: ar-bi-trary — 'bi', then 'trary'
+  spelling_hint: ''
+  definition: Based on random choice rather than reason or system.
+  example: The decision seemed completely arbitrary.
+  synonyms:
+  - random
+  - capricious
+  - whimsical
+  - unreasonable
+  - subjective
+  syn_pos: adjective
+  syn_example: An arbitrary / random / capricious decision.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The decision seemed completely arbitrary.
+    syns:
+    - random
+    - whimsical
+  - the: The rule is arbitrary and hard to justify.
+    syns:
+    - unreasonable
+    - subjective
+    - capricious
+- word: eloquent
+  ipa: /ˈel.ə.kwənt/
+  pos: adjective
+  tip: el-o-quent — 'o', then 'quent'
+  spelling_hint: ''
+  definition: Fluent, forceful and persuasive in speaking or writing.
+  example: She gave an eloquent speech.
+  synonyms:
+  - articulate
+  - expressive
+  - persuasive
+  - fluent
+  - forceful
+  syn_pos: adjective
+  syn_example: An eloquent / articulate / persuasive argument.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: She gave an eloquent speech.
+    syns:
+    - articulate
+    - persuasive
+    - fluent
+  - the: The book is an eloquent defence of freedom.
+    syns:
+    - expressive
+    - forceful
+- word: futile
+  ipa: /ˈfjuː.taɪl/
+  pos: adjective
+  tip: fu-tile — 'tile' at the end
+  spelling_hint: ''
+  definition: Pointless or useless; incapable of producing a result.
+  example: Further negotiation proved futile.
+  synonyms:
+  - pointless
+  - useless
+  - vain
+  - hopeless
+  - ineffective
+  syn_pos: adjective
+  syn_example: A futile / pointless / vain attempt.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: Further negotiation proved futile.
+    syns:
+    - pointless
+    - vain
+    - hopeless
+  - the: It is futile to argue with them.
+    syns:
+    - useless
+    - pointless
+    - ineffective
+- word: implicit
+  ipa: /ɪmˈplɪs.ɪt/
+  pos: adjective
+  tip: im-pli-cit — 'pli', then 'cit'
+  spelling_hint: ''
+  definition: Suggested or understood without being stated directly.
+  example: There is an implicit assumption in the argument.
+  synonyms:
+  - implied
+  - unspoken
+  - inherent
+  - understood
+  - tacit
+  syn_pos: adjective
+  syn_example: An implicit / implied / unspoken agreement.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: There is an implicit assumption in the argument.
+    syns:
+    - implied
+    - unspoken
+    - tacit
+  - the: The risks are implicit in the plan.
+    syns:
+    - inherent
+    - understood
+- word: ambiguous
+  ipa: /æmˈbɪɡ.ju.əs/
+  pos: adjective
+  tip: am-bi-gu-ous — 'igu', then 'ous'
+  spelling_hint: ''
+  definition: Open to more than one interpretation; unclear in meaning.
+  example: The wording was highly ambiguous.
+  synonyms:
+  - unclear
+  - vague
+  - equivocal
+  - uncertain
+  - indistinct
+  syn_pos: adjective
+  syn_example: Ambiguous / vague / unclear instructions.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The wording was highly ambiguous.
+    syns:
+    - vague
+    - unclear
+    - equivocal
+  - the: Her reply was deliberately ambiguous.
+    syns:
+    - unclear
+    - uncertain
+    - indistinct
+- word: formidable
+  ipa: /fəˈmɪd.ə.bəl/
+  pos: adjective
+  tip: for-mi-da-ble — 'mid', then 'able'
+  spelling_hint: ''
+  definition: Inspiring respect or fear through size, strength or ability; difficult
+    to deal with.
+  example: They face a formidable challenge.
+  synonyms:
+  - intimidating
+  - daunting
+  - awe-inspiring
+  - imposing
+  - challenging
+  syn_pos: adjective
+  syn_example: A formidable / daunting / imposing obstacle.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: They face a formidable challenge.
+    syns:
+    - daunting
+    - challenging
+    - intimidating
+  - the: The fortress proved formidable.
+    syns:
+    - imposing
+    - awe-inspiring
+- word: holistic
+  ipa: /həʊˈlɪs.tɪk/
+  pos: adjective
+  tip: ho-lis-tic — 'lis', then 'tic'
+  spelling_hint: ''
+  definition: Considering the whole of something rather than just its parts.
+  example: We need a holistic approach to health.
+  synonyms:
+  - whole
+  - comprehensive
+  - integrated
+  - all-round
+  - overall
+  syn_pos: adjective
+  syn_example: A holistic / integrated / comprehensive approach.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: We need a holistic approach to health.
+    syns:
+    - whole
+    - overall
+  - the: The plan adopts holistic measures.
+    syns:
+    - integrated
+    - comprehensive
+    - all-round
+- word: imperative
+  ipa: /ɪmˈper.ə.tɪv/
+  pos: adjective/noun
+  tip: im-per-a-tive — 'per', then 'a-tive'
+  spelling_hint: ''
+  definition: Absolutely necessary; vitally important.
+  example: It is imperative that we act now.
+  synonyms:
+  - essential
+  - vital
+  - crucial
+  - mandatory
+  - required
+  syn_pos: adjective
+  syn_example: It is imperative / essential / crucial to respond.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: It is imperative that we act now.
+    syns:
+    - essential
+    - crucial
+    - vital
+  - the: Pollution control is imperative.
+    syns:
+    - essential
+    - mandatory
+    - required
+- word: impartial
+  ipa: /ɪmˈpɑː.ʃəl/
+  pos: adjective
+  tip: im-par-tial — 'par', then 'tial'
+  spelling_hint: ''
+  definition: Fair and neutral; not favouring one side.
+  example: The judge must remain impartial.
+  synonyms:
+  - neutral
+  - unbiased
+  - objective
+  - fair
+  - even-handed
+  syn_pos: adjective
+  syn_example: An impartial / unbiased / objective assessment.
+  components:
+  - spelling
+  - definitions
+  - synonyms
+  syn_examples:
+  - the: The judge must remain impartial.
+    syns:
+    - neutral
+    - fair
+    - unbiased
+  - the: We need an impartial assessment of the evidence.
+    syns:
+    - objective
+    - even-handed
+    - fair
+- word: good
+  ipa: /ɡʊd/
+  pos: adjective
+  tip: good — short oo /ʊ/; one word you can spell
+  spelling_hint: ''
+  definition: Of high quality; beneficial; satisfactory.
+  example: She gave a good answer.
+  synonyms:
+  - beneficial
+  - advantageous
+  - favourable
+  - positive
+  - effective
+  syn_pos: adjective
+  syn_example: '"Beneficial" is perfect for argumentative essays.'
+  syn_id: good
+  syn_examples:
+  - the: The medicine is good at treating the infection.
+    syns:
+    - effective
+  - the: The feedback from my manager was very good.
+    syns:
+    - positive
+    - favourable
+  - the: Regular exercise is good for your health.
+    syns:
+    - beneficial
+    - advantageous
+  components:
+  - synonyms
+- word: big
+  ipa: /bɪɡ/
+  pos: adjective
+  tip: big — three letters, no trap
+  spelling_hint: ''
+  definition: Large in size, amount, degree or importance.
+  example: They live in a big house.
+  synonyms:
+  - large
+  - huge
+  - massive
+  - substantial
+  - considerable
+  - enormous
+  - significant
+  - tremendous
+  syn_pos: adjective
+  syn_example: '"A substantial rise" / "tremendous growth" read far better than "A
+    big rise".'
+  syn_id: big
+  syn_examples:
+  - the: A big crowd gathered outside the stadium.
+    syns:
+    - large
+    - huge
+    - massive
+    - enormous
+  - the: There is a big difference between the two plans.
+    syns:
+    - substantial
+    - considerable
+  - the: This is a big opportunity for our company.
+    syns:
+    - significant
+    - tremendous
+  components:
+  - synonyms
+- word: happy
+  ipa: /ˈhæp.i/
+  pos: adjective
+  tip: hap-py — double p, two syllables
+  spelling_hint: ''
+  definition: Feeling or showing pleasure or contentment.
+  example: The children look happy.
+  synonyms:
+  - glad
+  - pleased
+  - delighted
+  - content
+  - joyful
+  syn_pos: adjective
+  syn_example: '"Delighted" is stronger than "happy"; "content" is a calmer, lasting
+    happiness.'
+  syn_id: happy
+  syn_examples:
+  - the: I am happy to hear you got the job.
+    syns:
+    - glad
+    - delighted
+  - the: She was very happy with her exam results.
+    syns:
+    - pleased
+  - the: After years of stress, he finally felt happy.
+    syns:
+    - content
+    - joyful
+  components:
+  - synonyms
+- word: important
+  ipa: /ɪmˈpɔː.tənt/
+  pos: adjective
+  tip: im-por-tant — 'por', then 'tant'
+  spelling_hint: ''
+  definition: Of great significance or value; mattering a lot.
+  example: This is an important decision.
+  synonyms:
+  - significant
+  - crucial
+  - vital
+  - essential
+  - key
+  syn_pos: adjective
+  syn_example: Instead of "very important", write "crucial" / "vital" in essays.
+  syn_id: important
+  syn_examples:
+  - the: It is important that we reach a decision today.
+    syns:
+    - crucial
+    - vital
+    - essential
+  - the: Diet is important in heart disease.
+    syns:
+    - significant
+    - key
+  components:
+  - synonyms
+- word: problem
+  ipa: /ˈprɒb.ləm/
+  pos: noun
+  tip: prob-lem — 'prob', then 'lem'
+  spelling_hint: ''
+  definition: A matter or situation regarded as unwelcome or harmful.
+  example: We need to solve this problem.
+  synonyms:
+  - issue
+  - challenge
+  - difficulty
+  - obstacle
+  - drawback
+  syn_pos: noun
+  syn_example: '"Drawback" suits essays: "The main drawback is the cost."'
+  syn_id: problem
+  syn_examples:
+  - the: Traffic is a serious problem in most big cities.
+    syns:
+    - issue
+  - the: The main problem is a lack of funding.
+    syns:
+    - difficulty
+    - obstacle
+    - drawback
+  - the: Finding affordable housing can be a problem.
+    syns:
+    - challenge
+  components:
+  - synonyms
+- word: many
+  ipa: /ˈmen.i/
+  pos: determiner
+  tip: many — the 'a' sounds like an 'e'
+  spelling_hint: ''
+  definition: A large number of; numerous.
+  example: Many people agreed.
+  synonyms:
+  - numerous
+  - countless
+  - plenty of
+  - a wide range of
+  - a variety of
+  syn_pos: determiner
+  syn_example: '"Numerous studies show..." is more formal than "Many studies show...".'
+  syn_id: many
+  syn_examples:
+  - the: Many studies support this conclusion.
+    syns:
+    - numerous
+    - countless
+  - the: The town offers many activities for visitors.
+    syns:
+    - a wide range of
+    - a variety of
+  - the: There are many reasons to be optimistic.
+    syns:
+    - plenty of
+  components:
+  - synonyms
+- word: increase
+  ipa: /ɪnˈkriːs/
+  pos: verb
+  tip: in-crease — the 'ea' = /iː/
+  spelling_hint: ''
+  definition: To become or make something greater in size, amount or degree.
+  example: Prices continue to increase.
+  synonyms:
+  - rise
+  - grow
+  - surge
+  - climb
+  - escalate
+  - rocket
+  syn_pos: verb
+  syn_example: '"Sales surged in 2024" or "prices rocketed" — vivid verbs for IELTS
+    task 1.'
+  syn_id: increase
+  syn_examples:
+  - the: Prices tend to increase during the winter.
+    syns:
+    - rise
+    - climb
+    - surge
+    - rocket
+  - the: Demand for clean energy continues to increase.
+    syns:
+    - grow
+  - the: Tensions between the two nations may increase.
+    syns:
+    - escalate
+  components:
+  - synonyms
+- word: increase
+  ipa: /ˈɪn.kriːs/
+  pos: noun
+  tip: IN-crease — noun stress on the first syllable
+  spelling_hint: ''
+  definition: An act of becoming greater in size, amount or degree.
+  example: There was an increase in sales.
+  synonyms:
+  - rise
+  - growth
+  - surge
+  - upsurge
+  - uptick
+  syn_pos: noun
+  syn_example: '"There was a sharp rise in sales" — noun usage: the + rise/surge/uptick.'
+  syn_id: increase-noun
+  syn_examples:
+  - the: There has been a sharp increase in prices.
+    syns:
+    - rise
+    - surge
+  - the: The city saw a steady increase in population.
+    syns:
+    - growth
+    - upsurge
+  - the: We noted an increase in sales this quarter.
+    syns:
+    - uptick
+  components:
+  - synonyms
+- word: decrease
+  ipa: /dɪˈkriːs/
+  pos: verb
+  tip: de-crease — the 'ea' = /iː/
+  spelling_hint: ''
+  definition: To become or make something smaller in size, amount or degree.
+  example: Costs should decrease next year.
+  synonyms:
+  - decline
+  - drop
+  - fall
+  - reduce
+  - diminish
+  syn_pos: verb
+  syn_example: '"Unemployment fell steadily" — verb usage; "plummet" adds emphasis.'
+  syn_id: decrease
+  syn_examples:
+  - the: Sales continue to decrease every quarter.
+    syns:
+    - decline
+    - fall
+    - drop
+  - the: We must decrease our use of plastic.
+    syns:
+    - reduce
+    - diminish
+  components:
+  - synonyms
+- word: decrease
+  ipa: /ˈdiː.kriːs/
+  pos: noun
+  tip: DE-crease — noun stress on the first syllable
+  spelling_hint: ''
+  definition: An act of becoming smaller in size, amount or degree.
+  example: There was a decrease in output.
+  synonyms:
+  - decline
+  - drop
+  - fall
+  - reduction
+  - dip
+  syn_pos: noun
+  syn_example: '"A steady decline in unemployment" — noun usage; "dip" is temporary
+    and slight.'
+  syn_id: decrease-noun
+  syn_examples:
+  - the: There was a 5% decrease in sales.
+    syns:
+    - decline
+    - drop
+    - fall
+  - the: A decrease in funding would harm research.
+    syns:
+    - reduction
+  - the: The chart shows a slight decrease in demand.
+    syns:
+    - dip
+  components:
+  - synonyms
