@@ -1,21 +1,28 @@
 ---
 deck: Synonyms
-id: "{{syn_id}}"
+id: "{{#if syn_id}}{{syn_id}}{{else}}syn-{{word}}{{/if}}"
 ---
 
 # Front
 
 <div class="w">{{word}} <span class="pos">{{syn_pos}}</span></div>
 
-{{syn_examples_html}}
-
-<div class="hint">{{syn_hint}}</div>
+{{#if syn_examples}}
+<div class="exs">
+{{#each syn_examples}}
+  <p>{{underline(the, ../word)}}</p>
+{{/each}}
+</div>
+<div class="hint">Each <u>{{word}}</u> above has a slightly different meaning. Provide <b>{{syn_pos}}</b> synonyms that cover <b>all</b> of them — any accepted answer counts.</div>
+{{else}}
+<div class="hint">Type one or more <b>{{syn_pos}}</b> synonyms — any accepted answer counts.</div>
+{{/if}}
 
 ---
 
 # Type
 
-{{synonyms_list}}
+{{join(synonyms, ", ")}}
 
 ---
 
@@ -23,8 +30,14 @@ id: "{{syn_id}}"
 
 <div class="pos">{{syn_pos}}</div>
 
-<p>{{synonyms_bold}}</p>
+<p>{{join_html(synonyms, " &middot; ")}}</p>
 
-{{syn_map_html}}
+{{#if syn_examples}}
+<div class="map">
+{{#each syn_examples}}
+  <p><span class="from">{{underline(the, ../word)}}</span> &rarr; <span class="to">{{replace(the, ../word, join_html(fallback(syns, ../synonyms), " / "))}}</span></p>
+{{/each}}
+</div>
+{{/if}}
 
 <span class="ex">{{syn_example}}</span>

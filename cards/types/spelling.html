@@ -7,7 +7,7 @@ id: "{{word}}"
 
 <span class="def">{{definition}}</span>
 
-<div class="hint">{{spell_hint}}</div>
+<div class="hint">{{#if spelling_hint}}{{spelling_hint}}{{else}}{{letters(word)}} letters &middot; starts with <b>{{upper_first(word)}}</b> &middot; {{pos}}{{/if}}</div>
 
 ---
 

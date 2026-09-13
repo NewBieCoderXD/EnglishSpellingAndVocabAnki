@@ -1,0 +1,12 @@
+data: { file: words.yaml, list: words, components: components }
+templates_dir: types
+record:
+  required: [word, ipa, pos, tip, definition, example, synonyms, syn_pos, syn_example]
+  types:
+    synonyms: list
+    components: list
+    syn_examples:
+      list:
+        - name: the
+        - name: syns
+          type: list

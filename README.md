@@ -101,19 +101,26 @@ The `Spelling`, `Definitions`, and `Synonyms` decks are **data-driven**. Their
 card HTML comes from reusable component templates (`cards/types/*.html`) rendered
 with props from `cards/words.yaml` — no hand-written HTML per word.
 
+- `cards/schema.yaml` — tells the builder which data file drives the word
+  decks, which fields are required, and the type of each container field
+  (`synonyms`, `components`: plain lists; `syn_examples`: list of records).
+  AnkiDaiku auto-detects it; nothing about the record shape is hardcoded in
+  the builder.
 - `cards/types/spelling.html`, `definitions.html`, `synonyms.html` — each is a
   standard card body (`# Front` / `# Type` / `# Back`) containing `{{prop}}`
-  placeholders, plus a small front matter declaring the sub-deck and card id:
-  `deck: Spelling` and `id: "{{word}}"`.
+  placeholders plus template expressions (`{{#if}}`, `{{#each}}`, `{{join}}`,
+  `{{letters}}`, `{{underline}}`, …), and a small front matter declaring the
+  sub-deck and card id: `deck: Spelling` and `id: "{{word}}"`.
 - `cards/words.yaml` — one entry per word with all fields (ipa, pos, spelling
   tip, definition, example, synonym list, syn_pos, syn_example) and the
   `components` it should fan out to (e.g. `[spelling, definitions, synonyms]`).
 
 The build fans each word out to the requested components and renders each
-template, producing one card per deck. Computed props are derived where a
-template needs them: `spell_hint` (letter count + first letter + pos, unless an
-explicit `spelling_hint` is given), `synonyms_list` (comma-joined answer
-list), and `synonyms_bold` (the bolded back display).
+template, producing one card per deck. All derived presentation is computed
+inside the templates themselves — no deck-specific props are injected: the
+spelling hint (`{{letters(word)}} letters · starts with <b>{{upper_first(word)}}</b> …`)
+falls back to an explicit `spelling_hint` when given, and the synonym card
+builds its examples/mapping from `syn_examples`.
 
 To add a word to all three decks, add one entry to `words.yaml` listing the three
 components, then run `./build.sh`. To spin up a brand-new card type, add a new
