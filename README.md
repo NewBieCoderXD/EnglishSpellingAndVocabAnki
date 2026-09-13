@@ -11,13 +11,13 @@ Built from `cards/` (folder nesting = sub-decks):
 |------|-----------|-------|--------|--------|
 | `Spelling` | Definition → spelling | definition + hint | **type the word** | word, IPA, spelling tip |
 | `Definitions` | Word → definition | word + IPA | recall the meaning | definition + example |
-| `Synonyms` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
+| `SynonymsV2` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
 | `IELTS-Writing::Trends` | Cloze | sentence with a gap | **type the missing word(s)** | filled sentence + explanation |
 | `Pronunciation::Sound-ID` | Listen → sound | audio clip | **type the vowel among 4** | word, IPA, spelling rule |
 | `Pronunciation::{Schwa,Short-U,Foot-U,Long-U}` | Listen (grouped) | audio clip | recall after reveal | word, IPA, spelling rule |
 | `Pronunciation::Contrasts` | Two clips, one target | 2 audio clips | **type 1 or 2** | both words + IPA |
 
-Decks named `Spelling`, `Definitions`, `Synonyms`, `IELTS-Writing::Trends`, and
+Decks named `Spelling`, `Definitions`, `SynonymsV2`, `IELTS-Writing::Trends`, and
 the `Pronunciation` family live under the root deck **English Spelling & Vocab**
 (from `package.json`).
 
@@ -97,7 +97,7 @@ IPA, part-of-speech and answer colors are defined there.
 
 ## Word decks: components + data
 
-The `Spelling`, `Definitions`, and `Synonyms` decks are **data-driven**. Their
+The `Spelling`, `Definitions`, and `SynonymsV2` decks are **data-driven**. Their
 card HTML comes from reusable component templates (`cards/types/*.html`) rendered
 with props from `cards/words.yaml` — no hand-written HTML per word.
 
@@ -148,7 +148,7 @@ add a new template in `cards/types/`.
 |------|-------|
 | Spelling | 318 (1 per word, all with spelling tips) |
 | Definitions | 318 (1 per word) |
-| Synonyms | 236 (1 per context sentence) |
+| SynonymsV2 | 235 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
 | Pronunciation (all) | 56 |
 | **Total** | **937** |
@@ -182,7 +182,7 @@ When an `id` naturally changes, AnkiDaiku warns about orphaned old cards — tha
 
 ## Adding words
 
-**Word decks (Spelling / Definitions / Synonyms):** add one entry to
+**Word decks (Spelling / Definitions / SynonymsV2):** add one entry to
 `cards/words.yaml` (with the fields above and `components:`), then `./build.sh`.
 The build renders all three cards for you.
 

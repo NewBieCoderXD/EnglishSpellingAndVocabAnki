@@ -11,7 +11,7 @@ Five sub-decks:
 
 1. <span class="ex">Spelling</span> — read the definition, **type** the word
 2. <span class="ex">Definitions</span> — word first, recall the meaning
-3. <span class="ex">Synonyms</span> — word first, **type** one or more alternatives (verb / noun / adjective / determiner cards are separate)
+3. <span class="ex">SynonymsV2</span> — word first, **type** one or more alternatives (verb / noun / adjective / determiner cards are separate)
 4. <span class="ex">IELTS-Writing → Trends</span> — complete the sentence, spelling counts
 5. <span class="ex">Pronunciation</span> — press play, decide which vowel sound it is
 
@@ -25,7 +25,7 @@ Every word appears in **both** Spelling and Definitions, so each word is studied
 
 Simply study as normal.
 
-- **Spelling**, **Synonyms**, **IELTS cloze** and **Pronunciation → Sound-ID** cards are typed: type the answer and press Enter / the Check button.
+- **Spelling**, **SynonymsV2**, **IELTS cloze** and **Pronunciation → Sound-ID** cards are typed: type the answer and press Enter / the Check button.
   - On **AnkiDroid**, enable **Settings → Advanced → "Type answer into the card"** so the keyboard appears on these cards.
   - If part of your answer is wrong, the card tells you **exactly which words are recognized** and which are not.
   - Stuck? A **Show answers** button reveals the accepted list (or wait 3 failed tries and it appears automatically).
