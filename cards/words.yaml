@@ -2459,3 +2459,493 @@ words:
     - dip
   components:
   - synonyms
+- word: accommodation
+  ipa: /əˌkɒm.əˈdeɪ.ʃən/
+  pos: noun
+  tip: two <b>c</b>'s, two <b>m</b>'s — ac<b>co</b>-mmo-dation
+  spelling_hint: ''
+  definition: A place to live, work or stay in; a room or building used as temporary residence.
+  example: Accommodation in the city centre is expensive.
+  synonyms:
+  - housing
+  - lodging
+  - quarters
+  - shelter
+  - residence
+  syn_pos: noun
+  syn_example: '"Affordable accommodation" — housing / lodging / shelter read well in task 1 reports and city essays.'
+  syn_examples:
+  - the: Accommodation in the city centre is expensive.
+    syns:
+    - housing
+    - lodging
+  - the: The charity provides accommodation for the homeless.
+    syns:
+    - shelter
+    - lodging
+  - the: Staff accommodation is available near the campus.
+    syns:
+    - quarters
+    - residence
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: adverse
+  ipa: /ˈæd.vɜːs/
+  pos: adjective
+  tip: ad-<b>verse</b> — ends with "verse", not "vurse"
+  spelling_hint: ''
+  definition: Harmful or unfavourable; having a negative effect.
+  example: The drug has few adverse side effects.
+  synonyms:
+  - harmful
+  - detrimental
+  - damaging
+  - unfavourable
+  syn_pos: adjective
+  syn_example: '"Adverse weather" — harmful / detrimental are the precise formal adjectives for essays.'
+  syn_examples:
+  - the: The drug has few adverse side effects.
+    syns:
+    - harmful
+    - detrimental
+  - the: Tourism can have an adverse effect on fragile ecosystems.
+    syns:
+    - damaging
+    - detrimental
+  - the: Adverse economic conditions slowed the recovery.
+    syns:
+    - unfavourable
+    - harmful
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: entrepreneur
+  ipa: /ˌɒn.trə.prəˈnɜːr/
+  pos: noun
+  tip: en-tre-pre-<b>neur</b> — the French-style ending is the tricky part
+  spelling_hint: ''
+  definition: A person who starts and runs a business, taking financial risks in the hope of profit.
+  example: The young entrepreneur launched a successful app.
+  synonyms:
+  - businessperson
+  - founder
+  - innovator
+  - pioneer
+  syn_pos: noun
+  syn_example: '"Budding entrepreneur" — founder / businessperson are the concrete IELTS words.'
+  syn_examples:
+  - the: The young entrepreneur launched a successful app.
+    syns:
+    - founder
+    - innovator
+  - the: The programme gives every entrepreneur free business advice.
+    syns:
+    - businessperson
+    - founder
+  - the: It takes courage to become a successful entrepreneur.
+    syns:
+    - pioneer
+    - businessperson
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: environment
+  ipa: /ɪnˈvaɪ.rən.mənt/
+  pos: noun
+  tip: en-vi-<b>ron</b>-ment — keep the "r" after the "n"
+  spelling_hint: ''
+  definition: The natural world, or the surroundings and conditions in which someone or something lives.
+  example: We must protect the environment for future generations.
+  synonyms:
+  - surroundings
+  - ecosystem
+  - habitat
+  - setting
+  syn_pos: noun
+  syn_example: '"Protecting the environment" — habitat / ecosystem for nature essays, surroundings for people.'
+  syn_examples:
+  - the: We must protect the environment for future generations.
+    syns:
+    - ecosystem
+    - surroundings
+  - the: Children learn best in a calm learning environment.
+    syns:
+    - surroundings
+    - setting
+  - the: Coral reefs form a fragile marine environment.
+    syns:
+    - habitat
+    - ecosystem
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: exacerbate
+  ipa: /ɪɡˈzæs.ə.beɪt/
+  pos: verb
+  tip: ex-<b>ac</b>-er-bate — the "ac" followed by "er" catches people out
+  spelling_hint: ''
+  definition: To make a bad situation, problem or feeling worse.
+  example: Cutting funding only exacerbated the problem.
+  synonyms:
+  - worsen
+  - aggravate
+  - intensify
+  - compound
+  syn_pos: verb
+  syn_example: '"The crisis was exacerbated by..." — worsen / aggravate for direct cause-effect statements.'
+  syn_examples:
+  - the: Cutting budgets can exacerbate the problem.
+    syns:
+    - worsen
+    - compound
+  - the: The pandemic may exacerbate existing inequalities.
+    syns:
+    - intensify
+    - aggravate
+  - the: Poor diets can exacerbate long-term health problems.
+    syns:
+    - worsen
+    - aggravate
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: fluctuate
+  ipa: /ˈflʌk.tʃu.eɪt/
+  pos: verb
+  tip: flu-<b>ctu</b>-ate — the tricky consonant cluster is in the middle
+  spelling_hint: ''
+  definition: To rise and fall irregularly; to change repeatedly in level or amount.
+  example: Oil prices fluctuate from week to week.
+  synonyms:
+  - vary
+  - oscillate
+  - swing
+  - waver
+  syn_pos: verb
+  syn_example: '"Prices fluctuate hugely" — vary / swing describe task 1 line-graph movement.'
+  syn_examples:
+  - the: Oil prices fluctuate from week to week.
+    syns:
+    - vary
+    - swing
+  - the: Temperatures fluctuate sharply between the seasons.
+    syns:
+    - vary
+    - oscillate
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: government
+  ipa: /ˈɡʌv.ən.mənt/
+  pos: noun
+  tip: gov-<b>ern</b>-ment — don't drop the "n" when writing fast
+  spelling_hint: ''
+  definition: The group of people with the authority to govern a country or state.
+  example: The government announced a new tax on sugary drinks.
+  synonyms:
+  - authorities
+  - administration
+  - state
+  - regime
+  syn_pos: noun
+  syn_example: '"The government should invest..." — authorities / administration are the natural equivalents.'
+  syn_examples:
+  - the: The government announced a new tax on sugary drinks.
+    syns:
+    - authorities
+    - administration
+  - the: The government has pledged more money for schools.
+    syns:
+    - administration
+    - state
+  - the: The government must tackle growing inequality.
+    syns:
+    - authorities
+    - state
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: implement
+  ipa: /ˈɪm.plɪ.ment/
+  pos: verb
+  tip: im-<b>ple</b>-ment — remember the "e" after "pl"
+  spelling_hint: ''
+  definition: To put a plan, decision or agreement into effect.
+  example: The school will implement the new timetable next term.
+  synonyms:
+  - introduce
+  - enforce
+  - adopt
+  - apply
+  syn_pos: verb
+  syn_example: '"Implement reforms" — introduce / adopt / enforce fit policy sentences.'
+  syn_examples:
+  - the: The school will implement the new timetable next term.
+    syns:
+    - introduce
+    - adopt
+  - the: Governments must implement stricter environmental rules.
+    syns:
+    - introduce
+    - enforce
+  - the: The company plans to implement the agreed changes.
+    syns:
+    - apply
+    - adopt
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: inevitable
+  ipa: /ɪˈnev.ɪ.tə.bəl/
+  pos: adjective
+  tip: in-<b>evit</b>-able — don't slip in an extra "e" before "able"
+  spelling_hint: ''
+  definition: Certain to happen; impossible to avoid or prevent.
+  example: With rising rents, higher prices were inevitable.
+  synonyms:
+  - unavoidable
+  - inescapable
+  - certain
+  - sure
+  syn_pos: adjective
+  syn_example: '"Conflict became inevitable" — unavoidable / certain for outcome essays.'
+  syn_examples:
+  - the: With rising rents, higher prices were inevitable.
+    syns:
+    - unavoidable
+    - certain
+  - the: Some job losses are inevitable when firms automate.
+    syns:
+    - unavoidable
+    - inescapable
+  - the: Change is inevitable in any growing economy.
+    syns:
+    - unavoidable
+    - certain
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: mitigate
+  ipa: /ˈmɪt.ɪ.ɡeɪt/
+  pos: verb
+  tip: mit-i-<b>gate</b> — three syllables, no double letters
+  spelling_hint: ''
+  definition: To make something bad or harmful less severe, serious or painful.
+  example: New laws were introduced to mitigate the effects of pollution.
+  synonyms:
+  - reduce
+  - alleviate
+  - lessen
+  - ease
+  syn_pos: verb
+  syn_example: '"Mitigate the risks" — reduce / alleviate are the plain IELTS verbs.'
+  syn_examples:
+  - the: Trees help mitigate the effects of flooding.
+    syns:
+    - reduce
+    - lessen
+  - the: New laws aim to mitigate pollution in cities.
+    syns:
+    - alleviate
+    - reduce
+  - the: We must mitigate the financial risks involved.
+    syns:
+    - lessen
+    - ease
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: necessary
+  ipa: /ˈnes.ə.ser.i/
+  pos: adjective
+  tip: one <b>c</b>, double <b>s</b> — ne-<b>ces</b>-sary
+  spelling_hint: ''
+  definition: Needed in order to achieve something; essential.
+  example: It is necessary to register before the deadline.
+  synonyms:
+  - essential
+  - vital
+  - required
+  - indispensable
+  syn_pos: adjective
+  syn_example: '"It is necessary to..." — essential / vital are the stronger IELTS adjectives.'
+  syn_examples:
+  - the: It is necessary to register before the deadline.
+    syns:
+    - essential
+    - vital
+  - the: Adequate funding is necessary for the research to continue.
+    syns:
+    - essential
+    - required
+  - the: Take only necessary luggage on the flight.
+    syns:
+    - essential
+    - indispensable
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: opportunity
+  ipa: /ˌɒp.əˈtjuː.nə.ti/
+  pos: noun
+  tip: op-<b>por</b>-tu-ni-ty — double <b>p</b>
+  spelling_hint: ''
+  definition: A favourable time or chance to do something.
+  example: Studying abroad was the opportunity of a lifetime.
+  synonyms:
+  - chance
+  - prospect
+  - opening
+  - possibility
+  syn_pos: noun
+  syn_example: '"Career opportunities" — prospects / openings fit employment essays.'
+  syn_examples:
+  - the: Studying abroad was the opportunity of a lifetime.
+    syns:
+    - chance
+    - opening
+  - the: The internet creates new opportunities for small businesses.
+    syns:
+    - prospects
+    - possibilities
+  - the: She was given the opportunity to lead the project.
+    syns:
+    - chance
+    - opening
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: phenomenon
+  ipa: /fəˈnɒm.ɪ.nən/
+  pos: noun
+  tip: <b>ph</b>e-<b>no</b>-me-non — "ph" for the /f/ sound, double <b>n</b> before "on"
+  spelling_hint: ''
+  definition: A fact, event or situation that can be observed to exist or happen.
+  example: Globalisation is not a new phenomenon.
+  synonyms:
+  - occurrence
+  - trend
+  - event
+  - development
+  syn_pos: noun
+  syn_example: '"A global phenomenon" — trend / occurrence for society essays.'
+  syn_examples:
+  - the: Globalisation is a global phenomenon.
+    syns:
+    - trend
+    - occurrence
+  - the: Urban migration is a modern phenomenon.
+    syns:
+    - development
+    - trend
+  - the: The Northern Lights are a natural phenomenon.
+    syns:
+    - occurrence
+    - event
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: significant
+  ipa: /sɪɡˈnɪf.ɪ.kənt/
+  pos: adjective
+  tip: <b>signi</b>-fi-<b>cant</b> — commonly mis-spelled "signficant"
+  spelling_hint: ''
+  definition: Large or important enough to be noticed; having a real effect on something.
+  example: The results show a significant improvement.
+  synonyms:
+  - substantial
+  - considerable
+  - major
+  - marked
+  - notable
+  syn_pos: adjective
+  syn_example: '"A significant improvement" — substantial / considerable are task 1 staples.'
+  syn_examples:
+  - the: The results show a significant improvement.
+    syns:
+    - substantial
+    - notable
+  - the: There has been a significant rise in online shopping.
+    syns:
+    - considerable
+    - major
+  - the: The study found significant differences between the two groups.
+    syns:
+    - marked
+    - considerable
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: sustainable
+  ipa: /səˈsteɪ.nə.bəl/
+  pos: adjective
+  tip: sus-<b>tain</b>-able — keep the "ai" in the middle
+  spelling_hint: ''
+  definition: Able to continue or be maintained at a certain rate or level over time, without harming the environment.
+  example: The company is looking for more sustainable sources of energy.
+  synonyms:
+  - renewable
+  - viable
+  - responsible
+  - clean
+  syn_pos: adjective
+  syn_example: '"Sustainable development" — renewable / clean fit environment essays.'
+  syn_examples:
+  - the: The company is looking for more sustainable sources of energy.
+    syns:
+    - renewable
+    - clean
+  - the: Tourism must become sustainable to protect local communities.
+    syns:
+    - viable
+    - responsible
+  components:
+  - spelling
+  - definitions
+  - synonyms
+- word: ubiquitous
+  ipa: /juːˈbɪk.wɪ.təs/
+  pos: adjective
+  tip: u-bi-<b>qui</b>-tous — every "q" is followed by "u"
+  spelling_hint: ''
+  definition: Seeming to be everywhere at the same time; very common.
+  example: Smartphones have become ubiquitous in modern life.
+  synonyms:
+  - everywhere
+  - pervasive
+  - widespread
+  - omnipresent
+  syn_pos: adjective
+  syn_example: '"Smartphones are ubiquitous" — pervasive / omnipresent are the academic replacements.'
+  syn_examples:
+  - the: Smartphones have become ubiquitous in modern life.
+    syns:
+    - pervasive
+    - omnipresent
+  - the: Data collection is ubiquitous in the app economy.
+    syns:
+    - widespread
+    - pervasive
+  - the: The brand is ubiquitous in the fashion industry.
+    syns:
+    - omnipresent
+    - widespread
+  components:
+  - spelling
+  - definitions
+  - synonyms

@@ -11,7 +11,7 @@ Built from `cards/` (folder nesting = sub-decks):
 |------|-----------|-------|--------|--------|
 | `Spelling` | Definition → spelling | definition + hint | **type the word** | word, IPA, spelling tip |
 | `Definitions` | Word → definition | word + IPA | recall the meaning | definition + example |
-| `Synonyms` | Word → synonyms (per POS) | word + part of speech | **type a synonym** | POS synonym list + essay tip |
+| `Synonyms` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
 | `IELTS-Writing::Trends` | Cloze | sentence with a gap | **type the missing word(s)** | filled sentence + explanation |
 | `Pronunciation::Sound-ID` | Listen → sound | audio clip | **type the vowel among 4** | word, IPA, spelling rule |
 | `Pronunciation::{Schwa,Short-U,Foot-U,Long-U}` | Listen (grouped) | audio clip | recall after reveal | word, IPA, spelling rule |
@@ -122,9 +122,29 @@ spelling hint (`{{letters(word)}} letters · starts with <b>{{upper_first(word)}
 falls back to an explicit `spelling_hint` when given, and the synonym card
 builds its examples/mapping from `syn_examples`.
 
+### Synonym drills: one card per context
+
+`synonyms.html` declares `each: syn_examples` in its front matter, so every
+`syn_examples` entry becomes its **own card**: the front shows the sentence
+with the word `<u>underlined</u>`, and you must supply the synonym that fits
+*that specific context* (per-record `types` and `map` fields hold the answer).
+Ids are stable per context (`syn-<word>-<n>` or `<syn_id>-<n>`), so rebuilding
+does not duplicate or churn cards.
+
 To add a word to all three decks, add one entry to `words.yaml` listing the three
-components, then run `./build.sh`. To spin up a brand-new card type, add a new
-template in `cards/types/`.
+components (inventing 2–3 context sentences for `syn_examples`), then run
+`./build.sh`. To spin up a brand-new card type, add a new template in `cards/types/`.
+
+### Deck sizes (current)
+
+| Deck | Cards |
+|------|-------|
+| Spelling | 87 (1 per word, all with spelling tips) |
+| Definitions | 87 (1 per word) |
+| Synonyms | 236 (1 per context sentence) |
+| IELTS-Writing::Trends | 8 |
+| Pronunciation (all) | 56 |
+| **Total** | **475** |
 
 ## Pronunciation audio
 
@@ -150,6 +170,8 @@ ANKIDAIKU=/path/to/anki-daiku ./build.sh   # or point elsewhere
 
 Output: `dist/output.apkg` — import into Anki. Rebuilding the same deck updates
 existing notes instead of duplicating, as long as `id`s (and folder paths) stay the same.
+When an `id` naturally changes, AnkiDaiku warns about orphaned old cards — that's fine
+(delete them in Anki after importing), never answer "Continue" by force.
 
 ## Adding words
 
