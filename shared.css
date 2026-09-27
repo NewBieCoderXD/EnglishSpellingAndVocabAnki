@@ -76,6 +76,94 @@ hr {
 
 /* ---- Synonyms: example-based cards ---- */
 
+.lbl {
+  margin: 0.9em auto 0.1em;
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #94a3b8;
+  text-align: left;
+  max-width: 26em;
+}
+
+.nightMode .lbl {
+  color: #64748b;
+}
+
+.slot {
+  margin: 0.4em auto;
+  max-width: 26em;
+  font-size: 1.05em;
+  line-height: 1.4;
+}
+
+.fits, .nufit {
+  text-align: left;
+  max-width: 26em;
+  margin: 0.2em auto 0;
+  font-size: 0.95em;
+  line-height: 1.55;
+}
+
+.fits b {
+  color: #059669;
+}
+
+.nufit b {
+  color: #dc2626;
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+/* One entry per line in both lists: each carries a gloss or a full-sentence
+   reason, so it needs the whole width. No "&middot;" separators needed. */
+.fits .it,
+.nufit .it {
+  display: block;
+}
+
+.fits .it + .it,
+.nufit .it + .it {
+  margin-top: 0.35em;
+}
+
+.nuance {
+  display: block;
+  text-align: left;
+  font-size: 0.95em;
+  background: #f8fafc;
+  border-left: 3px solid #4338ca;
+  border-radius: 4px;
+  padding: 0.5em 0.8em;
+  margin: 0.7em auto 0;
+  max-width: 26em;
+  line-height: 1.45;
+}
+
+.nightMode .nuance {
+  background: #2a2a40;
+  border-left-color: #818cf8;
+}
+
+.fits small, .nufit small {
+  color: #64748b;
+  font-size: 0.85em;
+}
+
+.nightMode .fits b {
+  color: #4ade80;
+}
+
+.nightMode .nufit b {
+  color: #f87171;
+}
+
+.nightMode .fits small,
+.nightMode .nufit small {
+  color: #94a3b8;
+}
+
 .exs {
   margin-top: 1em;
 }

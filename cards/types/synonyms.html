@@ -24,6 +24,17 @@ id: "{{#if ../syn_id}}synv2-{{../syn_id}}-{{n}}{{else}}synv2-{{../word}}-{{n}}{{
 
 <div class="pos">{{../syn_pos}}</div>
 
-<p>{{#each syns}}<b>{{this}}</b> <small style="color:#888">({{lookup(../../syn_notes, this)}})</small> · {{/each}}</p>
+<p class="slot">{{replace(the, ../word, "__________")}}</p>
 
+<div class="lbl">Fits this sentence</div>
+
+<p class="fits">{{#each syns}}<span class="it"><b>{{this}}</b> <small>{{lookup(../../syn_notes, this)}}</small></span>{{/each}}</p>
+
+{{#if merge(without(../synonyms, syns, types), ../syn_near, ../avoid)}}<div class="lbl">Not this sentence</div>
+
+<p class="nufit">{{#each merge(without(../synonyms, syns, types), ../syn_near, ../avoid)}}<span class="it"><span class="no"><b>{{this}}</b></span> <small>{{#if lookup(../avoid, this)}}{{lookup(../avoid, this)}}{{else}}{{lookup(../../syn_avoid, this)}}{{/if}}</small></span>{{/each}}</p>
+{{/if}}
+
+{{#if ../syn_nuance}}<div class="nuance">{{../syn_nuance}}</div>
+{{/if}}
 <span class="ex">{{../syn_example}}</span>

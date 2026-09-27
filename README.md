@@ -167,6 +167,50 @@ every fitting synonym, and the back shows each with `<small>` notes from
 `accomplish` = by effort). Ids are stable per context (`syn-<word>-<n>` or
 `<syn_id>-<n>`), so rebuilding does not duplicate or churn cards.
 
+### The back of a synonym card: fits, does not fit, nuance
+
+The back teaches the difference instead of just listing answers:
+
+1. **The slot** — the context sentence with the target word blanked out
+   (`{{replace(the, ../word, "__________")}}`).
+2. **Fits this sentence** — the accepted `syns` of that context, each with its
+   `syn_notes` gloss.
+3. **Not this sentence** — strikethrough rejects with a reason. The list is
+   built as `merge(without(../synonyms, syns, types), ../syn_near, ../avoid)`:
+   every family word this context rejects, plus the near-miss distractors from
+   `syn_near`, de-duplicated, each looked up in `syn_avoid` for its reason.
+   Reasons are written to name the collocation or frame that fails, not to
+   declare the word non-English — most are perfectly good elsewhere.
+4. **Nuance** — `syn_nuance`, one or two sentences contrasting the whole family
+   (what they share and which frame or degree each one takes).
+
+Three optional per-word fields supply 3 and 4 (`cards/words.yaml`):
+
+| Field | Shape | Meaning |
+| --- | --- | --- |
+| `syn_near` | list of 1–5 words | Near misses a learner would wrongly type; must never be accepted in any context of that word |
+| `syn_avoid` | map word → reason | Why a rejected word fails; must cover every derived reject plus every `syn_near` word |
+| `syn_nuance` | 1–3 sentences | The family contrast shown in the nuance box |
+| `avoid` (inside a `syn_examples` record) | map word → reason | Per-sentence reason that **overrides** `syn_avoid` for that one context |
+
+The override exists because a reason that is right for one frame is often wrong
+for another: `necessary` fails in "play a crucial role" because of that verb
+pattern, but in "is necessary for success" because it belongs with *for*. Put a
+sentence in a context record's `avoid` map and the card shows that text on that
+card only; every other reason still falls back to the word-level `syn_avoid`.
+
+```yaml
+- the: Trust plays a crucial role here.
+  syns: [essential, vital]
+  avoid:
+    necessary: = required, and it belongs with for, as in "necessary for
+      success"; the frame here is "play a crucial role"
+```
+
+All of them are rendered only when present, so `[spelling, definitions]`-only
+entries are unaffected. Write the reasons in plain text (no HTML, no markdown
+asterisks) and keep them under ~200 characters.
+
 To add a word to all three decks, add one entry to `words.yaml` listing the three
 components (inventing 2–3 context sentences for `syn_examples`), then run
 `./build.sh`. Many words (esp. the hard B2–C1 additions) are `[spelling,
