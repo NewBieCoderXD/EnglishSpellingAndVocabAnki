@@ -53,7 +53,7 @@ significant, crucial, vital, essential, key   <- accepted answers, matched as AN
   `significant, crucial` marks either as correct. Whatever you type is scored:
   the box reports how many entries are right and how many are left, a
   **Show answers** button reveals the full list, and it auto-reveals after 3
-  failed tries (see [The shared answer box](#the-shared-answer-box-synonymsv2--collocation--cloze)).
+  failed tries (see [The shared answer box](#the-shared-answer-box-spelling--synonymsv2--collocation--cloze)).
   Anki's built-in `{{type:...}}` only supports exact matches, which is
   why the answer box is supplied by a **widget** (below). Omit `# Type` for
   plain recall cards.
@@ -94,18 +94,20 @@ the `data-answers` attribute at build time). Cards without `# Type` get no
 widget. Editing `cards/widgets/default.html` restyles the box deck-wide;
 per-type cards can carry their own `# Widget` section (e.g. a mini-synonym map).
 
-### The shared answer box (SynonymsV2 + Collocation + cloze)
+### The shared answer box (Spelling + SynonymsV2 + Collocation + cloze)
 
-`cards/widgets/default.html` is the only answer box in the deck: `SynonymsV2`,
-`Collocation` and the IELTS cloze cards all grade through it, so every typed
-card behaves identically. Grading rules:
+`cards/widgets/default.html` is the only answer box in the deck: `Spelling`,
+`SynonymsV2`, `Collocation` and the IELTS cloze cards all grade through it, so
+every typed card behaves identically. Grading rules:
 
 - **Any one accepted entry passes** — a list is a set of alternatives, not a
   set of required slots, so no card turns into a guessing game.
 - **Your answer is scored, not just accepted/rejected.** Type more than one
   alternative (comma or semicolon separated) and it reports how many are right
   and how many are left: *"1 is correct · 6 more left"*, *"2 are correct ·
-  Unrecognized: banana"*, *"1 is correct — all of them"*.
+  Unrecognized: banana"*, *"1 is correct — all of them"*. A card with a
+  **single** accepted answer (`Spelling`, a bare preposition like `in`) has
+  nothing to count, so it just reads **Correct ✓**.
 - **A half-remembered phrase gets a targeted hint** instead of a flat "wrong",
   matched by first word, then a 4-character stem, then a substring:
 
@@ -115,6 +117,7 @@ card behaves identically. Grading rules:
   | `resulted in, banana` | 1 is correct · 6 more left · Unrecognized: banana |
   | `resulted` | Right idea, wrong form — this card wants: **resulted in** … |
   | `banana` | None of those are in the answer list. Try again (1/3) or tap Show answers. |
+  | `accommodation` (Spelling card) | Correct ✓ |
 
 - **Show answers lists every accepted answer, untruncated** (with the count),
   and it also fires automatically after 3 failed tries. Answers match case- and

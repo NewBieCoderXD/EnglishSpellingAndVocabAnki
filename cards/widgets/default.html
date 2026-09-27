@@ -37,6 +37,9 @@
     msg.className = "td-msg " + cls;
   }
   function tally(hit, total) {
+    // A one-answer card (Spelling, a bare preposition) has nothing to count:
+    // "1 of 1" is noise, so it just reads "Correct".
+    if (total === 1) return "Correct";
     var left = Math.max(total - hit, 0);
     var got = hit === 1 ? "1 is correct" : hit + " are correct";
     if (left === 0) return got + " &mdash; all of them";
