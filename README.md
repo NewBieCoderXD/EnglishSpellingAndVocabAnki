@@ -327,5 +327,22 @@ the skeleton in `<div class="pat">`, the wrong form in `<span class="no">` and
 the recommended form in `<span class="ok">` on the back. No `widget:` front
 matter: a `# Type` list is enough — the deck's shared answer box grades it.
 
+**Prepositions are typed, always.** A `# Type` entry carries the verb *and* its
+preposition (`attributed to`, not `attributed`), so the preposition itself is
+drilled. Two cases:
+
+- The preposition follows the verb in the blank (`can be ____________ higher
+  demand` → `attributed to`) — nothing to do.
+- The preposition follows the object, so the sentence already prints it
+  (`The company ____________ the failure to poor communication`) — bold that
+  `<b>to</b>` in the front sentence, keep the `to` printed, and still list the
+  full form in `# Type`. On the back, highlight verb and preposition as two
+  `.ans` spans (the object sits between them), so the answer reads as one
+  collocation and the sentence stays grammatical.
+
+Only list verbs whose preposition is actually `to` in that frame — `blame` is
+not (`blame X on Y` / `blame X for Y`), and its wrong form belongs in the
+`<span class="no">` tip, not in `# Type`.
+
 To remove a card, `ankidaiku delete <id>` (soft delete) rather than just deleting
 the file, so Anki stays in sync.

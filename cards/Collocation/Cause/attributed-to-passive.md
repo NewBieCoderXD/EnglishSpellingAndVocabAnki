@@ -15,7 +15,7 @@ Type the missing verb:
 
 # Type
 
-attributed to, ascribed to, explained by, put down to, due to, accounted for
+attributed to, ascribed to, explained by, put down to, due to, blamed on
 
 ---
 
@@ -31,4 +31,4 @@ The increase in the number of vehicles can be **<span class="ans">attributed to<
 
 <span class="ex">The increase was largely attributed to higher consumer demand.</span>
 
-*Tip: "largely / mainly / partly attributed to" is the natural way to hedge, and it is Task 1 gold. The cause is what follows <b>to</b>.*
+*Tip: "largely / mainly / partly attributed to" is the natural way to hedge, and it is Task 1 gold. The cause is the last piece in the frame &mdash; the preposition depends on the verb: <b>attributed to</b> / <b>ascribed to</b> / <b>put down to</b> / <b>due to</b> / <b>explained by</b> / <b>blamed on</b>. So <span class="no">attributed on</span> and <span class="no">blamed to</span> are both wrong.*
