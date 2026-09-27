@@ -13,13 +13,14 @@ Built from `cards/` (folder nesting = sub-decks):
 | `Definitions` | Word → definition | word + IPA | recall the meaning | definition + example |
 | `SynonymsV2` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
 | `IELTS-Writing::Trends` | Cloze | sentence with a gap | **type the missing word(s)** | filled sentence + explanation |
+| `Collocation::{Cause,Data,Comparison,Problem,Preposition,Paraphrase}` | Pattern cloze | sentence with a gap + tag hint | **type the whole collocation** | filled sentence + pattern skeleton + wrong forms + tip |
 | `Pronunciation::Sound-ID` | Listen → sound | audio clip | **type the vowel among 4** | word, IPA, spelling rule |
 | `Pronunciation::{Schwa,Short-U,Foot-U,Long-U}` | Listen (grouped) | audio clip | recall after reveal | word, IPA, spelling rule |
 | `Pronunciation::Contrasts` | Two clips, one target | 2 audio clips | **type 1 or 2** | both words + IPA |
 
-Decks named `Spelling`, `Definitions`, `SynonymsV2`, `IELTS-Writing::Trends`, and
-the `Pronunciation` family live under the root deck **English Spelling & Vocab**
-(from `package.json`).
+Decks named `Spelling`, `Definitions`, `SynonymsV2`, `IELTS-Writing::Trends`, the
+`Collocation` family and the `Pronunciation` family live under the root deck
+**English Spelling & Vocab** (from `package.json`).
 
 ## Card format
 
@@ -49,10 +50,11 @@ significant, crucial, vital, essential, key   <- accepted answers, matched as AN
 - `dependencies` (optional) — tags; `[prereq]` orders cards.
 - `# Type` (optional) — accepted typed answers, separated by commas or semicolons.
   The check accepts **any** of them (case/space-insensitive), so
-  `significant, crucial` marks either as correct. Wrong input is reported per
-  token ("Recognized: rise. Not in this card's answer list: foo."), a
-  **Show answers** button reveals the list, and it auto-reveals after 3 failed
-  tries. Anki's built-in `{{type:...}}` only supports exact matches, which is
+  `significant, crucial` marks either as correct. Whatever you type is scored:
+  the box reports how many entries are right and how many are left, a
+  **Show answers** button reveals the full list, and it auto-reveals after 3
+  failed tries (see [The shared answer box](#the-shared-answer-box-synonymsv2--collocation--cloze)).
+  Anki's built-in `{{type:...}}` only supports exact matches, which is
   why the answer box is supplied by a **widget** (below). Omit `# Type` for
   plain recall cards.
 - `# Widget` (optional) — inline HTML/JS that replaces the answer box for this
@@ -91,6 +93,33 @@ Fragments reference the accepted answers as `{{answers}}` (HTML-escaped into
 the `data-answers` attribute at build time). Cards without `# Type` get no
 widget. Editing `cards/widgets/default.html` restyles the box deck-wide;
 per-type cards can carry their own `# Widget` section (e.g. a mini-synonym map).
+
+### The shared answer box (SynonymsV2 + Collocation + cloze)
+
+`cards/widgets/default.html` is the only answer box in the deck: `SynonymsV2`,
+`Collocation` and the IELTS cloze cards all grade through it, so every typed
+card behaves identically. Grading rules:
+
+- **Any one accepted entry passes** — a list is a set of alternatives, not a
+  set of required slots, so no card turns into a guessing game.
+- **Your answer is scored, not just accepted/rejected.** Type more than one
+  alternative (comma or semicolon separated) and it reports how many are right
+  and how many are left: *"1 is correct · 6 more left"*, *"2 are correct ·
+  Unrecognized: banana"*, *"1 is correct — all of them"*.
+- **A half-remembered phrase gets a targeted hint** instead of a flat "wrong",
+  matched by first word, then a 4-character stem, then a substring:
+
+  | You type | It says |
+  |----------|---------|
+  | `resulted in` | 1 is correct · 6 more left ✓ |
+  | `resulted in, banana` | 1 is correct · 6 more left · Unrecognized: banana |
+  | `resulted` | Right idea, wrong form — this card wants: **resulted in** … |
+  | `banana` | None of those are in the answer list. Try again (1/3) or tap Show answers. |
+
+- **Show answers lists every accepted answer, untruncated** (with the count),
+  and it also fires automatically after 3 failed tries. Answers match case- and
+  space-insensitively, and the back of the card is always the full reference
+  anyway.
 
 Shared styling lives in `shared.css` (merged into the notetype). The type-in box,
 IPA, part-of-speech and answer colors are defined there.
@@ -142,6 +171,55 @@ definitions]` only — the `synonyms`/`syn_examples` fields are still required b
 no drill cards fan out without `syn_examples`. To spin up a brand-new card type,
 add a new template in `cards/types/`.
 
+### Collocation drills: patterns, not synonyms
+
+`cards/Collocation/` is a hand-written deck (one `.md` per card, like the IELTS
+cloze cards) built around **collocation patterns** for IELTS Task 1/2 — the
+point is not "do I know this word" but "what comes after it". Each card is a
+cloze sentence; you **type the whole pattern**, so both the collocation and the
+spelling are drilled:
+
+```md
+# Front
+<div class="hint">TASK1_CAUSE &middot; the <b>cause</b> is the subject</div>
+<span class="ex">"Population growth ____________ a sharp rise in housing prices."</span>
+
+---
+
+# Type
+
+resulted in, led to, gave rise to, brought about, caused, triggered, spurred
+
+---
+
+# Back
+
+Population growth **<span class="ans">resulted in</span>** a sharp rise in housing prices.
+
+<div class="pat">X <b>results in / leads to</b> Y</div>
+*Tip: <span class="no">attributed with</span> is wrong …
+```
+
+Sub-decks map 1:1 to the study tags:
+
+| Sub-deck | Tag | Covers |
+|----------|-----|--------|
+| `Collocation::Cause` | `TASK1_CAUSE` | cause vs effect direction, `account for` (both meanings), `attribute … to`, `result from/in`, `lead to`, `contribute to`, `main cause of/in` |
+| `Collocation::Data` | `TASK1_DATA` | `accounted for X%`, `constitute/make up/represent`, `proportion/percentage of`, `increase/decline in`, strength of change, `increase to/by/from … to`, `doubled`, `twice as high as` |
+| `Collocation::Comparison` | `TASK1_COMPARISON` | `higher than`, `compared with`, `whereas`, `respectively`, `disparity between/in/among`, `uneven distribution`, `difference` vs `disparity` |
+| `Collocation::Problem` | `TASK2_PROBLEM` | `address`/`tackle` (≠ `account for`), `exacerbate`/`worsen`/`alleviate`, `increasingly severe`, `experienced`, `put pressure/strain on`, `regarding` vs `about`, `holistically` vs `overall` |
+| `Collocation::Preposition` | `PREPOSITION` | the highest-value category: `increase **in**`, `impact/effect/influence **on**`, `pressure/burden **on**`, `reliance **on**`, `demand **for**`, `contribute **to**`, `attribute … **to**`, `reason **for**`, `difference **between**` |
+| `Collocation::Paraphrase` | `PARAPHRASE` | instinct → academic collocation: `benefit from`, `put pressure **on**`, `X accounted for 70%`, `the dominant/least significant cause`, `surged`, `worsened`, `a substantial disparity` |
+
+Cards with no `# Type` section (`Cause::direction-map`, `Comparison::difference-vs-disparity`)
+are plain front/back reference cards. Every card that does have one grades
+through the deck's shared answer box (above) — no per-deck widget, and no
+`widget:` front matter: the counts ("1 is correct / 6 more left") and the
+untruncated **Show answers** list work exactly as they do in `SynonymsV2`.
+Extra CSS used by these cards lives in
+`shared.css`: `.pat` (pattern skeleton), `.no` (wrong form, struck through),
+`.ok` (recommended form).
+
 ### Deck sizes (current)
 
 | Deck | Cards |
@@ -150,8 +228,10 @@ add a new template in `cards/types/`.
 | Definitions | 318 (1 per word) |
 | SynonymsV2 | 235 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
+| Collocation (all) | 69 (11 Cause, 14 Data, 10 Comparison, 13 Problem, 13 Preposition, 8 Paraphrase) |
 | Pronunciation (all) | 56 |
-| **Total** | **937** |
+| Deck guide | 1 |
+| **Total** | **1005** |
 
 ## Pronunciation audio
 
@@ -186,11 +266,19 @@ When an `id` naturally changes, AnkiDaiku warns about orphaned old cards — tha
 `cards/words.yaml` (with the fields above and `components:`), then `./build.sh`.
 The build renders all three cards for you.
 
-**Other decks (IELTS, Pronunciation, manual synonym cards):**
+**Other decks (IELTS, Collocation, Pronunciation, manual synonym cards):**
 
-1. Copy an existing card in the relevant deck folder and rename the file.
+1. Copy an existing card in the relevant deck folder and rename the file
+   (`id` and filename should match).
 2. Change the `id` and the front/type/back content.
 3. Run `./build.sh`.
+
+Adding a **collocation** card: put it in `cards/Collocation/<Tag>/`, keep the
+`# Type` list to answers that are all natural in that exact sentence (the check
+accepts any of them, so a too-generous list makes the card too easy), and put
+the skeleton in `<div class="pat">`, the wrong form in `<span class="no">` and
+the recommended form in `<span class="ok">` on the back. No `widget:` front
+matter: a `# Type` list is enough — the deck's shared answer box grades it.
 
 To remove a card, `ankidaiku delete <id>` (soft delete) rather than just deleting
 the file, so Anki stays in sync.

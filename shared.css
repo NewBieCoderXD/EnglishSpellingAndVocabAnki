@@ -119,6 +119,54 @@ hr {
   color: #4ade80;
 }
 
+/* ---- Collocations: pattern skeletons, wrong forms ---- */
+
+.pat {
+  display: block;
+  text-align: left;
+  font-size: 0.95em;
+  background: #f8fafc;
+  border: 1px dashed #cbd5e1;
+  border-radius: 6px;
+  padding: 0.5em 0.8em;
+  margin: 0.5em auto;
+  max-width: 26em;
+  line-height: 1.45;
+}
+
+table.map td {
+  padding: 0.2em 0.8em 0.2em 0;
+  vertical-align: top;
+}
+
+table.map td.to {
+  white-space: nowrap;
+}
+
+.nightMode .pat {
+  background: #2a2a40;
+  border-color: #3f3f5e;
+}
+
+.no {
+  color: #dc2626;
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+.nightMode .no {
+  color: #f87171;
+}
+
+.ok {
+  color: #059669;
+  font-weight: 600;
+}
+
+.nightMode .ok {
+  color: #4ade80;
+}
+
 .type-box input {
   font-size: 1em;
   padding: 0.45em 0.7em;

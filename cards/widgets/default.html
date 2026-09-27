@@ -8,53 +8,89 @@
 </div>
 <script>
 (function() {
+  // The deck's one answer box, used by every card with a `# Type` list
+  // (SynonymsV2, Collocation, IELTS cloze, ...). Grading rules:
+  //   - any one accepted entry is enough, so a card is never a guessing game
+  //   - whatever you type is scored: "2 are correct / 5 more left"
+  //   - a half-remembered phrase gets a targeted hint, not a flat "wrong"
+  //   - "Show answers" (or 3 failed tries) lists *every* accepted answer
+  var MAX_TRIES = 3;
   var wrap = document.getElementById("td-wrap");
   if (!wrap || wrap.getAttribute("data-bound")) return;
   wrap.setAttribute("data-bound", "1");
   wrap.setAttribute("data-tries", "0");
-  var answers = (wrap.getAttribute("data-answers") || "").split(/[,;]/).map(function(s) { return s.trim().toLowerCase(); }).filter(Boolean);
+  var answers = [];
+  var display = [];
+  (wrap.getAttribute("data-answers") || "").split(/[,;]/).forEach(function(s) {
+    s = s.trim();
+    if (!s) return;
+    answers.push(s.toLowerCase());
+    display.push(s);
+  });
   var input = document.getElementById("td-input");
   var msg = document.getElementById("td-msg");
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function(c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; });
+  }
   function setMsg(html, cls) {
     msg.innerHTML = html;
     msg.className = "td-msg " + cls;
+  }
+  function tally(hit, total) {
+    var left = Math.max(total - hit, 0);
+    var got = hit === 1 ? "1 is correct" : hit + " are correct";
+    if (left === 0) return got + " &mdash; all of them";
+    return got + "<br>" + (left === 1 ? "1 more left" : left + " more left");
+  }
+  function bold(list, raw) {
+    var shown = list.slice(0, 4);
+    var rest = list.length - shown.length;
+    var out = shown.map(function(a, i) {
+      return "<b>" + esc(raw ? display[answers.indexOf(a)] : a) + "</b>";
+    }).join(" &nbsp;/&nbsp; ");
+    return out + (rest > 0 ? ' <span style="font-weight:400;opacity:.7">&nbsp;(+' + rest + " more)</span>" : "");
+  }
+  function firstWord(s) { return s.split(/\s+/).filter(Boolean)[0] || ""; }
+  function hintFor(given) {
+    var head = firstWord(given);
+    var stem = head.slice(0, 4);
+    var sameHead = answers.filter(function(a) { return firstWord(a) === head; });
+    var near = answers.filter(function(a) { return given.indexOf(a) >= 0 || a.indexOf(given) >= 0; });
+    var sameStem = head.length >= 4 ? answers.filter(function(a) { return firstWord(a).slice(0, 4) === stem; }) : [];
+    if (sameHead.length) return "Right idea, wrong form &mdash; this card wants:<br>" + bold(sameHead, true);
+    if (near.length) return "Not quite. A natural answer here is:<br>" + bold(near, true);
+    if (sameStem.length) return "Close &mdash; the full form is:<br>" + bold(sameStem, true);
+    return "";
+  }
+  function reveal() {
+    setMsg("Accepted answers (" + answers.length + "):<br>" + display.map(esc).join(", ") + ".", "td-hint");
   }
   function check() {
     var given = (input.value || "").trim().toLowerCase();
     if (!given) { setMsg("Type an answer first.", "td-hint"); input.focus(); return; }
     var parts = given.split(/\s*[,;]\s*/).filter(Boolean);
-    var isFull = answers.indexOf(given) >= 0;
-    var matched = parts.filter(function(p) { return answers.indexOf(p) >= 0; });
-    var ok = isFull || (matched.length > 0 && matched.length === parts.length);
-    if (ok) {
-      let label;
-      if (parts.length!==answers.length){
-        let remaining = answers.length - matched.length;
-        label = matched.length + " are correct.<br>" + remaining + " more remaining.";
-      } else {
-        label = "All are correct";
-      }
-      setMsg(label + " ✓", "typeGood");
+    var hit = 0;
+    var wrong = [];
+    parts.forEach(function(p) {
+      if (answers.indexOf(p) >= 0) hit++;
+      else wrong.push(p);
+    });
+    if (hit > 0 && !wrong.length) {
       input.className = "typed-input typeGood";
+      setMsg(tally(hit, answers.length) + " ✓", "typeGood");
       return;
     }
     var tries = parseInt(wrap.getAttribute("data-tries") || "0", 10) + 1;
     wrap.setAttribute("data-tries", String(tries));
     input.className = "typed-input typeBad";
-    if (matched.length > 0 && matched.length < parts.length) {
-      var wrong = parts.filter(function(p) { return answers.indexOf(p) < 0; });
-      var remaining = answers.length - matched.length;
-      setMsg(matched.length + " are correct.<br>" + remaining + " more remaining.<br>Unrecognized: " + wrong.join(", ") + ".", "typeBad");
-    } else if (matched.length === 0 && tries >= 3) {
-      setMsg("Not quite. Accepted answers: " + answers.join(", ") + ".", "typeBad");
-    } else if (matched.length === 0) {
-      setMsg("None of those are in the answer list. Try again (" + tries + "/3) or tap Show answers.", "typeBad");
-    } else {
-      setMsg("Try again.", "typeBad");
+    if (hit > 0) {
+      setMsg(tally(hit, answers.length) + "<br>Unrecognized: " + wrong.map(esc).join(", ") + ".", "typeBad");
+      return;
     }
-  }
-  function reveal() {
-    setMsg("Accepted answers: " + answers.join(", ") + ".", "td-hint");
+    var hint = hintFor(given);
+    if (hint) { setMsg(hint, "typeBad"); return; }
+    if (tries >= MAX_TRIES) { reveal(); return; }
+    setMsg("None of those are in the answer list. Try again (" + tries + "/" + MAX_TRIES + ") or tap Show answers.", "typeBad");
   }
   input.addEventListener("keydown", function(e) { if (e.key === "Enter") check(); });
   document.getElementById("td-btn").addEventListener("click", check);
