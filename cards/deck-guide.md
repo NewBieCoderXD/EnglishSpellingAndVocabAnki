@@ -7,14 +7,15 @@ dependencies: []
 
 ## English Spelling &amp; Vocab — how to use this deck
 
-Six sub-decks:
+Seven sub-decks:
 
 1. <span class="ex">Spelling</span> — read the definition, **type** the word
 2. <span class="ex">Definitions</span> — word first, recall the meaning
 3. <span class="ex">SynonymsV2</span> — word first, **type** one or more alternatives (verb / noun / adjective / determiner cards are separate)
 4. <span class="ex">IELTS-Writing → Trends</span> — complete the sentence, spelling counts
 5. <span class="ex">Collocation</span> — complete the **pattern** (<span class="ex">accounted <b>for</b></span>, <span class="ex">increase <b>in</b></span>), spelling counts
-6. <span class="ex">Pronunciation</span> — press play, decide which vowel sound it is
+6. <span class="ex">Tense</span> — choose or fix the verb form, then read why (front/back grammar cards)
+7. <span class="ex">Pronunciation</span> — press play, decide which vowel sound it is
 
 <div class="hint">Cards with a type-in box are checked automatically — spelling matters!</div>
 
@@ -35,6 +36,7 @@ Simply study as normal.
 - **SynonymsV2** backs teach the difference, not just the answer: the sentence is shown again with the word blanked out, then **Fits this sentence** (each fitting word with a one-line gloss), **Not this sentence** (near-miss words struck through, each with the collocation or frame that makes it wrong here), and a short **nuance** line contrasting the whole family. Read the rejects — that is where the distinctions live.
 - **Collocation** is split by tag: <span class="ex">Cause / Data / Comparison</span> (Task 1) &middot; <span class="ex">Problem</span> (Task 2) &middot; <span class="ex">Preposition</span> &middot; <span class="ex">Paraphrase</span>. The back shows the pattern skeleton, the wrong form (struck through) and the tip.
 - **Pronunciation**: the sound decks (<span class="ex">Schwa / Short-U / Foot-U / Long-U</span>) are listen-and-reveal — study the *group* of words sharing a vowel. Then drill yourself with the mixed **Sound-ID** deck and the two-clip **Contrasts** cards (type 1 or 2).
+- **Tense** cards are grammar contrasts, not typed: choose the form or spot the error on the front, then read the explanation on the back. The pattern line gives the rule, and a <span class="no">struck-through</span> form is the wrong choice.
 - **Definitions** cards are recall (front/back) — say the answer out loud.
 - Add new words as new `.md` cards, embed an audio element pointing at a `media/` mp3 for pronunciation words, then rerun `./build.sh` (it generates missing audio automatically).
 

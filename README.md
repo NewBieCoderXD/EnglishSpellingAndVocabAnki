@@ -1,7 +1,8 @@
 # English Spelling & Vocab (Anki)
 
-Anki card deck for English spelling, vocabulary, synonyms, and IELTS writing
-(trend describing), built with [AnkiDaiku](https://github.com/anomalyco/AnkiDaiku).
+Anki card deck for English spelling, vocabulary, synonyms, grammar (tense),
+and IELTS writing (trend describing), built with
+[AnkiDaiku](https://github.com/anomalyco/AnkiDaiku).
 
 ## Decks
 
@@ -13,14 +14,15 @@ Built from `cards/` (folder nesting = sub-decks):
 | `Definitions` | Word → definition | word + IPA | recall the meaning | definition + example |
 | `SynonymsV2` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
 | `IELTS-Writing::Trends` | Cloze | sentence with a gap | **type the missing word(s)** | filled sentence + explanation |
+| `Tense` | Grammar contrast | sentence(s) with a tense choice or error | decide the form / spot the error | correct form + rule |
 | `Collocation::{Cause,Data,Comparison,Problem,Preposition,Paraphrase}` | Pattern cloze | sentence with a gap + tag hint | **type the whole collocation** | filled sentence + pattern skeleton + wrong forms + tip |
 | `Pronunciation::Sound-ID` | Listen → sound | audio clip | **type the vowel among 4** | word, IPA, spelling rule |
 | `Pronunciation::{Schwa,Short-U,Foot-U,Long-U}` | Listen (grouped) | audio clip | recall after reveal | word, IPA, spelling rule |
 | `Pronunciation::Contrasts` | Two clips, one target | 2 audio clips | **type 1 or 2** | both words + IPA |
 
-Decks named `Spelling`, `Definitions`, `SynonymsV2`, `IELTS-Writing::Trends`, the
-`Collocation` family and the `Pronunciation` family live under the root deck
-**English Spelling & Vocab** (from `package.json`).
+Decks named `Spelling`, `Definitions`, `SynonymsV2`, `IELTS-Writing::Trends`,
+`Tense`, the `Collocation` family and the `Pronunciation` family live under the
+root deck **English Spelling & Vocab** (from `package.json`).
 
 ## Card format
 
@@ -300,10 +302,11 @@ Extra CSS used by these cards lives in
 | Definitions | 320 (1 per word) |
 | SynonymsV2 | 241 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
+| Tense | 9 |
 | Collocation (all) | 69 (11 Cause, 14 Data, 10 Comparison, 13 Problem, 13 Preposition, 8 Paraphrase) |
 | Pronunciation (all) | 56 |
 | Deck guide | 1 |
-| **Total** | **1015** |
+| **Total** | **1024** |
 
 ## Pronunciation audio
 
