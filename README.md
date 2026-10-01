@@ -271,14 +271,14 @@ Extra CSS used by these cards lives in
 
 | Deck | Cards |
 |------|-------|
-| Spelling | 318 (1 per word, all with spelling tips) |
-| Definitions | 318 (1 per word) |
-| SynonymsV2 | 235 (1 per context sentence) |
+| Spelling | 320 (1 per word, all with spelling tips) |
+| Definitions | 320 (1 per word) |
+| SynonymsV2 | 241 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
 | Collocation (all) | 69 (11 Cause, 14 Data, 10 Comparison, 13 Problem, 13 Preposition, 8 Paraphrase) |
 | Pronunciation (all) | 56 |
 | Deck guide | 1 |
-| **Total** | **1005** |
+| **Total** | **1015** |
 
 ## Pronunciation audio
 
