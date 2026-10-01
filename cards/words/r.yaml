@@ -1,0 +1,647 @@
+words:
+  - word: rampant
+    ipa: /ˈræm.pənt/
+    pos: adjective
+    tip: ram-pant — "ram" charging unchecked
+    definition: Spreading quickly and in an uncontrolled way.
+    example: Corruption was rampant in the old regime.
+    synonyms:
+      - widespread
+      - unchecked
+      - prevalent
+      - rife
+    syn_pos: adjective
+    syn_example: Rampant / rife / widespread — spreading out of control.
+    components:
+      - spelling
+      - definitions
+  - word: random
+    ipa: /ˈræn.dəm/
+    pos: adjective
+    tip: ran-dom — "ran" at chance
+    definition: Happening or done without a clear plan or pattern.
+    example: The selection was completely random.
+    synonyms:
+      - arbitrary
+      - haphazard
+      - chance
+      - unpredictable
+    syn_pos: adjective
+    syn_example: Random / arbitrary / haphazard — without order or plan.
+    components:
+      - spelling
+      - definitions
+  - word: rank
+    ipa: /ræŋk/
+    pos: verb
+    tip: rank — order in a row
+    definition: To give someone or something a position in an order.
+    example: Safety ranks among the highest priorities.
+    synonyms:
+      - rate
+      - order
+      - grade
+      - classify
+    syn_pos: verb
+    syn_example: Rank / rate / order — to place in a sequence.
+    components:
+      - spelling
+      - definitions
+  - word: rationalize
+    ipa: /ˈræʃ.ən.ə.laɪz/
+    pos: verb
+    tip: ratio-nal-ize — make it "rational"
+    definition: To find a logical or acceptable reason for an action.
+    example: He rationalized the expense as an investment.
+    synonyms:
+      - justify
+      - explain
+      - account for
+      - defend
+    syn_pos: verb
+    syn_example: Rationalize / justify — to make something seem reasonable.
+    components:
+      - spelling
+      - definitions
+  - word: reasonable
+    ipa: /ˈriː.zən.ə.bəl/
+    pos: adjective
+    tip: reason-able — based on reason
+    definition: Fair, sensible and based on good judgement.
+    example: The price was reasonable for the quality.
+    synonyms:
+      - sensible
+      - fair
+      - plausible
+      - logical
+    syn_pos: adjective
+    syn_example: Reasonable / sensible / fair — supported by good sense.
+    components:
+      - spelling
+      - definitions
+  - word: recommend
+    ipa: /ˌrek.əˈmend/
+    pos: verb
+    tip: rec-om-mend — double m at the end
+    spelling_hint: ""
+    definition: To suggest something as suitable or good.
+    example: I recommend trying the local food.
+    synonyms:
+      - suggest
+      - advise
+      - propose
+      - counsel
+      - endorse
+    syn_pos: verb
+    syn_example: Recommend / suggest / advise a change.
+    syn_examples:
+      - the: I recommend trying the local food.
+        syns:
+          - suggest
+          - propose
+        avoid:
+          advise: >-
+            = to tell someone what to do, so it needs a hearer ("she advised me to
+            rest"); "I advise trying the local food" leaves the listener out, the
+            frame is "suggest it"
+          counsel: >-
+            = to give serious, often professional advice, so it takes a person
+            ("counsel a patient"); nothing can counsel trying a dish, the frame is
+            "suggest trying it"
+          endorse: >-
+            = to lend public, official support, putting your name behind a product
+            or cause; a tip about a dish carries no endorsement, the frame is
+            "suggest trying it"
+      - the: Doctors recommend regular exercise.
+        syns:
+          - advise
+          - counsel
+        avoid:
+          endorse: >-
+            = to lend public, official backing to a product, cause or campaign; here
+            the doctors are advising patients, with no product or cause for them to
+            back
+          suggest: >-
+            = to put an idea forward as a mere possibility ("I suggest trying it");
+            a clinic must give weighty advice, so the frame is "advise" or "counsel
+            patients"
+      - the: The committee is expected to recommend the new plan.
+        syns:
+          - endorse
+          - propose
+        avoid:
+          advise: >-
+            = to tell someone what to do, so it needs a hearer to advise ("advise
+            the team"); a committee advises nobody, and its report runs "endorse" or
+            "propose the plan"
+          counsel: >-
+            = to give serious, professional advice to a person, as in "counsel a
+            patient"; a committee cannot counsel, and the plan is put forward rather
+            than advised
+          suggest: >-
+            = to put an idea forward tentatively; a committee's report formally puts
+            forward a plan, so the frame is "propose" or "endorse the plan"
+    syn_notes:
+      suggest: mention as an idea
+      advise: recommend with authority
+      propose: put forward formally
+      counsel: give advice
+      endorse: support officially
+    syn_near:
+      - prescribe
+      - urge
+      - nominate
+      - praise
+    syn_avoid:
+      suggest: >-
+        = to put an idea forward as a mere possibility ("I suggest trying it"); in
+        a clinic or a committee report a hint carries no weight, and the expected
+        verb there is recommend or advise
+      advise: >-
+        = to tell someone what to do, so it needs a hearer ("she advised me to
+        rest", "advise a patient"); "I advise trying the local food" leaves out
+        the listener, and a committee advises nobody
+      counsel: >-
+        = to give careful, serious advice, usually professional, as in "counsel a
+        patient" or "counsel him to seek help"; it takes a person rather than an
+        activity, so nothing here can counsel trying the food
+      propose: >-
+        = to table a plan or motion for others to accept ("propose a motion");
+        that is the frame in the third sentence, but beside a doctor's advice it
+        suggests a meeting rather than guidance to a patient
+      endorse: >-
+        = to lend public, official support, as a politician backs a policy or a
+        star promotes a brand; nobody endorses a dish or an exercise routine
+        unless they are lending their name to it
+      prescribe: >-
+        = a doctor orders a specific medicine ("prescribe antibiotics"); an
+        exercise routine can be advised but not prescribed, and a committee
+        prescribes nothing at all
+      urge: >-
+        = to press a person towards action, so it takes a person as object ("she
+        urged me to rest"); "I urge trying the local food" leaves out the person
+        being urged, so the pressure, not the sense, is wrong
+      nominate: >-
+        = to formally name someone or something for a post ("nominate a
+        candidate"); naming a plan for approval is not supporting it, and a plan
+        is proposed, never nominated
+      praise: >-
+        = to express admiration for something already judged good, and its object
+        is a person or an achievement; a dish you have not tried cannot be
+        praised, and a committee does not praise a plan
+    syn_nuance: >-
+      These all point someone towards an action, but the frame decides which.
+      Recommend is the neutral verb and takes a gerund ("I recommend trying it"),
+      advise and counsel need a hearer ("counsel a patient"), suggest offers a
+      possibility, propose tables a plan for a meeting, and endorse lends public
+      support to a product.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: reduction
+    ipa: /rɪˈdʌk.ʃən/
+    pos: noun
+    tip: re-duc-tion — "duc" lead back
+    definition: The act of making something smaller or less.
+    example: The reduction in costs pleased the board.
+    synonyms:
+      - decrease
+      - decline
+      - cut
+      - fall
+    syn_pos: noun
+    syn_example: A reduction / decrease / cut — making something less.
+    components:
+      - spelling
+      - definitions
+  - word: redundancy
+    ipa: /rɪˈdʌn.dən.si/
+    pos: noun
+    tip: re-dun-dancy — "dun" excessive
+    definition: The loss of a job because a worker is no longer needed.
+    example: The closure led to hundreds of redundancies.
+    synonyms:
+      - dismissal
+      - layoff
+      - termination
+      - unemployment
+    syn_pos: noun
+    syn_example: Redundancy / dismissal / layoff — losing a job through cutbacks.
+    components:
+      - spelling
+      - definitions
+  - word: regime
+    ipa: /reɪˈɡiːm/
+    pos: noun
+    tip: re-gime — "gime" sounds like "jeem"
+    definition: A government or system of rule.
+    example: The regime was toppled by the protests.
+    synonyms:
+      - government
+      - administration
+      - rule
+      - leadership
+    syn_pos: noun
+    syn_example: A regime / government / administration — the ruling system.
+    components:
+      - spelling
+      - definitions
+  - word: regulate
+    ipa: /ˈreɡ.jʊ.leɪt/
+    pos: verb
+    tip: reg-u-late — 'reg', then 'u-late'
+    spelling_hint: ""
+    definition: To control or maintain something by rules or laws.
+    example: The government regulates the market.
+    synonyms:
+      - control
+      - govern
+      - monitor
+      - manage
+      - oversee
+    syn_pos: verb
+    syn_example: Regulate / control / govern the sector.
+    syn_examples:
+      - the: The government has powers to regulate the market.
+        syns:
+          - control
+          - govern
+        avoid:
+          manage: >-
+            = to run the day-to-day operation, with a person or team as subject
+            ("manage a team"); a government with such powers is setting legal
+            limits, and no one is running the market as a business
+          monitor: >-
+            = to watch and check over time without changing anything ("monitor the
+            temperature"); "powers to monitor the market" is good English, but it
+            only watches, and the sentence names a power to set limits
+          oversee: >-
+            = to watch over a task or a junior member to check quality ("oversee the
+            work", "oversee trainees"); a government can oversee a project, but a
+            whole market is too wide to watch and no task is in hand
+      - the: New rules regulate how companies operate.
+        syns:
+          - control
+          - govern
+        avoid:
+          manage: >-
+            = to run the day-to-day operation, with a person or team as subject
+            ("manage a team"); rules are not managers, and how companies operate is
+            a clause, not an organisation to be run
+          monitor: >-
+            = to watch and check over time without changing anything ("monitor the
+            temperature"); a rulebook is a setter of conduct, not an observer, and
+            it has nothing on a gauge to read
+          oversee: >-
+            = to watch over a task or a junior member to check quality ("oversee the
+            work"); impersonal rules never oversee, and the clause how companies
+            operate is not a task anyone checks
+      - the: A supervisor is on hand to regulate the flow of work.
+        syns:
+          - monitor
+          - oversee
+          - manage
+          - control
+    syn_notes:
+      control: make something behave a certain way
+      govern: rule or control
+      monitor: watch over
+      manage: organize or deal with
+      oversee: supervise
+    syn_near:
+      - enforce
+      - restrict
+      - check
+      - direct
+    syn_avoid:
+      govern: >-
+        = to rule a country or an organisation with lasting authority ("a
+        governing body", "governed by law"); a supervisor keeping work in order
+        has no such power, so the verb here is not govern
+      monitor: >-
+        = to watch and check over time without changing anything ("monitor the
+        temperature"); a government or a rulebook is shaping conduct, not just
+        watching it, so neither fits the first two sentences
+      manage: >-
+        = to run the day-to-day operation, with a person or team as subject
+        ("manage a team"); neither a government regulating a market nor a rule
+        regulating a system is doing the day-to-day running
+      oversee: >-
+        = to watch over a task or a junior member to check quality ("oversee the
+        work", "oversee trainees"); it needs a person or a committee, so
+        impersonal rules or a national authority never oversee
+      enforce: >-
+        = to make people obey a rule, and the doer is normally the police or a
+        regulator ("enforce the ban"); with the rules themselves as subject the
+        sense is shaping conduct, not punishing a breach
+      restrict: >-
+        = to limit the size, amount or range of something ("restrict access"); it
+        names a fixed limit, not the steady job of keeping a system to agreed
+        standards, and a supervisor restricts nothing
+      check: >-
+        = a plain, one-off verb for looking at something to see if it is right
+        ("check the figures"); too casual and too brief for the continuous,
+        rule-based sense of regulate in the first two sentences
+      direct: >-
+        = to give orders about what people should do ("direct the team"); it needs
+        a human instructor and describes issuing instructions, not holding a
+        market or a workflow to a standard
+    syn_nuance: >-
+      All of these keep a system working as intended, but the actor separates
+      them. Regulate, control and govern take a system ("regulate the market",
+      "new rules regulate how companies operate"), with govern marking formal
+      state or organisational authority, while monitor, manage and oversee want a
+      person and describe the daily running.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: relevant
+    ipa: /ˈrel.ə.vənt/
+    pos: adjective
+    tip: rel-e-vant — 'e-va', keep all vowels
+    spelling_hint: ""
+    definition: Closely connected to the matter at hand; applicable.
+    example: Please share all relevant information.
+    synonyms:
+      - pertinent
+      - applicable
+      - related
+      - germane
+      - apt
+    syn_pos: adjective
+    syn_example: Include all relevant / pertinent / applicable details.
+    syn_examples:
+      - the: Please share all relevant information.
+        syns:
+          - pertinent
+          - applicable
+      - the: Her experience is directly relevant to the job.
+        syns:
+          - related
+          - germane
+          - apt
+          - pertinent
+    syn_notes:
+      pertinent: directly applicable
+      applicable: can be applied
+      related: connected
+      germane: relevant to the point
+      apt: fitting, appropriate
+    syn_near:
+      - important
+      - significant
+      - necessary
+      - suitable
+      - useful
+    syn_avoid:
+      applicable: >-
+        = can be applied to a given case; it needs a rule, law or system to apply
+        to, so it sits awkwardly beside her experience being relevant to the job
+      apt: >-
+        = suited to a purpose, and by extension quick-witted; it rates fitness,
+        not connection, so it cannot modify the bare noun information
+      germane: >-
+        = relevant to the point at issue, a formal and slightly bookish word that
+        wants a stated topic, as in germane to the discussion
+      related: >-
+        = loosely connected, too weak to replace relevant before a noun; it needs
+        the frame related to + noun, and all related information reads as
+        everything connected to something
+      important: >-
+        = a learner reaches for it because the two feel alike in speech, but
+        importance is about consequence, not about a link to the topic or the
+        duties
+      significant: >-
+        = large or important enough to matter, an intensifier for a figure or a
+        change, not a word for a connection to a subject
+      necessary: >-
+        = required, which makes the link one of obligation; experience can be
+        relevant to a job without being necessary for it
+      suitable: >-
+        = a quality judgement about fit for a use or a role, so it would rate the
+        experience as qualified rather than connected to the work
+      useful: >-
+        = of practical help, a value judgement; relevance can be purely
+        informational, with no benefit attached, as when you ask for all relevant
+        information
+    syn_nuance: >-
+      The family all say connected to the point, but only relevant, pertinent and
+      germane travel as bare adjectives before a noun. Pertinent is the formal
+      word for details, germane wants a stated topic, applicable needs a rule or
+      system, and related and apt weaken or redirect the link when they sit in
+      front of a plain noun such as information.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: renewable
+    ipa: /rɪˈnjuː.ə.bəl/
+    pos: adjective
+    tip: re-new-able — can be renewed
+    definition: Able to be replaced by natural processes within a short time.
+    example: The country is investing heavily in renewable energy.
+    synonyms:
+      - clean
+      - sustainable
+      - green
+      - recyclable
+    syn_pos: adjective
+    syn_example: Renewable / clean / sustainable — can be replenished by nature.
+    components:
+      - spelling
+      - definitions
+  - word: renovate
+    ipa: /ˈren.ə.veɪt/
+    pos: verb
+    tip: re-no-vate — "nova" new again
+    definition: To repair and improve a building so it is in good condition again.
+    example: They renovated the old library completely.
+    synonyms:
+      - restore
+      - modernize
+      - repair
+      - refurbish
+    syn_pos: verb
+    syn_example: Renovate / refurbish / restore — to bring back to good condition.
+    components:
+      - spelling
+      - definitions
+  - word: repercussion
+    ipa: /ˌriː.pəˈkʌʃ.ən/
+    pos: noun
+    tip: re-per-cus-sion — a force that bounces back
+    definition: An indirect and often negative consequence of an action.
+    example: The decision had serious repercussions.
+    synonyms:
+      - consequence
+      - effect
+      - ripple effect
+      - result
+    syn_pos: noun
+    syn_example: A repercussion / consequence / effect — an (indirect) result.
+    components:
+      - spelling
+      - definitions
+  - word: represent
+    ipa: /ˌrep.rɪˈzent/
+    pos: verb
+    tip: re-pre-sent — "present" again
+    definition: To stand for, show or symbolise something.
+    example: The graph represents sales over five years.
+    synonyms:
+      - stand for
+      - depict
+      - illustrate
+      - constitute
+    syn_pos: verb
+    syn_example: Represent / stand for / depict — to show or symbolise.
+    components:
+      - spelling
+      - definitions
+  - word: research
+    ipa: /rɪˈsɜːtʃ/
+    pos: noun/verb
+    tip: re-search — the prefix re-
+    spelling_hint: ""
+    definition: Systematic investigation to discover or establish facts.
+    example: She is doing research on climate change.
+    synonyms:
+      - study
+      - inquiry
+      - investigation
+      - analysis
+      - exploration
+    syn_pos: noun
+    syn_example: Conduct research / a study / an inquiry.
+    syn_examples:
+      - the: She is doing research on climate change.
+        syns:
+          - study
+          - investigation
+          - analysis
+          - exploration
+      - the: The team conducted research into the disease.
+        syns:
+          - study
+          - inquiry
+    syn_notes:
+      study: a detailed examination
+      inquiry: the process of asking
+      investigation: a systematic examination
+      analysis: breaking something down
+      exploration: investigating widely
+    syn_near:
+      - survey
+      - experiment
+      - trial
+      - paper
+      - poll
+    syn_avoid:
+      analysis: >-
+        = working on a body of data that already exists, so it needs material in
+        hand; the team conducted analysis into the disease has the wrong
+        preposition
+      exploration: >-
+        = a wide and often untargeted look around a field or a place, with the
+        frame an exploration of; it lacks the systematic sense that research
+        carries
+      inquiry: >-
+        = the act of asking questions, which takes an inquiry by or an inquiry
+        into; doing inquiry on climate change drops both the article and the
+        preposition
+      investigation: >-
+        = a systematic hunt for causes or faults, usually of a crime, and it
+        weighs heavier than a routine study on a subject
+      survey: >-
+        = asking a sample of people the same questions, so it belongs to opinion
+        or customer work; her study of climate change is not a survey of the
+        public
+      experiment: >-
+        = a planned test in which something is varied on purpose, and it takes an
+        experiment on or with a sample rather than the wide frame of research on +
+        topic
+      trial: >-
+        = a test of a drug or a method in the field, so a trial of or a trial on
+        is its frame and it names the test itself, not the body of work
+      paper: >-
+        = the written report, so a paper on + topic is the article while research
+        is the activity; she is doing research, not publishing
+      poll: >-
+        = a snapshot of opinion from a sample of voters, with the frames a poll of
+        or in a poll; it fits election or market work, not climate science
+    syn_nuance: >-
+      Research is the general word for systematic enquiry and it takes on, into
+      and for. Study names a body of written work as much as the activity,
+      investigation adds a hunt for causes, analysis needs data that already
+      exists, and inquiry wants into or by. The frame, not the sense, tells you
+      which member fits the sentence in front of you.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: reshape
+    ipa: /ˌriːˈʃeɪp/
+    pos: verb
+    tip: re-shape — shape again
+    definition: To change the shape or form of something.
+    example: Technology is reshaping the job market.
+    synonyms:
+      - transform
+      - alter
+      - restructure
+      - remodel
+    syn_pos: verb
+    syn_example: Reshape / transform / remould — to change the shape of something.
+    components:
+      - spelling
+      - definitions
+  - word: residence
+    ipa: /ˈrez.ɪ.dəns/
+    pos: noun
+    tip: res-i-dence — "sid" sit
+    definition: The place where a person lives.
+    example: Student residence is close to the campus.
+    synonyms:
+      - home
+      - housing
+      - accommodation
+      - quarters
+    syn_pos: noun
+    syn_example: A residence / home / quarters — the place where you live.
+    components:
+      - spelling
+      - definitions
+  - word: restricted
+    ipa: /rɪˈstrɪk.tɪd/
+    pos: adjective
+    tip: re-strict-ed — "strict" bound
+    definition: Limited or controlled within boundaries.
+    example: Access to the site is restricted.
+    synonyms:
+      - limited
+      - constrained
+      - confined
+      - controlled
+    syn_pos: adjective
+    syn_example: Restricted / limited / constrained — kept within limits.
+    components:
+      - spelling
+      - definitions
+  - word: retain
+    ipa: /rɪˈteɪn/
+    pos: verb
+    tip: re-tain — "tain" hold
+    definition: To keep or continue to have something.
+    example: The building retains its original character.
+    synonyms:
+      - keep
+      - maintain
+      - preserve
+      - hold onto
+    syn_pos: verb
+    syn_example: Retain / keep / preserve — to keep or continue to have.
+    components:
+      - spelling
+      - definitions

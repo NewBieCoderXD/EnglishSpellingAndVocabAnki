@@ -1,0 +1,423 @@
+words:
+  - word: objective
+    ipa: /əbˈdʒek.tɪv/
+    pos: noun/adjective
+    tip: ob-jec-tive — 'ject', then 'ive'
+    spelling_hint: ""
+    definition: A goal or aim; also, based on facts rather than feelings.
+    example: Our main objective is to cut costs.
+    synonyms:
+      - goal
+      - aim
+      - target
+      - purpose
+      - intention
+    syn_pos: noun
+    syn_example: Set a clear objective / goal / target.
+    syn_examples:
+      - the: Our main objective is to cut costs.
+        syns:
+          - goal
+          - aim
+          - target
+          - purpose
+      - the: Set a clear objective before starting.
+        syns:
+          - goal
+          - purpose
+          - intention
+    syn_notes:
+      goal: a desired result
+      aim: what one intends
+      target: a measurable goal
+      purpose: the reason for something
+      intention: what one plans to do
+    syn_near:
+      - mission
+      - task
+      - milestone
+      - ambition
+    syn_avoid:
+      aim: >-
+        = a purpose one sets out to reach, usually with "at" plus a gerund ("an
+        aim at reducing costs"); when you fix the destination before starting, the
+        noun you want is goal or objective
+      intention: >-
+        = the private plan in someone's mind, so it wants a person as subject and
+        often a gerund ("her intention of leaving"); in "our main objective is to
+        cut costs" the aim belongs to a plan, not a person
+      target: >-
+        = a measurable figure or date to be hit, as in "a sales target of 20%";
+        that is the standard word for a number, but "set a clear target before
+        starting" asks for the destination, not a quota
+      mission: >-
+        = a broad assignment given to a person or team, often idealistic ("a
+        mission to help the poor"); it overstates a practical end point like
+        cutting costs and sounds informal in a plan
+      task: >-
+        = a piece of work to be carried out, normally with a verb ("a task of
+        sorting files"); it names an action, not the state you are working
+        towards, so it fails in "set a clear objective"
+      milestone: >-
+        = a dated checkpoint on a project timeline, as in "a milestone in the
+        plan"; it marks progress along the way and can never stand for the end
+        point itself
+      ambition: >-
+        = a long-term personal aspiration, often about status or achievement; too
+        grand and self-focused for a clear operational destination like cutting
+        costs
+    syn_nuance: >-
+      All of these name the end being worked towards, but the frame sorts them. An
+      objective or goal is a defined destination, an aim takes "at" plus a gerund
+      ("an aim at cutting costs"), a target is a number or date to be hit, an
+      intention belongs to a person, and a purpose explains why something is done.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: obligation
+    ipa: /ˌɒb.lɪˈɡeɪ.ʃən/
+    pos: noun
+    tip: ob-li-ga-tion — "lig" bind
+    definition: Something that must be done because of duty or law.
+    example: Citizens have a legal obligation to pay taxes.
+    synonyms:
+      - duty
+      - responsibility
+      - requirement
+    syn_pos: noun
+    syn_example: An obligation / duty / responsibility — a required action.
+    components:
+      - spelling
+      - definitions
+  - word: obsolete
+    ipa: /ˈɒb.sə.liːt/
+    pos: adjective
+    tip: ob-so-lete — 'so', then 'lete'
+    spelling_hint: ""
+    definition: No longer used or needed; out of date.
+    example: Many skills have become obsolete.
+    synonyms:
+      - outdated
+      - outmoded
+      - antiquated
+      - archaic
+      - superseded
+    syn_pos: adjective
+    syn_example: Outdated / obsolete / antiquated technology.
+    syn_examples:
+      - the: Many skills have become obsolete.
+        syns:
+          - outdated
+          - outmoded
+          - superseded
+      - the: The old equipment is now obsolete.
+        syns:
+          - superseded
+          - antiquated
+          - archaic
+    syn_notes:
+      outdated: old-fashioned
+      outmoded: no longer fashionable
+      antiquated: old to the point of uselessness
+      archaic: belonging to old times
+      superseded: replaced by something new
+    syn_near:
+      - obsolescent
+      - defunct
+      - dated
+      - antique
+      - redundant
+    syn_avoid:
+      antiquated: >-
+        = too old to be of any practical use, of methods, laws and ideas; it fits
+        the old equipment frame, but skills that have merely been overtaken are
+        outmoded, not antiquated
+      archaic: >-
+        = belonging to the distant past, used of language, spelling and custom, as
+        in an archaic spelling; it labels a form that survives, not a skill that
+        has been replaced
+      outdated: >-
+        = behind the times but still usable, the word for views, fashions and
+        information; the equipment frame wants a machine that is out of action,
+        not merely old
+      outmoded: >-
+        = no longer fashionable or current, of styles, methods and ideas; for a
+        machine the deck wants superseded by a newer model, which points at a
+        replacement
+      obsolescent: >-
+        = about to become obsolete, as in 'an obsolescent system'; it points
+        at something still in use for now, whereas the target says put out of
+        use entirely
+      defunct: >-
+        = no longer existing or functioning, the usual register for bodies,
+        companies and systems, so defunct equipment is not the natural frame for a
+        machine in a report
+      dated: >-
+        = old-fashioned but still in use, and milder, whereas the target says put
+        out of use entirely, so a dated method can still be taught
+      antique: >-
+        = a collectable object of some age, or belonging to the trade in antiques;
+        it names a thing you could own, not a skill that has died out of use
+      redundant: >-
+        = no longer needed because a person or a new system does the job, as in
+        staff made redundant; fine English for jobs and IT systems, but it is a
+        workplace term, not a label for skills or equipment
+    syn_nuance: >-
+      All mean dropped from current use, but the frame sorts them. Outdated and
+      outmoded sit with skills, ideas and fashions, superseded needs a newer
+      version, as in superseded by X, antiquated judges something too old to be of
+      use, and archaic belongs to language, spelling and custom, as in an archaic
+      spelling.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: obstacle
+    ipa: /ˈɒb.stə.kəl/
+    pos: noun
+    tip: ob-sta-cle — "sta" stand (barrier)
+    definition: Something that blocks progress and makes success difficult.
+    example: Lack of funding is a major obstacle to growth.
+    synonyms:
+      - barrier
+      - hurdle
+      - difficulty
+      - challenge
+    syn_pos: noun
+    syn_example: An obstacle / barrier / hurdle — something in the way.
+    components:
+      - spelling
+      - definitions
+  - word: occurrence
+    ipa: /əˈkʌr.əns/
+    pos: noun
+    tip: oc-cur-rence — double c, double r
+    definition: An event or the fact of something happening.
+    example: Flooding is a rare occurrence in this city.
+    synonyms:
+      - event
+      - incident
+      - phenomenon
+      - happening
+    syn_pos: noun
+    syn_example: An occurrence / event / incident — something that happens.
+    components:
+      - spelling
+      - definitions
+  - word: omnipresent
+    ipa: /ˌɒm.nɪˈprez.ənt/
+    pos: adjective
+    tip: omni-present — everywhere
+    definition: Present everywhere at the same time.
+    example: Advertising is omnipresent on the internet.
+    synonyms:
+      - ubiquitous
+      - pervasive
+      - widespread
+      - everywhere
+    syn_pos: adjective
+    syn_example: Omnipresent / ubiquitous / pervasive — everywhere all the time.
+    components:
+      - spelling
+      - definitions
+  - word: opportunity
+    ipa: /ˌɒp.əˈtjuː.nə.ti/
+    pos: noun
+    tip: op-<b>por</b>-tu-ni-ty — double <b>p</b>
+    spelling_hint: ""
+    definition: A favourable time or chance to do something.
+    example: Studying abroad was the opportunity of a lifetime.
+    synonyms:
+      - chance
+      - prospect
+      - opening
+      - possibility
+    syn_pos: noun
+    syn_example: '"Career opportunities" — prospects / openings fit employment essays.'
+    syn_examples:
+      - the: Studying abroad was the opportunity of a lifetime.
+        syns:
+          - chance
+        avoid:
+          possibility: >-
+            = just something that can happen, with no luck in it ("a possibility of
+            rain"); a once-in-a-lifetime chance is a rare good opening, not simply
+            an outcome
+          prospect: >-
+            = something likely to happen later, and it likes "the prospect of +
+            noun"; studying abroad here is already over and was the chance itself,
+            not a future likelihood
+      - the: The internet creates new opportunities for small businesses.
+        syns:
+          - prospect
+          - chance
+        types:
+          - prospects
+          - possibilities
+          - chances
+        avoid:
+          possibility: >-
+            = only an outcome, with nothing there to take up; "creates new X for
+            small businesses" points at openings a firm can act on, so this frame
+            wants the chance sense, not a bare outcome
+      - the: She was given the opportunity to lead the project.
+        syns:
+          - chance
+        avoid:
+          possibility: >-
+            = it names an outcome, and it prefers "the possibility of + -ing"; she
+            was handed something she can use, so "the possibility to lead the
+            project" is not the frame
+          prospect: >-
+            = a future likelihood that wants "of" ("the prospect of leading the
+            project"); she has already been given it, so nothing is left ahead to
+            look forward to
+    syn_notes:
+      chance: a favourable possibility
+      prospect: a likely future opportunity
+      opening: an available position or gap
+      possibility: something that can happen
+    syn_near:
+      - occasion
+      - window
+      - option
+      - break
+      - privilege
+    syn_avoid:
+      possibility: >-
+        = simply something that can happen, with no luck or favour in it ("a
+        possibility of rain"); fine as a plural in "new possibilities", but a
+        once-in-a-lifetime opening is not just an outcome
+      prospect: >-
+        = something likely to happen later, normally a plural ("job prospects", "the
+        prospect of a rise"); it looks forward, so it cannot report an opening
+        already handed to someone
+      opening: >-
+        = a vacant post, a gap in a diary or a slot for entry ("an opening in the
+        team", "job openings"); it names a post, not a chance, and needs in / at
+        / for
+      occasion: >-
+        = a particular time when an event happens ("on this occasion", "a formal
+        occasion"); it dates an event rather than naming a favourable opening, and
+        "the occasion of a lifetime" is a different idiom
+      window: >-
+        = it only works inside the fixed phrase "a window of opportunity"; on its
+        own a window is glass or a gap in a wall, and the bare noun cannot fill
+        "the ___ of a lifetime"
+      option: >-
+        = one choice from a list ("a cheaper option"); it is neutral, with no luck
+        or favour involved, so it drops the sense of a good chance worth taking up
+      break: >-
+        = a lucky opening in a career, informal ("she got her big break"); the
+        tone is journalistic and vague, and the phrase does not combine with "of a
+        lifetime"
+      privilege: >-
+        = an honour or an advantage others do not get ("a privilege to work
+        here"); it praises a social or moral advantage, which is not the same as a
+        practical opening that came along
+    syn_nuance: >-
+      All name a chance that something good can happen, but chance adds luck,
+      possibility is neutral and often plural ("new possibilities"), and prospect
+      looks forward to what is likely ("job prospects"). Opportunity is the
+      neutral one and the only member that takes "of a lifetime" or "an ___ to +
+      verb"; opening needs "an opening in / at".
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: oscillate
+    ipa: /ˈɒs.ɪ.leɪt/
+    pos: verb
+    tip: os-cil-late — "oscil" swing
+    definition: To move side to side or back and forth regularly.
+    example: Prices oscillate between two extremes.
+    synonyms:
+      - swing
+      - fluctuate
+      - vary
+      - waver
+    syn_pos: verb
+    syn_example: Oscillate / fluctuate / swing — to move back and forth.
+    components:
+      - spelling
+      - definitions
+  - word: outcome
+    ipa: /ˈaʊt.kʌm/
+    pos: noun
+    tip: out-come — what comes out
+    definition: The final result or consequence of something.
+    example: The outcome of the talks pleased both sides.
+    synonyms:
+      - result
+      - consequence
+      - effect
+      - conclusion
+    syn_pos: noun
+    syn_example: An outcome / result / consequence — what happens at the end.
+    components:
+      - spelling
+      - definitions
+  - word: outdated
+    ipa: /ˌaʊtˈdeɪ.tɪd/
+    pos: adjective
+    tip: out-dat-ed — out of date
+    definition: No longer current, useful or in fashion.
+    example: Many of the skills are now outdated.
+    synonyms:
+      - outmoded
+      - obsolete
+      - antiquated
+      - old-fashioned
+    syn_pos: adjective
+    syn_example: Outdated / outmoded / obsolete — no longer current.
+    components:
+      - spelling
+      - definitions
+  - word: outmoded
+    ipa: /ˌaʊtˈməʊ.dɪd/
+    pos: adjective
+    tip: out-mod-ed — out of the mode
+    definition: No longer in fashion or use.
+    example: The factory still uses outmoded equipment.
+    synonyms:
+      - outdated
+      - obsolete
+      - antiquated
+    syn_pos: adjective
+    syn_example: Outmoded / outdated / obsolete — no longer in use or style.
+    components:
+      - spelling
+      - definitions
+  - word: overall
+    ipa: /ˌəʊ.vərˈɔːl/
+    pos: adjective
+    tip: over-all — taking everything into account
+    definition: Considering or including everything; general.
+    example: The overall trend is upward.
+    synonyms:
+      - general
+      - total
+      - overall
+      - comprehensive
+    syn_pos: adjective
+    syn_example: Overall / general / total — considering everything.
+    components:
+      - spelling
+      - definitions
+  - word: oversee
+    ipa: /ˌəʊ.vəˈsiː/
+    pos: verb
+    tip: over-see — to see over
+    definition: To be in charge of and watch over a process or group of people.
+    example: She oversees all the construction projects.
+    synonyms:
+      - supervise
+      - manage
+      - monitor
+      - direct
+    syn_pos: verb
+    syn_example: Oversee / supervise / manage — to be in charge of.
+    components:
+      - spelling
+      - definitions

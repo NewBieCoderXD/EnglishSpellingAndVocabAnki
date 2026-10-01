@@ -2,3 +2,4 @@ dist/
 .ankidaiku/
 media/
 tools/.venv/
+__pycache__/

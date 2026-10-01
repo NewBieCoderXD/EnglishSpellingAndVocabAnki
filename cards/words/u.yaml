@@ -1,0 +1,289 @@
+words:
+  - word: ubiquitous
+    ipa: /juːˈbɪk.wɪ.təs/
+    pos: adjective
+    tip: u-bi-<b>qui</b>-tous — every "q" is followed by "u"
+    spelling_hint: ""
+    definition: Seeming to be everywhere at the same time; very common.
+    example: Smartphones have become ubiquitous in modern life.
+    synonyms:
+      - everywhere
+      - pervasive
+      - widespread
+      - omnipresent
+    syn_pos: adjective
+    syn_example: '"Smartphones are ubiquitous" — pervasive / omnipresent are the academic replacements.'
+    syn_examples:
+      - the: Smartphones have become ubiquitous in modern life.
+        syns:
+          - pervasive
+          - omnipresent
+          - everywhere
+          - widespread
+      - the: Data collection is ubiquitous in the app economy.
+        syns:
+          - widespread
+          - pervasive
+          - omnipresent
+      - the: The brand is ubiquitous in the fashion industry.
+        syns:
+          - omnipresent
+          - widespread
+          - everywhere
+    syn_notes:
+      everywhere: present everywhere
+      pervasive: spreading through everything
+      widespread: over a wide area
+      omnipresent: present everywhere at once
+    syn_near:
+      - prevalent
+      - universal
+      - global
+      - endemic
+      - rampant
+    syn_avoid:
+      everywhere: >-
+        = an adverb of place, so it works as "the brand is everywhere"; but "have
+        become everywhere" is not English after become, and the slot before "in
+        modern life" needs an adjective
+      pervasive: >-
+        = spreading through a place or a system ("pervasive surveillance"); it is
+        fine in the data sentence, but it hints at intrusion, which sits badly
+        with a brand that is merely popular
+      prevalent: >-
+        = common in a place or at a time ("the disease was prevalent"); very close
+        in sense, but it measures how common a thing is, and "prevalent in the app
+        economy" needs a place after it
+      universal: >-
+        = done, held or understood by everyone ("universal healthcare", "a
+        universal truth"); it applies to all people or all cases, not to the
+        presence of an object, and not everyone owns a smartphone
+      global: >-
+        = covering the whole world ("global warming", "the global economy"); it
+        names the scope, not the frequency, so a product can be ubiquitous inside
+        one city and never be global
+      endemic: >-
+        = found only in one particular area ("an endemic disease"); it is the
+        opposite of spreading everywhere, so it points at confinement rather than
+        presence across many places
+      rampant: >-
+        = spreading fast and out of control, as in 'rampant crime'; it is
+        negative or alarming, while this sentence praises how widespread the
+        brand is, so the tone is wrong
+    syn_nuance: >-
+      All of these say a thing is present in many places, but omnipresent and
+      everywhere are absolute, while widespread and prevalent point to a wide area
+      or a high rate. Ubiquitous also suits something that has quietly become
+      normal, so crime is rampant and endemic means found in one area only.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: unbiased
+    ipa: /ʌnˈbaɪ.əst/
+    pos: adjective
+    tip: un-bi-ased — not biased
+    definition: Fair and not influenced by opinion or prejudice.
+    example: We need an unbiased review of the evidence.
+    synonyms:
+      - impartial
+      - objective
+      - neutral
+      - fair
+    syn_pos: adjective
+    syn_example: Unbiased / impartial / objective — without prejudice.
+    components:
+      - spelling
+      - definitions
+  - word: uncertain
+    ipa: /ʌnˈsɜː.tən/
+    pos: adjective
+    tip: un-cer-tain — not certain
+    definition: Not known, guaranteed or decided.
+    example: The future of the project looks uncertain.
+    synonyms:
+      - unsure
+      - unclear
+      - doubtful
+      - vague
+    syn_pos: adjective
+    syn_example: Uncertain / unsure / unclear — not known for sure.
+    components:
+      - spelling
+      - definitions
+  - word: underlying
+    ipa: /ˌʌn.dəˈlaɪ.ɪŋ/
+    pos: adjective
+    tip: under-lying — lying under
+    definition: The hidden cause or basis that lies beneath something.
+    example: We must tackle the underlying causes of crime.
+    synonyms:
+      - root
+      - fundamental
+      - basic
+      - deep-seated
+    syn_pos: adjective
+    syn_example: Underlying / fundamental / root — the deep cause beneath.
+    components:
+      - spelling
+      - definitions
+  - word: unfavourable
+    ipa: /ʌnˈfeɪ.vər.ə.bəl/
+    pos: adjective
+    tip: un-fa-vour-able — one l (BrE)
+    definition: Not good for a person or thing; making success difficult.
+    example: The market remained unfavourable for startups.
+    synonyms:
+      - adverse
+      - negative
+      - unhelpful
+      - damaging
+    syn_pos: adjective
+    syn_example: Unfavourable / adverse / negative — not helpful.
+    components:
+      - spelling
+      - definitions
+  - word: universal
+    ipa: /ˌjuː.nɪˈvɜː.səl/
+    pos: adjective
+    tip: uni-ver-sal — "uni" one, everyone
+    definition: True or suitable everywhere and for everyone.
+    example: Access to clean water should be universal.
+    synonyms:
+      - global
+      - widespread
+      - general
+      - generalised
+    syn_pos: adjective
+    syn_example: Universal / global / widespread — true for everyone all over.
+    components:
+      - spelling
+      - definitions
+  - word: unreasonable
+    ipa: /ʌnˈriː.zən.ə.bəl/
+    pos: adjective
+    tip: un-reason-able — not sensible
+    definition: Not fair or based on sensible judgement.
+    example: The demands were completely unreasonable.
+    synonyms:
+      - irrational
+      - unfair
+      - unjustifiable
+      - excessive
+    syn_pos: adjective
+    syn_example: Unreasonable / unjustifiable / irrational — not supported by sense.
+    components:
+      - spelling
+      - definitions
+  - word: unspoken
+    ipa: /ʌnˈspəʊ.kən/
+    pos: adjective
+    tip: un-spo-ken — not spoken
+    definition: Known or understood but not said out loud.
+    example: There was an unspoken agreement between them.
+    synonyms:
+      - tacit
+      - implicit
+      - implied
+      - unstated
+    syn_pos: adjective
+    syn_example: Unspoken / tacit / implicit — understood but not said.
+    components:
+      - spelling
+      - definitions
+  - word: up-to-date
+    ipa: /ˌʌp.təˈdeɪt/
+    pos: adjective
+    tip: up-to-date — hyphens, all three
+    definition: Having or using the most recent information or methods.
+    example: The figures are fully up-to-date.
+    synonyms:
+      - current
+      - modern
+      - latest
+      - sustainable
+    syn_pos: adjective
+    syn_example: Up-to-date / current / modern — with the latest information.
+    components:
+      - spelling
+      - definitions
+  - word: uphold
+    ipa: /ʌpˈhəʊld/
+    pos: verb
+    tip: up-hold — hold up
+    definition: To support or keep a decision, law or principle in force.
+    example: The court upheld the earlier decision.
+    synonyms:
+      - support
+      - maintain
+      - defend
+      - endorse
+    syn_pos: verb
+    syn_example: Uphold / support / maintain — to keep or confirm.
+    components:
+      - spelling
+      - definitions
+  - word: upside
+    ipa: /ˈʌp.saɪd/
+    pos: noun
+    tip: up-side — the up side
+    definition: The advantage or positive side of a situation.
+    example: The upside is that costs stay low.
+    synonyms:
+      - advantage
+      - benefit
+      - plus
+      - gain
+    syn_pos: noun
+    syn_example: The upside / advantage / benefit — the good side of something.
+    components:
+      - spelling
+      - definitions
+  - word: upsurge
+    ipa: /ˈʌp.sɜːdʒ/
+    pos: noun
+    tip: up-surge — a surge up
+    definition: A sudden and noticeable increase.
+    example: There has been an upsurge in online sales.
+    synonyms:
+      - surge
+      - rise
+      - increase
+      - boom
+    syn_pos: noun
+    syn_example: An upsurge / surge / rise — a sudden increase.
+    components:
+      - spelling
+      - definitions
+  - word: uptick
+    ipa: /ˈʌp.tɪk/
+    pos: noun
+    tip: up-tick — a tick up on the chart
+    definition: A small increase in a level or amount.
+    example: The latest figures show a small uptick in demand.
+    synonyms:
+      - increase
+      - rise
+      - improvement
+      - surge
+    syn_pos: noun
+    syn_example: An uptick / rise / increase — a small upward movement.
+    components:
+      - spelling
+      - definitions
+  - word: urgent
+    ipa: /ˈɜː.dʒənt/
+    pos: adjective
+    tip: ur-gent — "urge" acts now
+    definition: Needing immediate action or attention.
+    example: Housing is the most urgent issue facing the city.
+    synonyms:
+      - pressing
+      - critical
+      - immediate
+      - vital
+    syn_pos: adjective
+    syn_example: Urgent / pressing / critical — needing action at once.
+    components:
+      - spelling
+      - definitions

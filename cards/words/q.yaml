@@ -1,0 +1,87 @@
+words:
+  - word: quarantine
+    ipa: /ˈkwɒr.ən.tiːn/
+    pos: noun/verb
+    tip: quar-an-tine — 'quar', then 'an-tine'
+    spelling_hint: ""
+    definition: A period of isolation to prevent the spread of disease.
+    example: The patient was placed in quarantine.
+    synonyms:
+      - isolation
+      - seclusion
+      - lockdown
+      - detention
+      - confinement
+    syn_pos: noun
+    syn_example: A period of quarantine / isolation / lockdown.
+    syn_examples:
+      - the: Travelers were kept in quarantine.
+        syns:
+          - isolation
+          - seclusion
+          - confinement
+        avoid:
+          detention: >-
+            = punishment for a minor offence, in the fixed frames "in detention" and
+            "a detention centre"; travellers are held to protect public health, so
+            the register fails
+      - the: The city was placed under quarantine.
+        syns:
+          - lockdown
+          - isolation
+          - confinement
+        avoid:
+          detention: >-
+            = punishment for an offence, and it takes a person, so the frame is "in
+            detention", never "under detention"; a city is held under "lockdown" or
+            "isolation"
+    syn_notes:
+      isolation: separation from others
+      seclusion: being alone or withdrawn
+      lockdown: movement restricted for everyone
+      detention: held as punishment
+      confinement: restricted to a space
+    syn_near:
+      - curfew
+      - embargo
+      - blockade
+      - custody
+    syn_avoid:
+      detention: >-
+        = punishment for a minor offence, in the fixed frames "in detention" and
+        "a detention centre"; holding travellers or a whole city is a
+        public-health measure, not a penalty, so the register fails
+      lockdown: >-
+        = a total restriction on movement for everyone in a place, and it takes
+        "under" ("under lockdown"); individual travellers kept apart are being
+        isolated, not a population shut in
+      seclusion: >-
+        = the deliberate privacy of someone who wants to be alone, often religious
+        or literary; residents under a citywide order are not secluded by choice,
+        and the frame is not "placed under seclusion"
+      curfew: >-
+        = a rule to be indoors or off the streets by a set hour ("a night curfew",
+        "under curfew"); it limits the time of day, not contact between people, so
+        it cannot hold travellers apart for infection
+      embargo: >-
+        = a legal ban on trade or shipping that one state imposes on another ("an
+        embargo on trade"); the point of quarantine is stopping transmission
+        between people, not stopping goods crossing a border
+      blockade: >-
+        = a physical or military barrier stopping people or goods entering a
+        place; it is a stronger, political act than a health precaution, and
+        travellers held at a border are not the blocked party
+      custody: >-
+        = the legal holding of a person, in the frames "in police custody" and
+        "taken into custody"; it implies arrest or a dispute over a child, so
+        "kept in custody" loses the health risk entirely
+    syn_nuance: >-
+      All of these mean being kept apart, but quarantine names the health
+      precaution and takes "in" for a person or "under" for a place. Lockdown
+      shuts a whole population in, isolation separates a case or group,
+      confinement stresses the restricted space, seclusion is a chosen retreat and
+      detention is a punishment.
+    components:
+      - spelling
+      - definitions
+      - synonyms

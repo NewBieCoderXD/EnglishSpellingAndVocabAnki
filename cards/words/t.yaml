@@ -1,0 +1,422 @@
+words:
+  - word: tacit
+    ipa: /ˈtæs.ɪt/
+    pos: adjective
+    tip: ta-cit — "tac" silent
+    definition: Understood or agreed without being stated in words.
+    example: His silence was tacit agreement.
+    synonyms:
+      - implicit
+      - unspoken
+      - implied
+      - understood
+    syn_pos: adjective
+    syn_example: Tacit / implicit / unspoken — understood without words.
+    components:
+      - spelling
+      - definitions
+  - word: tactic
+    ipa: /ˈtæk.tɪk/
+    pos: noun
+    tip: tac-tic — "tac" arrange
+    definition: A method used to achieve a particular aim.
+    example: The company uses aggressive marketing tactics.
+    synonyms:
+      - strategy
+      - method
+      - approach
+      - manoeuvre
+    syn_pos: noun
+    syn_example: A tactic / strategy / method — a way of achieving something.
+    components:
+      - spelling
+      - definitions
+  - word: target
+    ipa: /ˈtɑː.ɡɪt/
+    pos: noun
+    tip: tar-get — keep the "ar"
+    definition: A goal set to be achieved.
+    example: We met our sales target for the year.
+    synonyms:
+      - goal
+      - objective
+      - aim
+      - intention
+    syn_pos: noun
+    syn_example: A target / goal / objective — a set aim to reach.
+    components:
+      - spelling
+      - definitions
+  - word: tentative
+    ipa: /ˈten.tə.tɪv/
+    pos: adjective
+    tip: ten-ta-tive — "ta" not "te", and three syllables
+    spelling_hint: ""
+    definition: Provisional; stated or agreed as a temporary step that may still be changed.
+    example: We reached a tentative agreement on the new deadline.
+    synonyms:
+      - provisional
+      - preliminary
+      - interim
+      - cautious
+      - inconclusive
+    syn_pos: adjective
+    syn_example: A tentative agreement / estimate — agreed or stated, but not final.
+    syn_examples:
+      - the: We reached a tentative agreement on the new deadline.
+        syns:
+          - provisional
+          - preliminary
+          - interim
+      - the: His conclusion was tentative because the sample was small.
+        syns:
+          - preliminary
+          - provisional
+        avoid:
+          interim: >-
+            = the temporary stage sitting between two events, as in an interim
+            report; it is not about a conclusion that may still be revised
+    syn_notes:
+      provisional: in force for now, until something replaces it
+      preliminary: an early stage before the real one
+      interim: covering the gap between two stages
+    syn_near:
+      - vague
+      - hesitant
+      - doubtful
+    syn_avoid:
+      cautious: >-
+        = careful about risk, and it describes a person or a choice: 'a cautious
+        agreement' is not a phrase, though 'a cautious approach' is
+      inconclusive: >-
+        = says nothing can be concluded from the evidence; a tentative finding is
+        one you are not yet sure of, which is a different problem
+      vague: >-
+        = not specific enough to be usable; a tentative agreement is clear about
+        what was agreed, only not final
+      hesitant: >-
+        = describes a person wavering, as in a hesitant reply; it cannot describe
+        the agreement itself
+      doubtful: >-
+        = not sure it is true or right, so 'a doubtful agreement' says you doubt
+        it exists at all; tentative says it stands for now
+    syn_nuance: >-
+      All four mark something as not final, but they differ in why. Tentative =
+      stated or agreed, yet open to change (a tentative finding, a tentative
+      peace deal). Provisional = officially in force until something replaces it
+      (a provisional permit). Preliminary = the first stage of a longer process
+      (preliminary data). Interim = the temporary stage in between (an interim
+      report).
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: termination
+    ipa: /ˌtɜː.mɪˈneɪ.ʃən/
+    pos: noun
+    tip: ter-mi-na-tion — "term" end
+    definition: The act of ending something.
+    example: Either side can give notice of termination.
+    synonyms:
+      - ending
+      - dismissal
+      - closure
+      - conclusion
+    syn_pos: noun
+    syn_example: Termination / ending / dismissal — the act of bringing to an end.
+    components:
+      - spelling
+      - definitions
+  - word: theory
+    ipa: /ˈθɪə.ri/
+    pos: noun
+    tip: the-ory — "theo" as Greek for seeing
+    definition: An idea or explanation supported by evidence and tested against data.
+    example: The data supports the theory of climate change.
+    synonyms:
+      - hypothesis
+      - premise
+      - model
+      - explanation
+    syn_pos: noun
+    syn_example: A theory / hypothesis — an explanation to be tested.
+    components:
+      - spelling
+      - definitions
+  - word: thorough
+    ipa: /ˈθʌr.ə/
+    pos: adjective
+    tip: thor-ough — "th/" like thank; watch the "-ough"
+    definition: Complete and careful, considering every detail.
+    example: The safety check was quick but thorough.
+    synonyms:
+      - complete
+      - detailed
+      - comprehensive
+    syn_pos: adjective
+    syn_example: A thorough / comprehensive check — covers everything.
+    components:
+      - spelling
+      - definitions
+  - word: transfer
+    ipa: /trænsˈfɜː/
+    pos: verb
+    tip: trans-fer — "trans" across, "fer" carry
+    definition: To move something or someone from one place to another.
+    example: She transferred the funds to another account.
+    synonyms:
+      - move
+      - shift
+      - convey
+      - relocate
+    syn_pos: verb
+    syn_example: Transfer / transfer or convey — to move from one place to another.
+    components:
+      - spelling
+      - definitions
+  - word: transform
+    ipa: /trænsˈfɔːm/
+    pos: verb
+    tip: trans-form — the prefix 'trans'
+    spelling_hint: ""
+    definition: To change something completely, usually for the better.
+    example: Technology has transformed the industry.
+    synonyms:
+      - change
+      - convert
+      - alter
+      - renovate
+      - reshape
+    syn_pos: verb
+    syn_example: Technology has transformed / reshaped / revolutionised work.
+    syn_examples:
+      - the: Technology continues to transform the industry.
+        syns:
+          - change
+          - reshape
+          - alter
+        avoid:
+          convert: >-
+            = to change the form or the use of a thing, and its frame is convert
+            something into something else, so it has no into phrase in the industry
+            sentence
+          renovate: >-
+            = to restore an old property to good condition, so its object must be a
+            building, a room or a fitment; an industry is not something that can be
+            repaired, and renovate the industry is not idiomatic
+      - the: They plan to transform the old factory into flats.
+        syns:
+          - convert
+          - renovate
+          - change
+      - the: We need to transform the way we work.
+        syns:
+          - change
+          - alter
+          - reshape
+        avoid:
+          convert: >-
+            = to change the form or the use of a thing, and its frame is convert
+            something into something else; the way we work is a practice, not a
+            substance, and no into phrase appears here
+          renovate: >-
+            = to restore an old property to good condition ("renovate the house",
+            "renovate the kitchen"); the way we work is a method, and no building or
+            room in this sentence can be renovated
+    syn_notes:
+      change: make different
+      convert: change in form or use
+      alter: make a small change
+      renovate: restore to good condition
+      reshape: give a new shape
+    syn_near:
+      - improve
+      - upgrade
+      - modify
+      - revolutionise
+      - replace
+    syn_avoid:
+      alter: >-
+        = to change something slightly while keeping its nature, so it cannot
+        carry a whole new use in the factory sentence; it fits the way we work,
+        where a detail changes
+      convert: >-
+        = to change the form or the use of a thing, and its frame is convert
+        something into something else, so it has no into phrase in the industry
+        sentence
+      renovate: >-
+        = to restore an old property to good condition, and its object must be a
+        building or a room, not an industry or the way we work
+      reshape: >-
+        = to give a new shape or structure to a thing that already has shape, so
+        it takes a landscape or a career, and it does not accept an into phrase
+      improve: >-
+        = to make something better while leaving it the same thing, so it is too
+        small for a verb that replaces the old with something new; it fits a
+        service or a result
+      upgrade: >-
+        = to raise something to a higher standard or a newer version, and it
+        expects a product or a system that already exists; upgrading the way we
+        work is not idiomatic
+      modify: >-
+        = a technical word, standard in science and law, for a small change to a
+        specification; modify the industry and modify the way we work are both off
+      revolutionise: >-
+        = to change a whole field completely, and it is the strong verb used with
+        manufacturing, the media or transport; far too dramatic for one old
+        factory
+      replace: >-
+        = to take one thing out and put another in its place, so it leaves the
+        original entity standing rather than changing it, as a replacement would
+    syn_nuance: >-
+      Transform says a complete change, and it takes almost any object, from an
+      industry to the way we work. Alter edits a detail, convert needs an into
+      phrase, renovate is for old property, and reshape takes something that
+      already has a shape. The object in the sentence, and the presence of into,
+      decide the member.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: translate
+    ipa: /trænzˈleɪt/
+    pos: verb
+    tip: trans-late — "trans" across
+    definition: To change words from one language into another.
+    example: The novel was translated into twenty languages.
+    synonyms:
+      - interpret
+      - render
+      - convert
+    syn_pos: verb
+    syn_example: Translate / render — to change from one language into another.
+    components:
+      - spelling
+      - definitions
+  - word: transmit
+    ipa: /trænzˈmɪt/
+    pos: verb
+    tip: trans-mit — the prefix 'trans', double t at end
+    spelling_hint: ""
+    definition: To send or pass on something from one place or person to another.
+    example: The signal is transmitted over long distances.
+    synonyms:
+      - send
+      - pass on
+      - convey
+      - transfer
+      - broadcast
+    syn_pos: verb
+    syn_example: Transmit / convey / pass on information.
+    syn_examples:
+      - the: The signal is designed to transmit over long distances.
+        syns:
+          - send
+          - transfer
+          - broadcast
+        avoid:
+          convey: >-
+            = to carry an idea, a feeling or a message in words, so its object must
+            be a meaning; here the verb takes no object at all, only over long
+            distances, and a signal carries no sense
+      - the: Water can transmit the disease.
+        syns:
+          - pass on
+          - transfer
+        avoid:
+          convey: >-
+            = to carry an idea, a feeling or a message in words, so its object must
+            be a meaning; a disease is a physical agent, not a sense, and what water
+            does here is move a germ
+          broadcast: >-
+            = a mass medium act, sending the same item to a wide audience
+            ("broadcast on a station"); water is not a station and nobody chooses to
+            send this out, so a disease spreads rather than broadcasts
+      - the: She will transmit the message to the whole team.
+        syns:
+          - convey
+          - pass on
+          - send
+        avoid:
+          broadcast: >-
+            = a mass medium act, sending the same item to a wide audience, with the
+            frames broadcast on a station and broadcast to the public; one message
+            to a team is not a broadcast
+    syn_notes:
+      send: make something go to someone
+      pass on: hand along
+      convey: communicate or carry
+      transfer: move from one to another
+      broadcast: send out to many
+    syn_near:
+      - communicate
+      - spread
+      - relay
+      - forward
+      - deliver
+    syn_avoid:
+      broadcast: >-
+        = a mass medium act, sending the same item to a wide audience, with the
+        frames broadcast on a station and broadcast to the public; one message to
+        a team is not a broadcast
+      convey: >-
+        = to carry an idea, a feeling or a message in words, so its object must be
+        a meaning; it will not carry a signal over a distance or a disease in
+        water
+      pass on: >-
+        = to hand something to the next person, and it is natural for humans
+        passing a message; the subject here is a signal or water, which needs a
+        more direct verb
+      send: >-
+        = the plainest verb, and it wants a recipient in a to or for phrase or a
+        destination; water does not send anything, and a signal sends itself only
+        by a strained metaphor
+      transfer: >-
+        = to move money, a person or ownership from one holder to another, so it
+        needs a from or to pair; a message or a signal has no owner to hand it
+        over
+      communicate: >-
+        = a two-way human act with the frames communicate something to someone and
+        communicate with someone; a disease passing through water is not a person
+        telling a person
+      spread: >-
+        = to extend over an area or from person to person, and spread the disease
+        is perfectly good English, so it works, but it names the spread rather
+        than the carrying
+      relay: >-
+        = to pass a signal or a message along a chain, at once technical and
+        broadcast, and it likes a relay station or a relay from A to B rather than
+        a plain subject
+      forward: >-
+        = the office and email word, and it needs a to addressee; forwarding a
+        disease, or a signal across a distance, is not idiomatic English
+      deliver: >-
+        = to carry and hand over goods, a parcel or a message to a place or a
+        person; a signal designed to deliver over long distances loses the sense
+        of carrying
+    syn_nuance: >-
+      Transmit is the general verb for sending a signal, a disease or a message
+      along a route, and it accepts all three. Send wants a recipient, broadcast
+      an audience, convey a meaning and transfer an owner, while pass on belongs
+      to people handing something along. The subject and the object decide, so a
+      signal transmits and a team receives.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: tremendous
+    ipa: /trɪˈmen.dəs/
+    pos: adjective
+    tip: tre-men-dous — "tremble" with size
+    definition: Very large, great or impressive.
+    example: The campaign was a tremendous success.
+    synonyms:
+      - huge
+      - enormous
+      - massive
+      - remarkable
+    syn_pos: adjective
+    syn_example: Tremendous / enormous / massive — extremely large or great.
+    components:
+      - spelling
+      - definitions

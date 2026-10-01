@@ -1,0 +1,1267 @@
+words:
+  - word: accentuate
+    ipa: /əkˈsen.tʃu.eɪt/
+    pos: verb
+    tip: accent-u-ate — puts an "accent" on something
+    definition: To make a quality stand out or appear more obvious.
+    example: The dark frame accentuates the brightness of the painting.
+    synonyms:
+      - highlight
+      - underline
+      - emphasize
+      - stress
+    syn_pos: verb
+    syn_example: Accentuate / highlight / underscore — to draw attention to.
+    components:
+      - spelling
+      - definitions
+  - word: accommodation
+    ipa: /əˌkɒm.əˈdeɪ.ʃən/
+    pos: noun
+    tip: two <b>c</b>'s, two <b>m</b>'s — ac<b>co</b>-mmo-dation
+    spelling_hint: ""
+    definition: A place to live, work or stay in; a room or building used as temporary residence.
+    example: Accommodation in the city centre is expensive.
+    synonyms:
+      - housing
+      - lodging
+      - quarters
+      - shelter
+      - residence
+    syn_pos: noun
+    syn_example: '"Affordable accommodation" — housing / lodging / shelter read well in task 1 reports and city essays.'
+    syn_examples:
+      - the: Accommodation in the city centre is expensive.
+        syns:
+          - housing
+          - lodging
+          - residence
+        avoid:
+          quarters: >-
+            = space allotted to a group such as staff or soldiers, and the set
+            phrase is "living quarters"; "quarters in the city centre" names a
+            group's base, not the cost of a bed
+          shelter: >-
+            = a safe covered place, which adds protection; prices here measure where
+            you sleep, so "shelter in the city centre" wrongly suggests rough
+            housing
+      - the: The charity provides accommodation for the homeless.
+        syns:
+          - shelter
+          - lodging
+          - housing
+        avoid:
+          quarters: >-
+            = space allotted to a group such as staff or soldiers, usually in
+            "living quarters"; the homeless are individuals, so "provides quarters"
+            sounds like a barrack block
+      - the: Staff accommodation is available near the campus.
+        syns:
+          - quarters
+          - residence
+          - housing
+        avoid:
+          shelter: >-
+            = a safe covered place offering protection, the right word for the
+            homeless, but employer housing is not a refuge; "shelter is available"
+            promises emergency cover, not a job's bed
+    syn_notes:
+      housing: houses or homes collectively
+      lodging: a temporary rented place
+      quarters: living space (staff, military)
+      shelter: protective housing
+      residence: a place of living
+    syn_near:
+      - accommodate
+      - reside
+      - amenities
+      - hospitality
+      - apartment
+    syn_avoid:
+      lodging: >-
+        = rented rooms taken for a short stay, so it fits "accommodation for the
+        homeless" and the city centre, but not the British institutional frame
+        "staff accommodation"
+      quarters: >-
+        = space allotted to a group such as staff or soldiers, and the usual set
+        phrase is "living quarters"; the uncountable noun reads better in "Staff
+        accommodation is available"
+      residence: >-
+        = the permanent home of a named person or group, which points at status
+        and address rather than beds provided, so it is rejected in "accommodation
+        for the homeless"
+      shelter: >-
+        = a safe covered place, which adds protection rather than simply somewhere
+        to live, so it serves "shelter for the homeless" but not the price of
+        "accommodation in the city centre"
+      accommodate: >-
+        = the verb behind the noun, as in "hotels accommodate 500 guests"; the
+        card needs the noun naming the beds or rooms provided, not the act of
+        providing them
+      reside: >-
+        = to live in a place, a verb about the person, so it goes in "she resides
+        in Rome"; here the slots want the housing itself, not its occupant
+      amenities: >-
+        = the services and facilities of a place, such as a gym or a shop, so it
+        says nothing about how many beds or rooms exist for rent
+      hospitality: >-
+        = a friendly welcome and food offered to guests, an attitude rather than a
+        supply of rooms, and the opposite of accommodation priced by the night
+      apartment: >-
+        = one self-contained flat, a single countable unit in American English
+        (flat in British), where accommodation is the housing available in general
+        and is uncountable
+    syn_nuance: >-
+      All of these name somewhere to live, but the frame decides which fits:
+      accommodation is the general uncountable word for the beds and rooms
+      available, housing is the stock of homes, quarters is space allotted to
+      staff or soldiers, lodging is rented rooms for visitors, shelter adds
+      protection, and residence marks a permanent home.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: accomplish
+    ipa: /əˈkʌm.plɪʃ/
+    pos: verb
+    tip: ac-com-plish — two c’s, one m
+    definition: To succeed in finishing a task or achieving a goal.
+    example: She accomplished everything she set out to do.
+    synonyms:
+      - achieve
+      - attain
+      - fulfil
+      - complete
+    syn_pos: verb
+    syn_example: Accomplish / achieve / attain — to complete by effort.
+    components:
+      - spelling
+      - definitions
+  - word: accord
+    ipa: /əˈkɔːd/
+    pos: noun
+    tip: ac-cord — a "cordo" (heart), agreement of hearts
+    definition: A formal agreement or harmony between people or groups.
+    example: The two sides signed a peace accord.
+    synonyms:
+      - agreement
+      - treaty
+      - pact
+    syn_pos: noun
+    syn_example: An accord / pact / treaty — a formal agreement.
+    components:
+      - spelling
+      - definitions
+  - word: accountability
+    ipa: /əˌkaʊn.təˈbɪl.ə.ti/
+    pos: noun
+    tip: account-ability — being able to be "counted" for
+    definition: The fact of being responsible for your actions and results.
+    example: Voters demand greater accountability from politicians.
+    synonyms:
+      - responsibility
+      - answerability
+      - liability
+    syn_pos: noun
+    syn_example: Accountability / responsibility — being answerable for actions.
+    components:
+      - spelling
+      - definitions
+  - word: accurate
+    ipa: /ˈæk.jər.ət/
+    pos: adjective
+    tip: ac-cu-rate — double c, then 'cu-rate'
+    spelling_hint: ""
+    definition: Correct in all details; exact and free from error.
+    example: The figures were accurate.
+    synonyms:
+      - exact
+      - precise
+      - correct
+      - faithful
+      - "true"
+    syn_pos: adjective
+    syn_example: An accurate / precise / exact measurement.
+    syn_examples:
+      - the: The figures were accurate.
+        syns:
+          - exact
+          - precise
+          - correct
+        avoid:
+          "true": >-
+            = factually right, and it works best with a that-clause or "true to +
+            noun"; "the figures were true" is possible English, but exact or correct
+            is the natural predicate for a check on data
+      - the: She gave accurate details of the events.
+        syns:
+          - faithful
+          - correct
+          - precise
+        avoid:
+          "true": >-
+            = factually right, and it works best with a that-clause or "true to +
+            noun"; as an adjective before a bare noun it wants a count noun, so true
+            details of the events is not idiomatic
+    syn_notes:
+      exact: exactly right
+      precise: detailed and exact
+      correct: without error
+      faithful: true to the original
+      "true": factually correct
+    syn_near:
+      - sound
+      - reliable
+      - valid
+      - right
+    syn_avoid:
+      exact: >-
+        = exactly right down to the last figure, which suits "the figures were
+        exact"; for "accurate details of the events" it suggests a word-for-word
+        copy rather than a clear account
+      faithful: >-
+        = true to an original, so it needs "a faithful copy, translation or
+        summary"; the figures are data rather than a rendering, though "a faithful
+        account of the events" is natural
+      "true": >-
+        = factually right, and it works best with a that-clause or "true to +
+        noun"; as a bare adjective before figures or details it is clumsy
+      sound: >-
+        = in good condition, as in "a sound argument or a sound structure"; it
+        evaluates a judgement rather than measuring a figure
+      reliable: >-
+        = dependable over time, the frame of "a reliable source or method"; a
+        one-off figure can be accurate or wrong, but calling it reliable asks a
+        different question
+      valid: >-
+        = legally or logically acceptable, the frame of "a valid argument, claim
+        or permit"; it judges standing, not the correctness of a number
+      right: >-
+        = correct in everyday speech, as in "the right answer"; it is too informal
+        for a technical or academic context such as a data report
+    syn_nuance: >-
+      All five mean free from error but they grade it: accurate and correct = no
+      mistakes, exact = right to the last figure, precise = fine-grained detail,
+      faithful = true to an original or a retelling, true = factually so, wanting
+      a that-clause or "true to". Use exact for numbers, faithful for a version or
+      translation.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: achieve
+    ipa: /əˈtʃiːv/
+    pos: verb
+    tip: a-chieve — the common 'ie' after c is the trap
+    spelling_hint: ""
+    definition: To successfully reach a desired aim or result by effort.
+    example: She worked hard to achieve her goals.
+    synonyms:
+      - attain
+      - accomplish
+      - reach
+      - realize
+      - fulfil
+    syn_pos: verb
+    syn_example: Achieve / attain / reach your goals — all are formal IELTS verbs.
+    syn_examples:
+      - the: She worked hard to achieve her goals.
+        syns:
+          - accomplish
+          - attain
+          - reach
+          - realize
+          - fulfil
+      - the: The team managed to achieve the performance target.
+        syns:
+          - reach
+          - attain
+          - accomplish
+      - the: He hoped to achieve his ambition of living abroad.
+        syns:
+          - realize
+          - fulfil
+    syn_notes:
+      attain: by age, status, or position
+      accomplish: by effort and completion
+      reach: by progress toward a target
+      realize: by making a long-held dream real
+      fulfil: by satisfying an ambition or promise
+    syn_near:
+      - acquire
+      - obtain
+      - secure
+      - execute
+    syn_avoid:
+      realize: >-
+        = make a long-held dream real; it does not take a measurable target, and
+        in US English it also means to become aware of something
+      fulfil: >-
+        = satisfy a promise, a role or a potential; the target here is a measured
+        figure nobody promised, so the frame points elsewhere
+      attain: >-
+        = arrive at a level by age, status or slow progress; fine with a target,
+        but the deck gives this lifelong-ambition frame to realize and fulfil
+      accomplish: >-
+        = finish a task that has actually been carried out; it fits a goal, though
+        the deck reserves it for completed effort, not for a wish to live abroad
+      reach: >-
+        = get to a point by moving toward it step by step; natural with targets,
+        but 'reach his ambition of living abroad' fights the sense of progress
+      acquire: >-
+        = get something you did not previously have, like a skill or a degree;
+        goals are reached, not picked up, so the verb is wrong here
+      obtain: >-
+        = get a document, a permit or a post by asking for it; it takes something
+        you can apply for, never a goal or a target
+      secure: >-
+        = lock in a job, a contract or a grant against rivals; a firm is offered a
+        job, it does not secure one, so the collocation fails
+      execute: >-
+        = carry out a plan, a contract or an order; an ambition is achieved
+        rather than carried out, and 'execute a goal' is not idiomatic English
+    syn_nuance: >-
+      All of these name reaching an intended result, but the object decides which
+      is idiomatic: accomplish is a task finished by effort, attain is a level
+      reached with time, reach is a target approached step by step, realize is a
+      dream made real, fulfil is a promise satisfied. Only reach, attain and
+      accomplish collocate with a measured target.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: adequate
+    ipa: /ˈæd.ə.kwət/
+    pos: adjective
+    tip: ad-e-quate — "equa-" as in equal, enough
+    definition: Enough in quality or quantity for the purpose.
+    example: The report gives adequate evidence for the claim.
+    synonyms:
+      - sufficient
+      - enough
+      - acceptable
+    syn_pos: adjective
+    syn_example: Adequate / sufficient / enough — meeting the requirement.
+    components:
+      - spelling
+      - definitions
+  - word: administration
+    ipa: /ədˌmɪn.ɪˈstreɪ.ʃən/
+    pos: noun
+    tip: admini-stration — "admin" + "tration"
+    definition: The government or ruling body of a country or organisation.
+    example: The administration announced new education reforms.
+    synonyms:
+      - government
+      - authorities
+      - management
+    syn_pos: noun
+    syn_example: The administration / authorities — the ruling or managing body.
+    components:
+      - spelling
+      - definitions
+  - word: adopt
+    ipa: /əˈdɒpt/
+    pos: verb
+    tip: a-dopt — adopt keeps its two letters "ad"
+    definition: To start to use a new method, plan or approach officially.
+    example: Many schools will adopt the new teaching method.
+    synonyms:
+      - adopt
+      - introduce
+      - embrace
+      - take up
+    syn_pos: verb
+    syn_example: Adopt / implement / introduce a policy — to put it into practice.
+    components:
+      - spelling
+      - definitions
+  - word: advantageous
+    ipa: /ˌæd.vənˈteɪ.dʒəs/
+    pos: adjective
+    tip: advantage-ous — "ous" suffix, not "ious"
+    definition: Giving an advantage to someone or benefiting them.
+    example: Buying early can be advantageous for small firms.
+    synonyms:
+      - favourable
+      - beneficial
+      - helpful
+    syn_pos: adjective
+    syn_example: Advantageous / favourable / beneficial — giving a benefit.
+    components:
+      - spelling
+      - definitions
+  - word: adverse
+    ipa: /ˈæd.vɜːs/
+    pos: adjective
+    tip: ad-<b>verse</b> — ends with "verse", not "vurse"
+    spelling_hint: ""
+    definition: Harmful or unfavourable; having a negative effect.
+    example: The drug has few adverse side effects.
+    synonyms:
+      - harmful
+      - detrimental
+      - damaging
+      - unfavourable
+    syn_pos: adjective
+    syn_example: '"Adverse weather" — harmful / detrimental are the precise formal adjectives for essays.'
+    syn_examples:
+      - the: The drug has few adverse side effects.
+        syns:
+          - harmful
+          - detrimental
+        avoid:
+          unfavourable: >-
+            = merely not to one's advantage, the word for conditions, odds and
+            the weather; it only rates the deal, while 'few ... side effects'
+            must mean harm, so the frames here want damaging or harmful
+      - the: Tourism can have an adverse effect on fragile ecosystems.
+        syns:
+          - damaging
+          - detrimental
+        avoid:
+          unfavourable: >-
+            = merely not to one's advantage, the word for conditions, odds and
+            the weather; it only rates the deal, while 'few ... side effects'
+            must mean harm, so the frames here want damaging or harmful
+      - the: Adverse economic conditions slowed the recovery.
+        syns:
+          - unfavourable
+          - harmful
+          - damaging
+    syn_notes:
+      harmful: causing harm
+      detrimental: harmful (formal)
+      damaging: causing damage
+      unfavourable: not good for something
+    syn_near:
+      - harm
+      - deteriorate
+      - undesirable
+      - negative
+      - unhealthy
+    syn_avoid:
+      harmful: >-
+        = capable of causing harm, a broad verdict on any person, food or product;
+        the set phrase here is "adverse side effects", and "an harmful effect" is
+        ungrammatical
+      detrimental: >-
+        = formal, and it always needs "to": "detrimental to health"; no "to" slot
+        exists in "Adverse economic conditions slowed the recovery"
+      damaging: >-
+        = actively harmful, and the frame is "damaging to ecosystems"; with a
+        countable slot such as "side effects" or "conditions" it does not fit
+      unfavourable: >-
+        = merely not to one's advantage, the usual word for conditions, odds or
+        weather, so it is rejected with "side effects" and with "an effect on the
+        environment"
+      harm: >-
+        = the noun, as in "there is little harm in", or the verb "the drug harms
+        patients"; the slot here sits between "few" and "side effects" and wants
+        an adjective
+      deteriorate: >-
+        = to get worse, intransitive and about the condition itself, as in "her
+        health deteriorated"; it cannot modify "side effects" or "conditions"
+      undesirable: >-
+        = unwanted but not necessarily harmful, so it is too weak for drug
+        reactions that damage the patient or for economic conditions that slow a
+        recovery
+      negative: >-
+        = simply below zero, of results, figures or emotions, far too vague and
+        too weak to be a formal medical or economic judgement about harm
+      unhealthy: >-
+        = damaging to health, a plain description of diet, air or lifestyle, which
+        says nothing about conditions that hold back an economic recovery
+    syn_nuance: >-
+      All signal a bad outcome, but only adverse is neutral enough to sit in front
+      of a countable noun with no preposition: adverse side effects, adverse
+      conditions, adverse weather. Detrimental and damaging need "to" plus its
+      object, harmful is general and unfavourable only means not advantageous.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: aggravate
+    ipa: /ˈæɡ.rə.veɪt/
+    pos: verb
+    tip: ag-grav-ate — two g’s
+    definition: To make a problem, injury or situation worse.
+    example: Stress can aggravate existing health problems.
+    synonyms:
+      - worsen
+      - intensify
+      - exacerbate
+    syn_pos: verb
+    syn_example: Aggravate / worsen / exacerbate — to make a bad thing worse.
+    components:
+      - spelling
+      - definitions
+  - word: alleviate
+    ipa: /əˈliː.vi.eɪt/
+    pos: verb
+    tip: a-llev-iate — "lev" as in "lift" (relieve)
+    definition: To make suffering or a problem less severe.
+    example: The new policy aims to alleviate poverty.
+    synonyms:
+      - ease
+      - lessen
+      - reduce
+      - relieve
+    syn_pos: verb
+    syn_example: Alleviate / ease / mitigate — to reduce a problem or pain.
+    components:
+      - spelling
+      - definitions
+  - word: alter
+    ipa: /ˈɒl.tər/
+    pos: verb
+    tip: al-ter — one l
+    definition: To change or make a change to something.
+    example: The noise forced them to alter their plans.
+    synonyms:
+      - change
+      - modify
+      - adjust
+    syn_pos: verb
+    syn_example: Alter / modify / adjust — to make a change.
+    components:
+      - spelling
+      - definitions
+  - word: alternative
+    ipa: /ɔːlˈtɜː.nə.tɪv/
+    pos: adjective/noun
+    tip: alt-ern-ative — keep the 'ern' in the middle
+    spelling_hint: ""
+    definition: One of two or more available possibilities; a different option.
+    example: We considered an alternative plan.
+    synonyms:
+      - option
+      - choice
+      - substitute
+      - fallback
+    syn_pos: noun
+    syn_example: Offer an alternative or an option when presenting solutions in an essay.
+    syn_examples:
+      - the: We need an alternative to the current plan.
+        syns:
+          - option
+          - choice
+          - substitute
+          - fallback
+      - the: They proposed a cheaper alternative.
+        syns:
+          - option
+          - choice
+          - substitute
+    syn_notes:
+      option: one among several selections
+      choice: the result of deciding
+      substitute: a replacement that takes the place
+      fallback: a second-best backup plan
+    syn_near:
+      - replacement
+      - rival
+      - variant
+      - equivalent
+    syn_avoid:
+      fallback: >-
+        = the reserve you switch to when the first choice breaks down, as in 'a
+        fallback option'; a cheaper candidate here is a plan on the table, not a
+        breakdown plan
+      replacement: >-
+        = the item that takes the place of a used or missing one, like a spare
+        tyre; an alternative is chosen from options, not worn out first
+      rival: >-
+        = a competitor trying to beat another, and it takes a firm or product
+        after it, as in 'a cheaper rival'; a proposal is not a competitor
+      variant: >-
+        = a slightly different form of the same item, such as another size or
+        model; an alternative is a different course of action, not a variant of
+        one thing
+      equivalent: >-
+        = something equal in value or function, as in 'no equivalent word exists';
+        it matches one thing against another, not one plan against a current one
+    syn_nuance: >-
+      All of these are a second course of action, but the pattern is 'an
+      alternative to + noun' and 'a cheaper alternative': option and choice are
+      neutral members of a list, substitute needs 'a substitute for + noun' and
+      stands in for something, while fallback only names the plan you turn to once
+      the first choice fails.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: ambiguous
+    ipa: /æmˈbɪɡ.ju.əs/
+    pos: adjective
+    tip: am-bi-gu-ous — 'igu', then 'ous'
+    spelling_hint: ""
+    definition: Open to more than one interpretation; unclear in meaning.
+    example: The wording was highly ambiguous.
+    synonyms:
+      - unclear
+      - vague
+      - equivocal
+      - uncertain
+      - indistinct
+    syn_pos: adjective
+    syn_example: Ambiguous / vague / unclear instructions.
+    syn_examples:
+      - the: The wording was highly ambiguous.
+        syns:
+          - unclear
+          - vague
+          - equivocal
+        avoid:
+          indistinct: >-
+            = hard to see or hear, the word for outlines, shapes and sounds (an
+            indistinct shape); the frame is "the wording was highly + ADJ", about
+            meaning, and text is not something you look at
+      - the: Her reply was deliberately ambiguous.
+        syns:
+          - equivocal
+          - unclear
+          - uncertain
+        avoid:
+          indistinct: >-
+            = hard to see or hear, the word for outlines and sounds (an indistinct
+            voice); the frame is "her reply was deliberately + ADJ", about the
+            meaning she chose, not about how clearly she could be heard
+    syn_notes:
+      unclear: not clear
+      vague: not specific
+      equivocal: deliberately double-meaning
+      uncertain: not known for sure
+      indistinct: hard to see or hear
+    syn_near:
+      - ambivalent
+      - duplicitous
+      - ambiguity
+    syn_avoid:
+      indistinct: >-
+        = hard to see or hear, a word for shapes, sounds and outlines: a word is
+        either clear or not, and ambiguity is about meaning, not visibility
+      uncertain: >-
+        = not knowing for sure, a state of a person: it fits "I am uncertain" but
+        not "wording", and a deliberate reply is a choice rather than doubt
+      vague: >-
+        = too general to be precise, the opposite problem to ambiguity: "highly
+        vague" is fine, but a reply is ambiguous when two clear meanings are left
+        open
+      ambivalent: >-
+        = holding two opposite feelings at once, a word for people ("she felt
+        ambivalent about it"): a reply can be read two ways without its speaker
+        being torn
+      duplicitous: >-
+        = deceitfully two-faced, which accuses the speaker of lying: a moral
+        charge that ambiguous, which only describes the text, never makes
+      ambiguity: >-
+        = the noun form, and the frames here need the adjective after "was highly"
+        or before a noun such as "an ambiguous reply"
+    syn_nuance: >-
+      All of these mean that one clear message does not come through, but the
+      object decides which. A word or a rule takes ambiguous, unclear or
+      equivocal, with equivocal adding a deliberate choice by a speaker. Vague
+      means the opposite problem, lack of detail; indistinct is for shapes, and
+      uncertain is for a person in doubt.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: ample
+    ipa: /ˈæm.pəl/
+    pos: adjective
+    tip: am-ple — "ample" has room to spare
+    definition: More than enough in quantity or size.
+    example: There is ample space for a new library.
+    synonyms:
+      - plenty of
+      - sufficient
+      - more than enough
+    syn_pos: adjective
+    syn_example: Ample / plenty of — more than enough.
+    components:
+      - spelling
+      - definitions
+  - word: analysis
+    ipa: /əˈnæl.ə.sɪs/
+    pos: noun
+    tip: ana-lysis — note "sis" at the end
+    definition: A careful examination of something to understand it.
+    example: The analysis of the data took several weeks.
+    synonyms:
+      - examination
+      - study
+      - investigation
+    syn_pos: noun
+    syn_example: An analysis / study — a careful examination of data.
+    components:
+      - spelling
+      - definitions
+  - word: analyze
+    ipa: /ˈæn.əl.aɪz/
+    pos: verb
+    tip: an-a-lyze — 'a-na-ly-ze', three syllables
+    spelling_hint: ""
+    definition: To examine something in detail in order to understand or explain it.
+    example: We analyzed the data carefully.
+    synonyms:
+      - examine
+      - inspect
+      - study
+      - evaluate
+      - investigate
+    syn_pos: verb
+    syn_example: Analyze, examine or investigate a problem in your task 2 body.
+    syn_examples:
+      - the: We need to analyze the data before deciding.
+        syns:
+          - examine
+          - inspect
+          - study
+          - evaluate
+          - investigate
+      - the: The report is designed to analyze the causes of the problem.
+        syns:
+          - study
+          - investigate
+          - examine
+    syn_notes:
+      examine: look closely at
+      inspect: check for faults in detail
+      study: examine in depth over time
+      evaluate: judge value or worth
+      investigate: probe systematically for facts or causes
+    syn_near:
+      - assess
+      - review
+      - interpret
+      - diagnose
+      - compare
+    syn_avoid:
+      evaluate: >-
+        = judge the value or worth of something and pass a verdict on it; causes
+        are looked into rather than rated, so keep it for 'evaluate the impact'
+      inspect: >-
+        = check a physical object or site closely for faults; it fits 'inspect the
+        equipment' but not the abstract 'causes of the problem'
+      assess: >-
+        = judge how good, bad or costly something is; it answers a question of
+        quality, while analyze takes a whole apart to see what is in it
+      review: >-
+        = look over again once it exists, as in a review meeting or an annual
+        review; the deck wants a first look at data and at causes
+      interpret: >-
+        = give a meaning to something already grasped; analysis has to come first,
+        so 'interpret the causes' puts the steps in the wrong order
+      diagnose: >-
+        = find the fault in a patient or a machine and name it; a report studies a
+        whole field of causes, it does not diagnose them one by one
+      compare: >-
+        = set two items side by side to see the difference; nothing in the
+        sentence invites a contrast, and the frame has no second term to set
+        against the first
+    syn_nuance: >-
+      All of these mean looking at something carefully, but the object sets the
+      verb: analyze takes data, evidence or a whole situation and breaks it into
+      parts, study and examine are neutral or in-depth, inspect is a physical
+      fault check, evaluate adds a judgement of worth, and investigate implies
+      hunting for causes.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: antiquated
+    ipa: /ˈæn.tɪ.kweɪ.tɪd/
+    pos: adjective
+    tip: anti-quated — old as an antiquity
+    definition: Too old and no longer suitable for modern use.
+    example: Many see the law as antiquated and unfair.
+    synonyms:
+      - outdated
+      - outmoded
+      - obsolete
+    syn_pos: adjective
+    syn_example: Antiquated / outdated / obsolete — too old to be useful.
+    components:
+      - spelling
+      - definitions
+  - word: apparent
+    ipa: /əˈpær.ənt/
+    pos: adjective
+    tip: ap-parent — one p, then 'arent'
+    spelling_hint: ""
+    definition: Clearly visible or understood; obvious.
+    example: It became apparent that we were lost.
+    synonyms:
+      - obvious
+      - evident
+      - clear
+      - visible
+      - plain
+    syn_pos: adjective
+    syn_example: It was apparent / evident / obvious that costs were rising.
+    syn_examples:
+      - the: It became apparent that the plan would fail.
+        syns:
+          - obvious
+          - evident
+          - clear
+          - plain
+      - the: The benefits of the policy are apparent to everyone.
+        syns:
+          - clear
+          - visible
+          - plain
+          - obvious
+          - evident
+    syn_notes:
+      obvious: impossible to miss
+      evident: clear from evidence
+      clear: free from doubt
+      visible: able to be seen
+      plain: simple and easy to see
+    syn_near:
+      - noticeable
+      - explicit
+      - blatant
+      - perceptible
+    syn_avoid:
+      visible: >-
+        = able to be seen with the eye, so it needs a physical thing after it; the
+        benefits of a policy can be visible, but a that-clause after 'became' is
+        not
+      noticeable: >-
+        = describing a change or a detail that draws attention, as in a noticeable
+        drop; it modifies a noun and cannot be handed a that-clause
+      explicit: >-
+        = stated word for word in detail, as in explicit instructions; a plan's
+        failure is inferred from signs, not spelled out on the page
+      blatant: >-
+        = shockingly obvious, normally of something wrong or unfair; a conclusion
+        is not blatant, and the word inflates the tone of a neutral report
+      perceptible: >-
+        = able to be sensed by eye or ear, as in a perceptible shift in tone;
+        correct with a noun after it, not with 'it became perceptible that'
+    syn_nuance: >-
+      All of these mean easy to see, and apparent, obvious, evident, clear and
+      plain all take 'it became ___ that ...', plain being the formal or literary
+      one. Visible is the odd one out: it needs a concrete thing in front of the
+      eye, as in 'a visible increase'. Evident leans on outside evidence, and
+      clear adds certainty.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: applicable
+    ipa: /əˈplɪk.ə.bəl/
+    pos: adjective
+    tip: apply-cable — applies to the matter
+    definition: Relevant to or able to be applied in a situation.
+    example: The same rule is applicable to all new members.
+    synonyms:
+      - relevant
+      - pertinent
+      - appropriate
+    syn_pos: adjective
+    syn_example: Applicable / pertinent / relevant — able to be applied.
+    components:
+      - spelling
+      - definitions
+  - word: appraise
+    ipa: /əˈpreɪz/
+    pos: verb
+    tip: ap-praise — the "praise" idea is a false friend
+    definition: To assess the value, quality or importance of something.
+    example: Experts will appraise the building before sale.
+    synonyms:
+      - assess
+      - evaluate
+      - estimate
+    syn_pos: verb
+    syn_example: Appraise / assess / evaluate — to judge worth or value.
+    components:
+      - spelling
+      - definitions
+  - word: apt
+    ipa: /æpt/
+    pos: adjective
+    tip: apt — apt = appropriate, keep short
+    definition: Fitting and appropriate for a particular situation.
+    example: That is an apt description of the problem.
+    synonyms:
+      - suitable
+      - fitting
+      - appropriate
+      - germane
+    syn_pos: adjective
+    syn_example: Apt / fitting / appropriate — exactly right for the case.
+    components:
+      - spelling
+      - definitions
+  - word: arbitrary
+    ipa: /ˈɑː.bɪ.trər.i/
+    pos: adjective
+    tip: ar-bi-trary — 'bi', then 'trary'
+    spelling_hint: ""
+    definition: Based on random choice rather than reason or system.
+    example: The decision seemed completely arbitrary.
+    synonyms:
+      - random
+      - capricious
+      - whimsical
+      - unreasonable
+      - subjective
+    syn_pos: adjective
+    syn_example: An arbitrary / random / capricious decision.
+    syn_examples:
+      - the: The decision seemed completely arbitrary.
+        syns:
+          - random
+          - whimsical
+      - the: The rule is arbitrary and hard to justify.
+        syns:
+          - unreasonable
+          - subjective
+          - capricious
+    syn_notes:
+      random: without pattern
+      capricious: changing suddenly, impulsive
+      whimsical: playfully unpredictable
+      unreasonable: not justified
+      subjective: based on personal opinion
+    syn_near:
+      - autocratic
+      - discretionary
+      - erratic
+      - unfounded
+      - despotic
+    syn_avoid:
+      capricious: >-
+        = changing suddenly and unpredictably, of a person or a process over time;
+        it fits a capricious rule, but a single decision cannot be capricious
+      random: >-
+        = with no pattern or cause, as if by chance, and at random or a random
+        choice; a written rule can be unreasoned without being chance, so the deck
+        keeps it for a decision
+      whimsical: >-
+        = playful and charmingly unpredictable, as in a whimsical remark or a
+        whimsical gesture; the light ironic tone does not fit a serious criticism
+        of a rule
+      unreasonable: >-
+        = badly judged, when a better reason existed; it fits a rule that is hard
+        to justify, but a decision can have no reason at all and still not be
+        called that
+      subjective: >-
+        = based on personal feeling, usual in a subjective judgement or decision;
+        it names bias rather than the absence of any reason, which is the gap in
+        the first frame
+      autocratic: >-
+        = ruling without listening, of a ruler or regime; it is a near-spelling
+        trap, and it is about power, not about whether a decision has any basis
+      discretionary: >-
+        = decided at the official's own choice, as in discretionary spending or a
+        discretionary award; an economics and policy term, and it implies a
+        permitted choice to exercise
+      erratic: >-
+        = moving or working in an irregular pattern over time, as in erratic
+        weather or erratic behaviour; it describes variation, not a decision that
+        lacks a basis
+      unfounded: >-
+        = built on nothing at all, the usual frames being an unfounded claim,
+        rumour or accusation; a decision can lack a reason without anyone accusing
+        anyone of anything
+      despotic: >-
+        = cruel and dictatorial, of a ruler or regime; far too strong, and it is
+        about power, so it says nothing about whether the reasoning held
+    syn_nuance: >-
+      All mean not based on reason, but the frame and the degree differ. An
+      arbitrary decision, rule, limit or boundary is simply unreasoned, at random
+      points to chance, capricious to sudden unpredictable change, whimsical to
+      playful unpredictability, unreasonable to a bad judgement, and subjective to
+      personal bias.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: archaic
+    ipa: /ɑːˈkeɪ.ɪk/
+    pos: adjective
+    tip: ar-cha-ic — "chai" like an old thing
+    definition: Belonging to a much earlier time and no longer in current use.
+    example: The phrase now sounds archaic in everyday speech.
+    synonyms:
+      - old-fashioned
+      - ancient
+      - outdated
+      - antiquated
+    syn_pos: adjective
+    syn_example: Archaic / antiquated — belonging to an older age.
+    components:
+      - spelling
+      - definitions
+  - word: arguable
+    ipa: /ˈɑːɡ.ju.ə.bəl/
+    pos: adjective
+    tip: argue-able — able to be argued
+    definition: Open to being argued or debated either way.
+    example: It is arguable whether the policy helped at all.
+    synonyms:
+      - debatable
+      - contentious
+      - disputable
+    syn_pos: adjective
+    syn_example: Arguable / debatable — can be reasonably argued either way.
+    components:
+      - spelling
+      - definitions
+  - word: articulate
+    ipa: /ɑːˈtɪk.jə.lət/
+    pos: adjective
+    tip: ar-tic-ul-ate — four clear syllables
+    definition: Able to express ideas clearly and fluently.
+    example: She is an articulate and persuasive speaker.
+    synonyms:
+      - eloquent
+      - fluent
+      - expressive
+    syn_pos: adjective
+    syn_example: Articulate / eloquent — clear and well expressed.
+    components:
+      - spelling
+      - definitions
+  - word: aspect
+    ipa: /ˈæs.pekt/
+    pos: noun
+    tip: a-spect — no 'e' before the final t
+    spelling_hint: ""
+    definition: A particular feature or part of something.
+    example: We looked at every aspect of the problem.
+    synonyms:
+      - feature
+      - facet
+      - side
+      - dimension
+      - element
+      - factor
+    syn_pos: noun
+    syn_example: Discuss every aspect / facet / dimension of the issue.
+    syn_examples:
+      - the: We discussed every aspect of the issue.
+        syns:
+          - feature
+          - side
+          - facet
+          - dimension
+      - the: Cost is just one aspect of a complex decision.
+        syns:
+          - factor
+          - facet
+          - dimension
+          - element
+    syn_notes:
+      feature: a distinguishing attribute
+      facet: one side among many
+      side: one viewpoint
+      dimension: an aspect that adds depth
+      element: a basic part
+      factor: a contributing cause
+    syn_near:
+      - respect
+      - angle
+      - area
+      - segment
+    syn_avoid:
+      element: >-
+        = a basic part of a system or a substance, as in an element of risk; the
+        deck keeps it for 'one element of a decision', too technical beside 'every
+        element of the issue'
+      factor: >-
+        = a cause that pushes the outcome along, as in a key factor in success;
+        nothing here is a cause of the issue, so the causal frame does not fit
+      feature: >-
+        = a quality that marks out a person, product or place, as in a feature of
+        the design; an issue has parts and sides, not features that distinguish it
+      side: >-
+        = one half or viewpoint of a dispute, as in 'the other side of the
+        argument'; the deck sets it beside people who disagree, so it misses
+        'discussed every ___ of'
+      respect: >-
+        = a point of concern, used in the fixed phrase 'in this respect'; the
+        sentence wants the plain noun with an every-of pattern, so 'every respect
+        of' fails
+      angle: >-
+        = a way of looking at a subject, as in 'a fresh angle on the debate'; it
+        takes 'on' or 'from', never 'every ___ of the issue'
+      area: >-
+        = a field of activity or study, as in the area of genetics; the sentence
+        is about parts of one topic, so 'every area of the issue' misuses the word
+      segment: >-
+        = a piece cut off a larger whole, used of data or a market; a topic has
+        parts and sides rather than cut pieces, so the metaphor fails
+    syn_nuance: >-
+      All of these are a part of a larger thing, but the part decides the word:
+      aspect and feature suit 'every ___ of the issue', facet and dimension suit
+      'one ___ of a decision' and add a sense of depth, element is a technical
+      part of a system, factor is a cause, and side belongs to 'the other side of
+      the argument'.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: assess
+    ipa: /əˈses/
+    pos: verb
+    tip: as-sess — double s
+    definition: To judge or evaluate the value, quality or importance of something.
+    example: Teachers assess students’ progress every term.
+    synonyms:
+      - evaluate
+      - appraise
+      - judge
+      - review
+    syn_pos: verb
+    syn_example: Assess / evaluate / appraise — to judge the value of.
+    components:
+      - spelling
+      - definitions
+  - word: assumption
+    ipa: /əˈsʌmp.ʃən/
+    pos: noun
+    tip: as-sump-tion — double s, then 'ump'
+    spelling_hint: ""
+    definition: A statement taken as true without proof, whether a working guess or a case assumed for argument's sake.
+    example: The analysis rests on the assumption that the figures are comparable.
+    synonyms:
+      - belief
+      - supposition
+      - premise
+      - hypothesis
+      - presumption
+    syn_pos: noun
+    syn_example: Challenge a common assumption / belief / premise in your essay.
+    syn_examples:
+      - the: The argument rests on a false assumption.
+        syns:
+          - belief
+          - supposition
+          - premise
+          - presumption
+      - the: Scientists test each assumption before proceeding.
+        syns:
+          - hypothesis
+          - supposition
+        avoid:
+          premise: >-
+            = the starting statement a whole argument rests on; data support or
+            refute a hypothesis, so you never 'test each premise'
+    syn_notes:
+      belief: a conviction held
+      supposition: a tentative case granted for the sake of argument
+      premise: the starting point of an argument
+      hypothesis: an explanation put to the test
+      presumption: held true by default, until proven otherwise
+    syn_near:
+      - guess
+      - opinion
+      - theory
+      - delusion
+    syn_avoid:
+      belief: >-
+        = something a person is convinced of, not necessarily proved; it fits 'a
+        widely held belief' but not 'test each belief', which concerns a working
+        premise
+      hypothesis: >-
+        = a proposal put forward to be tested and possibly disproved; an argument
+        rests on something already taken for granted, so nothing there is on trial
+      presumption: >-
+        = a belief held true by default, by law or convention, until proven
+        otherwise; it fits 'on the presumption that', but you do not test a
+        presumption item by item, so it stays out of the second frame
+      guess: >-
+        = a rough estimate with nothing behind it, as in 'have a guess'; an
+        assumption is reasoned inside an argument, not hit on by chance
+      opinion: >-
+        = a personal view that the speaker owns and defends; an assumption is a
+        step the argument depends on, not a preference to be argued over
+      theory: >-
+        = a developed system of explanation, as in the theory of relativity; it
+        fits 'test each theory' but an argument rests on one starting point, never
+        on a theory
+      delusion: >-
+        = a false belief held in defiance of evidence; the argument needs
+        something it can correct, while a delusion by definition cannot be given
+        up, so it overstates
+    syn_nuance: >-
+      All are taken as true to get work done, and assumption is the general word:
+      a working guess or a case assumed for argument's sake. Supposition is the
+      same idea framed as an argument, presumption is held true by default, by
+      law or convention, until disproved, premise is the base an argument rests
+      on, and hypothesis is the one you put to the test. Belief leans on
+      conviction.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: attain
+    ipa: /əˈteɪn/
+    pos: verb
+    tip: at-tain — one t, "tain" as in "contain"
+    definition: To reach or achieve a goal, especially through a process.
+    example: Few countries attain such high literacy rates.
+    synonyms:
+      - achieve
+      - reach
+      - accomplish
+      - realize
+    syn_pos: verb
+    syn_example: Attain / achieve / reach — to get to a goal, often by age or status.
+    components:
+      - spelling
+      - definitions
+  - word: augment
+    ipa: /ɔːɡˈment/
+    pos: verb
+    tip: aug-ment — "aug" as in "augment" (add)
+    definition: To make something larger, better or stronger by adding to it.
+    example: They plan to augment the budget with private funds.
+    synonyms:
+      - increase
+      - boost
+      - enhance
+      - supplement
+    syn_pos: verb
+    syn_example: Augment / boost / enhance — to make something greater.
+    components:
+      - spelling
+      - definitions
+  - word: authorities
+    ipa: /ɔːˈθɒr.ə.tiz/
+    pos: noun
+    tip: author-ities — "thor" as in power
+    definition: The people or organisations that have power and control.
+    example: The authorities have closed the road for repairs.
+    synonyms:
+      - government
+      - administration
+      - officials
+    syn_pos: noun
+    syn_example: The authorities / administration — the people in power.
+    components:
+      - spelling
+      - definitions
+  - word: awe-inspiring
+    ipa: /ˈɔː.ɪnˌspaɪə.rɪŋ/
+    pos: adjective
+    tip: awe + inspiring — one hyphen
+    definition: So impressive or beautiful that it inspires wonder.
+    example: The view of the mountains was awe-inspiring.
+    synonyms:
+      - impressive
+      - magnificent
+      - imposing
+    syn_pos: adjective
+    syn_example: Awe-inspiring / imposing — so impressive it amazes.
+    components:
+      - spelling
+      - definitions

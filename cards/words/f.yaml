@@ -1,0 +1,635 @@
+words:
+  - word: facet
+    ipa: /ˈfæs.ɪt/
+    pos: noun
+    tip: fa-cet — a facet of a gem
+    definition: One side or aspect of something that has several.
+    example: We must consider every facet of the issue.
+    synonyms:
+      - aspect
+      - dimension
+      - side
+    syn_pos: noun
+    syn_example: A facet / aspect / dimension — one perspective on something.
+    components:
+      - spelling
+      - definitions
+  - word: facilitate
+    ipa: /fəˈsɪl.ɪ.teɪt/
+    pos: verb
+    tip: fa-cil-i-tate — 'cil', then 'i-tate'
+    spelling_hint: ""
+    definition: To make an action or process easier.
+    example: The new software facilitates communication.
+    synonyms:
+      - ease
+      - enable
+      - assist
+      - help
+      - streamline
+    syn_pos: verb
+    syn_example: This facilitates / eases / enables faster decision-making.
+    syn_examples:
+      - the: The new system is designed to facilitate communication.
+        syns:
+          - ease
+          - enable
+          - help
+        avoid:
+          assist: >-
+            = to give help to a person, and it wants a helper, as in "assist in the
+            talks"; the subject here is a system, so "a system assists
+            communication" reads like a machine helping
+          streamline: >-
+            = to cut waste out of a workflow so it runs faster; communication is not
+            a chain of steps to trim, and the frame is "ease communication". It is
+            accepted for the whole process
+      - the: A mediator was brought in to facilitate the talks.
+        syns:
+          - help
+          - assist
+        avoid:
+          streamline: >-
+            = to cut waste out of a workflow so it runs faster; a mediator's task in
+            the talks is not a workflow, and the frame is "help with the talks". It
+            is accepted for the whole process
+          enable: >-
+            = to make something possible, and the usual frame gives an infinitive,
+            "enable the parties to talk"; after "brought in to" it wants one, and
+            "to enable the talks" is a headline abbreviation
+      - the: The software is designed to facilitate the whole process.
+        syns:
+          - ease
+          - streamline
+          - help
+        avoid:
+          assist: >-
+            = to give help to a person, so it needs someone who gives it; the
+            subject here is the software and the object a process, and a process
+            cannot be assisted. It is accepted for the mediator
+          enable: >-
+            = to make something possible, and it usually takes an infinitive,
+            "enable staff to work faster"; with the software as subject, "enable the
+            process" reads as a headline abbreviation
+    syn_notes:
+      ease: make less difficult
+      enable: make possible
+      assist: help
+      help: make easier
+      streamline: make more efficient
+    syn_near:
+      - expedite
+      - implement
+      - support
+      - simplify
+      - foster
+    syn_avoid:
+      assist: >-
+        = give help to a person, and it wants a helper, as in "assist in the
+        talks": it is the right word for a mediator, but a system that assists
+        communication reads like a machine helping
+      ease: >-
+        = to make less difficult, and its object is a task, a burden or a pain: it
+        fits "ease the whole process", but a mediator does not ease talks
+      enable: >-
+        = to make something possible, and the usual frame gives an infinitive,
+        "enable users to share": here the subject is a system, so "enable
+        communication" reads as a headline abbreviation
+      streamline: >-
+        = to cut waste out of a workflow so it runs faster: it needs a process, so
+        it fits "streamline the whole process" but not a mediator's task or
+        communication itself
+      expedite: >-
+        = to speed something up, a formal business word: "expedite the process" is
+        good English, but it changes speed, not the ease with which people talk
+      implement: >-
+        = to put a plan, a policy or a system into force: it needs a written
+        scheme, so "implement the talks" is wrong and a mediator implements no
+        plan here
+      support: >-
+        = to give backing that a person or a system provides: "the system supports
+        communication" is fine, but support does not make the talks easier to hold
+      simplify: >-
+        = to make something less complex, so it takes a method, a rule or a
+        process: it fits "simplify the whole process", but it removes steps rather
+        than clearing obstacles
+      foster: >-
+        = to encourage growth or good feeling, so it takes a culture, a spirit or
+        a relationship: "foster communication" is good English, but it develops
+        links instead of removing difficulties
+    syn_nuance: >-
+      All five remove an obstacle, but the object shows what kind. Ease, enable
+      and help take an activity, a task or a person, and facilitate suits all
+      three in formal report English. Assist needs a human helper, so it fits a
+      mediator, and streamline implies cutting waste from a workflow.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: factor
+    ipa: /ˈfæk.tər/
+    pos: noun
+    tip: fac-tor — "fac" make
+    definition: One of the things that contributes to a result.
+    example: Cost is a major factor in choosing a provider.
+    synonyms:
+      - element
+      - cause
+      - influence
+      - aspect
+    syn_pos: noun
+    syn_example: A factor / element — something that contributes to a result.
+    components:
+      - spelling
+      - definitions
+  - word: factual
+    ipa: /ˈfæk.tʃu.əl/
+    pos: adjective
+    tip: fac-tu-al — keep the "t" before "u"
+    definition: Based on facts rather than opinion or fiction.
+    example: The article gave a factual account of events.
+    synonyms:
+      - accurate
+      - objective
+      - factual
+      - accurate
+    syn_pos: adjective
+    syn_example: Factual / accurate / objective — based on facts.
+    components:
+      - spelling
+      - definitions
+  - word: faithful
+    ipa: /ˈfeɪθ.fəl/
+    pos: adjective
+    tip: faith-ful — "faith" + ful
+    definition: Staying true to the original, or loyal to someone.
+    example: The translation is faithful to the original.
+    synonyms:
+      - accurate
+      - "true"
+      - loyal
+      - exact
+    syn_pos: adjective
+    syn_example: Faithful / true / accurate — staying close to the original.
+    components:
+      - spelling
+      - definitions
+  - word: fallback
+    ipa: /ˈfɔːl.bæk/
+    pos: noun
+    tip: fall-back — the plan that catches you
+    definition: A plan or option used when the first choice fails.
+    example: We need a fallback if the first plan fails.
+    synonyms:
+      - backup
+      - alternative
+      - contingency
+    syn_pos: noun
+    syn_example: A fallback / backup / backup plan — a second choice.
+    components:
+      - spelling
+      - definitions
+  - word: finite
+    ipa: /ˈfaɪ.naɪt/
+    pos: adjective
+    tip: fi-nite — "fin" end
+    definition: Having a defined limit or end.
+    example: Fossil fuels are a finite resource.
+    synonyms:
+      - limited
+      - bounded
+      - restricted
+    syn_pos: adjective
+    syn_example: Finite / limited — having a definite end.
+    components:
+      - spelling
+      - definitions
+  - word: fluctuate
+    ipa: /ˈflʌk.tʃu.eɪt/
+    pos: verb
+    tip: flu-<b>ctu</b>-ate — the tricky consonant cluster is in the middle
+    spelling_hint: ""
+    definition: To rise and fall irregularly; to change repeatedly in level or amount.
+    example: Oil prices fluctuate from week to week.
+    synonyms:
+      - vary
+      - oscillate
+      - swing
+      - waver
+    syn_pos: verb
+    syn_example: '"Prices fluctuate hugely" — vary / swing describe task 1 line-graph movement.'
+    syn_examples:
+      - the: Oil prices fluctuate from week to week.
+        syns:
+          - vary
+          - swing
+          - oscillate
+        avoid:
+          waver: >-
+            = to lose firmness or change one's mind, as in "he wavered over the
+            offer"; it belongs to people and decisions, so "prices waver" makes an
+            impersonal market look indecisive
+      - the: Temperatures fluctuate sharply between the seasons.
+        syns:
+          - vary
+          - oscillate
+          - swing
+        avoid:
+          waver: >-
+            = to lose firmness or conviction, standard for a person hesitating
+            ('he wavered over the offer'); a measured figure moves up and down,
+            so 'temperatures wavered' is not the natural verb here
+    syn_notes:
+      vary: change
+      oscillate: move back and forth (technical)
+      swing: move widely between extremes
+      waver: become unsteady or changeable
+    syn_near:
+      - fluctuation
+      - volatile
+      - unstable
+      - sway
+      - alternate
+    syn_avoid:
+      waver: >-
+        = to lose firmness or conviction, describing a person or a decision,
+        as in 'he wavered over the offer'; a measured figure moves up and down
+        instead, so waver does not fit these frames
+      fluctuation: >-
+        = the noun, as in "price fluctuations" or "fluctuations in temperature";
+        the sentences here need the verb, since the subject prices or temperatures
+        already fills that role
+      volatile: >-
+        = the adjective for markets and prices that move wildly, so "oil prices
+        are volatile" is a standing quality, whereas the verb marks each rise and
+        fall from week to week
+      unstable: >-
+        = not firmly fixed, the plain opposite of stable, and it judges a whole
+        system rather than tracing the regular up-and-down movement of a series
+      sway: >-
+        = to move slowly from side to side, or to influence someone, a physical or
+        political image that does not fit the rise and fall of prices between two
+        levels
+      alternate: >-
+        = to happen in turn by arrangement, as in "alternating shifts" or
+        "alternating between A and B"; the movement of prices is irregular and
+        nobody plans it
+    syn_nuance: >-
+      All describe values that rise and fall, but the frames differ: prices, rates
+      and temperatures fluctuate, vary and swing, swing adding wide movement
+      between two extremes and oscillate being the technical term of physics and
+      economics. Waver is the odd one out, describing a person or a decision.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: fluent
+    ipa: /ˈfluː.ənt/
+    pos: adjective
+    tip: flu-ent — "flu" flowing
+    definition: Able to speak or write a language smoothly and easily.
+    example: She is fluent in three languages.
+    synonyms:
+      - articulate
+      - smooth
+      - eloquent
+    syn_pos: adjective
+    syn_example: Fluent / articulate — speaking smoothly and clearly.
+    components:
+      - spelling
+      - definitions
+  - word: formidable
+    ipa: /fəˈmɪd.ə.bəl/
+    pos: adjective
+    tip: for-mi-da-ble — 'mid', then 'able'
+    spelling_hint: ""
+    definition: Inspiring respect or fear through size, strength or ability; difficult to deal with.
+    example: They face a formidable challenge.
+    synonyms:
+      - intimidating
+      - daunting
+      - awe-inspiring
+      - imposing
+      - challenging
+    syn_pos: adjective
+    syn_example: A formidable / daunting / imposing obstacle.
+    syn_examples:
+      - the: They face a formidable challenge.
+        syns:
+          - daunting
+          - challenging
+          - intimidating
+      - the: The fortress proved formidable.
+        syns:
+          - imposing
+          - awe-inspiring
+          - intimidating
+    syn_notes:
+      intimidating: frightening
+      daunting: discouraging to face
+      awe-inspiring: amazingly impressive
+      imposing: impressive in size or dignity
+      challenging: demanding
+    syn_near:
+      - terrifying
+      - overwhelming
+      - alarming
+      - fearsome
+    syn_avoid:
+      awe-inspiring: >-
+        = filling you with wonder, a compliment about beauty or scale: it suits
+        the fortress, but a challenge is something to be met, not admired
+      challenging: >-
+        = demanding enough to test you, so it describes a task, an opponent or a
+        course: a fortress is not something you take on as a task
+      daunting: >-
+        = alarming because it looks hard ahead, always seen by the person facing
+        it: it wants "they face" or "we found it ___", not a fortress proving it
+      imposing: >-
+        = stately or impressive in size, as in an imposing castle: it fits how a
+        fortress looks, but a challenge is met rather than looked at
+      terrifying: >-
+        = making a person feel terror, so it names a reaction in a person: neither
+        a challenge nor a wall is felt to be terrifying in these frames
+      overwhelming: >-
+        = so great that it defeats you, and it wants a countable dose ("an
+        overwhelming amount", "an overwhelming defeat"): you are not swamped by a
+        crowd of people
+      alarming: >-
+        = raising concern, and it describes the effect on people ("an alarming
+        trend"): the word points at public worry, not at the size of the obstacle
+      fearsome: >-
+        = old-fashioned and now comic in films and games ("a fearsome beast"): too
+        whimsical for an argument's challenge or an exam-style obstacle
+    syn_nuance: >-
+      All of these make you hesitate, but the frame sorts them. A task you have to
+      face takes daunting, challenging or intimidating, while a structure or an
+      opponent you look at takes imposing or awe-inspiring. Formidable is the
+      strongest member and fits both, as in a formidable challenge and a
+      formidable rival.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: forthcoming
+    ipa: /ˌfɔːθˈkʌm.ɪŋ/
+    pos: adjective
+    tip: forth-coming — "coming forth"
+    definition: About to happen or appear soon.
+    example: The band announced their forthcoming album.
+    synonyms:
+      - upcoming
+      - impending
+      - approaching
+    syn_pos: adjective
+    syn_example: Forthcoming / upcoming / imminent — due to appear soon.
+    components:
+      - spelling
+      - definitions
+  - word: foundational
+    ipa: /faʊnˈdeɪ.ʃən.əl/
+    pos: adjective
+    tip: found-ation-al — the base
+    definition: Forming the base that other things are built on.
+    example: Reading is a foundational skill for all learning.
+    synonyms:
+      - basic
+      - fundamental
+      - underlying
+      - core
+    syn_pos: adjective
+    syn_example: Foundational / fundamental / basic — forming the base.
+    components:
+      - spelling
+      - definitions
+  - word: founder
+    ipa: /ˈfaʊn.dər/
+    pos: noun
+    tip: found-er — one who founds
+    definition: The person who starts or establishes a company or organisation.
+    example: She is the founder of a successful charity.
+    synonyms:
+      - pioneer
+      - creator
+      - originator
+      - innovator
+    syn_pos: noun
+    syn_example: A founder / pioneer / originator — the person who started it.
+    components:
+      - spelling
+      - definitions
+  - word: fulfil
+    ipa: /fʊlˈfɪl/
+    pos: verb
+    tip: ful-fil — one l (BrE)
+    definition: To achieve a hope, promise or ambition.
+    example: She finally fulfilled her childhood dream.
+    synonyms:
+      - achieve
+      - realize
+      - attain
+      - accomplish
+    syn_pos: verb
+    syn_example: Fulfil / achieve / realize — to make a goal come true.
+    components:
+      - spelling
+      - definitions
+  - word: fundamental
+    ipa: /ˌfʌn.dəˈmen.təl/
+    pos: adjective
+    tip: fun-da-men-tal — 'da', then 'mental'
+    spelling_hint: ""
+    definition: Forming a necessary base or core; of central importance.
+    example: Trust is fundamental to any relationship.
+    synonyms:
+      - basic
+      - essential
+      - core
+      - primary
+      - foundational
+      - underlying
+    syn_pos: adjective
+    syn_example: A fundamental / basic / core issue to address.
+    syn_examples:
+      - the: Trust is fundamental to any relationship.
+        syns:
+          - basic
+          - essential
+          - core
+          - foundational
+        avoid:
+          underlying: >-
+            = lying beneath, so it takes a cause, a motive or a structure;
+            "fundamental to a relationship" speaks of a basis or a necessity, and
+            trust is not hidden under one
+      - the: There is a fundamental difference between the two views.
+        syns:
+          - basic
+          - primary
+          - core
+        avoid:
+          underlying: >-
+            = lying beneath, so it takes a cause, a motive or a structure; the frame
+            here is "a + adjective + difference", a contrast on the surface, not a
+            hidden layer
+          essential: >-
+            = absolutely necessary, and it takes "to + noun" or "an essential part
+            of"; "an essential difference" claims necessity, not a base, so the
+            frame is "a basic difference"
+      - the: We must address the fundamental causes.
+        syns:
+          - underlying
+          - foundational
+          - primary
+          - basic
+        avoid:
+          essential: >-
+            = absolutely necessary, and it takes "to + noun" or "an essential part
+            of"; the frame here is "a + adjective + causes", naming the deepest
+            layer, not the part of a whole
+    syn_notes:
+      basic: forming the base
+      essential: absolutely necessary
+      core: central, most important
+      primary: first in importance
+      foundational: forming the foundation
+      underlying: laying beneath, a deeper cause
+    syn_near:
+      - principal
+      - major
+      - radical
+      - chief
+      - elementary
+    syn_avoid:
+      core: >-
+        = central and most important, usual as "a core + noun" or "at the core
+        of": it fits "a core difference", but "the core causes" would mean the
+        main effects rather than the deep ones
+      essential: >-
+        = necessary without qualification, taking "to + noun" or "an essential
+        part of": it fits "essential to any relationship", but "an essential
+        difference" claims necessity, not a base
+      foundational: >-
+        = forming the foundation, common in formal reports and syllabuses: it
+        fits 'the foundational causes', but the frame compares two views, and
+        'a foundational difference' reads as jargon
+      primary: >-
+        = first in importance or in order, so it fits the comparison and the
+        causes: but it never takes "to + noun", and "primary to any relationship"
+        is wrong English
+      underlying: >-
+        = lying beneath, so it takes a cause, a motive or a structure: "the
+        underlying causes" is the natural phrase, but it cannot describe a
+        difference between two views
+      principal: >-
+        = first in importance, so it ranks where the frame wants a shared base,
+        and exam prose avoids it because it is so easily confused with "principle";
+        "principal to" is not a frame either
+      major: >-
+        = large in scale or importance: "a major difference" is correct, but "the
+        major causes" picks out the biggest effects, not the base the problem
+        stands on
+      radical: >-
+        = going to the root, so its frame is "a radical change" or "radical
+        reform": "radical causes" reverses it, since the radical thing is the
+        change, not the cause
+      chief: >-
+        = main, as in "the chief cause" or "a chief concern", but it ranks and
+        sounds institutional in a report, where the frame wants the base both views
+        share, and "chief to" is not a frame
+      elementary: >-
+        = basic in the technical sense of a first course, as in "elementary
+        mathematics": "the elementary causes" suggests crude or simple causes
+        rather than basic ones
+    syn_nuance: >-
+      All six point to what lies at the base, but the frame decides which.
+      Fundamental, basic, core and foundational work with to + noun or a ___
+      difference, where essential and crucial are the pair meaning necessary.
+      Primary ranks first in importance, and underlying is reserved for a cause or
+      motive lying beneath.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: futile
+    ipa: /ˈfjuː.taɪl/
+    pos: adjective
+    tip: fu-tile — 'tile' at the end
+    spelling_hint: ""
+    definition: Pointless or useless; incapable of producing a result.
+    example: Further negotiation proved futile.
+    synonyms:
+      - pointless
+      - useless
+      - vain
+      - hopeless
+      - ineffective
+    syn_pos: adjective
+    syn_example: A futile / pointless / vain attempt.
+    syn_examples:
+      - the: Further negotiation proved futile.
+        syns:
+          - pointless
+          - vain
+          - hopeless
+      - the: It is futile to argue with them.
+        syns:
+          - useless
+          - pointless
+          - ineffective
+    syn_notes:
+      pointless: having no purpose
+      useless: no use
+      vain: pointless, no result
+      hopeless: offering no hope
+      ineffective: not achieving an effect
+    syn_near:
+      - unproductive
+      - doomed
+      - wasted
+      - idle
+      - counterproductive
+    syn_avoid:
+      hopeless: >-
+        = with no chance of success, and it takes of or a noun, as in hopeless
+        cases and hopeless of recovery; it fits proved hopeless, not the to + verb
+        frame
+      ineffective: >-
+        = it failed to produce the intended effect, so the deck keeps it for the
+        to + verb frame, as in it is ineffective to argue; proved ineffective
+        grades performance instead
+      useless: >-
+        = of no use, an everyday word that fits it is useless to argue with them;
+        after proved it reads as a complaint rather than a formal judgement about
+        the attempt
+      vain: >-
+        = vain in modern English describes personal vanity; the phrase is in vain,
+        as in all our efforts were in vain, and the bare word cannot fill it is +
+        adjective + to + verb
+      unproductive: >-
+        = producing no result, a management word, as in an unproductive meeting;
+        it grades what came out, while the target says the effort was never likely
+        to work
+      doomed: >-
+        = certain to fail, and the frame is doomed to + noun or verb, as in doomed
+        to fail; it predicts the outcome, while the target judges whether the
+        attempt was worth making
+      wasted: >-
+        = a passive participle, as in effort was wasted; proved wasted is
+        ungrammatical, and this frame needs an adjective to sit before proved
+      idle: >-
+        = doing nothing, of a person or a machine, as in an idle worker or an idle
+        engine; it describes inactivity, not an effort with no hope of success
+      counterproductive: >-
+        = having the opposite of the intended effect, so it is a stronger and
+        different claim; an attempt can be pointless without doing any harm
+    syn_nuance: >-
+      All say an effort cannot succeed, but the frame sorts them. An activity is
+      futile, as in further negotiation proved futile and a futile attempt, and
+      the to + verb frame is it is futile to + verb. Vain (in vain) and hopeless
+      point to the empty result, while useless and ineffective judge a thing, as
+      in useless tools.
+    components:
+      - spelling
+      - definitions
+      - synonyms

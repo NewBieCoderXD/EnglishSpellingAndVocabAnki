@@ -1,0 +1,372 @@
+words:
+  - word: gain
+    ipa: /ɡeɪn/
+    pos: verb
+    tip: gain — "ain"/"ai" like "obtain"
+    definition: To obtain or secure something.
+    example: The business gained new customers this year.
+    synonyms:
+      - gain
+      - acquire
+      - obtain
+      - secure
+    syn_pos: verb
+    syn_example: Gain / acquire / obtain — to get something.
+    components:
+      - spelling
+      - definitions
+  - word: generate
+    ipa: /ˈdʒen.ər.eɪt/
+    pos: verb
+    tip: gen-er-ate — 'er' in the middle
+    spelling_hint: ""
+    definition: To produce or create something, such as energy or ideas.
+    example: Solar panels generate electricity.
+    synonyms:
+      - produce
+      - create
+      - yield
+      - cause
+      - give rise to
+    syn_pos: verb
+    syn_example: The scheme generates / produces / creates many jobs.
+    syn_examples:
+      - the: Solar panels generate electricity.
+        syns:
+          - produce
+          - create
+          - yield
+        avoid:
+          cause: >-
+            = the general verb of bringing about a consequence; electricity is the
+            panels' product, not a consequence that follows, and the frame is
+            "produce electricity". It is accepted for debate
+          give rise to: >-
+            = a formal phrase meaning lead to, used of consequences; a panel makes
+            electricity and nothing here follows from anything, so the frame is
+            "produce electricity"
+      - the: The scheme is expected to generate many jobs.
+        syns:
+          - create
+          - produce
+        avoid:
+          cause: >-
+            = to bring about a consequence; jobs are the scheme's product, and the
+            frame is "create jobs", while "cause jobs" is left for harm. It is
+            accepted for debate
+          give rise to: >-
+            = a formal phrase meaning lead to, used of consequences; a scheme
+            creates or produces jobs, and jobs are what it makes, not a side effect.
+            It is accepted for debate
+          yield: >-
+            = to give a result or return, usually measured, as in "yield a profit";
+            "the scheme yields many jobs" is not idiomatic, and the frame is "create
+            jobs". It is right for electricity
+      - the: The findings are likely to generate a lot of debate.
+        syns:
+          - cause
+          - give rise to
+        avoid:
+          yield: >-
+            = to give a result or return, usually measured, as in "yield a profit";
+            a debate is not a measured return, so the frame is "cause a debate" or
+            "give rise to debate"
+    syn_notes:
+      produce: make
+      create: make new
+      yield: produce a result
+      cause: bring about
+      give rise to: result in
+    syn_near:
+      - manufacture
+      - fabricate
+      - kindle
+      - incite
+      - elicit
+    syn_avoid:
+      cause: >-
+        = the general verb of bringing about a consequence: right for "a lot of
+        debate", but not for electricity or jobs, which the subject makes or
+        brings into being
+      create: >-
+        = bring something new into existence: natural for electricity and jobs,
+        but a debate is not built, it is caused or sparked
+      give rise to: >-
+        = a formal phrase meaning lead to, used for consequences: a scheme gives
+        rise to controversy, but not to jobs or electricity
+      produce: >-
+        = make or bring out, the plainest of the family: fine for electricity, but
+        "produce a debate" is not the natural collocation
+      yield: >-
+        = give a result or return, usually measured, as in yield a profit: "yield
+        jobs" and "yield a debate" are not idiomatic
+      manufacture: >-
+        = make goods in a factory: right for electricity or equipment, but too
+        narrow for jobs and wrong for a debate, which is caused rather than built
+      fabricate: >-
+        = make something artificially, and often dishonestly, as in fabricate
+        data: too loaded for electricity or jobs and out of place with debate
+      kindle: >-
+        = a literary fire metaphor used of interest, enthusiasm or feeling: it
+        cannot take electricity or jobs, and for debate the plain verbs are cause
+        and spark
+      incite: >-
+        = stir people up to act, so it takes people or an action, as in incite
+        violence: not electricity, not jobs, not a debate
+      elicit: >-
+        = draw out a response, an answer or a confession: an academic option for
+        sparking debate, but it cannot take electricity or jobs
+    syn_nuance: >-
+      All five mean bring into being or bring about. Generate is neutral between
+      output and consequence, taking electricity, jobs, income and interest.
+      Produce and create fit things made or brought into existence, yield fits a
+      measured return, and cause and give rise to fit consequences such as a
+      debate or a reaction.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: germane
+    ipa: /ˈdʒɜː.meɪn/
+    pos: adjective
+    tip: ger-mane — "mane" as in relevant point
+    definition: Closely related to the matter being discussed.
+    example: Please raise only points germane to the topic.
+    synonyms:
+      - relevant
+      - pertinent
+      - applicable
+      - related
+    syn_pos: adjective
+    syn_example: Germane / pertinent / relevant — directly on the point.
+    components:
+      - spelling
+      - definitions
+  - word: good
+    ipa: /ɡʊd/
+    pos: adjective
+    tip: good — short oo /ʊ/; one word you can spell
+    spelling_hint: ""
+    definition: Of high quality; beneficial; satisfactory.
+    example: She gave a good answer.
+    synonyms:
+      - beneficial
+      - advantageous
+      - favourable
+      - positive
+      - effective
+    syn_pos: adjective
+    syn_example: '"Beneficial" is perfect for argumentative essays.'
+    syn_id: good
+    syn_examples:
+      - the: The medicine is good at treating the infection.
+        syns:
+          - effective
+          - beneficial
+        avoid:
+          advantageous: >-
+            = giving you a better position than an alternative, so the frame is
+            "advantageous to + -ing" or "advantageous for + noun"; a medicine has no
+            rival to beat here, it simply works, so use effective
+          favourable: >-
+            = showing approval, or giving someone an advantage, so it describes a
+            response or a set of terms (a favourable reaction); a medicine that
+            cures is effective, not favourable
+      - the: The feedback from my manager was very good.
+        syns:
+          - positive
+          - favourable
+        avoid:
+          advantageous: >-
+            = giving you a better position than an alternative, so the frame is
+            "advantageous to + -ing" or "advantageous for + noun"; feedback is an
+            opinion on your work, not a better position
+          effective: >-
+            = producing the result you want, so it describes a method, a medicine or
+            a policy (an effective treatment); feedback is an opinion on your work,
+            not a result that comes out of a method
+      - the: Regular exercise is good for your health.
+        syns:
+          - beneficial
+          - advantageous
+          - positive
+        avoid:
+          favourable: >-
+            = showing approval, or giving someone an advantage (a favourable
+            reaction, favourable terms); the frame is "good for + your health", and
+            exercise is not a response or a set of terms
+          effective: >-
+            = producing the result you want (an effective treatment), and good
+            English; but the frame here is "good for + your health", which credits a
+            benefit, and only "effective in + -ing" would fit it
+    syn_notes:
+      beneficial: has a good effect
+      advantageous: helps your advantage
+      favourable: supportive, giving an advantage
+      positive: good, welcome
+      effective: works well
+    syn_near:
+      - healthy
+      - useful
+      - great
+      - superior
+      - satisfactory
+    syn_avoid:
+      beneficial: >-
+        = producing a good result for someone, and it needs a beneficiary
+        ("beneficial to health"): feedback is not a thing that benefits, so it has
+        nobody to benefit
+      advantageous: >-
+        = giving you a better position than an alternative, so it takes
+        "advantageous to + -ing" or "advantageous for + noun": a medicine or a
+        habit has no rival to beat
+      favourable: >-
+        = showing approval, or giving someone an advantage ("a favourable
+        reaction", "favourable terms"): it describes a response or a deal, so it
+        fits the feedback but not the medicine
+      positive: >-
+        = showing approval or a gain, and it wants a sign, a trend or a result ("a
+        positive response"): a medicine working well is a matter of effectiveness,
+        not positivity
+      effective: >-
+        = producing the result you want, so it describes a method, medicine or
+        policy ("an effective treatment"): feedback is not something a result can
+        come out of
+      healthy: >-
+        = in good condition itself, as in a healthy diet or healthy children: it
+        names the subject's own state, so "healthy for your health" doubles the
+        frame
+      useful: >-
+        = able to be used, and it takes "useful for + noun" or "useful to + noun":
+        "useful at + -ing" is the trap here, because the set phrase is "good at"
+      great: >-
+        = informal and emphatic, and it resists the double marking of "very": say
+        really great, since "very great feedback" sounds odd in a formal report
+      superior: >-
+        = better than something else, so it needs "superior to + noun": the
+        medicine cannot be superior at treating when no second medicine is named
+      satisfactory: >-
+        = only good enough to pass a test ("a satisfactory result"): it sets a low
+        bar and belongs in reports about a product, not in praise of feedback
+    syn_nuance: >-
+      Good is the plain word, and the family says which kind of good is meant.
+      Beneficial needs a beneficiary, so it is good for or good to; effective
+      needs a result, so it describes a method, medicine or policy; favourable and
+      positive belong to reactions and reviews; advantageous compares you with an
+      alternative.
+    components:
+      - synonyms
+  - word: govern
+    ipa: /ˈɡʌv.ən/
+    pos: verb
+    tip: go-v-ern — the "v" is silent-ish
+    definition: To control and direct a country or system according to rules.
+    example: New rules govern how the market operates.
+    synonyms:
+      - control
+      - regulate
+      - manage
+      - rule
+    syn_pos: verb
+    syn_example: Govern / regulate / rule — to exercise control over.
+    components:
+      - spelling
+      - definitions
+  - word: government
+    ipa: /ˈɡʌv.ən.mənt/
+    pos: noun
+    tip: gov-<b>ern</b>-ment — don't drop the "n" when writing fast
+    spelling_hint: ""
+    definition: The group of people with the authority to govern a country or state.
+    example: The government announced a new tax on sugary drinks.
+    synonyms:
+      - authorities
+      - administration
+      - state
+      - regime
+    syn_pos: noun
+    syn_example: '"The government should invest..." — authorities / administration are the natural equivalents.'
+    syn_examples:
+      - the: The government announced a new tax on sugary drinks.
+        syns:
+          - authorities
+          - administration
+        avoid:
+          regime: >-
+            = a government carrying a political judgement, as in "the former
+            regime"; a tax announcement is an ordinary act of governance, not a
+            political line anyone has to defend
+      - the: The government has pledged more money for schools.
+        syns:
+          - administration
+          - state
+        avoid:
+          regime: >-
+            = a government viewed with a political judgement, usual in "the old
+            regime"; pledging school funding is routine work, and "the regime has
+            pledged" implies an authoritarian state
+      - the: The government must tackle growing inequality.
+        syns:
+          - authorities
+          - state
+        avoid:
+          regime: >-
+            = a government carrying a political judgement, as in "the former
+            regime"; the frame is a neutral duty, and "the regime must tackle" reads
+            as a repressive power under threat
+    syn_notes:
+      authorities: those in power
+      administration: the governing body
+      state: the country as a political body
+      regime: a government (possibly authoritarian)
+    syn_near:
+      - governance
+      - govern
+      - ministry
+      - council
+      - politician
+    syn_avoid:
+      authorities: >-
+        = the people holding power, plural and deliberately vague, so it works in
+        "the authorities announced" or "must tackle inequality" but the sentence
+        pledging money names one continuing body
+      administration: >-
+        = the team in office for a given period, as in "the previous
+        administration", and also the civil service; it is rejected for the
+        long-term duty "must tackle growing inequality"
+      state: >-
+        = the country as a political body, so it is rejected where a tax is
+        announced; elsewhere, as in "the state has pledged more money for
+        schools", it is perfectly good English
+      regime: >-
+        = a government carrying a political judgement, as in "the former regime";
+        that criticism makes it wrong for a tax announcement and for routine
+        duties such as tackling inequality
+      governance: >-
+        = the abstract process of running a country, as in "good governance", and
+        it never announces or pledges anything; the card needs a countable body
+        that acts
+      govern: >-
+        = the verb behind the noun, as in "governments must implement rules"; all
+        three sentences already carry a determiner before the blank, so a verb
+        cannot go there
+      ministry: >-
+        = one department of government, so it is the wrong level of scale for a
+        body that announces a national tax or pledges money for schools
+      council: >-
+        = a local or advisory body, such as a city council or a safety council,
+        not the national government that can set national policy on inequality
+      politician: >-
+        = a person holding office rather than the institution itself, so it names
+        an individual where the sentence needs a collective body to act for a
+        whole country
+    syn_nuance: >-
+      All can stand for the state, but register differs: government is the neutral
+      everyday word, state names the country as a political body, administration
+      is the team in office for a period, authorities stresses the people in
+      power, and regime adds a hint of authoritarian rule. Choose by who acts, not
+      by judgement.
+    components:
+      - spelling
+      - definitions
+      - synonyms

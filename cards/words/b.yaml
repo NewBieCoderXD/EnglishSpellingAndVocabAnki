@@ -1,0 +1,306 @@
+words:
+  - word: bargain
+    ipa: /ˈbɑː.ɡɪn/
+    pos: verb
+    tip: bar-gain — ar + gain
+    definition: To negotiate the price or terms of an agreement.
+    example: They bargained with the supplier over the price.
+    synonyms:
+      - negotiate
+      - haggle
+      - barter
+    syn_pos: verb
+    syn_example: Bargain / negotiate — to push for a better deal.
+    components:
+      - spelling
+      - definitions
+  - word: beneficial
+    ipa: /ˌben.ɪˈfɪʃ.əl/
+    pos: adjective
+    tip: bene-fit-ial — one f, the "c" is silent mistake trap
+    definition: Producing a good or favourable effect.
+    example: Regular reading is beneficial for vocabulary.
+    synonyms:
+      - advantageous
+      - helpful
+      - useful
+      - favourable
+    syn_pos: adjective
+    syn_example: Beneficial / advantageous — good for you.
+    components:
+      - spelling
+      - definitions
+  - word: benefit
+    ipa: /ˈben.ɪ.fɪt/
+    pos: noun/verb
+    tip: bene-fit — no double letters
+    spelling_hint: ""
+    definition: An advantage or profit gained from something; to gain from it.
+    example: The plan offers clear benefits to everyone.
+    synonyms:
+      - advantage
+      - gain
+      - profit
+      - plus
+      - upside
+    syn_pos: noun
+    syn_example: List the benefits / advantages / pluses of a policy.
+    syn_examples:
+      - the: A key benefit is stress relief.
+        syns:
+          - advantage
+          - plus
+          - upside
+      - the: Both sides can benefit from the agreement.
+        syns:
+          - gain
+          - profit
+    syn_notes:
+      advantage: a position of superiority
+      gain: an increase or winnings
+      profit: a financial return
+      plus: a positive factor
+      upside: the good side of a situation
+    syn_near:
+      - perk
+      - reward
+      - asset
+      - return
+    syn_avoid:
+      advantage: >-
+        = a stronger position than a rival's, as in 'a major advantage'; it is a
+        noun, and the verb frame is 'benefit from + noun', not 'advantage from'
+      gain: >-
+        = a rise in amount or a thing won, so 'a key gain is stress relief' reads
+        as a figure going up; the deck wants the general word for a good outcome
+        here
+      profit: >-
+        = money left after costs, or the verb meaning to earn a margin; a purely
+        financial word, so it cannot stand for relief from stress
+      plus: >-
+        = the good point in a list of pros and cons, as in 'the main plus of the
+        job'; it is informal and needs a con to be weighed against, which this
+        sentence lacks
+      upside: >-
+        = the good side of a situation that could go either way, as in 'the upside
+        is faster delivery'; no risk or con is in view, so the balance frame is
+        missing
+      perk: >-
+        = a small extra that comes with a job, usually informal and often a
+        tangible one like free meals; stress relief is a main advantage, not a
+        bonus on the side
+      reward: >-
+        = something handed back for effort or good service, as in 'a reward for
+        hard work'; it wants a doer who earned it, while a benefit is simply there
+        for both sides
+      asset: >-
+        = a possession or quality belonging to a person or firm, as in 'a valuable
+        asset'; a key asset is what someone owns, not a good the agreement
+        delivers
+      return: >-
+        = the income an investment pays back, as in 'a good return on savings'; it
+        is a financial figure, so it cannot stand for the relief of stress
+    syn_nuance: >-
+      All of these are good outcomes, but benefit splits by frame: 'a benefit of +
+      noun' and 'a key benefit is ...' cover any gain, 'benefit from + noun' is
+      the verb, advantage compares you with others, upside and plus need a
+      possible downside in view, and gain and profit read as figures of money or
+      amount.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: big
+    ipa: /bɪɡ/
+    pos: adjective
+    tip: big — three letters, no trap
+    spelling_hint: ""
+    definition: Large in size, amount, degree or importance.
+    example: They live in a big house.
+    synonyms:
+      - large
+      - huge
+      - massive
+      - substantial
+      - considerable
+      - enormous
+      - significant
+      - tremendous
+    syn_pos: adjective
+    syn_example: '"A substantial rise" / "tremendous growth" read far better than "A big rise".'
+    syn_id: big
+    syn_examples:
+      - the: A big crowd gathered outside the stadium.
+        syns:
+          - large
+          - huge
+          - massive
+          - enormous
+        avoid:
+          considerable: >-
+            = fairly large in degree, the word for gaps and amounts (a considerable
+            difference); a crowd is counted with large, huge or enormous, not with a
+            word about degree
+          substantial: >-
+            = large in amount, weight or value, and it wants a countable sum (a
+            substantial increase); a crowd of unnamed people is not substantial, it
+            is simply large or huge
+          tremendous: >-
+            = extremely good or extremely big, with a strong charge of excitement (a
+            tremendous success); a crowd outside a stadium is described by size, and
+            that excitement does not belong here
+      - the: There is a big difference between the two plans.
+        syns:
+          - substantial
+          - considerable
+          - significant
+        avoid:
+          tremendous: >-
+            = extremely good or extremely big, with a strong charge of excitement (a
+            tremendous success); the frame is "a big difference between + two
+            nouns", a measured gap, so the excitement does not fit
+          enormous: >-
+            = extremely big, and it is at home with physical scale, as in an
+            enormous hall; it sounds clumsy before the abstract noun difference, so
+            use substantial, considerable or significant
+          large: >-
+            = the neutral size word, and it takes a countable noun (a large crowd);
+            a difference has no physical size, so "a big difference between + X and
+            Y" needs substantial or significant
+          massive: >-
+            = huge and solid, often of weight or structure (a massive wall, massive
+            data); the frame is "a big difference between + two plans", and massive
+            wrongly suggests something physically heavy
+      - the: This is a big opportunity for our company.
+        syns:
+          - significant
+          - tremendous
+          - huge
+        avoid:
+          considerable: >-
+            = fairly large in degree, and the frame is "a considerable difference";
+            an opportunity has no measurable degree, so the word here is significant
+            or huge
+          substantial: >-
+            = large in amount, weight or value, and it wants a countable sum (a
+            substantial increase); an opportunity has no measurable amount, so
+            the word here is significant or huge
+          enormous: >-
+            = extremely big, and it is at home with physical scale, as in an
+            enormous hall; the frame is "a big opportunity for + noun", and enormous
+            sounds clumsy before that abstract noun
+          large: >-
+            = the neutral size word, and it takes a countable noun (a large crowd);
+            an opportunity has no physical size either, and the word for one here is
+            significant or huge
+          massive: >-
+            = huge and solid, often of weight or structure (a massive wall, massive
+            data); the frame is "a big opportunity for + noun", and massive wrongly
+            suggests something physically heavy or solid
+    syn_notes:
+      large: big in size
+      huge: very big
+      massive: very big and solid
+      substantial: large in amount or value
+      considerable: quite large
+      enormous: extremely big
+      significant: notably big
+      tremendous: amazingly big
+    syn_near:
+      - great
+      - grand
+      - broad
+      - overwhelming
+      - gigantic
+    syn_avoid:
+      large: >-
+        = the neutral size word, and it takes a countable noun ("a large crowd"):
+        a difference or an opportunity has no physical size, so use substantial or
+        significant there
+      huge: >-
+        = a simple intensifier meaning extremely big, natural before a countable
+        object: it suits the crowd and even "a huge opportunity", but not the gap
+        between two plans
+      massive: >-
+        = huge and solid, often of weight or structure ("a massive wall", "massive
+        data"): it wrongly suggests something physically heavy where a gap is
+        measured
+      enormous: >-
+        = extremely big, and it is at home with physical scale, as in an enormous
+        hall: it sounds clumsy before an abstract noun like opportunity or
+        difference
+      substantial: >-
+        = large in amount, weight or value, and it wants a countable sum ("a
+        substantial increase"): a crowd of unnamed people is not substantial, but
+        a substantial difference is
+      considerable: >-
+        = fairly large in degree, the word for gaps and amounts ("a considerable
+        difference"): a crowd is sized with large or huge, not with a word about
+        degree
+      significant: >-
+        = large enough to matter, so it is a word about importance ('a
+        significant opportunity'); it carries no physical size, so a crowd
+        here is large, huge or massive
+      tremendous: >-
+        = extremely good or extremely big, with a strong charge of excitement ("a
+        tremendous success"): that emotion does not belong in a description of a
+        crowd or a gap
+      great: >-
+        = an informal intensifier fixed in the patterns a great + noun and a great
+        deal of: it works for an opportunity, but a gap or a counted crowd needs a
+        size or degree word
+      grand: >-
+        = splendid and majestic, the register of ceremonies ("a grand entrance",
+        "a grand occasion"): it praises style rather than quantity, so it never
+        measures a crowd
+      broad: >-
+        = wide, and it describes outline, range or scope ("a broad outline",
+        "broad agreement"): it cannot measure a countable crowd or the size of a
+        gap between two plans
+      overwhelming: >-
+        = so great that you are swamped by it, and it takes an uncountable amount
+        ("an overwhelming amount of work"): nobody is swamped by a crowd or by a
+        gap
+      gigantic: >-
+        = a plain intensifier for very large, and it wants a concrete countable
+        noun ("a gigantic machine"): it is too bulky before an abstract noun like
+        opportunity or difference
+    syn_nuance: >-
+      Big is the everyday word and covers size and importance alike, while the
+      family sorts by what is measured. Physical size takes large, huge, massive
+      and enormous with count nouns such as a crowd. Amount takes substantial and
+      considerable with a difference or a sum, importance takes significant, and
+      tremendous adds excitement.
+    components:
+      - synonyms
+  - word: boost
+    ipa: /buːst/
+    pos: verb
+    tip: boost — double o, single s
+    definition: To increase or improve something quickly or strongly.
+    example: The new policy aims to boost small businesses.
+    synonyms:
+      - increase
+      - enhance
+      - raise
+      - strengthen
+    syn_pos: verb
+    syn_example: Boost / enhance / raise — to push something up.
+    components:
+      - spelling
+      - definitions
+  - word: burden
+    ipa: /ˈbɜː.dən/
+    pos: noun
+    tip: bur-den — "bur" like "bear" a load
+    definition: A heavy load, or something that is difficult to carry or deal with.
+    example: High rent is a heavy burden for young families.
+    synonyms:
+      - load
+      - strain
+      - weight
+    syn_pos: noun
+    syn_example: A burden / strain — a heavy load to carry.
+    components:
+      - spelling
+      - definitions

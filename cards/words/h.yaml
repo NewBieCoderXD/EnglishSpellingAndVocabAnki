@@ -1,0 +1,341 @@
+words:
+  - word: habitat
+    ipa: /ˈhæb.ɪ.tæt/
+    pos: noun
+    tip: hab-i-tat — "habit" of an animal
+    definition: The natural place where a species lives.
+    example: The forest is home to many rare habitats.
+    synonyms:
+      - environment
+      - home
+      - ecosystem
+      - surroundings
+    syn_pos: noun
+    syn_example: A habitat / environment — the natural home of a species.
+    components:
+      - spelling
+      - definitions
+  - word: happy
+    ipa: /ˈhæp.i/
+    pos: adjective
+    tip: hap-py — double p, two syllables
+    spelling_hint: ""
+    definition: Feeling or showing pleasure or contentment.
+    example: The children look happy.
+    synonyms:
+      - glad
+      - pleased
+      - delighted
+      - content
+      - joyful
+    syn_pos: adjective
+    syn_example: '"Delighted" is stronger than "happy"; "content" is a calmer, lasting happiness.'
+    syn_id: happy
+    syn_examples:
+      - the: I am happy to hear you got the job.
+        syns:
+          - glad
+          - delighted
+        avoid:
+          joyful: >-
+            = full of visible joy, the word for an occasion or a person (a joyful
+            celebration); the frame is "happy to + verb", a quiet reaction to news,
+            and "I am joyful to hear" is bookish
+          pleased: >-
+            = satisfied with a result, and "I am pleased to hear you got the job" is
+            good English, but it is more formal and more about satisfaction than the
+            plain feeling here
+      - the: She was very happy with her exam results.
+        syns:
+          - pleased
+          - delighted
+          - content
+        avoid:
+          joyful: >-
+            = full of visible joy, the word for an occasion or a person (a joyful
+            celebration); the frame is "happy with + noun", a private feeling, and
+            "joyful with" is not a pairing English uses
+          glad: >-
+            = pleased about one piece of news; it takes glad to + verb or glad that,
+            and it never takes the preposition with, so very glad with her exam
+            results is wrong
+      - the: After years of stress, he finally felt happy.
+        syns:
+          - content
+          - joyful
+        avoid:
+          pleased: >-
+            = satisfied with a result, so it wants a with-phrase or a to + -ing
+            (pleased with her results); "he finally felt pleased" has nothing to be
+            satisfied about, and content fits that calm feeling
+          glad: >-
+            = pleased about one piece of news, and the frame is "glad to + verb" or
+            "glad that + clause"; "he finally felt glad" has no news and no
+            that-clause to be glad about, so use content
+    syn_notes:
+      glad: pleased about something
+      pleased: satisfied, happy
+      delighted: very happy
+      content: calmly satisfied
+      joyful: full of joy
+    syn_near:
+      - satisfied
+      - cheerful
+      - elated
+      - merry
+      - overjoyed
+    syn_avoid:
+      glad: >-
+        = pleased about one piece of news; it takes glad to + verb or glad that,
+        and it never takes the preposition with, so very glad with her exam
+        results is wrong.
+      pleased: >-
+        = satisfied with a result, so pleased with her exam results works; it is
+        good English in I am pleased to hear, but more formal and more about
+        satisfaction than about feeling happy.
+      content: >-
+        = calmly satisfied, and it takes content with; it names a settled, quiet
+        state, so it does not fit the warm reaction in I am happy to hear you got
+        the job.
+      delighted: >-
+        = very pleased, and almost always about one specific good event, so it
+        needs delighted with or delighted to + verb; the general wellbeing of felt
+        happy after years of stress is too broad.
+      joyful: >-
+        = full of visible joy, and it usually describes an occasion or a person (a
+        joyful celebration); it is bookish for I am joyful to hear and wrong for a
+        private feeling.
+      satisfied: >-
+        = content with a result, and it needs satisfied with; it names contentment
+        with an outcome, not the general wellbeing of after years of stress, he
+        finally felt happy.
+      cheerful: >-
+        = habitually merry, a lasting trait of a person or a tone (a cheerful
+        colleague); it does not describe a private reaction to news or to exam
+        results.
+      elated: >-
+        = extremely happy, usually for a moment and rather literary; far too
+        strong for the plain state of very happy with her exam results or of felt
+        happy after stress.
+      merry: >-
+        = festive and jolly, and now literary or confined to set phrases like
+        merry Christmas and a merry crowd; it cannot describe one person's private
+        feeling.
+      overjoyed: >-
+        = wild with joy, stronger and more emotional than these frames allow; it
+        wants a named cause and is too extreme for happy to hear or happy with a
+        result.
+    syn_nuance: >-
+      All five name a positive feeling, but the frame decides. Glad and delighted
+      attach to news (glad to hear, delighted with the result), pleased and
+      content take with (pleased with your marks, content with what you have), and
+      content and joyful are calm settled states, not reactions, so felt happy
+      after stress takes those two.
+    components:
+      - synonyms
+  - word: harmony
+    ipa: /ˈhɑː.mə.ni/
+    pos: noun
+    tip: har-mo-ny — three syllables
+    definition: A state of peace and agreement.
+    example: The two species live in harmony with each other.
+    synonyms:
+      - balance
+      - agreement
+      - accord
+      - peace
+    syn_pos: noun
+    syn_example: Harmony / accord — peaceful agreement.
+    components:
+      - spelling
+      - definitions
+  - word: heighten
+    ipa: /ˈhaɪ.tən/
+    pos: verb
+    tip: height-en — "height" + en
+    definition: To increase or make something more intense.
+    example: The music heightened the tension in the scene.
+    synonyms:
+      - increase
+      - intensify
+      - boost
+      - sharpen
+    syn_pos: verb
+    syn_example: Heighten / intensify / increase — to make more intense.
+    components:
+      - spelling
+      - definitions
+  - word: highlight
+    ipa: /ˈhaɪ.laɪt/
+    pos: verb
+    tip: high-light — bring to the light
+    definition: To draw attention to and emphasise something.
+    example: The data highlights the gap between rich and poor.
+    synonyms:
+      - emphasize
+      - underline
+      - stress
+      - spotlight
+    syn_pos: verb
+    syn_example: Highlight / emphasize / underline — to draw attention to.
+    components:
+      - spelling
+      - definitions
+  - word: holistic
+    ipa: /həʊˈlɪs.tɪk/
+    pos: adjective
+    tip: ho-lis-tic — 'lis', then 'tic'
+    spelling_hint: ""
+    definition: Considering the whole of something rather than just its parts.
+    example: We need a holistic approach to health.
+    synonyms:
+      - whole
+      - comprehensive
+      - integrated
+      - all-round
+      - overall
+    syn_pos: adjective
+    syn_example: A holistic / integrated / comprehensive approach.
+    syn_examples:
+      - the: We need a holistic approach to health.
+        syns:
+          - overall
+          - comprehensive
+        avoid:
+          whole: >-
+            = a complete thing in itself, and a count noun, so it cannot follow "a"
+            here: the frame is "a holistic approach to health", where you would
+            write the whole approach to health, not a whole approach
+      - the: The plan adopts holistic measures.
+        syns:
+          - integrated
+          - comprehensive
+          - all-round
+          - overall
+        avoid:
+          whole: >-
+            = a complete thing in itself, and it stays singular, so the frame "the
+            plan adopts holistic measures" wants a plural: write adopts the whole of
+            the plan, never adopts whole measures
+    syn_notes:
+      whole: a complete entity
+      comprehensive: covering everything
+      integrated: parts joined together
+      all-round: covering all aspects
+      overall: general, total
+    syn_near:
+      - systematic
+      - total
+      - global
+      - wholesale
+    syn_avoid:
+      whole: >-
+        = a complete thing in itself, and it is a count noun: "the whole approach"
+        is fine, but "a whole approach" or "whole measures" does not work here
+      integrated: >-
+        = physically or administratively joined into one system, as in an
+        integrated network: it fits these measures, but a single approach has
+        nothing to be joined to
+      all-round: >-
+        = good at many different things, a British word for a person ('an
+        all-round player'); with a method or approach the usual words are
+        comprehensive or integrated
+      systematic: >-
+        = following a fixed, orderly method, so it is about rigour rather than
+        scope: "a systematic approach" is good English but means method, not the
+        whole picture
+      total: >-
+        = the complete amount, and it belongs with numbers ("a total of 200") or
+        with failure and collapse: it cannot modify "approach" or "measures"
+      global: >-
+        = concerning the whole world, as in global warming: in a holistic approach
+        to health the scope is the whole person, not the planet
+      wholesale: >-
+        = sweeping and complete, and it normally modifies a change ("wholesale
+        reforms", "wholesale closure"): it says how much is affected, not how many
+        aspects are covered
+    syn_nuance: >-
+      All mean covering the whole subject instead of one part, but the noun after
+      the adjective decides. An approach or a view takes holistic, comprehensive
+      or overall, and measures or systems that merge fields take integrated.
+      All-round is the British word for a person good at many things, and whole is
+      a count noun.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: hypothesis
+    ipa: /haɪˈpɒθ.ə.sɪs/
+    pos: noun
+    tip: hy-poth-e-sis — 'poth', then 'e-sis'
+    spelling_hint: ""
+    definition: A proposed explanation based on limited evidence, to be tested.
+    example: The results support our hypothesis.
+    synonyms:
+      - theory
+      - premise
+      - supposition
+      - assumption
+      - proposition
+    syn_pos: noun
+    syn_example: Test a hypothesis / theory / assumption.
+    syn_examples:
+      - the: The results support our hypothesis.
+        syns:
+          - theory
+          - assumption
+          - supposition
+          - proposition
+      - the: Researchers tested the hypothesis with new data.
+        syns:
+          - proposition
+          - theory
+          - supposition
+    syn_notes:
+      theory: an explanation backed by evidence
+      premise: a starting point
+      supposition: a tentative case granted for the sake of argument
+      assumption: taken for granted
+      proposition: a claim put forward for debate
+    syn_near:
+      - thesis
+      - conjecture
+      - speculation
+      - prediction
+      - axiom
+    syn_avoid:
+      premise: >-
+        = a starting point a whole argument rests on, as in the premise of an
+        argument: data can support or refute a hypothesis, so 'our premise' is
+        never the thing the results back
+      assumption: >-
+        = something taken for granted without being tested, so it takes "on the
+        assumption that": testing settles a hypothesis and leaves an assumption
+        standing
+      thesis: >-
+        = the central claim of a paper, argument or dissertation, argued over many
+        pages rather than tested: it is not one testable statement
+      conjecture: >-
+        = a guess built on very little evidence, and the word itself marks low
+        certainty: too weak for "tested the hypothesis with new data"
+      speculation: >-
+        = open-ended guessing with no evidence behind it, and it takes speculation
+        about or over: it reads wrong after "support our" or "tested the"
+      prediction: >-
+        = what you expect to happen next, so the outcome confirms or fails a
+        prediction: a hypothesis explains why something happens and is the one you
+        test
+      axiom: >-
+        = a truth taken as self-evident and never proved, the opposite of a
+        hypothesis, which is precisely what evidence tests
+    syn_nuance: >-
+      All mean a statement put forward, but only some are meant to be tested.
+      Hypothesis and theory = an explanation that data can support or refute,
+      premise = the starting point a whole argument rests on, assumption =
+      something taken for granted to get work done, supposition = a tentative case
+      granted for the sake of argument, and proposition = a claim put forward for
+      debate, not a suggested plan.
+    components:
+      - spelling
+      - definitions
+      - synonyms

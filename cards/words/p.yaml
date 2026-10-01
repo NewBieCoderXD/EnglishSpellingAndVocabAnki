@@ -1,0 +1,843 @@
+words:
+  - word: painstaking
+    ipa: /ˈpeɪnz.teɪ.kɪŋ/
+    pos: adjective
+    tip: pain(s)-taking — takes pain (care)
+    definition: Taking great care and attention to detail.
+    example: It required painstaking attention to detail.
+    synonyms:
+      - careful
+      - meticulous
+      - thorough
+      - scrupulous
+    syn_pos: adjective
+    syn_example: Painstaking / meticulous / scrupulous — extremely careful.
+    components:
+      - spelling
+      - definitions
+  - word: persuasive
+    ipa: /pəˈsweɪ.sɪv/
+    pos: adjective
+    tip: per-sua-sive — "suade" urge
+    definition: Able to persuade people to believe or do something.
+    example: She made a persuasive case for reform.
+    synonyms:
+      - convincing
+      - compelling
+      - forceful
+      - eloquent
+    syn_pos: adjective
+    syn_example: Persuasive / convincing / compelling — able to persuade.
+    components:
+      - spelling
+      - definitions
+  - word: pertinent
+    ipa: /ˈpɜː.tɪ.nənt/
+    pos: adjective
+    tip: per-ti-nent — "pert" to the point
+    definition: Directly relevant to the matter at hand.
+    example: Her experience is pertinent to the discussion.
+    synonyms:
+      - relevant
+      - germane
+      - applicable
+      - related
+    syn_pos: adjective
+    syn_example: Pertinent / germane / relevant — clearly connected.
+    components:
+      - spelling
+      - definitions
+  - word: pervasive
+    ipa: /pəˈveɪ.sɪv/
+    pos: adjective
+    tip: per-va-sive — "vade" go through
+    definition: Spreading or present throughout a place or group.
+    example: Inequality is pervasive across many sectors.
+    synonyms:
+      - widespread
+      - ubiquitous
+      - omnipresent
+      - prevalent
+    syn_pos: adjective
+    syn_example: Pervasive / ubiquitous / widespread — spread everywhere.
+    components:
+      - spelling
+      - definitions
+  - word: phenomenon
+    ipa: /fəˈnɒm.ɪ.nən/
+    pos: noun
+    tip: <b>ph</b>e-<b>no</b>-me-non — "ph" for the /f/ sound, double <b>n</b> before "on"
+    spelling_hint: ""
+    definition: A fact, event or situation that can be observed to exist or happen.
+    example: Globalisation is not a new phenomenon.
+    synonyms:
+      - occurrence
+      - trend
+      - event
+      - development
+    syn_pos: noun
+    syn_example: '"A global phenomenon" — trend / occurrence for society essays.'
+    syn_examples:
+      - the: Globalisation is a global phenomenon.
+        syns:
+          - trend
+          - occurrence
+          - development
+        avoid:
+          event: >-
+            = something happening at a stated time and place ("a sporting event");
+            the frame here is "is a global X", which wants a dated occasion, but
+            globalisation is a pattern spread over many years
+      - the: Urban migration is a modern phenomenon.
+        syns:
+          - development
+          - trend
+          - occurrence
+        avoid:
+          event: >-
+            = a dated, one-off happening ("a sporting event"); "is a modern event"
+            reads as one set in the present, while urban migration is a long-run
+            pattern, not an occasion
+      - the: The Northern Lights are a natural phenomenon.
+        syns:
+          - occurrence
+          - event
+    syn_notes:
+      occurrence: something that happens
+      trend: a general direction or pattern
+      event: a specific happening
+      development: a newly occurring situation
+    syn_near:
+      - incidence
+      - spectacle
+      - anomaly
+      - outbreak
+      - phenomenal
+    syn_avoid:
+      development: >-
+        = a new situation that comes about over time ("political developments");
+        it is accepted for globalisation and migration, but the Northern Lights
+        have always been there, so nothing is developing
+      event: >-
+        = something that happens at a stated time and place ("a sporting event");
+        it is accepted for the Northern Lights, but a pattern seen across many
+        countries is not one dated happening
+      trend: >-
+        = a general direction that figures move in ("a downward trend"); it is
+        accepted for globalisation, but a single display has no direction over
+        time and a phenomenon is not a measured series
+      incidence: >-
+        = the rate at which something happens ("a high incidence of disease"); it
+        is a statistic counting cases in a population, whereas the aurora is the
+        thing itself and is not measured by frequency
+      spectacle: >-
+        = a show put on for an audience, as in "the opening spectacle"; fine in "a
+        natural spectacle", but the word adds scale and entertainment that the
+        plain report of the Northern Lights does not need
+      anomaly: >-
+        = something that departs from what is normal ("a statistical anomaly");
+        the display is rare, so the word overstates the oddity and frames it as a
+        deviation rather than a regular process
+      outbreak: >-
+        = the sudden start of a disease or a fire across an area ("a disease
+        outbreak"); it needs a harmful event that spreads, and nothing is
+        spreading when the sky lights up
+      phenomenal: >-
+        = an adjective meaning outstanding ("a phenomenal athlete"); good English,
+        but it is the wrong part of speech for a noun slot after "a natural ___"
+    syn_nuance: >-
+      A phenomenon is a thing that can be observed, and the family splits by what
+      it stresses. Occurrence is the neutral count of something happening, trend
+      and development need change over time, and event needs a single dated
+      happening. A natural phenomenon can last minutes, so it has no direction.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: pioneer
+    ipa: /ˌpaɪəˈnɪər/
+    pos: noun
+    tip: pi-o-neer — a "peer" ahead
+    definition: A person who is among the first to do or develop something.
+    example: She was a pioneer in the field of genetics.
+    synonyms:
+      - innovator
+      - founder
+      - trailblazer
+      - leader
+    syn_pos: noun
+    syn_example: A pioneer / innovator — one of the first, who opens the way.
+    components:
+      - spelling
+      - definitions
+  - word: plausible
+    ipa: /ˈplɔː.zə.bəl/
+    pos: adjective
+    tip: plau-si-ble — 'plau', then 'sible'
+    spelling_hint: ""
+    definition: Seeming reasonable or likely to be true.
+    example: She offered a plausible explanation.
+    synonyms:
+      - credible
+      - believable
+      - reasonable
+      - convincing
+      - likely
+    syn_pos: adjective
+    syn_example: A plausible / credible / convincing explanation.
+    syn_examples:
+      - the: She offered a plausible explanation.
+        syns:
+          - credible
+          - believable
+          - reasonable
+          - convincing
+      - the: There is a plausible link between the two events.
+        syns:
+          - likely
+          - believable
+          - reasonable
+    syn_notes:
+      credible: believable, trustworthy
+      believable: can be believed
+      reasonable: sensible
+      convincing: persuasive
+      likely: probable
+    syn_near:
+      - possible
+      - feasible
+      - logical
+      - tenable
+    syn_avoid:
+      likely: >-
+        = probable, and it wants "to + verb" or a noun such as "the likely cause";
+        an explanation is not likely but true or false, whereas "a likely link
+        between events" is correct
+      credible: >-
+        = believable because the source is trustworthy, so it judges a person or a
+        story; a link between two events is judged on the evidence, not on who
+        describes it
+      convincing: >-
+        = so persuasive that it settles the question, the frame of "a convincing
+        argument or witness"; a suspected link between events is only reasonable
+        or possible, never convincing yet
+      possible: >-
+        = able to happen at all, which admits far more than plausible; "a possible
+        explanation" leaves room for one that is merely imaginable
+      feasible: >-
+        = possible to carry out in practice, the frame of "a feasible plan,
+        timetable or option"; it is about practicality and logistics, not about
+        whether a claim is believable
+      logical: >-
+        = following from the premises, so it grades the structure of an argument;
+        an argument can be logical and still rest on false facts
+      tenable: >-
+        = able to be defended against criticism, a formal word for a hypothesis, a
+        theory or a position; it does not fit an explanation, which is judged on
+        its truth
+    syn_nuance: >-
+      All five say a statement can be accepted, but they grade how far. Plausible
+      means it fits the facts and could be true, so it is the default hedge.
+      Credible and convincing judge the source, likely grades probability and
+      takes "likely to + verb", reasonable rates the judgement itself, and
+      possible admits far more than plausible does.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: pointless
+    ipa: /ˈpɔɪnt.ləs/
+    pos: adjective
+    tip: point-less — no point
+    definition: Having no purpose or chance of success.
+    example: Arguing with them is pointless.
+    synonyms:
+      - futile
+      - useless
+      - vain
+      - meaningless
+    syn_pos: adjective
+    syn_example: Pointless / futile / vain — without purpose or result.
+    components:
+      - spelling
+      - definitions
+  - word: premise
+    ipa: /ˈprem.ɪs/
+    pos: noun
+    tip: pre-mise — the "pre-" idea set before the argument
+    definition: The starting statement or idea on which an argument is built.
+    example: The whole plan rests on a false premise.
+    synonyms:
+      - assumption
+      - supposition
+      - starting point
+    syn_pos: noun
+    syn_example: A premise / assumption — the starting belief of an argument.
+    components:
+      - spelling
+      - definitions
+  - word: pressing
+    ipa: /ˈpres.ɪŋ/
+    pos: adjective
+    tip: press-ing — urgent (presses on you)
+    definition: Needing immediate attention; urgent.
+    example: The most pressing issue is housing.
+    synonyms:
+      - urgent
+      - critical
+      - immediate
+      - important
+    syn_pos: adjective
+    syn_example: Pressing / urgent / critical — needing attention now.
+    components:
+      - spelling
+      - definitions
+  - word: presumption
+    ipa: /prɪˈzʌmp.ʃən/
+    pos: noun
+    tip: pre-sump-tion — "sump" take
+    definition: Something held to be true by default — by law, past evidence or convention — until proven otherwise.
+    example: The defendant was released on the presumption of innocence.
+    synonyms:
+      - assumption
+      - supposition
+      - belief
+      - guess
+      - hypothesis
+      - opinion
+    syn_pos: noun
+    syn_example: On the presumption / assumption that … — taken as true by default.
+    syn_examples:
+      - the: The defendant was released on the presumption of innocence.
+        syns:
+          - assumption
+        avoid:
+          belief: >-
+            = a conviction the speaker holds; the phrase here is fixed — 'on the
+            presumption of innocence' — because the law presumes, not the speaker
+      - the: The scheme was approved on the presumption that the risk was negligible.
+        syns:
+          - assumption
+          - supposition
+          - belief
+    syn_notes:
+      assumption: the everyday word for the same idea
+      supposition: a tentative case granted for the sake of argument
+      belief: a conviction the person holds, not one law or custom sets up
+    syn_near:
+      - theory
+      - expectation
+    syn_avoid:
+      supposition: >-
+        = a tentative case granted for the sake of argument, so it needs 'that':
+        'on the supposition of innocence' is not English, and the word never
+        carries the legal sense of a presumption
+      guess: >-
+        = hit on by chance with nothing behind it; a presumption is held until
+        disproved, which is the opposite of a guess
+      hypothesis: >-
+        = an explanation you put to the test; a presumption is taken as true with
+        no test at all, which is how law and convention keep it in place
+      opinion: >-
+        = a view the speaker owns and argues for; a presumption goes unstated and
+        unargued, held by law or by custom
+      theory: >-
+        = a developed system of explanation tested against data, so 'on the theory
+        that' changes the meaning: a theory has to earn the truth
+      expectation: >-
+        = what you expect to happen next; a presumption is about something already
+        taken as true, not about a future outcome
+    syn_nuance: >-
+      Presumption is the confident, by-default member of the family: law or
+      convention holds it true until disproved, as in 'on the presumption of
+      innocence'. Assumption is the neutral everyday word, supposition is the same
+      idea framed as an argument, and a guess has nothing behind it at all.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: prevalent
+    ipa: /ˈprev.əl.ənt/
+    pos: adjective
+    tip: prev-a-lent — "prev" win (common)
+    definition: Common or widespread at a particular time.
+    example: The disease is prevalent in coastal areas.
+    synonyms:
+      - widespread
+      - common
+      - rampant
+      - pervasive
+    syn_pos: adjective
+    syn_example: Prevalent / widespread / common — found over a wide area.
+    components:
+      - spelling
+      - definitions
+  - word: primary
+    ipa: /ˈpraɪ.mər.i/
+    pos: adjective
+    tip: prim-ary — "prim" first
+    definition: Most important or main.
+    example: The primary aim is to reduce waste.
+    synonyms:
+      - main
+      - chief
+      - principal
+      - key
+    syn_pos: adjective
+    syn_example: Primary / main / principal — the most important.
+    components:
+      - spelling
+      - definitions
+  - word: prioritize
+    ipa: /praɪˈɒr.ɪ.taɪz/
+    pos: verb
+    tip: pri-or-i-tize — 'or', then 'i-tize'
+    spelling_hint: ""
+    definition: To treat something as more important than others.
+    example: We must prioritize safety.
+    synonyms:
+      - rank
+      - favour
+      - emphasize
+      - put first
+      - prefer
+    syn_pos: verb
+    syn_example: Prioritize / rank / put first the key tasks.
+    syn_examples:
+      - the: We must prioritize safety above all.
+        syns:
+          - rank
+          - put first
+          - emphasize
+        avoid:
+          favour: >-
+            = to prefer one option as a matter of taste, so the frame is a person
+            plus a noun ("she favours her studies"); liking safety first is not
+            ranking it against the rest
+          prefer: >-
+            = to like A more than B, and it needs both options, as in "prefer A to
+            B"; "prefer safety above all" names no rival, and "above all" is a
+            priority
+      - the: She tends to prioritize her studies over socialising.
+        syns:
+          - prefer
+          - favour
+          - put first
+      - the: The plan is designed to prioritize the most urgent tasks.
+        syns:
+          - emphasize
+          - rank
+          - put first
+        avoid:
+          favour: >-
+            = to treat one option as preferable, a matter of taste; a plan has no
+            tastes, and what it does here is order the tasks, which needs "rank" or
+            "put first"
+          prefer: >-
+            = to like A more than B, and it needs both options; a plan likes
+            nothing, and the urgent tasks are set against no rival, only placed
+            first
+    syn_notes:
+      rank: order by importance
+      favour: treat with preference
+      emphasize: focus attention on
+      put first: make the top priority
+      prefer: like better
+    syn_near:
+      - focus on
+      - value
+      - promote
+      - speed up
+    syn_avoid:
+      rank: >-
+        = to order several items on a scale ("rank them by importance"); with only
+        one thing named, as when she prioritizes her studies, there is nothing to
+        order, so use put first or prefer
+      emphasize: >-
+        = to give extra weight to a point in speech or text ("emphasized the
+        risks"); it stresses a message instead of choosing between two things, so
+        it has no slot for studies over socialising
+      favour: >-
+        = to prefer one option as a matter of taste, and the frame is a person
+        plus a noun ("she favours her studies"); it ranks nothing, so it cannot
+        express a plan in which something comes first
+      prefer: >-
+        = to like A more than B, and it needs both options, as in "prefer A to B"
+        or "prefer A over B"; "we must prefer safety above all" is wrong, as no
+        rival option and no ranking are given
+      focus on: >-
+        = a phrasal verb that must take "on" ("focus on the urgent tasks"), so it
+        is fine English here, but it narrows attention to one topic instead of
+        deciding what comes first in a plan
+      value: >-
+        = to hold something in high esteem ("we value safety"); it states a
+        standing attitude, not a decision to do one thing before another, so
+        "value safety above all" praises rather than sequences
+      promote: >-
+        = to advance someone in rank, or to advertise a product ("promote a new
+        line"); it changes status or publicity, whereas here the tasks are only
+        being ordered, so nothing is promoted
+      speed up: >-
+        = to make a process happen faster; nothing here is accelerated, only
+        rearranged, and the supervisor who keeps work moving would speed it up
+        only in a rush
+    syn_nuance: >-
+      All of these decide what comes first, but the object differs. Prioritize,
+      put first and rank work on a list of jobs and take the item itself
+      ("prioritize the urgent tasks"), whereas prefer and favour compare two named
+      options ("prefer studies to socialising"), and emphasize only adds weight to
+      what you say.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: pristine
+    ipa: /ˈprɪs.tiːn/
+    pos: adjective
+    tip: pris-tine — "prist" untouched
+    definition: In perfect, original or uncorrupted condition.
+    example: The beach is still in pristine condition.
+    synonyms:
+      - pure
+      - undamaged
+      - immaculate
+      - unspoilt
+    syn_pos: adjective
+    syn_example: Pristine / unspoilt / undamaged — in perfect original condition.
+    components:
+      - spelling
+      - definitions
+  - word: probe
+    ipa: /prəʊb/
+    pos: verb
+    tip: probe — to test the depth with a point
+    definition: To investigate or examine something carefully and deeply.
+    example: Journalists probed the reasons for the delay.
+    synonyms:
+      - investigate
+      - examine
+      - explore
+      - scrutinize
+    syn_pos: verb
+    syn_example: Probe / investigate / examine — to look into deeply.
+    components:
+      - spelling
+      - definitions
+  - word: problem
+    ipa: /ˈprɒb.ləm/
+    pos: noun
+    tip: prob-lem — 'prob', then 'lem'
+    spelling_hint: ""
+    definition: A matter or situation regarded as unwelcome or harmful.
+    example: We need to solve this problem.
+    synonyms:
+      - issue
+      - challenge
+      - difficulty
+      - obstacle
+      - drawback
+    syn_pos: noun
+    syn_example: '"Drawback" suits essays: "The main drawback is the cost."'
+    syn_id: problem
+    syn_examples:
+      - the: Traffic is a serious problem in most big cities.
+        syns:
+          - issue
+          - challenge
+          - difficulty
+        avoid:
+          drawback: >-
+            = a disadvantage attached to a plan or product, so the frame is "the
+            main drawback of + -ing"; traffic as a problem has no alternative or
+            advantage to weigh it against
+      - the: The main problem is a lack of funding.
+        syns:
+          - difficulty
+          - obstacle
+          - drawback
+        avoid:
+          issue: >-
+            = a topic or matter under discussion, the neutral word in business
+            English; too bland for the main problem is a lack of funding, which
+            names a fault, though "funding is an issue" fits elsewhere
+      - the: Finding affordable housing can be a problem.
+        syns:
+          - challenge
+          - difficulty
+          - obstacle
+        avoid:
+          drawback: >-
+            = a disadvantage attached to a plan or product, so the frame is "the
+            main drawback of + -ing"; "can be a problem" is used on its own here,
+            with no other option to set the drawback against
+          issue: >-
+            = a topic or matter under discussion, the neutral word in business
+            English; the frame is "can be a + noun" about finding housing, and an
+            issue is a topic, not a fault or a piece of trouble
+    syn_notes:
+      issue: a topic or problem
+      challenge: a task that tests ability
+      difficulty: trouble
+      obstacle: a barrier
+      drawback: a disadvantage
+    syn_near:
+      - trouble
+      - flaw
+      - dilemma
+      - worry
+      - snag
+    syn_avoid:
+      issue: >-
+        = a topic or matter under discussion, the neutral word in business
+        English; too bland for the main problem is a lack of funding, which names
+        a fault, and housing can be an issue in other writing.
+      challenge: >-
+        = a task that tests your ability, usually positive; it needs a challenge
+        of doing something, and it cannot name the main fault here, where the
+        point is what is broken, not what tests you.
+      obstacle: >-
+        = a barrier that blocks progress, so it needs a noun of movement (an
+        obstacle to progress); too narrow for traffic in general or for a shortage
+        of money, which is not something you must get past.
+      drawback: >-
+        = a disadvantage attached to a plan or product, so the frame is the main
+        drawback of X is ...; the sentences contain no option or advantage to set
+        the disadvantage against.
+      trouble: >-
+        = difficulty in general, and it is uncountable (have trouble finding); too
+        vague for a serious problem in most big cities, which names a named fault
+        of a system.
+      flaw: >-
+        = a defect in how something is made, so it needs a flaw in the design;
+        traffic and a lack of funding are not defects in an object, and a problem
+        can be a shortage rather than a fault.
+      dilemma: >-
+        = a hard choice between two options, and it needs a dilemma about or a
+        dilemma for; the three sentences describe a fault, not a decision to be
+        made.
+      worry: >-
+        = something that causes anxiety, and it takes a worry about or a worry
+        for; it frames the trouble as a person's unease, while these sentences
+        state an objective fault.
+      snag: >-
+        = a small unexpected obstacle, and it is informal; far too minor for a
+        serious problem in most big cities, where the fault is large and
+        structural.
+    syn_nuance: >-
+      Problem is the general word and the others narrow it. Difficulty is trouble
+      in doing something, obstacle is a barrier to progress, issue is the neutral
+      topic word, challenge frames a task as a test, and drawback is a
+      disadvantage of a choice, so a lack of funding takes obstacle or drawback,
+      while traffic takes issue or difficulty.
+    components:
+      - synonyms
+  - word: profit
+    ipa: /ˈprɒf.ɪt/
+    pos: noun
+    tip: prof-it — one f
+    definition: A financial gain, or a benefit obtained.
+    example: The company reported a large profit.
+    synonyms:
+      - gain
+      - earnings
+      - return
+      - advantage
+    syn_pos: noun
+    syn_example: Profit / gain / return — money earned.
+    components:
+      - spelling
+      - definitions
+  - word: prompt
+    ipa: /prɒmpt/
+    pos: adjective
+    tip: prompt — "prom" act quickly
+    definition: Done immediately or without delay.
+    example: We need a prompt response to the complaint.
+    synonyms:
+      - immediate
+      - swift
+      - quick
+      - timely
+    syn_pos: adjective
+    syn_example: Prompt / immediate / swift — done without delay.
+    components:
+      - spelling
+      - definitions
+  - word: proposal
+    ipa: /prəˈpəʊ.zəl/
+    pos: noun
+    tip: pro-pos-al — "propos" then -al
+    spelling_hint: ""
+    definition: A suggested plan or course of action put forward for approval; not a claim to be debated.
+    example: Funding was granted on the strength of their proposal.
+    synonyms:
+      - suggestion
+      - plan
+      - initiative
+      - scheme
+    syn_pos: noun
+    syn_example: A proposal / suggestion / plan — a course of action put forward for approval.
+    components:
+      - spelling
+      - definitions
+  - word: propose
+    ipa: /prəˈpəʊz/
+    pos: verb
+    tip: pro-pose — "pose" before
+    definition: To suggest a plan or idea for consideration.
+    example: The council proposed a new recycling scheme.
+    synonyms:
+      - suggest
+      - recommend
+      - put forward
+      - advance
+    syn_pos: verb
+    syn_example: Propose / suggest / recommend — to put an idea forward.
+    components:
+      - spelling
+      - definitions
+  - word: proposition
+    ipa: /ˌprɒp.əˈzɪʃ.ən/
+    pos: noun
+    tip: pro-po-si-tion — something proposed
+    definition: A statement put forward as true, to be argued for or against.
+    example: He refused to accept the proposition that competition improves quality.
+    synonyms:
+      - claim
+      - assertion
+      - statement
+      - idea
+    syn_pos: noun
+    syn_example: A proposition / claim / assertion — a statement put forward for debate.
+    components:
+      - spelling
+      - definitions
+  - word: prospect
+    ipa: /ˈprɒs.pekt/
+    pos: noun
+    tip: pro-spect — "spect" look forward
+    definition: The possibility or likelihood of something happening in the future.
+    example: The prospect of a pay rise cheered everyone.
+    synonyms:
+      - possibility
+      - chance
+      - likelihood
+      - opening
+    syn_pos: noun
+    syn_example: A prospect / possibility / likelihood — a future chance.
+    components:
+      - spelling
+      - definitions
+  - word: pursue
+    ipa: /pəˈsjuː/
+    pos: verb
+    tip: pur-sue — the 'ue' at the end
+    spelling_hint: ""
+    definition: To follow or chase; to aim to achieve something.
+    example: She decided to pursue a career in science.
+    synonyms:
+      - chase
+      - seek
+      - follow
+      - strive for
+      - aim for
+    syn_pos: verb
+    syn_example: Pursue / seek / strive for excellence.
+    syn_examples:
+      - the: She decided to pursue a career in science.
+        syns:
+          - seek
+          - strive for
+          - aim for
+        avoid:
+          chase: >-
+            = to run after something in order to catch it ("chase the thief"); a
+            career is not run down, so "chase a career" is not English, though
+            "chase the suspect" is
+      - the: The police decided to pursue the suspect on foot.
+        syns:
+          - chase
+          - follow
+        avoid:
+          seek: >-
+            = to search for something not yet known, and it takes a plain noun
+            ("seek advice"); the suspect is already in sight, so the frame is
+            "chase" or "follow"
+          strive for: >-
+            = to strain continuously towards a goal ("strive for excellence"); it
+            names the effort, not the tracking here, and "strive for the suspect"
+            means trying to catch him
+      - the: We will pursue every possible option.
+        syns:
+          - follow
+          - aim for
+        avoid:
+          chase: >-
+            = to run after something in order to catch it; nothing runs here and
+            options cannot be caught, though "chase the suspect on foot" is exactly
+            right
+          seek: >-
+            = to search for something not yet known ("seek advice", "seek
+            permission"); the options are already listed, so none is being sought,
+            and effort is not a hunt
+          strive for: >-
+            = to strain towards a goal, so it takes "for + noun/gerund"; what is
+            meant here is following up each option, not one straining effort at a
+            single goal
+    syn_notes:
+      chase: go after actively
+      seek: look for
+      follow: go along or after
+      strive for: make a strong effort for
+      aim for: intend to reach
+    syn_near:
+      - explore
+      - hunt
+      - continue
+      - proceed with
+    syn_avoid:
+      chase: >-
+        = to run after something in order to catch it ("chase the thief"); it
+        needs a physical runner, so "chase a career" is not English, though "chase
+        the suspect on foot" is exactly right
+      seek: >-
+        = to search for something not yet known, and it takes a plain noun ("seek
+        advice", "seek permission"); nothing is being searched for in "pursue
+        every possible option", and effort is not a hunt
+      follow: >-
+        = to go after someone ahead of you, or to obey a rule ("follow the
+        guidelines"); it presupposes a leader or an instruction, and a career is
+        neither, so "follow a career" does not work
+      strive for: >-
+        = to make a continuous, often strained effort towards a goal ("strive for
+        excellence"); it names the effort, not the course of action, and "strive
+        for the suspect" would mean aiming to catch him
+      aim for: >-
+        = to intend to reach a goal, so it stays on the planning side; "the police
+        aim for the suspect" means they intend to catch him, while pursuing him
+        means actually closing in on him
+      explore: >-
+        = to look into a subject or travel round a place ("explore the options");
+        fine English in the third sentence, but it describes the search itself,
+        not a course of action followed through to the end
+      hunt: >-
+        = to search hard for something hidden or wanted, in the frames "hunt for"
+        and "hunt down"; it cannot take a bare career or option, and it adds a
+        secretive, aggressive tone
+      continue: >-
+        = to keep on with an activity already begun ("continue her career");
+        pursuing a career means starting one and working towards it, and it fits
+        neither the suspect nor a list of options
+      proceed with: >-
+        = a formal phrasal verb that needs "with" plus a noun or "to" plus a verb;
+        it means to go ahead, not to follow something through, and "proceed with
+        the suspect" is not English
+    syn_nuance: >-
+      Pursue means following something through in order to reach or obtain it, and
+      it takes that object directly, as in a career, an option or a clue. Seek and
+      strive for search or strain towards the goal, aim for states the intention
+      only, and follow and chase need someone or something ahead of you.
+    components:
+      - spelling
+      - definitions
+      - synonyms

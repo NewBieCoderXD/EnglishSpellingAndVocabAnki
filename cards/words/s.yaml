@@ -1,0 +1,824 @@
+words:
+  - word: satisfactory
+    ipa: /ˌsæt.ɪsˈfæk.tər.i/
+    pos: adjective
+    tip: satis-fac-tory — "satis" enough
+    definition: Good enough to meet the required standard.
+    example: The work was of a satisfactory standard.
+    synonyms:
+      - adequate
+      - acceptable
+      - sufficient
+      - decent
+    syn_pos: adjective
+    syn_example: Satisfactory / acceptable / adequate — meeting the standard.
+    components:
+      - spelling
+      - definitions
+  - word: scarce
+    ipa: /skeəs/
+    pos: adjective
+    tip: scarce — "scar" a lack
+    definition: Not enough of it available.
+    example: Clean water is scarce in the region.
+    synonyms:
+      - rare
+      - limited
+      - insufficient
+    syn_pos: adjective
+    syn_example: Scarce / rare / limited — not enough to go around.
+    components:
+      - spelling
+      - definitions
+  - word: scheme
+    ipa: /skiːm/
+    pos: noun
+    tip: scheme — "sch" sound "sk"
+    definition: An organised plan or programme of action.
+    example: The government launched a housing scheme.
+    synonyms:
+      - plan
+      - programme
+      - project
+      - strategy
+    syn_pos: noun
+    syn_example: A scheme / plan / programme — an organised project.
+    components:
+      - spelling
+      - definitions
+  - word: scrupulous
+    ipa: /ˈskruː.pjə.ləs/
+    pos: adjective
+    tip: scrupu-lous — "scruple" a moral check
+    definition: Very careful and thorough about what is right and correct.
+    example: She was scrupulous about every detail.
+    synonyms:
+      - careful
+      - meticulous
+      - painstaking
+      - precise
+    syn_pos: adjective
+    syn_example: Scrupulous / meticulous / painstaking — extremely careful.
+    components:
+      - spelling
+      - definitions
+  - word: seclusion
+    ipa: /sɪˈkluː.ʒən/
+    pos: noun
+    tip: se-clu-sion — "clud" close off
+    definition: The state of being private and away from other people.
+    example: The writer lived in total seclusion.
+    synonyms:
+      - isolation
+      - privacy
+      - confinement
+      - solitude
+    syn_pos: noun
+    syn_example: Seclusion / isolation / solitude — being apart from others.
+    components:
+      - spelling
+      - definitions
+  - word: separation
+    ipa: /ˌsep.əˈreɪ.ʃən/
+    pos: noun
+    tip: se-pa-ra-tion — "par" apart
+    definition: The act or state of being apart or divided.
+    example: The separation of powers is a key principle.
+    synonyms:
+      - division
+      - split
+      - detachment
+      - distinction
+    syn_pos: noun
+    syn_example: Separation / division / split — being apart or divided.
+    components:
+      - spelling
+      - definitions
+  - word: settle
+    ipa: /ˈset.əl/
+    pos: verb
+    tip: set-tle — to "set" it down
+    definition: To end an argument or resolve a problem.
+    example: They settled the dispute without going to court.
+    synonyms:
+      - resolve
+      - negotiate
+      - arrange
+      - sort out
+    syn_pos: verb
+    syn_example: Settle / resolve — to bring a dispute to an end.
+    components:
+      - spelling
+      - definitions
+  - word: severance
+    ipa: /ˈsev.ər.əns/
+    pos: noun
+    tip: sev-er-ance — 'er', then 'ance'
+    spelling_hint: ""
+    definition: The ending of a contract or employment; compensation paid on dismissal.
+    example: He received a large severance package.
+    synonyms:
+      - termination
+      - dismissal
+      - redundancy
+      - separation
+      - compensation
+    syn_pos: noun
+    syn_example: Discuss severance / redundancy / termination pay in corporate contexts.
+    syn_examples:
+      - the: He received a large severance package.
+        syns:
+          - redundancy
+          - compensation
+      - the: The contract ended after a lengthy severance.
+        syns:
+          - termination
+          - separation
+          - dismissal
+    syn_notes:
+      termination: the ending of employment
+      dismissal: being fired
+      redundancy: job loss through cutbacks
+      separation: leaving or being cut off
+      compensation: payment made
+    syn_near:
+      - settlement
+      - payout
+      - notice
+      - golden handshake
+    syn_avoid:
+      termination: >-
+        = the formal ending of a contract or of employment, the frame "termination
+        of employment"; you name the money as a severance or redundancy package,
+        not as a large termination
+      dismissal: >-
+        = the act of being fired, so it heads "dismissal for misconduct" or "a
+        dismissal"; a payment for leaving is a package, and the act itself carries
+        no money
+      separation: >-
+        = the state of being apart, the frame "separation from + noun" or "a
+        voluntary separation"; in British usage the payment that follows a cut is
+        called redundancy pay
+      redundancy: >-
+        = losing a job because the post was cut, the frame of "a redundancy
+        payment or package"; a business contract that ends is terminated, not made
+        redundant
+      compensation: >-
+        = money paid to make up for a loss, the frame "compensation for injuries
+        or delay"; when a contract simply ends there is no loss to compensate, so
+        the ending is the severance itself
+      settlement: >-
+        = the agreed sum that ends a dispute, the frame "a settlement with + the
+        other side"; money paid when a contract ends is not a settlement
+      payout: >-
+        = any lump sum handed over, as in a lottery payout; it is informal and
+        general, and it names the money rather than the ending of the contract
+      notice: >-
+        = the warning period before you leave or before a change; it goes with
+        "give or receive notice" and a number of weeks, not with the payment
+        itself
+      golden handshake: >-
+        = the informal British label for a generous severance package for a
+        departing employee; it is journalistic, and a contract would say severance
+        payment
+    syn_nuance: >-
+      Severance covers the money and the ending in one word, and it splits two
+      ways. For a job it is the payment, so "a severance package or payment" goes
+      with redundancy and compensation. For a contract it is the act of ending, so
+      "a lengthy severance" goes with termination, dismissal and separation.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: shelter
+    ipa: /ˈʃel.tər/
+    pos: noun
+    tip: shel-ter — a "shell" to hide in
+    definition: Protection, or a place that provides protection.
+    example: The charity runs a shelter for the homeless.
+    synonyms:
+      - accommodation
+      - housing
+      - refuge
+      - lodging
+    syn_pos: noun
+    syn_example: Shelter / refuge / accommodation — a place of protection.
+    components:
+      - spelling
+      - definitions
+  - word: signal
+    ipa: /ˈsɪɡ.nəl/
+    pos: verb
+    tip: sig-nal — one g
+    definition: To be a sign that shows something is happening or likely.
+    example: The fall in sales signals a coming slowdown.
+    synonyms:
+      - indicate
+      - show
+      - suggest
+      - point to
+    syn_pos: verb
+    syn_example: Signal / indicate / suggest — to point to something.
+    components:
+      - spelling
+      - definitions
+  - word: significant
+    ipa: /sɪɡˈnɪf.ɪ.kənt/
+    pos: adjective
+    tip: <b>signi</b>-fi-<b>cant</b> — commonly mis-spelled "signficant"
+    spelling_hint: ""
+    definition: Large or important enough to be noticed; having a real effect on something.
+    example: The results show a significant improvement.
+    synonyms:
+      - substantial
+      - considerable
+      - major
+      - marked
+      - notable
+    syn_pos: adjective
+    syn_example: '"A significant improvement" — substantial / considerable are task 1 staples.'
+    syn_examples:
+      - the: The results show a significant improvement.
+        syns:
+          - substantial
+          - notable
+          - marked
+        avoid:
+          major: >-
+            = of high importance or big size, and it is fine for a breakthrough ("a
+            major breakthrough"); the results here only report a measured change,
+            and major would add a ranking the data does not make
+      - the: There has been a significant rise in online shopping.
+        syns:
+          - considerable
+          - major
+          - substantial
+      - the: The study found significant differences between the two groups.
+        syns:
+          - marked
+          - considerable
+          - notable
+        avoid:
+          major: >-
+            = it rates something as important or big ("a major concern"); with two
+            groups the study reports a measurable gap, and major would claim the gap
+            was large, which the sentence does not say
+    syn_notes:
+      substantial: large in amount
+      considerable: quite large
+      major: big or important
+      marked: clearly noticeable
+      notable: worth noting
+    syn_near:
+      - appreciable
+      - dramatic
+      - sizeable
+      - sharp
+      - relevant
+    syn_avoid:
+      substantial: >-
+        = large in amount, and it is accepted with the rise; but "a substantial
+        improvement" and "substantial differences" claim a big size, whereas the
+        study reports the strength of a measured gap
+      considerable: >-
+        = quite large in amount, so it is right for the rise; but "a considerable
+        improvement" and "considerable differences" overstate the size and still
+        leave out statistical weight
+      major: >-
+        = of high importance or big size, and it fits the rise; but "a major
+        improvement" and "major differences" talk of importance, where the study
+        reports a measurable gap, not a ranking
+      marked: >-
+        = clearly noticeable ("marked differences"), and it fits the differences;
+        but "a marked improvement" and "a marked rise" promise a striking change,
+        which is a stronger claim than significant
+      notable: >-
+        = worth remarking on ("a notable achievement"), and it fits the
+        differences; but "a notable improvement" and "a notable rise" say only
+        that it deserved a comment, not that it was large or measurable
+      appreciable: >-
+        = large enough to be noticed ("an appreciable rise"); correct in the rise
+        sentence, but it measures how noticeable an effect is, so it cannot report
+        the weight of a finding or a difference
+      dramatic: >-
+        = sudden and far bigger than expected, or done for effect ("a dramatic
+        fall in sales"); it adds shock and speed that significant does not, so "a
+        dramatic improvement" overstates a plain gain
+      sizeable: >-
+        = the same as substantial but less formal; it can only mean large in size
+        or amount, so it fails for "significant differences" and for the
+        statistical weight of a finding
+      sharp: >-
+        = rising or falling fast, as in "a sharp rise in costs"; it describes the
+        shape of the change, and here the data report size and weight rather than
+        speed
+      relevant: >-
+        = connected to the matter in hand ("relevant evidence"); it says what
+        relates, not what matters or how large it is, so "relevant differences"
+        answers a different question
+    syn_nuance: >-
+      Significant covers two senses. With a quantity ("a significant rise") it
+      means large, like substantial, considerable and major, and with a result
+      ("significant differences") it means large enough to be trusted, which is
+      where marked and notable belong. Sharp and dramatic add speed and shock.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: spotlight
+    ipa: /ˈspɒt.laɪt/
+    pos: verb
+    tip: spot-light — a spot of light
+    definition: To focus attention strongly on something.
+    example: The report spotlights the need for reform.
+    synonyms:
+      - highlight
+      - emphasize
+      - underline
+      - accentuate
+    syn_pos: verb
+    syn_example: Spotlight / highlight / emphasize — to shine attention on.
+    components:
+      - spelling
+      - definitions
+  - word: strategy
+    ipa: /ˈstræt.ə.dʒi/
+    pos: noun
+    tip: strat-egy — 'at', then 'egy'
+    spelling_hint: ""
+    definition: A plan of action designed to achieve a long-term goal.
+    example: We agreed on a new strategy.
+    synonyms:
+      - plan
+      - approach
+      - tactic
+      - scheme
+      - method
+    syn_pos: noun
+    syn_example: Develop a strategy / plan / approach.
+    syn_examples:
+      - the: We agreed on a new strategy.
+        syns:
+          - plan
+          - approach
+          - scheme
+      - the: Their marketing strategy targets young adults.
+        syns:
+          - approach
+          - tactic
+          - method
+          - plan
+    syn_notes:
+      plan: a detailed arrangement
+      approach: a way of dealing with
+      tactic: a short-term action
+      scheme: an organized plan
+      method: a way of doing something
+    syn_near:
+      - policy
+      - campaign
+      - technique
+      - programme
+      - roadmap
+    syn_avoid:
+      method: >-
+        = a set of steps for doing a task, and it modifies the doing, as in a
+        method of teaching; we agreed on a new method points at a technique, not a
+        chosen course of action
+      scheme: >-
+        = an organised plan, but in British English a scheme is a government or
+        local authority programme, so their marketing scheme reads as a funded
+        project
+      tactic: >-
+        = one clever move inside a larger plan, so it needs a tactic for doing
+        something; we agreed on a new tactic names a single step, not the whole
+        approach
+      policy: >-
+        = a rule set that an organisation adopts and applies to everyone, so it is
+        an institutional frame rather than something two people settle between
+        them
+      campaign: >-
+        = a burst of activity to win publicity or votes over a few weeks, so it
+        covers one push, not the long-term positioning behind it
+      technique: >-
+        = a knack or skill for performing a task well, so it describes doing
+        something, not choosing what to do; a marketing technique is the craft,
+        not the strategy
+      programme: >-
+        = a named set of scheduled projects, or a television series; a company
+        programme is a budgeted plan of activities, not the thinking behind a
+        strategy
+      roadmap: >-
+        = business jargon for a phased timeline, and it needs a roadmap to or a
+        roadmap for; we agreed on a new roadmap sounds like project management
+        talk
+    syn_nuance: >-
+      Strategy is the reasoning behind a course of action, and it takes on, for
+      and in + field. Plan is the plain word, approach the neutral one, method the
+      set of steps, tactic a single move, and scheme usually a government
+      programme in British English. A verb phrase like targets young adults asks
+      for the approach, not the scheme.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: streamline
+    ipa: /ˈstriːm.laɪn/
+    pos: verb
+    tip: stream-line — make it flow
+    definition: To make an organisation or process simpler and more efficient.
+    example: The new system streamlines the whole process.
+    synonyms:
+      - simplify
+      - ease
+      - improve
+      - speed up
+    syn_pos: verb
+    syn_example: Streamline / simplify — to make a process smoother.
+    components:
+      - spelling
+      - definitions
+  - word: strengthen
+    ipa: /ˈstreŋθ.ən/
+    pos: verb
+    tip: strength-en — "ngth" keep the th
+    definition: To become or make something stronger.
+    example: The evidence strengthens the argument.
+    synonyms:
+      - reinforce
+      - boost
+      - shore up
+      - enhance
+    syn_pos: verb
+    syn_example: Strengthen / reinforce / boost — to make stronger.
+    components:
+      - spelling
+      - definitions
+  - word: subjective
+    ipa: /səbˈdʒek.tɪv/
+    pos: adjective
+    tip: sub-ject-ive — from the subject’s view
+    definition: Influenced by personal feelings or opinions.
+    example: Beauty is highly subjective.
+    synonyms:
+      - arbitrary
+      - personal
+      - biased
+      - opinionated
+    syn_pos: adjective
+    syn_example: Subjective / personal — based on feelings rather than facts.
+    components:
+      - spelling
+      - definitions
+  - word: substantial
+    ipa: /səbˈstænt.ʃəl/
+    pos: adjective
+    tip: sub-stant-ial — think "amount makes substance"
+    definition: Large in amount or importance, but not extreme.
+    example: There has been a substantial rise in prices.
+    synonyms:
+      - considerable
+      - significant
+      - large
+      - major
+    syn_pos: adjective
+    syn_example: Substantial / considerable / significant — big but not extreme.
+    components:
+      - spelling
+      - definitions
+  - word: substitute
+    ipa: /ˈsʌb.stɪ.tjuːt/
+    pos: noun
+    tip: sub-sti-tute — "sub" under (in place of)
+    definition: A person or thing that takes the place of another.
+    example: There is no substitute for hard practice.
+    synonyms:
+      - alternative
+      - replacement
+      - stand-in
+    syn_pos: noun
+    syn_example: A substitute / alternative / replacement — something that stands in.
+    components:
+      - spelling
+      - definitions
+  - word: sufficient
+    ipa: /səˈfɪʃ.ənt/
+    pos: adjective
+    tip: suf-fi-cient — double f, then 'icient'
+    spelling_hint: ""
+    definition: Enough; adequate for a purpose.
+    example: We have sufficient funds to proceed.
+    synonyms:
+      - enough
+      - adequate
+      - ample
+      - plenty
+      - satisfactory
+    syn_pos: adjective
+    syn_example: Provide sufficient / enough / adequate evidence.
+    syn_examples:
+      - the: We have sufficient funds to proceed.
+        syns:
+          - enough
+          - adequate
+          - ample
+          - plenty
+        avoid:
+          satisfactory: >-
+            = meeting a standard or expectations, so it is a verdict on quality; we
+            have satisfactory funds asks how good the money is, not how much there
+            is
+      - the: The report provides sufficient evidence.
+        syns:
+          - adequate
+          - satisfactory
+          - enough
+      - the: There is sufficient space for everyone.
+        syns:
+          - enough
+          - ample
+          - plenty
+        avoid:
+          satisfactory: >-
+            = meeting a standard or expectations, so it is a verdict on quality;
+            space is judged by how much there is, and there is satisfactory space
+            asks how good the room is, not whether it holds everyone
+    syn_notes:
+      enough: the needed amount
+      adequate: sufficient for the purpose
+      ample: more than enough
+      plenty: abundant
+      satisfactory: meeting expectations
+    syn_near:
+      - abundant
+      - spacious
+      - substantial
+      - complete
+      - convincing
+    syn_avoid:
+      adequate: >-
+        = good enough for a named purpose, and it needs adequate for or adequate
+        to; with space there is no task to be adequate for, so we fall back on
+        enough or ample
+      ample: >-
+        = more than enough for a purpose, and the natural word before time and
+        space; ample evidence is possible English but the report sentence wants
+        adequate or enough
+      plenty: >-
+        = a quantifier that needs of before its noun, so plenty cannot stand where
+        sufficient stands before a bare noun; there is plenty of space is the
+        natural frame
+      satisfactory: >-
+        = meeting a standard or expectations, so it is a verdict on quality; we
+        have satisfactory funds asks how good the money is, not how much there is
+      abundant: >-
+        = present in large quantities, which stresses supply rather than adequacy
+        for a task; abundant funds is fine English, but the point of the sentence
+        is having just enough to proceed
+      spacious: >-
+        = physically roomy, and it describes a room, a car or a layout rather than
+        space as a mass noun; there is spacious space collides with itself
+      substantial: >-
+        = large in amount or importance, a finance and academic word; a
+        substantial amount of is its frame, and it says well over the needed
+        amount, not exactly enough
+      complete: >-
+        = whole, with nothing missing, a real collocation before evidence but the
+        opposite idea, since a complete set suggests everything, not a threshold
+      convincing: >-
+        = so persuasive that it settles a doubt, with the frames convincing
+        evidence and convincing proof; it answers a different question from
+        whether enough has been shown
+    syn_nuance: >-
+      Sufficient is a formal adjective that stands before a bare noun, as in
+      sufficient funds or sufficient evidence, and it means exactly the amount
+      needed. Enough is the everyday equivalent, ample adds surplus, adequate is
+      tied to a stated purpose, and satisfactory judges quality. Plenty is a
+      quantifier, so it needs of plus its noun.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: superseded
+    ipa: /ˌsuː.pəˈsiːd/
+    pos: adjective
+    tip: super-sed-ed — the "old" slid aside
+    definition: Replaced by something newer and better.
+    example: The old system has been superseded.
+    synonyms:
+      - replaced
+      - outdated
+      - obsolete
+      - outmoded
+    syn_pos: adjective
+    syn_example: Superseded / outdated / obsolete — ended because something new replaced it.
+    components:
+      - spelling
+      - definitions
+  - word: supposition
+    ipa: /ˌsʌp.əˈzɪʃ.ən/
+    pos: noun
+    tip: suppose + -ition — something you suppose
+    definition: A tentative idea put forward for the sake of argument and held with doubt.
+    example: For the sake of argument, grant the supposition that costs will not rise.
+    synonyms:
+      - assumption
+      - hypothesis
+      - premise
+      - belief
+      - guess
+      - theory
+    syn_pos: noun
+    syn_example: On the supposition that … — granted for the sake of argument.
+    syn_examples:
+      - the: For the sake of argument, grant the supposition that costs will not rise.
+        syns:
+          - assumption
+          - hypothesis
+        avoid:
+          premise: >-
+            = the base an argument rests on; what you grant for the sake of an
+            argument is an assumption or a supposition, never the premise
+      - the: On the supposition that the sample is representative, the results apply to the whole population.
+        syns:
+          - assumption
+          - hypothesis
+          - premise
+    syn_notes:
+      assumption: the everyday word for the same thing
+      hypothesis: a tentative idea too, but a hypothesis is what you put to the test
+      premise: the base an argument rests on, and it also takes 'that'
+    syn_near:
+      - conjecture
+      - speculation
+      - presumption
+    syn_avoid:
+      belief: >-
+        = a conviction the person holds; you grant a supposition for an argument,
+        but 'grant the belief that' is not English
+      guess: >-
+        = hit on by chance with nothing behind it; a supposition is introduced
+        deliberately, with a reason, even where it is doubted
+      theory: >-
+        = a developed system of explanation tested against data; a supposition is a
+        single doubtful case, never a system
+      conjecture: >-
+        = a guess built on very little evidence, and the word itself marks low
+        certainty, so nothing so shaky can be granted for an argument
+      speculation: >-
+        = open-ended guessing about what may happen, and it takes speculation
+        about or over; a supposition is introduced for an argument
+      presumption: >-
+        = held true by default, by law or convention, until disproved: that is the
+        confident member of the family, while a supposition is granted and doubted
+    syn_nuance: >-
+      All three are 'taken as true for now', but a supposition is the one you
+      introduce on purpose for an argument: 'on the supposition that X', 'for the
+      sake of argument'. Assumption is the everyday word, hypothesis is the one
+      you test, and a guess has no reason behind it. Supposition belongs to
+      logic, so in IELTS writing reach for assumption.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: surge
+    ipa: /sɜːdʒ/
+    pos: noun
+    tip: surge — a "sur-" upward rush
+    definition: A sudden and very strong forward or upward movement.
+    example: There was a sudden surge in demand after the launch.
+    synonyms:
+      - upsurge
+      - rise
+      - spike
+      - jump
+    syn_pos: noun
+    syn_example: A surge / upsurge — a sudden powerful rise, great for Task 1.
+    components:
+      - spelling
+      - definitions
+  - word: surroundings
+    ipa: /səˈraʊn.dɪŋz/
+    pos: noun
+    tip: sur-round-ings — around you
+    definition: The things and place that are around someone.
+    example: She does her best work in quiet surroundings.
+    synonyms:
+      - environment
+      - setting
+      - neighbourhood
+      - context
+    syn_pos: noun
+    syn_example: Surroundings / environment / setting — everything around you.
+    components:
+      - spelling
+      - definitions
+  - word: sustain
+    ipa: /səˈsteɪn/
+    pos: verb
+    tip: sus-tain — "tain" hold up
+    definition: To keep something going over a period of time.
+    example: The economy cannot sustain such growth rates.
+    synonyms:
+      - maintain
+      - support
+      - keep up
+      - continue
+    syn_pos: verb
+    syn_example: Sustain / maintain / keep up — to keep something going.
+    components:
+      - spelling
+      - definitions
+  - word: sustainable
+    ipa: /səˈsteɪ.nə.bəl/
+    pos: adjective
+    tip: sus-<b>tain</b>-able — keep the "ai" in the middle
+    spelling_hint: ""
+    definition: Able to continue or be maintained at a certain rate or level over time, without harming the environment.
+    example: The company is looking for more sustainable sources of energy.
+    synonyms:
+      - renewable
+      - viable
+      - responsible
+      - clean
+    syn_pos: adjective
+    syn_example: '"Sustainable development" — renewable / clean fit environment essays.'
+    syn_examples:
+      - the: The company is looking for more sustainable sources of energy.
+        syns:
+          - renewable
+          - clean
+          - viable
+      - the: Tourism must become sustainable to protect local communities.
+        syns:
+          - viable
+          - responsible
+    syn_notes:
+      renewable: can be replenished (energy)
+      viable: can work over time
+      responsible: not harmful, careful
+      clean: environmentally friendly
+    syn_near:
+      - green
+      - recyclable
+      - affordable
+      - environmental
+      - durable
+    syn_avoid:
+      clean: >-
+        = free from dirt or harmful substances ("clean energy", "clean air"); it
+        is accepted for energy, but it reports the absence of pollution, which
+        says nothing about keeping a resource up over time
+      renewable: >-
+        = a resource that nature can replace ("renewable energy"); correct in the
+        energy sentence, but it is a property of a physical input, and tourism has
+        no input that is replenished
+      responsible: >-
+        = careful and not to blame ("responsible tourism"); it is accepted for
+        tourism, where it means fair to local people, but it describes conduct,
+        not whether a resource lasts
+      green: >-
+        = informal for environmentally friendly ("green transport"); fine English
+        that covers both senses, but it is too loose for a policy sentence and
+        never states the long-term test that sustainable means
+      recyclable: >-
+        = able to be reprocessed into new material ("recyclable packaging"); good
+        in "recyclable glass", but it is a property of one product after use and
+        does not mean the resource itself is replaced
+      affordable: >-
+        = cheap enough for most people to pay ("affordable housing"); an industry
+        can be affordable and still use resources up, so this is an economic test
+        and not the long-term one meant here
+      environmental: >-
+        = connected with the natural world ("environmental policy"); it is a
+        neutral label for a subject, and a thing cannot be environmental, only
+        friendly to the environment, so it states no verdict
+      durable: >-
+        = made to last a long time ("durable goods"); it is a claim about one
+        product's lifespan, and even a long-lasting resource runs out unless it is
+        replenished, so it is not the test meant here
+    syn_nuance: >-
+      Sustainable is the umbrella word for a resource that can be kept up over
+      time. Renewable and clean describe one input ("renewable energy", "clean
+      energy"), responsible describes conduct ("responsible tourism"), and viable
+      asks whether a plan or a business can continue ("a viable industry").
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: swift
+    ipa: /swɪft/
+    pos: adjective
+    tip: swift — quick as a "swift" (bird)
+    definition: Happening quickly or moving fast.
+    example: The firm promised a swift response.
+    synonyms:
+      - quick
+      - fast
+      - rapid
+      - prompt
+    syn_pos: adjective
+    syn_example: Swift / prompt / rapid — done very quickly.
+    components:
+      - spelling
+      - definitions

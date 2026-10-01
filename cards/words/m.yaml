@@ -1,0 +1,421 @@
+words:
+  - word: maintain
+    ipa: /meɪnˈteɪn/
+    pos: verb
+    tip: main-tain — the 'ai' and 'ai'
+    spelling_hint: ""
+    definition: To keep something in a particular state; to continue or preserve.
+    example: We must maintain high standards.
+    synonyms:
+      - keep
+      - preserve
+      - uphold
+      - sustain
+      - retain
+    syn_pos: verb
+    syn_example: Maintain / sustain / preserve the current level.
+    syn_examples:
+      - the: We must maintain high standards.
+        syns:
+          - keep
+          - uphold
+          - preserve
+      - the: The company works to maintain its position.
+        syns:
+          - sustain
+          - retain
+          - keep
+    syn_notes:
+      keep: continue to have
+      preserve: keep in original state
+      uphold: support against attack
+      sustain: continue over time
+      retain: keep possession of
+    syn_near:
+      - enforce
+      - ensure
+      - improve
+      - restore
+      - prolong
+    syn_avoid:
+      preserve: >-
+        = to keep something in its existing state, usually a material or a
+        building: you preserve heritage objects, and standards are kept up rather
+        than preserved
+      retain: >-
+        = to keep possession of something another party might take, as in retain
+        staff: it fits holding a market share, but a standard is a level you keep,
+        not a possession
+      sustain: >-
+        = to keep something going on its own strength, usually an abstract or a
+        life process, as in sustain growth: it fits a market position, but reads
+        oddly with high standards
+      uphold: >-
+        = to defend a principle, rule or right against challenge, as in uphold a
+        principle: a company does not uphold a market share, it holds it
+      enforce: >-
+        = to make people obey a rule, as in enforce a law or a ban: it takes a
+        rule or a penalty, and a standard that already exists is applied, not
+        enforced
+      ensure: >-
+        = to make certain that something happens, as in ensure safety: it takes a
+        that-clause, so ensure high standards would need one, and a standard is a
+        level, not an event
+      improve: >-
+        = to make better, so improve high standards is odd because the standards
+        are already high: the collocation is improve on, as in improve on last
+        year
+      restore: >-
+        = to bring back something that was lost or broken, as in restore an old
+        building: a firm restores a position it has lost, not one it is simply
+        holding
+      prolong: >-
+        = to make something last longer, as in prolong a life: it needs a process,
+        a delay or a stay, and it lengthens duration rather than holding a level
+    syn_nuance: >-
+      All mean keep going, but they differ in what is held. Maintain is the
+      neutral verb for standards, a position or a system. Keep is the plain
+      version, retain is about not losing possession, preserve about not altering
+      the original state, uphold about defending a rule, and sustain about keeping
+      something alive on its own strength.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: mandatory
+    ipa: /ˈmæn.də.tər.i/
+    pos: adjective
+    tip: man-dat-ory — "mand" order
+    definition: Required by rule or law; compulsory.
+    example: Wearing a helmet is mandatory on this site.
+    synonyms:
+      - compulsory
+      - required
+      - obligatory
+      - essential
+    syn_pos: adjective
+    syn_example: Mandatory / compulsory / obligatory — must be done.
+    components:
+      - spelling
+      - definitions
+  - word: many
+    ipa: /ˈmen.i/
+    pos: determiner
+    tip: many — the 'a' sounds like an 'e'
+    spelling_hint: ""
+    definition: A large number of; numerous.
+    example: Many people agreed.
+    synonyms:
+      - numerous
+      - countless
+      - plenty of
+      - a wide range of
+      - a variety of
+    syn_pos: determiner
+    syn_example: '"Numerous studies show..." is more formal than "Many studies show...".'
+    syn_id: many
+    syn_examples:
+      - the: Many studies support this conclusion.
+        syns:
+          - numerous
+          - countless
+        avoid:
+          a wide range of: >-
+            = a broad, varied selection, and it needs a countable plural (a wide
+            range of activities); the frame is "Many studies support + noun", where
+            only the number matters, not how varied they are
+      - the: The town offers many activities for visitors.
+        syns:
+          - a wide range of
+          - a variety of
+          - numerous
+          - plenty of
+        avoid:
+          countless: >-
+            = too many to count, which is emphatic and not always literally
+            true; 'countless activities' is grammatical, but it overstates the
+            plain count of 'many activities' or 'many studies'
+      - the: There are many reasons to be optimistic.
+        syns:
+          - plenty of
+          - numerous
+          - a variety of
+        avoid:
+          a wide range of: >-
+            = a broad, varied selection, and it needs a countable plural (a wide
+            range of activities); the frame is "There are many reasons to + verb",
+            which counts reasons and stresses no kinds
+          countless: >-
+            = too many to count, which is dramatic and not always true; the frame is
+            "There are many reasons to + verb", a neutral count, so countless
+            oversells what may be only a handful of good reasons
+    syn_notes:
+      numerous: very many
+      countless: too many to count
+      plenty of: abundant
+      a wide range of: a broad set of
+      a variety of: different kinds of
+    syn_near:
+      - several
+      - a few
+      - much
+      - lots of
+      - various
+    syn_avoid:
+      countless: >-
+        = too many to count, which is emphatic and not always literally true;
+        'countless activities' is grammatical, but it overstates the plain
+        count of 'many activities' or 'many studies'
+      plenty of: >-
+        = a large amount, informal for study English; plenty of studies is
+        grammatical but too chatty for Many studies support this conclusion, where
+        a formal determiner is wanted.
+      a wide range of: >-
+        = a broad, varied selection, and it needs a countable plural (a wide range
+        of activities); it stresses how different the items are, so it is wrong
+        for Many studies, where only the number matters.
+      a variety of: >-
+        = several different kinds, so it stresses variety, not a large number; it
+        is good English for many activities, but a variety of studies would
+        suggest mixed kinds rather than a large number of them.
+      several: >-
+        = more than two or three but not many, and it takes a countable plural
+        noun (several studies); too small for Many studies support this conclusion
+        and for many activities.
+      a few: >-
+        = a small number, and it takes a countable plural noun; sometimes it means
+        almost none, so it is the opposite of many and can never stand in for it
+        in many reasons to be optimistic.
+      much: >-
+        = a large amount, and it takes only uncountable nouns; many activities and
+        many reasons are countable plurals, so much fails both of those frames.
+      lots of: >-
+        = informal, and in the main it goes with uncountables (lots of time); it
+        is too chatty for the formal Many studies and it hides the countable
+        plural that many needs before activities.
+      various: >-
+        = different from one another, so it stresses variety and takes a countable
+        plural noun (various activities); it says nothing about how many there
+        are, which is all that many does.
+    syn_nuance: >-
+      Many counts countable plurals. Numerous and countless are adjectives;
+      countless adds drama. Plenty of, a wide range of and a variety of are
+      phrases that can go with uncountables but bring amount or variety, so many
+      activities takes them, while Many studies stresses quantity and does not.
+    components:
+      - synonyms
+  - word: marked
+    ipa: /mɑːkt/
+    pos: adjective
+    tip: marked — "mark" a visible sign
+    definition: Clearly noticeable; obvious.
+    example: There was a marked improvement in results.
+    synonyms:
+      - noticeable
+      - significant
+      - striking
+      - clear
+    syn_pos: adjective
+    syn_example: A marked / noticeable / striking improvement — clearly visible.
+    components:
+      - spelling
+      - definitions
+  - word: mediate
+    ipa: /ˈmiː.di.eɪt/
+    pos: verb
+    tip: me-di-ate — "medi" in the middle
+    definition: To settle a disagreement between two parties.
+    example: An expert was hired to mediate between the two sides.
+    synonyms:
+      - negotiate
+      - arbitrate
+      - resolve
+      - intervene
+    syn_pos: verb
+    syn_example: Mediate / arbitrate — to step in and settle a dispute.
+    components:
+      - spelling
+      - definitions
+  - word: meticulous
+    ipa: /məˈtɪk.jə.ləs/
+    pos: adjective
+    tip: me-tic-u-lous — 'tic', then 'u-lous'
+    spelling_hint: ""
+    definition: Extremely careful and precise about details.
+    example: He kept meticulous records of the project.
+    synonyms:
+      - careful
+      - thorough
+      - precise
+      - painstaking
+      - scrupulous
+    syn_pos: adjective
+    syn_example: A meticulous / thorough / scrupulous examination.
+    syn_examples:
+      - the: He kept meticulous records.
+        syns:
+          - careful
+          - precise
+          - thorough
+      - the: She was meticulous about every detail.
+        syns:
+          - painstaking
+          - scrupulous
+          - careful
+          - thorough
+    syn_notes:
+      careful: taking care
+      thorough: complete and detailed
+      precise: exact
+      painstaking: taking great trouble
+      scrupulous: extremely attentive to correctness
+    syn_near:
+      - exhaustive
+      - rigorous
+      - obsessive
+      - fussy
+      - pedantic
+    syn_avoid:
+      painstaking: >-
+        = taking great trouble over a long task, so it belongs to the work itself,
+        as in painstaking research; it cannot modify a set of records, which is
+        why it fails here
+      precise: >-
+        = exact and accurate, and precise records is good English; in the about +
+        noun frame the deck wants the word for complete attention, while precise
+        about detail points at one exact value
+      scrupulous: >-
+        = careful about what is right or honest, a moral word for a person, as in
+        scrupulous about fairness; it cannot describe a set of records, hence the
+        gap in the first frame
+      exhaustive: >-
+        = covering every case, so it judges scope rather than care, and the frames
+        are an exhaustive study, an exhaustive search or exhaustive coverage
+      rigorous: >-
+        = strict about standards and method, as in rigorous training or a rigorous
+        study; it names the strictness of a system or a course, not the care of
+        the person keeping records
+      obsessive: >-
+        = taken over by anxious, neurotic attention; too strong and too
+        psychological, since a compliment on someone's working method in formal
+        prose is not that
+      fussy: >-
+        = informal and faintly critical, as in a fussy eater or a fussy typist;
+        the register is wrong for a neutral description in a report
+      pedantic: >-
+        = over-precise about small rules and detail, and always a criticism of
+        another person; it says fault-finding where the target says good practice
+    syn_nuance: >-
+      All describe care over detail, but they attach to different things. A person
+      is meticulous, scrupulous or careful, a job is thorough or painstaking, as
+      in painstaking research, and a value is precise. Exhaustive and rigorous
+      judge coverage and method, so the to + verb frame is meticulous about every
+      detail.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: mitigate
+    ipa: /ˈmɪt.ɪ.ɡeɪt/
+    pos: verb
+    tip: mit-i-<b>gate</b> — three syllables, no double letters
+    spelling_hint: ""
+    definition: To make something bad or harmful less severe, serious or painful.
+    example: New laws were introduced to mitigate the effects of pollution.
+    synonyms:
+      - reduce
+      - alleviate
+      - lessen
+      - ease
+    syn_pos: verb
+    syn_example: '"Mitigate the risks" — reduce / alleviate are the plain IELTS verbs.'
+    syn_examples:
+      - the: Trees help mitigate the effects of flooding.
+        syns:
+          - reduce
+          - lessen
+          - alleviate
+        avoid:
+          ease: >-
+            = to make a burden or a pain gentler ("ease the burden", "ease the
+            pain"); with "the effects of flooding" there is no load to lift, so
+            reduce, lessen or alleviate fit instead
+      - the: New laws aim to mitigate pollution in cities.
+        syns:
+          - alleviate
+          - reduce
+          - lessen
+        avoid:
+          ease: >-
+            = it goes with burdens, pressure and pain ("ease the pressure on
+            hospitals"); "ease pollution" is wrong, since pollution is a condition
+            to cut, not a weight to carry
+      - the: We must mitigate the financial risks involved.
+        syns:
+          - lessen
+          - ease
+          - reduce
+    syn_notes:
+      reduce: make smaller
+      alleviate: relieve suffering or pain
+      lessen: make less
+      ease: make less painful
+    syn_near:
+      - prevent
+      - eradicate
+      - combat
+      - offset
+      - cushion
+    syn_avoid:
+      alleviate: >-
+        = relief for pain, poverty or hardship ("alleviate poverty"); fine in the
+        pollution sentence, but a financial risk is a chance of loss rather than
+        suffering, so it will not take risks
+      ease: >-
+        = to make a burden, a pressure or a pain gentler ("ease the burden"); it
+        is accepted with risks, but "ease the effects of flooding" is wrong, since
+        nothing physical is lifted here
+      prevent: >-
+        = to stop something from happening at all, so it is the exact opposite of
+        mitigate, which only lowers the force of an effect that still occurs
+      eradicate: >-
+        = to destroy something completely, usually a disease or a practice
+        ("eradicate poverty"); nothing here is wiped out, only weakened, so it
+        promises far too much
+      combat: >-
+        = to fight against a person, a disease or a problem ("combat crime"); the
+        martial image is wrong for the neutral, technical tone of the pollution
+        and risk frames
+      offset: >-
+        = to cancel out a bad effect with a good one ("higher costs offset by
+        savings"); it implies two sides of a balance, whereas mitigate only
+        weakens the damage and names no credit
+      cushion: >-
+        = to soften an impact or absorb a blow ("cushion the shock of the cuts");
+        it wants a sudden knock after it, not a gradual effect, so it cannot stand
+        with the effects of flooding
+    syn_nuance: >-
+      Mitigate only weakens something that still happens, so it takes the effects
+      of, the risks of or the impact of. Reduce and lessen are neutral and fit any
+      quantity, alleviate is reserved for suffering, pain and hardship, and ease
+      is used for a burden, a pressure or a credit crunch.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: monitor
+    ipa: /ˈmɒn.ɪ.tər/
+    pos: verb
+    tip: mon-i-tor — "mon" warn
+    definition: To watch and check something over a period of time.
+    example: Staff monitor the machines around the clock.
+    synonyms:
+      - observe
+      - track
+      - oversee
+      - watch
+    syn_pos: verb
+    syn_example: Monitor / track / observe — to watch over time.
+    components:
+      - spelling
+      - definitions

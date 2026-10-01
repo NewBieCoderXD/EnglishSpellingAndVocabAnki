@@ -1,0 +1,17 @@
+words:
+  - word: yield
+    ipa: /jiːld/
+    pos: verb
+    tip: yield — "ie" like "field" (not "yeld")
+    definition: To produce or provide a result or return.
+    example: The investigation yielded several new clues.
+    synonyms:
+      - produce
+      - provide
+      - give
+      - return
+    syn_pos: verb
+    syn_example: Yield / produce / give — to bring about a result.
+    components:
+      - spelling
+      - definitions

@@ -1,0 +1,1209 @@
+words:
+  - word: ecosystem
+    ipa: /ˈiː.kəʊˌsɪs.təm/
+    pos: noun
+    tip: eco-system — a "system" of the environment
+    definition: All the living things in an area and their environment together.
+    example: Pollution threatens the fragile coastal ecosystem.
+    synonyms:
+      - environment
+      - habitat
+      - biome
+    syn_pos: noun
+    syn_example: An ecosystem / habitat — the living environment of a region.
+    components:
+      - spelling
+      - definitions
+  - word: elaborate
+    ipa: /ɪˈlæb.ər.ət/
+    pos: adjective
+    tip: e-lab-or-ate — "labor" built with care
+    definition: Very detailed, complex and carefully planned.
+    example: The castle had elaborate stone carvings.
+    synonyms:
+      - detailed
+      - intricate
+      - ornate
+      - complex
+    syn_pos: adjective
+    syn_example: Elaborate / intricate / detailed — very finely worked.
+    components:
+      - spelling
+      - definitions
+  - word: eloquent
+    ipa: /ˈel.ə.kwənt/
+    pos: adjective
+    tip: el-o-quent — 'o', then 'quent'
+    spelling_hint: ""
+    definition: Fluent, forceful and persuasive in speaking or writing.
+    example: She gave an eloquent speech.
+    synonyms:
+      - articulate
+      - expressive
+      - persuasive
+      - fluent
+      - forceful
+    syn_pos: adjective
+    syn_example: An eloquent / articulate / persuasive argument.
+    syn_examples:
+      - the: She gave an eloquent speech.
+        syns:
+          - articulate
+          - persuasive
+          - fluent
+          - expressive
+      - the: The book is an eloquent defence of freedom.
+        syns:
+          - expressive
+          - forceful
+          - persuasive
+    syn_notes:
+      articulate: speaks clearly and well
+      expressive: conveying meaning well
+      persuasive: convincing
+      fluent: speaks smoothly
+      forceful: powerful
+    syn_near:
+      - rhetorical
+      - moving
+      - inspiring
+      - flowery
+      - grandiloquent
+    syn_avoid:
+      articulate: >-
+        = able to express ideas clearly, a word for a person, as in an articulate
+        speaker or an articulate student; a book or a written case is expressive
+        or forceful instead
+      fluent: >-
+        = speaking a language easily and without pauses, so it takes a speaker or
+        a language, as in a fluent speaker and fluent Russian; a written defence
+        cannot be fluent
+      forceful: >-
+        = powerful and hard-hitting, and it fits a forceful defence or argument,
+        but after a speech it only says there was impact, not that the language
+        was finely handled
+      rhetorical: >-
+        = relating to persuasion as a technique, as in a rhetorical device or a
+        rhetorical question; it names the strategy and hints at effect rather than
+        skill
+      moving: >-
+        = touching the emotions, as in a moving tribute or a moving speech; good
+        English, but it describes the effect on the audience, not the speaker's
+        command of language
+      inspiring: >-
+        = filling people with enthusiasm and hope; again the effect on others,
+        where the target praises the writing or the speech itself
+      flowery: >-
+        = crowded with fancy, over-ornamented words, and it is always faintly
+        critical; it insults a speech that the target praises
+      grandiloquent: >-
+        = inflated and pompous, as in grandiloquent phrasing; a near-spelling
+        trap, and far too strong and far too dismissive
+    syn_nuance: >-
+      All describe the power of language, but the frame picks the word. An
+      eloquent speech, address or witness praises control of expression, and an
+      eloquent defence of X is a written case. Articulate and fluent belong to a
+      person and to spoken delivery, expressive and forceful describe the impact
+      of a text.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: emphasize
+    ipa: /ˈem.fə.saɪz/
+    pos: verb
+    tip: em-pha-size — the 'pha' after 'em'
+    spelling_hint: ""
+    definition: To give special importance or attention to something.
+    example: The report emphasizes the need for change.
+    synonyms:
+      - stress
+      - highlight
+      - underline
+      - accentuate
+      - spotlight
+    syn_pos: verb
+    syn_example: Emphasize / stress / highlight the main point.
+    syn_examples:
+      - the: The report goes on to emphasize the need for reform.
+        syns:
+          - stress
+          - highlight
+          - underline
+      - the: She will emphasize the importance of preparation.
+        syns:
+          - stress
+          - highlight
+          - underline
+          - accentuate
+          - spotlight
+    syn_notes:
+      stress: give importance to
+      highlight: draw attention to
+      underline: show the importance of
+      accentuate: make stand out
+      spotlight: pull into focus
+    syn_near:
+      - mention
+      - insist
+      - exaggerate
+      - advertise
+      - amplify
+    syn_avoid:
+      accentuate: >-
+        = to make a contrast sharper, usually between two things: it needs a
+        difference or a feature, so "accentuate the need for reform" points at
+        nothing to contrast
+      spotlight: >-
+        = to put something in the public eye, a word of campaigns and media: "to
+        spotlight the need for reform" suggests publicity, while the report simply
+        gives the point weight
+      mention: >-
+        = to say briefly and without weight: fine in "she mentioned the need for
+        reform", but that reports a remark instead of insisting on the point
+      insist: >-
+        = to demand firmly, and its frames are "insist on + noun" and "insist that
+        ...": the patterns here are emphasize plus a noun or a that-clause
+      exaggerate: >-
+        = to overstate something beyond the truth: too strong for stressing a
+        claim the writer believes to be accurate
+      advertise: >-
+        = to promote a product or service to the public: wrong register for a
+        report that simply gives a point importance
+      amplify: >-
+        = to increase the strength of a sound or an electrical signal: it belongs
+        to voices, radio and feedback, not to the force of an argument
+    syn_nuance: >-
+      All five single out one point as important, and they differ in force.
+      Stress, highlight and underline are the neutral report words and take
+      emphasize plus a noun; accentuate adds a contrast, as in "accentuate the
+      difference", and spotlight suggests deliberate exposure to public view.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: empirical
+    ipa: /ɪmˈpɪr.ɪ.kəl/
+    pos: adjective
+    tip: em-pir-i-cal — the 'pir' in the middle
+    spelling_hint: ""
+    definition: Based on evidence, observation or experience rather than theory.
+    example: The theory lacks empirical support.
+    synonyms:
+      - evidence-based
+      - observed
+      - experimental
+      - factual
+    syn_pos: adjective
+    syn_example: Back a claim with empirical / observed / factual evidence.
+    syn_examples:
+      - the: The theory lacks empirical support.
+        syns:
+          - evidence-based
+          - factual
+          - observed
+      - the: The claim is based on empirical data.
+        syns:
+          - observed
+          - experimental
+          - factual
+    syn_notes:
+      evidence-based: based on evidence
+      observed: seen or measured
+      experimental: based on experiments
+      factual: dealing with facts
+    syn_near:
+      - scientific
+      - proven
+      - objective
+      - data-driven
+      - statistical
+    syn_avoid:
+      evidence-based: >-
+        = resting on tested evidence, the usual frame being an evidence-based
+        approach, policy or treatment; with data it turns circular, since data is
+        the evidence itself
+      experimental: >-
+        = relying on a designed trial, of a drug, a method or a prototype, and it
+        fits the data frame; the support frame is about a claim no trial has yet
+        backed
+      scientific: >-
+        = connected with science as a field, so it is far wider and says nothing
+        about the source of the knowledge; it suits the standing of a discipline
+        rather than a claim
+      proven: >-
+        = shown to be true, of a result, a cure or a method, so it directly
+        contradicts lacks support; the frames here are about the kind of backing,
+        not about proof
+      objective: >-
+        = free of personal bias and fair, a word for a judgement, a report or a
+        decision; it does not say how the knowledge was obtained
+      data-driven: >-
+        = decided by analysing numbers, business jargon for a decision, a strategy
+        or a team; it normally sits before an action, and saying data is
+        data-driven is circular
+      statistical: >-
+        = resting on numbers from a sample, so it is narrower, and it excludes
+        plain observation, case work and designed experiments
+    syn_nuance: >-
+      All say the knowledge comes from observation and measurement rather than
+      theory, and the noun after them shows which. Empirical takes support,
+      evidence, research and data. Experimental says the work came from a designed
+      trial, evidence-based modifies an approach or a policy, and factual is the
+      looser, everyday member.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: enable
+    ipa: /ɪˈneɪ.bəl/
+    pos: verb
+    tip: en-able — makes something "able"
+    definition: To make something possible or to give someone the ability to do it.
+    example: The grant will enable more students to study.
+    synonyms:
+      - allow
+      - make possible
+      - facilitate
+      - empower
+    syn_pos: verb
+    syn_example: Enable / facilitate — to make something possible.
+    components:
+      - spelling
+      - definitions
+  - word: endorse
+    ipa: /ɪnˈdɔːs/
+    pos: verb
+    tip: en-dorse — "dors" back
+    definition: To publicly approve or support a person, plan or product.
+    example: The committee endorsed the new proposal.
+    synonyms:
+      - approve
+      - support
+      - back
+      - sanction
+    syn_pos: verb
+    syn_example: Endorse / back / support — to approve publicly.
+    components:
+      - spelling
+      - definitions
+  - word: enforce
+    ipa: /ɪnˈfɔːs/
+    pos: verb
+    tip: en-force — "force" make it happen
+    definition: To make people obey a rule or law.
+    example: The new law is hard to enforce.
+    synonyms:
+      - implement
+      - apply
+      - impose
+      - uphold
+    syn_pos: verb
+    syn_example: Enforce / impose / uphold — to make rules apply.
+    components:
+      - spelling
+      - definitions
+  - word: enhance
+    ipa: /ɪnˈhɑːns/
+    pos: verb
+    tip: en-hance — the 'h' is part of the word
+    spelling_hint: ""
+    definition: To improve the quality, value or extent of something.
+    example: Technology can enhance the learning experience.
+    synonyms:
+      - improve
+      - boost
+      - strengthen
+      - augment
+      - heighten
+    syn_pos: verb
+    syn_example: Enhance / boost / improve performance at work.
+    syn_examples:
+      - the: Technology can enhance the learning experience.
+        syns:
+          - improve
+          - boost
+          - heighten
+          - strengthen
+      - the: The new feature aims to enhance productivity.
+        syns:
+          - boost
+          - augment
+          - heighten
+          - improve
+          - strengthen
+    syn_notes:
+      improve: make better
+      boost: raise quickly
+      strengthen: make stronger
+      augment: increase in size or quantity
+      heighten: make more intense
+    syn_near:
+      - increase
+      - intensify
+      - expand
+      - enlarge
+      - maximize
+    syn_avoid:
+      augment: >-
+        = add to the size or number of a thing: it fits "augment productivity",
+        where output grows, but "augment the learning experience" sounds like
+        adding items to an experience
+      increase: >-
+        = a plain rise in a number or amount: too weak for "enhance the learning
+        experience", which is about a better quality
+      intensify: >-
+        = to make something already forceful stronger, as in "intensify the heat":
+        sound English, but it wants a force or a degree, not a neutral experience
+      expand: >-
+        = to widen the size or scope, as in "expand the business": it adds
+        coverage, whereas enhance adds quality
+      enlarge: >-
+        = to make physically bigger, usual of photos and buildings: a change of
+        size, with none of the sense of a better quality
+      maximize: >-
+        = to push something up to its maximum, common in US business English: far
+        too strong for a feature designed to improve rather than to perfect
+    syn_nuance: >-
+      Improve and enhance are the neutral pair, and enhance is the more formal of
+      the two; it suits abstract qualities such as reputation or the learning
+      experience. Boost, strengthen and heighten each pick a scale, a structure or
+      an intensity, and augment counts extra units, which fits productivity but
+      not experience.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: entrepreneur
+    ipa: /ˌɒn.trə.prəˈnɜːr/
+    pos: noun
+    tip: en-tre-pre-<b>neur</b> — the French-style ending is the tricky part
+    spelling_hint: ""
+    definition: A person who starts and runs a business, taking financial risks in the hope of profit.
+    example: The young entrepreneur launched a successful app.
+    synonyms:
+      - businessperson
+      - founder
+      - innovator
+      - pioneer
+    syn_pos: noun
+    syn_example: '"Budding entrepreneur" — founder / businessperson are the concrete IELTS words.'
+    syn_examples:
+      - the: The young entrepreneur launched a successful app.
+        syns:
+          - founder
+          - innovator
+          - pioneer
+      - the: The programme gives every entrepreneur free business advice.
+        syns:
+          - businessperson
+          - founder
+      - the: It takes courage to become a successful entrepreneur.
+        syns:
+          - pioneer
+          - businessperson
+          - innovator
+    syn_notes:
+      businessperson: someone in business
+      founder: started a company
+      innovator: introduces new ideas
+      pioneer: one of the first in a field
+    syn_near:
+      - businessman
+      - freelancer
+      - risk-taker
+      - tycoon
+      - entrepreneurial
+    syn_avoid:
+      businessperson: >-
+        = anyone in business, including a salaried manager with no venture of
+        their own; it is fine in "gives every entrepreneur free business advice"
+        but loses the risk in "launched an app"
+      founder: >-
+        = the person who started the firm, so "it takes courage to become a
+        successful founder" fails: an inherited chairmanship is not a foundation
+      innovator: >-
+        = someone who introduces a new method, and it needs a field or a practice,
+        as in "a medical innovator", so it is rejected when advice goes to "every
+        entrepreneur"
+      pioneer: >-
+        = the first person in a field, so late entrants named in a support
+        programme are not pioneers; the word also belongs to exploration, sport
+        and New World settlement
+      businessman: >-
+        = a gendered label that many style guides now avoid, and it also
+        covers salaried managers; the sentence wants the neutral term for
+        someone who starts or runs a business
+      freelancer: >-
+        = someone paid job by job, often working inside somebody else's company,
+        whereas an entrepreneur usually owns the venture and risks their own money
+        in it
+      risk-taker: >-
+        = a general description of bold behaviour rather than a job title, so
+        "become a successful risk-taker" is loose where entrepreneur names an
+        occupational role
+      tycoon: >-
+        = a very rich, powerful business figure, far more intense than
+        entrepreneur, which covers everyone from a market trader to a small shop
+        owner
+      entrepreneurial: >-
+        = the adjective, as in "an entrepreneurial spirit" or "an entrepreneurial
+        culture"; the card needs a count noun for a person, and the slot already
+        ends the sentence
+    syn_nuance: >-
+      All can describe someone who builds a business, but the frame sorts them:
+      entrepreneur = the person who takes the financial risk, founder = the person
+      who started the firm rather than inherited it, businessperson is the neutral
+      gender-neutral term, and innovator and pioneer add novelty or being first.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: environment
+    ipa: /ɪnˈvaɪ.rən.mənt/
+    pos: noun
+    tip: en-vi-<b>ron</b>-ment — keep the "r" after the "n"
+    spelling_hint: ""
+    definition: The natural world, or the surroundings and conditions in which someone or something lives.
+    example: We must protect the environment for future generations.
+    synonyms:
+      - surroundings
+      - ecosystem
+      - habitat
+      - setting
+    syn_pos: noun
+    syn_example: '"Protecting the environment" — habitat / ecosystem for nature essays, surroundings for people.'
+    syn_examples:
+      - the: We must protect the environment for future generations.
+        syns:
+          - ecosystem
+          - surroundings
+        avoid:
+          habitat: >-
+            = the natural home of a species or group, so it needs a creature
+            attached, as in "a protected habitat"; nothing is named here, so
+            "protect the habitat" has no referent
+          setting: >-
+            = the scene or context where something happens, as in "a rural setting"
+            or "a calm learning setting"; "protect the setting" narrows it to a film
+            or stage scene and loses the whole surroundings
+      - the: Children learn best in a calm learning environment.
+        syns:
+          - surroundings
+          - setting
+        avoid:
+          habitat: >-
+            = the natural home of a species or group, so "a learning habitat" is a
+            specialist early-years term; ordinary English here is "a calm learning
+            environment" or "setting"
+      - the: Coral reefs form a fragile marine environment.
+        syns:
+          - habitat
+          - ecosystem
+        avoid:
+          setting: >-
+            = the scene or context, standard for films, novels and locations; "a
+            fragile marine setting" sounds like a painted backdrop, while the reefs
+            are the living habitat itself
+    syn_notes:
+      surroundings: the things around you
+      ecosystem: a community of living things
+      habitat: the natural home of a species
+      setting: a scene or context
+    syn_near:
+      - environmental
+      - ambience
+      - milieu
+      - context
+      - nature
+    syn_avoid:
+      surroundings: >-
+        = the physical area and objects around a person, fine for "a calm learning
+        environment" but not for coral reefs, where a whole living system is meant
+        rather than what stands nearby
+      ecosystem: >-
+        = a community of living things plus the physical conditions around them,
+        so "marine environment" reads oddly; the natural frames are "a fragile
+        ecosystem" or "marine ecosystems"
+      habitat: >-
+        = the natural home of a species or group, so it is rejected in "protect
+        the environment for future generations"; in early-years education "a
+        learning habitat" is a specialist use
+      setting: >-
+        = the scene or context in which something happens, as in "a calm learning
+        setting" or "a rural setting"; "protect the setting" and "marine setting"
+        miss the wider sense
+      environmental: >-
+        = the adjective, as in "environmental protection" or "environmental
+        conditions"; the sentence here needs the noun that can follow the definite
+        article after protect
+      ambience: >-
+        = the mood or atmosphere of a place, felt rather than built up, so it can
+        stand for "a calm learning environment" but never for coral reefs or the
+        natural world
+      milieu: >-
+        = the social or cultural setting a person moves in, a word of sociology
+        and arts criticism, far too narrow for a marine system or a stretch of
+        countryside
+      context: >-
+        = the circumstances and background that give something meaning, abstract
+        and countable, and it has no room for a physical or biological system
+      nature: >-
+        = the physical world with its plants and animals, the opposite of nurture;
+        "protect nature" is good English, but the card wants the single countable
+        noun
+    syn_nuance: >-
+      Environment is the broadest term, covering natural, social and learning
+      contexts. Surroundings is the physical area around you, setting the scene in
+      which something happens, ecosystem a community of living things plus its
+      conditions, and habitat the natural home of a species, which is why it takes
+      marine and wildlife contexts.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: equivocal
+    ipa: /ɪˈkwɪv.ə.kəl/
+    pos: adjective
+    tip: equi-vocal — "equal" voices
+    definition: Deliberately unclear and having more than one possible meaning.
+    example: The minister gave an equivocal answer.
+    synonyms:
+      - ambiguous
+      - vague
+      - unclear
+      - evasive
+    syn_pos: adjective
+    syn_example: Equivocal / ambiguous — with more than one possible meaning.
+    components:
+      - spelling
+      - definitions
+  - word: escalate
+    ipa: /ˈes.kə.leɪt/
+    pos: verb
+    tip: es-ca-late — "escalator" goes up
+    definition: To increase or become worse quickly in degree or intensity.
+    example: The dispute quickly escalated into violence.
+    synonyms:
+      - intensify
+      - increase
+      - grow
+      - mount
+    syn_pos: verb
+    syn_example: Escalate / intensify — to rise sharply, often for the worse.
+    components:
+      - spelling
+      - definitions
+  - word: essential
+    ipa: /ɪˈsen.ʃəl/
+    pos: adjective
+    tip: es-sen-tial — double s, then 'en'
+    spelling_hint: ""
+    definition: Absolutely necessary; extremely important.
+    example: Water is essential for life.
+    synonyms:
+      - vital
+      - crucial
+      - indispensable
+      - necessary
+      - required
+    syn_pos: adjective
+    syn_example: Essential / vital / indispensable skills for study.
+    syn_examples:
+      - the: Water is essential for life.
+        syns:
+          - vital
+          - crucial
+          - necessary
+      - the: Good communication is an essential part of teamwork.
+        syns:
+          - indispensable
+          - required
+          - vital
+          - necessary
+    syn_notes:
+      vital: needed for life
+      crucial: make-or-break
+      indispensable: cannot do without
+      necessary: needed
+      required: demanded by rules
+    syn_near:
+      - main
+      - critical
+      - pivotal
+      - prime
+      - compulsory
+    syn_avoid:
+      crucial: >-
+        = make-or-break, so the outcome turns on it: a stronger and more dramatic
+        word than the neutral "an essential part of teamwork", though fine in
+        "crucial to the project"
+      indispensable: >-
+        = you cannot do without it, usual of a person, a tool or a quality: it
+        fits "an indispensable part of teamwork", but with water and life it makes
+        an absolute claim the sentence does not need
+      required: >-
+        = demanded by a rule, a contract or an employer: the frames here are
+        natural necessity, as in "essential for life", and belonging, as in "an
+        essential part of", not external demand
+      main: >-
+        = the chief or most important one, whose frame is "the main + noun": "the
+        main part" is right, but it clashes with the article in "an ___ part of",
+        and "main to any relationship" is not English
+      critical: >-
+        = of the greatest importance, as in 'a critical part' or 'critical to
+        success'; it is stronger than the plain necessity these frames ask
+        for, and 'critical for life' is not its frame
+      pivotal: >-
+        = acting as the turning point of a process: "a pivotal part" is good
+        English elsewhere, but it points at a decisive moment, not at what simply
+        cannot be missing
+      prime: >-
+        = first in importance, or the best of its kind, as in a prime example; it
+        ranks rather than naming what is simply necessary, so "a prime part of
+        teamwork" claims top billing
+      compulsory: >-
+        = required by a rule, a contract or the law: nobody compels you to drink
+        water, and a team does not make communication compulsory
+    syn_nuance: >-
+      All five say nothing can be done without them, but the frame sets the
+      register. Vital and indispensable carry life or total dependency, crucial
+      pushes the stakes to make-or-break, and necessary and required stay neutral,
+      with required imposed by a rule. Only essential and necessary pass both X is
+      ___ for life and an ___ part of.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: establish
+    ipa: /ɪˈstæb.lɪʃ/
+    pos: verb
+    tip: es-tab-lish — 'tab', then 'lish'
+    spelling_hint: ""
+    definition: To start or set up something lasting; to prove or confirm.
+    example: The company was established in 1990.
+    synonyms:
+      - set up
+      - found
+      - create
+      - institute
+      - launch
+      - prove
+      - confirm
+    syn_pos: verb
+    syn_example: Establish / set up / found an organization.
+    syn_examples:
+      - the: They plan to establish a new company.
+        syns:
+          - set up
+          - found
+          - create
+          - launch
+        avoid:
+          confirm: >-
+            = to state or check that a doubt is settled, so it needs something
+            already believed; a new company does not exist yet, and no doubt is
+            being settled. It is accepted for the finding
+          institute: >-
+            = to put a rule or a system into force, and it takes a policy or a
+            procedure; a company is an organisation to be built, not a rule in
+            force. It is accepted for clear rules
+          prove: >-
+            = to show that a claim is true, so its object is a claim, as in "prove
+            that the company is viable"; a company is founded, not proved. It is
+            accepted for the cause
+      - the: We need to establish clear rules.
+        syns:
+          - institute
+          - set up
+          - create
+        avoid:
+          confirm: >-
+            = to check that something already believed is true, so it needs a prior
+            claim; the rules do not exist yet, so the frame is "set up" or
+            "institute". It is accepted for the finding
+          prove: >-
+            = to show that a claim is true; rules are drafted here, not tested, so
+            "prove clear rules" is not a frame you use. It is accepted for the cause
+          found: >-
+            = to create an institution and put it on a lasting footing; clear rules
+            are drawn up, and a rule is not an institution, so the frame is "set up"
+            or "institute"
+          launch: >-
+            = to start with publicity and energy, usual of a product, a campaign or
+            a ship; drawing up clear rules is quiet work, so "launch rules" is too
+            showy. It is right for a company
+      - the: The study failed to establish a clear cause.
+        syns:
+          - prove
+          - confirm
+        avoid:
+          institute: >-
+            = to put a rule or a system into force, so it takes a policy or a
+            procedure; nobody institutes a cause, and this frame is "prove a cause"
+            or "confirm a cause"
+          found: >-
+            = to create an institution and put it on a lasting footing; a cause is
+            not an institution, and this sentence is about evidence, not about
+            founding anything
+          launch: >-
+            = to start with publicity and energy, of a product or a campaign; a
+            cause is neither launched nor founded, it is proved or confirmed. It is
+            right for a new company
+    syn_notes:
+      set up: arrange or organize
+      found: create an institution
+      create: make new
+      institute: introduce a system or rule
+      launch: start in a big way
+      prove: show to be true
+      confirm: verify something
+    syn_near:
+      - initiate
+      - demonstrate
+      - verify
+      - determine
+      - construct
+    syn_avoid:
+      set up: >-
+        = arrange or organize, usual of a company, a meeting or a system: it is
+        the everyday match for "establish a new company", but a cause is found,
+        not arranged
+      found: >-
+        = create an institution and put it on a lasting footing: it fits "found a
+        new company", but it does not govern draft rules and it has nothing to do
+        with evidence
+      create: >-
+        = to make something new that did not exist before: right for a company or
+        a set of rules, but a cause is discovered rather than created
+      institute: >-
+        = put a rule or a system into force, and it takes a policy, a procedure or
+        a practice: it cannot start a company, and nobody institutes a cause
+      launch: >-
+        = to start with publicity and energy, usual of a product, a campaign or a
+        ship: too showy for drawing up clear rules, and impossible for a cause
+      prove: >-
+        = show that something is true, and the frame is "prove that ..." or "prove
+        a claim": it fits the study, but a company or a set of rules cannot be
+        proved
+      confirm: >-
+        = state or check that a doubt is settled, so it needs something already
+        reported or believed: it matches the study's finding, but not setting up a
+        company or drawing up rules
+      initiate: >-
+        = to start a process, as in "initiate talks": standard with an activity,
+        but "initiate a new company" would mean opening an application, and
+        "initiate clear rules" reverses the sense
+      demonstrate: >-
+        = to show clearly by example or evidence, and the frame is "demonstrate
+        that ...": it fits the study, but it cannot start a company or draw up
+        rules
+      verify: >-
+        = to check that something is true, and it needs a concrete claim: "verify
+        a cause" is right, but it can neither set up a company nor institute rules
+      determine: >-
+        = to find out or to decide, which is the frame for the study: "failed to
+        determine a cause" is correct, but it cannot create a company or put rules
+        in force
+      construct: >-
+        = to build a physical or abstract thing, as in "construct an argument":
+        "construct a new company" and "construct clear rules" are not idiomatic
+    syn_nuance: >-
+      Establish splits into two senses. With people and bodies it means bring into
+      lasting existence, so set up, found, create and launch work, with found for
+      a charity and launch for a public product. With facts it means settle by
+      evidence, so prove and confirm work, while institute means put a rule into
+      force.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: evaluate
+    ipa: /ɪˈvæl.ju.eɪt/
+    pos: verb
+    tip: e-val-u-ate — 'val', then 'u-ate'
+    spelling_hint: ""
+    definition: To judge or assess the value, quality or importance of something.
+    example: We need to evaluate the results carefully.
+    synonyms:
+      - assess
+      - appraise
+      - judge
+      - review
+      - examine
+    syn_pos: verb
+    syn_example: Evaluate / assess / judge the evidence.
+    syn_examples:
+      - the: We must evaluate the results carefully.
+        syns:
+          - assess
+          - review
+          - judge
+          - examine
+      - the: Experts will evaluate each proposal.
+        syns:
+          - appraise
+          - examine
+          - assess
+          - review
+    syn_notes:
+      assess: estimate value
+      appraise: assess worth formally
+      judge: form an opinion
+      review: look over again
+      examine: look closely
+    syn_near:
+      - estimate
+      - grade
+      - rank
+      - audit
+      - critique
+    syn_avoid:
+      appraise: >-
+        = to put a formal value on property, work or damage: it matches "experts
+        will appraise each proposal", but "we must appraise the results carefully"
+        sounds like an auction or an insurance office
+      judge: >-
+        = to form an opinion, at its strongest in legal and competitive frames
+        such as "judge an entry": a panel measuring research results is described
+        as assessing, not judging
+      estimate: >-
+        = to calculate an approximate figure, so it wants a measurable quantity:
+        fine in "estimate the cost of delays", but it cannot weigh the worth of a
+        proposal
+      grade: >-
+        = to give a mark or a class, a schoolroom word that is also standard in US
+        courses: "experts will grade each proposal" narrows the judgement to a
+        score
+      rank: >-
+        = to place in an order of merit, so the frame is "rank applicants from
+        first to last": a useful step inside a wider evaluation, not the whole of
+        it
+      audit: >-
+        = to check accounts or compliance formally, an institutional register: too
+        narrow for the general "evaluate the results" of a piece of research
+      critique: >-
+        = to give a critical analysis of a work, usually as a set piece of
+        reviewing: it points to fault-finding rather than to the neutral weighing
+        of value
+    syn_nuance: >-
+      All five put a value on something, but the process behind the word differs.
+      Examine and review only mean looking at closely, assess is the general word
+      for weighing value, appraise adds a formal or legal valuation, and judge
+      decides between options, which fits a court or a competition.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: even-handed
+    ipa: /ˌiː.vənˈhæn.dɪd/
+    pos: adjective
+    tip: even + handed — one hyphen
+    definition: Fair and impartial, treating both sides equally.
+    example: The referee was praised for even-handed decisions.
+    synonyms:
+      - fair
+      - impartial
+      - balanced
+      - unbiased
+    syn_pos: adjective
+    syn_example: Even-handed / impartial / unbiased — treating both sides equally.
+    components:
+      - spelling
+      - definitions
+  - word: evidence
+    ipa: /ˈev.ɪ.dəns/
+    pos: noun
+    tip: evi-dence — "evi" clearly seen
+    definition: Facts or information that prove a claim is true.
+    example: The police found no evidence of a crime.
+    synonyms:
+      - proof
+      - confirmation
+      - signs
+    syn_pos: noun
+    syn_example: Evidence / proof — facts that support a claim.
+    components:
+      - spelling
+      - definitions
+  - word: evidence-based
+    ipa: /ˈev.ɪ.dənsˌbeɪst/
+    pos: adjective
+    tip: evidence + based — one hyphen
+    definition: Based on verifiable evidence rather than opinion.
+    example: Doctors favour evidence-based treatments.
+    synonyms:
+      - empirical
+      - factual
+      - scientific
+    syn_pos: adjective
+    syn_example: Evidence-based / empirical — grounded in data, not opinion.
+    components:
+      - spelling
+      - definitions
+  - word: evident
+    ipa: /ˈev.ɪ.dənt/
+    pos: adjective
+    tip: e-vi-dent — 'vi', then 'dent'
+    spelling_hint: ""
+    definition: Clearly seen or understood; obvious.
+    example: It was evident that she was tired.
+    synonyms:
+      - obvious
+      - apparent
+      - clear
+      - plain
+      - noticeable
+    syn_pos: adjective
+    syn_example: It was evident / apparent / obvious from the data.
+    syn_examples:
+      - the: It was evident that she was tired.
+        syns:
+          - obvious
+          - apparent
+          - clear
+          - plain
+      - the: The improvement was evident in the latest figures.
+        syns:
+          - noticeable
+          - plain
+          - clear
+          - apparent
+    syn_notes:
+      obvious: impossible to miss
+      apparent: clearly visible
+      clear: free from doubt
+      plain: obviously simple to see
+      noticeable: attracting attention
+    syn_near:
+      - visible
+      - manifest
+      - conspicuous
+      - undeniable
+      - transparent
+    syn_avoid:
+      noticeable: >-
+        = large enough to catch the eye, and it modifies a thing such as "a
+        noticeable improvement": it does not take the clause frame "it was
+        noticeable that ..."
+      obvious: >-
+        = impossible to miss, the loudest word in this family: it clashes with the
+        measured claim in "the improvement was obvious in the latest figures",
+        which only says the change shows
+      visible: >-
+        = able to be seen, a physical and visual word: it modifies a thing, as in
+        "visible in the figures", and it will not carry "it was visible that ..."
+      manifest: >-
+        = plainly visible, in a formal or literary register, as in 'it was
+        manifest that she was tired'; that is correct English, but too formal
+        for this neutral sentence, where evident is plainer
+      conspicuous: >-
+        = very noticeable because it is deliberately unusual, as in "a conspicuous
+        absence": the figures here show a change, not something put on display
+      undeniable: >-
+        = impossible to deny, an absolute: it suits a moral or legal claim, but
+        "the improvement was undeniable in the figures" overstates what the data
+        can support
+      transparent: >-
+        = see-through, or open and easy to inspect: right for "a transparent
+        process", but a tired person is not transparent, so it reads oddly after
+        "it was"
+    syn_nuance: >-
+      All five describe something a reader can see for themselves, but they differ
+      in volume. Clear, plain and apparent stay quiet and suit a clause, obvious
+      announces that nothing could be missed, and noticeable points to the size of
+      a change, as in "a noticeable improvement in the figures".
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: exacerbate
+    ipa: /ɪɡˈzæs.ə.beɪt/
+    pos: verb
+    tip: ex-<b>ac</b>-er-bate — the "ac" followed by "er" catches people out
+    spelling_hint: ""
+    definition: To make a bad situation, problem or feeling worse.
+    example: Cutting funding only exacerbated the problem.
+    synonyms:
+      - worsen
+      - aggravate
+      - intensify
+      - compound
+    syn_pos: verb
+    syn_example: '"The crisis was exacerbated by..." — worsen / aggravate for direct cause-effect statements.'
+    syn_examples:
+      - the: Cutting budgets can exacerbate the problem.
+        syns:
+          - worsen
+          - compound
+          - aggravate
+        avoid:
+          intensify: >-
+            = to increase something in degree, and it fits "intensify existing
+            inequalities"; it is rejected for "the problem", an all-or-nothing state
+            with no scale to make more intense
+      - the: The pandemic may exacerbate existing inequalities.
+        syns:
+          - intensify
+          - aggravate
+          - worsen
+        avoid:
+          compound: >-
+            = to make worse by adding a further cause, which fits "compound the
+            problem"; here the pandemic is the single cause, so "may compound
+            existing inequalities" implies another factor piled on
+      - the: Poor diets can exacerbate long-term health problems.
+        syns:
+          - worsen
+          - aggravate
+        avoid:
+          intensify: >-
+            = to raise something in degree, which suits "intensify existing
+            inequalities"; illness is a state, not a scale, so "intensify long-term
+            health problems" asks for more severity, not more illness
+          compound: >-
+            = to make worse by adding a further cause; one agent should name one
+            worsening, and "can compound long-term health problems" implies diet
+            joins other causes instead of being the cause
+    syn_notes:
+      worsen: become worse
+      aggravate: make worse
+      intensify: increase in intensity
+      compound: make worse by adding
+    syn_near:
+      - exasperate
+      - escalate
+      - inflame
+      - strengthen
+      - aggravation
+    syn_avoid:
+      compound: >-
+        = to make worse by adding a further cause, which fits "can compound the
+        problem"; it is rejected with "inequalities" and "health problems", where
+        the verb should name a single worsening agent
+      intensify: >-
+        = to increase something in degree, and it fits "intensify existing
+        inequalities"; it is rejected for "the problem" and "health problems",
+        states that are already absolute
+      exasperate: >-
+        = to annoy a person deeply, always with a person as object, as in "she was
+        exasperated by the delay"; the slots here take a problem or a condition
+      escalate: >-
+        = to rise in scale or intensity, mostly intransitive or with tensions and
+        disputes, as in "the dispute escalated"; it is not the transitive verb for
+        making a problem worse
+      inflame: >-
+        = to set alight, or to stir up strong feeling, as in 'inflame the
+        debate'; it points at heat and anger, while the sentence is a neutral
+        claim about money and health
+      strengthen: >-
+        = to make something firmer or better, the opposite of the sense wanted
+        here, and it never combines with "the problem" in this pattern
+      aggravation: >-
+        = the noun, as in "a skin aggravation" or "the aggravation of the
+        dispute"; the sentence needs a full verb after "can" and before "the
+        problem"
+    syn_nuance: >-
+      All make an existing fault worse, but register and image differ: worsen is
+      neutral and also runs intransitive, aggravate is formal and medical,
+      exacerbate is the most journalistic, and compound adds a second cause piling
+      on. Intensify is the near neighbour, pointing at degree rather than at harm.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: exhibit
+    ipa: /ɪɡˈzɪb.ɪt/
+    pos: verb
+    tip: ex-hibit — "hib" hold out
+    definition: To show or display something publicly.
+    example: The museum will exhibit the new paintings.
+    synonyms:
+      - show
+      - display
+      - present
+      - demonstrate
+    syn_pos: verb
+    syn_example: Exhibit / display / show — to put on view.
+    components:
+      - spelling
+      - definitions
+  - word: experimental
+    ipa: /ɪkˌsper.ɪˈmen.təl/
+    pos: adjective
+    tip: ex-peri-ment-al — one p, one r
+    definition: Relating to a test or trial; not yet proven.
+    example: The treatment is still at an experimental stage.
+    synonyms:
+      - trial
+      - pilot
+      - testing
+    syn_pos: adjective
+    syn_example: Experimental / pilot / trial — not yet fully proven.
+    components:
+      - spelling
+      - definitions
+  - word: exploration
+    ipa: /ˌek.spləˈreɪ.ʃən/
+    pos: noun
+    tip: ex-plor-ation — two plosives
+    definition: The act of travelling to or investigating a place or subject.
+    example: Space exploration inspires many students.
+    synonyms:
+      - investigation
+      - study
+      - research
+      - survey
+    syn_pos: noun
+    syn_example: An exploration / investigation / study — a systematic inquiry.
+    components:
+      - spelling
+      - definitions
+  - word: explore
+    ipa: /ɪkˈsplɔː/
+    pos: verb
+    tip: ex-plore — "plor" cry out
+    definition: To travel through or investigate a place or subject in detail.
+    example: The report explores several possible causes.
+    synonyms:
+      - investigate
+      - examine
+      - study
+      - look into
+    syn_pos: verb
+    syn_example: Explore / investigate / examine — to look into carefully.
+    components:
+      - spelling
+      - definitions
+  - word: expressive
+    ipa: /ɪkˈspres.ɪv/
+    pos: adjective
+    tip: ex-pres-sive — "press" express
+    definition: Showing or conveying thoughts and feelings clearly.
+    example: Her paintings are bold and expressive.
+    synonyms:
+      - expressive
+      - vivid
+      - eloquent
+      - emotive
+    syn_pos: adjective
+    syn_example: Expressive / vivid / eloquent — full of meaning and feeling.
+    components:
+      - spelling
+      - definitions
+  - word: extensive
+    ipa: /ɪkˈsten.sɪv/
+    pos: adjective
+    tip: ex-ten-sive — "tensive" as in "stretch"
+    definition: Covering a large area or a great number of things.
+    example: The storm caused extensive damage to the coast.
+    synonyms:
+      - broad
+      - wide
+      - far-reaching
+      - large-scale
+    syn_pos: adjective
+    syn_example: Extensive / far-reaching / broad — useful for describing impact.
+    components:
+      - spelling
+      - definitions

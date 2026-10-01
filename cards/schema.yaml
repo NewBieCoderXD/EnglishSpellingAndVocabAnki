@@ -1,4 +1,9 @@
-data: { file: words.yaml, list: words, components: components }
+# Records are spread over cards/words/<letter>.yaml and read in sorted path
+# order, so a.sh is built before b.sh. A single `file: words.yaml` also works.
+data:
+  files: ["words/*.yaml"]
+  list: words
+  components: components
 templates_dir: types
 record:
   required: [word, ipa, pos, tip, definition, example, synonyms, syn_pos, syn_example]

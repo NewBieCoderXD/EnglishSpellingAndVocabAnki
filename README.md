@@ -131,21 +131,46 @@ IPA, part-of-speech and answer colors are defined there.
 
 The `Spelling`, `Definitions`, and `SynonymsV2` decks are **data-driven**. Their
 card HTML comes from reusable component templates (`cards/types/*.html`) rendered
-with props from `cards/words.yaml` — no hand-written HTML per word.
+with props from `cards/words/*.yaml` — no hand-written HTML per word.
 
-- `cards/schema.yaml` — tells the builder which data file drives the word
+- `cards/schema.yaml` — tells the builder which data files drive the word
   decks, which fields are required, and the type of each container field
   (`synonyms`, `components`: plain lists; `syn_examples`: list of records).
   AnkiDaiku auto-detects it; nothing about the record shape is hardcoded in
   the builder.
+
+  ```yaml
+  data:
+    files: ["words/*.yaml"]   # globs, read in sorted path order
+    list: words               # root key holding the records
+    components: components    # field listing the templates to fan out to
+  ```
+
+  `files:` takes any number of paths or globs (`*` stays inside one directory,
+  `**` spans directories) and concatenates every match, so the deck spreads its
+  records over as many files as it likes with no merge step. `file: words.yaml`
+  is still accepted as a one-file shorthand.
 - `cards/types/spelling.html`, `definitions.html`, `synonyms.html` — each is a
   standard card body (`# Front` / `# Type` / `# Back`) containing `{{prop}}`
   placeholders plus template expressions (`{{#if}}`, `{{#each}}`, `{{join}}`,
   `{{letters}}`, `{{underline}}`, …), and a small front matter declaring the
   sub-deck and card id: `deck: Spelling` and `id: "{{word}}"`.
-- `cards/words.yaml` — one entry per word with all fields (ipa, pos, spelling
-  tip, definition, example, synonym list, syn_pos, syn_example) and the
-  `components` it should fan out to (e.g. `[spelling, definitions, synonyms]`).
+- `cards/words/<letter>.yaml` — the vocabulary itself: one file per initial
+  letter (`a.yaml`, `b.yaml`, …), each holding that letter's entries under the
+  same top-level `words:` key, read alphabetically by the builder. One entry per
+  word with all fields (ipa, pos, spelling tip, definition, example, synonym
+  list, syn_pos, syn_example) and the `components` it should fan out to (e.g.
+  `[spelling, definitions, synonyms]`). There is no aggregate `words.yaml`.
+
+```bash
+python3 tools/words.py check               # YAML, fields, synonym coverage, file placement
+python3 tools/words.py extract assumption  # print one entry, verbatim
+python3 tools/words.py list                # counts per letter file and per component
+```
+
+`check` catches what the builder cannot: a malformed file, a missing required
+field, an accepted synonym with no `syn_notes` gloss, a rejected synonym with no
+`syn_avoid` reason, and an entry sitting in the wrong letter file.
 
 The build fans each word out to the requested components and renders each
 template, producing one card per deck. All derived presentation is computed
@@ -184,7 +209,7 @@ The back teaches the difference instead of just listing answers:
 4. **Nuance** — `syn_nuance`, one or two sentences contrasting the whole family
    (what they share and which frame or degree each one takes).
 
-Three optional per-word fields supply 3 and 4 (`cards/words.yaml`):
+Three optional per-word fields supply 3 and 4 (`cards/words/<letter>.yaml`):
 
 | Field | Shape | Meaning |
 | --- | --- | --- |
@@ -211,12 +236,12 @@ All of them are rendered only when present, so `[spelling, definitions]`-only
 entries are unaffected. Write the reasons in plain text (no HTML, no markdown
 asterisks) and keep them under ~200 characters.
 
-To add a word to all three decks, add one entry to `words.yaml` listing the three
-components (inventing 2–3 context sentences for `syn_examples`), then run
-`./build.sh`. Many words (esp. the hard B2–C1 additions) are `[spelling,
-definitions]` only — the `synonyms`/`syn_examples` fields are still required but
-no drill cards fan out without `syn_examples`. To spin up a brand-new card type,
-add a new template in `cards/types/`.
+To add a word to all three decks, add one entry to its letter file in
+`cards/words/` listing the three components (inventing 2–3 context sentences for
+`syn_examples`), then run `./build.sh`. Many words (esp. the hard B2–C1
+additions) are `[spelling, definitions]` only — the `synonyms`/`syn_examples`
+fields are still required but no drill cards fan out without `syn_examples`. To
+spin up a brand-new card type, add a new template in `cards/types/`.
 
 ### Collocation drills: patterns, not synonyms
 
@@ -309,9 +334,12 @@ When an `id` naturally changes, AnkiDaiku warns about orphaned old cards — tha
 
 ## Adding words
 
-**Word decks (Spelling / Definitions / SynonymsV2):** add one entry to
-`cards/words.yaml` (with the fields above and `components:`), then `./build.sh`.
-The build renders all three cards for you.
+**Word decks (Spelling / Definitions / SynonymsV2):** add one entry to the
+right letter file in `cards/words/` (e.g. `cards/words/t.yaml` for `tentative`),
+with the fields above and `components:`, then `./build.sh`. The builder reads
+every letter file and renders all the cards for you. Run
+`python3 tools/words.py check` first to catch missing fields, unglossed accepted
+synonyms, rejected synonyms that have no reason, and entries in the wrong file.
 
 **Other decks (IELTS, Collocation, Pronunciation, manual synonym cards):**
 

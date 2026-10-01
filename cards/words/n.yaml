@@ -1,0 +1,336 @@
+words:
+  - word: necessary
+    ipa: /ˈnes.ə.ser.i/
+    pos: adjective
+    tip: one <b>c</b>, double <b>s</b> — ne-<b>ces</b>-sary
+    spelling_hint: ""
+    definition: Needed in order to achieve something; essential.
+    example: It is necessary to register before the deadline.
+    synonyms:
+      - essential
+      - vital
+      - required
+      - indispensable
+    syn_pos: adjective
+    syn_example: '"It is necessary to..." — essential / vital are the stronger IELTS adjectives.'
+    syn_examples:
+      - the: It is necessary to register before the deadline.
+        syns:
+          - essential
+          - vital
+          - required
+        avoid:
+          indispensable: >-
+            = something you cannot do without at all, and it sits with a person or a
+            tool ("an indispensable key"); "necessary to register before the
+            deadline" is a rule with a date on it, not a must-have
+      - the: Adequate funding is necessary for the research to continue.
+        syns:
+          - essential
+          - required
+          - vital
+        avoid:
+          indispensable: >-
+            = the one thing you cannot do without ("an indispensable part"); funding
+            that "is necessary for the research to continue" can be cut and found
+            again, so the work is not impossible without it
+      - the: Take only necessary luggage on the flight.
+        syns:
+          - essential
+          - indispensable
+    syn_notes:
+      essential: absolutely necessary
+      vital: critically important
+      required: demanded
+      indispensable: cannot do without
+    syn_near:
+      - compulsory
+      - feasible
+      - beneficial
+      - minimal
+      - superfluous
+    syn_avoid:
+      indispensable: >-
+        = you cannot do without it at all ("an indispensable tool"); accepted with
+        luggage, but "it is indispensable to register" overstates, since something
+        can be useful without being unavoidable
+      required: >-
+        = demanded by a rule, a form or a person ("qualifications are required");
+        right for registration, but "required funding" and "required luggage"
+        suggest an outside rule rather than a speaker's choice
+      vital: >-
+        = the whole depends on it, a stronger claim ("vital organs"); it fits
+        funding, but not "vital luggage", and for registration it sounds more
+        urgent than a plain requirement
+      compulsory: >-
+        = forced on you by law, contract or school ("compulsory education");
+        nothing imposes registration on the traveller, it simply has to be done
+        first, so the frame of external force fails
+      feasible: >-
+        = possible to do ("it is feasible to register by post"); it answers
+        whether something can happen, while necessary answers whether it must, so
+        the two test different questions
+      beneficial: >-
+        = good for you but not required ("a beneficial habit"); luggage has to be
+        limited, not merely useful, and this sentence counts weight rather than
+        benefit
+      minimal: >-
+        = the smallest amount possible ("minimal luggage"); it is a quantity word,
+        so it says the aim is a low total, while necessary says only that the
+        requirement is being met
+      superfluous: >-
+        = more than is needed, the exact opposite; fine in "superfluous items",
+        but it can never fill a slot where necessary is wanted, since it points to
+        excess rather than need
+    syn_nuance: >-
+      Necessary, essential and required all fit a thing you cannot do without, but
+      indispensable is absolute, vital adds the sense that the whole depends on
+      it, and required points to an outside rule. In "it is necessary to + verb"
+      they differ mainly in strength, while with a noun such as luggage only
+      necessary and indispensable read naturally.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: negotiate
+    ipa: /nɪˈɡəʊ.ʃi.eɪt/
+    pos: verb
+    tip: ne-go-ti-ate — 'go', then 'ti-ate'
+    spelling_hint: ""
+    definition: To discuss something formally to reach an agreement.
+    example: They negotiated a new contract.
+    synonyms:
+      - bargain
+      - discuss
+      - arrange
+      - mediate
+      - settle
+    syn_pos: verb
+    syn_example: Negotiate / bargain / settle a deal.
+    syn_examples:
+      - the: The union met to negotiate a new contract.
+        syns:
+          - bargain
+          - settle
+        avoid:
+          arrange: >-
+            = to organize and book things yourself ("arrange a meeting", "arrange
+            for a taxi"); a contract is signed by both sides, so the union cannot
+            arrange it alone
+          mediate: >-
+            = to step in as a third party between two others, so the frame is
+            "mediate between A and B"; the union is one of the bargaining sides, not
+            a neutral party
+      - the: The two sides met to negotiate a deal.
+        syns:
+          - discuss
+        avoid:
+          arrange: >-
+            = to organize and book things yourself, and it takes the deal as already
+            agreed ("arrange a meeting"); the two sides are still talking it over,
+            so the frame is "discuss a deal"
+          mediate: >-
+            = to step in as a third party between two others; the two sides are the
+            ones bargaining, and neither can stand between itself and the other
+          bargain: >-
+            = to haggle over price or pay, so it needs buyers and sellers; no price
+            or wage is named here, so the two sides are only discussing terms
+      - the: A neutral party helped to negotiate the dispute.
+        syns:
+          - mediate
+          - settle
+          - discuss
+        avoid:
+          arrange: >-
+            = to organize and book things yourself, as in "arrange a meeting"; a
+            neutral party can set that meeting up, but not arrange away a dispute,
+            which needs "mediate" or "settle"
+          bargain: >-
+            = to haggle over price or pay, so it needs buyers and sellers; a neutral
+            party buys and sells nothing, and a dispute is settled, not bargained
+            over
+    syn_notes:
+      bargain: haggle over terms
+      discuss: talk about
+      arrange: organize an agreement
+      mediate: step in between parties
+      settle: resolve definitely
+    syn_near:
+      - confer
+      - arbitrate
+      - compromise
+      - intervene
+    syn_avoid:
+      bargain: >-
+        = to haggle over price or pay; it needs buyers and sellers, so it is too
+        small for a union and an employer signing a contract or a neutral party
+        settling a dispute
+      discuss: >-
+        = to talk about a subject with no promise of agreement; "met to discuss a
+        deal" is fine, but a contract is settled rather than merely raised, and
+        "met to discuss a contract" understates the bargaining
+      arrange: >-
+        = to organize things yourself, in the frames "arrange a meeting" or
+        "arrange for a taxi"; a contract is arranged by both sides after they
+        agree, so it cannot stand for the negotiating itself
+      mediate: >-
+        = to step in as a third party between two others, so it needs "between A
+        and B" or a neutral actor; here the two sides are doing the bargaining and
+        neither is standing between
+      settle: >-
+        = to bring a matter to a definite end, often a debt or a claim, and it is
+        often intransitive ("settle on a price"); at the stage of meeting to
+        negotiate a deal nothing is closed yet
+      confer: >-
+        = to hold a formal talk, normally "confer with someone"; it reports the
+        meeting rather than the bargaining and takes a person with "with", not a
+        contract as its object
+      arbitrate: >-
+        = for an impartial body to impose a binding decision, as in salary
+        arbitration; the parties here agree terms themselves, and a neutral party
+        helps them, it does not rule
+      compromise: >-
+        = the concession each side makes, a noun, or the verb of giving ground; it
+        names the settlement already reached, so nobody negotiates a compromise,
+        they reach one
+      intervene: >-
+        = to step in to change a course of events, usually to stop harm ("the
+        government intervened"); it takes no contract or dispute as its object
+        here and implies something was going wrong
+    syn_nuance: >-
+      Negotiate and mediate both assume two sides working towards terms, but
+      negotiate is the two-sided talk itself, bargain adds haggling over price,
+      and settle means the matter is already closed. Discuss reports the talk
+      without any promise of terms, while arrange only puts the result in order.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: notable
+    ipa: /ˈnəʊ.tə.bəl/
+    pos: adjective
+    tip: note-able — worth noting
+    definition: Important, interesting or deserving attention.
+    example: The region has seen notable economic growth.
+    synonyms:
+      - significant
+      - remarkable
+      - striking
+      - noticeable
+    syn_pos: adjective
+    syn_example: Notable / remarkable / significant — worth attention.
+    components:
+      - spelling
+      - definitions
+  - word: noticeable
+    ipa: /ˈnəʊ.tɪ.sə.bəl/
+    pos: adjective
+    tip: notice-able — can be noticed
+    definition: Easily seen or noticed.
+    example: The new paint made a noticeable difference.
+    synonyms:
+      - visible
+      - obvious
+      - clear
+      - perceptible
+    syn_pos: adjective
+    syn_example: Noticeable / visible / evident — able to be observed.
+    components:
+      - spelling
+      - definitions
+  - word: notion
+    ipa: /ˈnəʊ.ʃən/
+    pos: noun
+    tip: no-tion — 'no', then 'tion'
+    spelling_hint: ""
+    definition: An idea or belief about something.
+    example: She rejected the notion that change is easy.
+    synonyms:
+      - idea
+      - concept
+      - belief
+      - impression
+      - view
+    syn_pos: noun
+    syn_example: Challenge the notion / idea / concept that...
+    syn_examples:
+      - the: She rejected the notion that change is easy.
+        syns:
+          - idea
+          - belief
+          - view
+          - impression
+      - the: The notion of time travel fascinates many people.
+        syns:
+          - concept
+          - idea
+    syn_notes:
+      idea: a thought or plan
+      concept: a general idea
+      belief: a conviction
+      impression: an initial opinion
+      view: a personal opinion
+    syn_near:
+      - ideology
+      - theory
+      - attitude
+      - understanding
+    syn_avoid:
+      belief: >-
+        = a conviction held to be true, often religious or political; "rejected
+        the belief that" works, but the notion of time travel is an idea to
+        consider, not what anyone holds as true
+      concept: >-
+        = an idea inside a system of thought, so it needs "of" plus an abstract
+        subject; a concept is a category, so "the concept that change is easy"
+        reads badly and cannot be rejected like a claim
+      impression: >-
+        = a vague effect left on the senses or the mind by one encounter ("an
+        impression of danger"); nothing here is a reaction to a scene, and an
+        impression carries no truth-claim to reject
+      view: >-
+        = a personal opinion, so it wants a holder ("her view that") or the frame
+        "a view on"; "the view of time travel" suggests a vantage point from which
+        the idea is seen
+      ideology: >-
+        = a whole system of political or social ideas, usually held by a group or
+        a party; far too large for one notion about change, and it carries a
+        strong political charge
+      theory: >-
+        = an explanation built on evidence and testing ("the theory of
+        evolution"); it claims a model, so "the theory of time travel" means a
+        proposed science, not an idea that fascinates people
+      attitude: >-
+        = a settled, often emotional stance, which normally takes "to" or
+        "towards" ("an attitude to risk"); a that-clause after it describes a
+        stance, not a neutral notion about a subject
+      understanding: >-
+        = the grasp a person has, so it needs a human subject ("a student's
+        understanding of grammar"); the notion of time travel is the idea itself,
+        not anyone's comprehension of it
+    syn_nuance: >-
+      Notion is the idea itself, held as a thought to be entertained. Notion, idea
+      and concept all take "of" for a topic ("the notion of time travel"), and
+      notion, idea, belief, view and impression all work before a that-clause, but
+      belief and view need someone who holds them and impression is only a vague
+      first reaction.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: numerous
+    ipa: /ˈnjuː.mər.əs/
+    pos: adjective
+    tip: nu-mer-ous — "numer" number
+    definition: Existing in large numbers; many.
+    example: Numerous studies confirm the finding.
+    synonyms:
+      - countless
+      - many
+      - multiple
+      - various
+    syn_pos: adjective
+    syn_example: Numerous / countless / many — a large number.
+    components:
+      - spelling
+      - definitions

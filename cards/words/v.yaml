@@ -1,0 +1,139 @@
+words:
+  - word: vague
+    ipa: /veɪɡ/
+    pos: adjective
+    tip: vague — "gu" keep the u
+    definition: Not clear, precise or specific.
+    example: His explanation was too vague to act on.
+    synonyms:
+      - unclear
+      - ambiguous
+      - indistinct
+      - unspecific
+    syn_pos: adjective
+    syn_example: Vague / ambiguous / unclear — without precise meaning.
+    components:
+      - spelling
+      - definitions
+  - word: vast
+    ipa: /vɑːst/
+    pos: adjective
+    tip: vast — short word, one 'a'
+    spelling_hint: ""
+    definition: Of very great extent or size; immense.
+    example: The desert is a vast area.
+    synonyms:
+      - huge
+      - immense
+      - enormous
+      - extensive
+      - massive
+    syn_pos: adjective
+    syn_example: A vast / huge / immense amount of data.
+    syn_examples:
+      - the: The desert is a vast area.
+        syns:
+          - huge
+          - immense
+          - enormous
+          - extensive
+      - the: They have a vast amount of data.
+        syns:
+          - huge
+          - massive
+          - extensive
+          - enormous
+    syn_notes:
+      huge: very large
+      immense: immeasurably large
+      enormous: extremely large
+      extensive: covering a large area
+      massive: very large and solid
+    syn_near:
+      - large
+      - wide
+      - considerable
+      - substantial
+      - boundless
+    syn_avoid:
+      immense: >-
+        = immeasurably large, and the natural word before a concrete noun such as
+        an area; an immense amount of data is possible English but reads dated
+        beside a huge or massive amount
+      massive: >-
+        = enormous in bulk and solid in weight, so it wants something that has
+        mass, such as a rock or a data set; a vast area is a surface, not a weight
+      large: >-
+        = simply big, with none of the awe that vast carries, so it is the
+        everyday word that flattens the desert sentence
+      wide: >-
+        = measuring across rather than in volume, so it fits a wide area or a wide
+        gap but not a vast amount, and it says nothing about depth or scale
+      considerable: >-
+        = large in amount, a formal and quantitative word for figures and data, so
+        a considerable amount of data is right, but it carries no sense of an
+        endless surface
+      substantial: >-
+        = sizeable and solid, at home with money, weights and meals as well as
+        amounts; it stresses the quality of the bulk rather than the sheer scale
+        of an area
+      boundless: >-
+        = having no limit at all, which is literary and absolute; the desert is
+        finite, and boundless sits with horizons and freedom rather than with data
+    syn_nuance: >-
+      Vast is formal and always suggests scale beyond easy measurement, as in a
+      vast area or a vast amount. Enormous is the plain intensifier, huge the
+      everyday one, extensive stresses the area covered, and massive stresses bulk
+      and weight. Use vast for a scale you could not walk across, not for a single
+      heavy object.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: viable
+    ipa: /ˈvaɪ.ə.bəl/
+    pos: adjective
+    tip: vi-able — "via" a road it can take
+    definition: Able to work or be done successfully.
+    example: Solar power is becoming a viable option.
+    synonyms:
+      - feasible
+      - workable
+      - sustainable
+      - practicable
+    syn_pos: adjective
+    syn_example: Viable / feasible / workable — able to be done or survive.
+    components:
+      - spelling
+      - definitions
+  - word: visible
+    ipa: /ˈvɪz.ə.bəl/
+    pos: adjective
+    tip: vis-ible — "vis" see
+    definition: Able to be seen.
+    example: The mountains are clearly visible today.
+    synonyms:
+      - evident
+      - apparent
+      - obvious
+      - noticeable
+    syn_pos: adjective
+    syn_example: Visible / evident / apparent — able to be seen.
+    components:
+      - spelling
+      - definitions
+  - word: vital
+    ipa: /ˈvaɪ.təl/
+    pos: adjective
+    tip: vit-al — "it" needs one i as in "life"
+    definition: Extremely important or necessary for success or survival.
+    example: Exercise plays a vital role in staying healthy.
+    synonyms:
+      - essential
+      - crucial
+      - critical
+    syn_pos: adjective
+    syn_example: Vital / essential / crucial — all IELTS top-100 words.
+    components:
+      - spelling
+      - definitions

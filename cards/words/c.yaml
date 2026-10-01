@@ -1,0 +1,987 @@
+words:
+  - word: capricious
+    ipa: /kəˈprɪʃ.əs/
+    pos: adjective
+    tip: ca-pri-cious — "pri" fickle
+    definition: Changing mood or behaviour suddenly and without reason.
+    example: The market was capricious and hard to predict.
+    synonyms:
+      - whimsical
+      - volatile
+      - unpredictable
+      - fickle
+    syn_pos: adjective
+    syn_example: Capricious / whimsical — changing suddenly without reason.
+    components:
+      - spelling
+      - definitions
+  - word: compensation
+    ipa: /ˌkɒm.penˈseɪ.ʃən/
+    pos: noun
+    tip: com-pen-sation — "pen" as in "pay back"
+    definition: Money or something given to make up for loss or damage.
+    example: Workers received compensation for the injury.
+    synonyms:
+      - payment
+      - recompense
+      - redress
+    syn_pos: noun
+    syn_example: Compensation / recompense — money paid for loss or harm.
+    components:
+      - spelling
+      - definitions
+  - word: complex
+    ipa: /ˈkɒm.pleks/
+    pos: adjective
+    tip: com-plex — "plex" as in "intertwined"
+    definition: Made of many connected parts and therefore hard to understand.
+    example: The problem is more complex than it looks.
+    synonyms:
+      - complicated
+      - intricate
+      - involved
+    syn_pos: adjective
+    syn_example: Complex / intricate / complicated — with many parts.
+    components:
+      - spelling
+      - definitions
+  - word: compound
+    ipa: /kəmˈpaʊnd/
+    pos: verb
+    tip: com-pound — the "ou" sounds like "ow"
+    definition: To add new problems or complications to a bad situation, making it harder to fix.
+    example: The delay only compounded our difficulties.
+    synonyms:
+      - intensify
+      - worsen
+      - exacerbate
+      - aggravate
+    syn_pos: verb
+    syn_example: Compound / exacerbate — to make a problem worse by adding.
+    components:
+      - spelling
+      - definitions
+  - word: comprehensive
+    ipa: /ˌkɒm.prɪˈhen.sɪv/
+    pos: adjective
+    tip: com-pre-hen-sive — note the 'hen'
+    spelling_hint: ""
+    definition: Including everything or nearly everything; complete and thorough.
+    example: The report gives a comprehensive overview.
+    synonyms:
+      - thorough
+      - complete
+      - extensive
+      - full
+      - all-inclusive
+    syn_pos: adjective
+    syn_example: A comprehensive / thorough / extensive study of the topic.
+    syn_examples:
+      - the: The report provides a comprehensive overview.
+        syns:
+          - thorough
+          - complete
+          - extensive
+          - full
+      - the: We offer comprehensive support.
+        syns:
+          - extensive
+          - all-inclusive
+          - thorough
+          - complete
+    syn_notes:
+      thorough: careful and detailed
+      complete: with all parts
+      extensive: covering a wide area
+      full: entire, complete
+      all-inclusive: including everything
+    syn_near:
+      - detailed
+      - broad
+      - rigorous
+      - absolute
+    syn_avoid:
+      all-inclusive: >-
+        = a package that includes every extra, as in an all-inclusive holiday; the
+        sentence already states the coverage, and the hyphenated label reads
+        clunky beside 'overview'
+      full: >-
+        = total and undivided, as in 'the full picture'; 'full support' suggests
+        blanket backing with no thought for what is offered, so the deck sets it
+        aside
+      detailed: >-
+        = full of small points, as in a detailed report; it measures how much
+        information is packed in, not how wide the coverage runs
+      broad: >-
+        = wide-ranging, and it belongs with 'overview' and 'outline'; it measures
+        width, while comprehensive claims that nothing has been left out
+      rigorous: >-
+        = strict and exact about method, as in rigorous testing; it praises how
+        carefully something was done, not how much of the field it covered
+      absolute: >-
+        = complete without any limit, as in absolute certainty; far too strong for
+        a report or a support package, which always leave some gaps
+    syn_nuance: >-
+      All of these claim that nothing has been left out, but comprehensive
+      describes the coverage of a whole area: it takes 'overview', 'review',
+      'support' or 'insurance', while thorough praises the care of the method,
+      complete stresses that no part is missing, and extensive measures sheer size
+      or spread.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: comprise
+    ipa: /kəmˈpraɪz/
+    pos: verb
+    tip: com-prise — ends in "ise" (BrE)
+    definition: To consist of or be made up of a set of parts.
+    example: The committee comprises ten members.
+    synonyms:
+      - consist of
+      - include
+      - make up
+      - contain
+    syn_pos: verb
+    syn_example: Comprise / consist of — to be made up of parts.
+    components:
+      - spelling
+      - definitions
+  - word: concept
+    ipa: /ˈkɒn.sept/
+    pos: noun
+    tip: con-cept — "cept" as in "receive" (take in) an idea
+    definition: An abstract idea or general principle.
+    example: The concept of fairness is central to the debate.
+    synonyms:
+      - idea
+      - notion
+      - principle
+    syn_pos: noun
+    syn_example: A concept / notion — an abstract idea.
+    components:
+      - spelling
+      - definitions
+  - word: confinement
+    ipa: /kənˈfaɪn.mənt/
+    pos: noun
+    tip: con-fine-ment — "fine" = limit
+    definition: The state of being kept in a limited space.
+    example: He spent months in solitary confinement.
+    synonyms:
+      - isolation
+      - detention
+      - imprisonment
+      - seclusion
+    syn_pos: noun
+    syn_example: Confinement / detention / isolation — being kept in a space.
+    components:
+      - spelling
+      - definitions
+  - word: confirm
+    ipa: /kənˈfɜːm/
+    pos: verb
+    tip: con-firm — "firm" as in make firm
+    definition: To state or prove that something is certainly true.
+    example: The tests confirmed the diagnosis.
+    synonyms:
+      - verify
+      - establish
+      - validate
+      - prove
+    syn_pos: verb
+    syn_example: Confirm / verify / validate — to prove true.
+    components:
+      - spelling
+      - definitions
+  - word: consensus
+    ipa: /kənˈsen.səs/
+    pos: noun
+    tip: con-sen-sus — 'sen', then 'sus'
+    spelling_hint: ""
+    definition: A general agreement among a group of people.
+    example: The committee reached a consensus.
+    synonyms:
+      - agreement
+      - accord
+      - unanimity
+      - consent
+      - harmony
+    syn_pos: noun
+    syn_example: Reach a consensus / agreement / accord.
+    syn_examples:
+      - the: The committee reached consensus.
+        syns:
+          - agreement
+          - accord
+          - unanimity
+        avoid:
+          consent: >-
+            = permission from one person in authority, and it always takes an object
+            (consent to + -ing); "reached consensus" has none here, since a group
+            agreed themselves and nobody allowed anything
+      - the: There is a growing consensus that action is needed.
+        syns:
+          - agreement
+          - harmony
+          - accord
+        avoid:
+          consent: >-
+            = permission from one person in authority, and the frame is "consent to
+            + noun/-ing", not "consent that + clause"; the clause here is an opinion
+            the group shares, not a permission being given
+    syn_notes:
+      agreement: a shared opinion
+      accord: a formal agreement
+      unanimity: the agreement of all
+      consent: permission given
+      harmony: peaceful agreement
+    syn_near:
+      - unanimous
+      - concord
+      - common ground
+      - majority
+      - compromise
+    syn_avoid:
+      consent: >-
+        = permission given by one person who has the authority, as in written
+        consent or consent to + verb; consensus is a group agreeing after
+        discussion, not one party allowing something
+      harmony: >-
+        = peaceful good relations between people, as in in harmony with; it says
+        people get on, not that a question was settled, so a committee does not
+        reach it
+      unanimity: >-
+        = total agreement with no dissent, and reached unanimity is fine, but it
+        clashes with a growing consensus that ..., where the shared view is still
+        forming
+      unanimous: >-
+        = the adjective of unanimity, so the frames are a unanimous decision,
+        unanimous support and voted unanimously; it cannot stand as the noun after
+        reached
+      concord: >-
+        = formal and mostly uncountable, as in 'in concord with'; the frame
+        here is the countable 'reach a consensus', so 'reach a concord' is not
+        the natural phrasing
+      common ground: >-
+        = shared ground on which discussion can continue, as in find or reach
+        common ground on X; it names the overlap, not a settled agreement
+      majority: >-
+        = more than half, which allows for dissent, so it is a different count;
+        the frames are a majority decision and majority support, never reached a
+        majority
+      compromise: >-
+        = each side giving something up to settle a dispute, as in reach a
+        compromise; it names the settlement of differences, not a shared belief
+    syn_nuance: >-
+      A consensus is a shared view reached after discussion by a group, and it
+      need not be unanimous. Unanimity adds total agreement and takes with
+      unanimity, accord and agreement are the plainer nouns, consent is one person
+      giving permission, and harmony is good relations rather than a settled
+      position.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: consent
+    ipa: /kənˈsent/
+    pos: noun
+    tip: con-sent — "sent" as in "feeling together"
+    definition: Permission or agreement to allow something to happen.
+    example: The study only uses data with the participants’ consent.
+    synonyms:
+      - agreement
+      - approval
+      - permission
+    syn_pos: noun
+    syn_example: Consent / permission — the agreement to allow something.
+    components:
+      - spelling
+      - definitions
+  - word: consequence
+    ipa: /ˈkɒn.sɪ.kwəns/
+    pos: noun
+    tip: con-se-quence — the 'ue' before 'nce'
+    spelling_hint: ""
+    definition: A result or effect of an action or condition.
+    example: Pollution has serious consequences for health.
+    synonyms:
+      - result
+      - outcome
+      - effect
+      - repercussion
+      - impact
+    syn_pos: noun
+    syn_example: Weigh the consequences / repercussions / outcomes of a decision.
+    syn_examples:
+      - the: A serious consequence of climate change is rising sea levels.
+        syns:
+          - result
+          - effect
+          - impact
+          - repercussion
+          - outcome
+      - the: Every action has some consequence.
+        syns:
+          - result
+          - outcome
+          - effect
+    syn_notes:
+      result: what follows
+      outcome: the final result
+      effect: a direct change produced
+      repercussion: a negative indirect result
+      impact: a strong effect
+    syn_near:
+      - cause
+      - consequential
+      - aftermath
+      - implication
+    syn_avoid:
+      cause: >-
+        = the thing that produces the effect, not the effect itself: it fills the
+        other half of the pair, as in the cause of climate change, so it cannot
+        follow the adjective a serious
+      consequential: >-
+        = an adjective, meaning following as a result or simply very important:
+        the noun slot here needs a noun, since a serious consequential is not
+        English
+      aftermath: >-
+        = the whole state of disorder that follows an event, and it takes the, as
+        in the aftermath of the flood: a serious aftermath of climate change
+        misses the determiner and the frame
+      implication: >-
+        = a likely effect on someone or a hidden meaning, and it runs implications
+        for or the implication is that: it never combines with a serious plus of +
+        noun
+      impact: >-
+        = a powerful effect, normally with on, as in an impact on coastal towns: a
+        serious impact of needs that on phrase, so the of + noun frame here fails
+      repercussion: >-
+        = an indirect knock-on that is usually unwelcome, and it runs plural with
+        for, as in repercussions for wages: some repercussion is not idiomatic in
+        this frame
+    syn_nuance: >-
+      Consequence, result and outcome are neutral and take the of + noun frame, so
+      they fit any following event. Effect and impact prefer an effect on X, with
+      impact far stronger and usually negative, while repercussion is an indirect
+      knock-on, normally plural.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: considerable
+    ipa: /kənˈsɪd.ər.ə.bəl/
+    pos: adjective
+    tip: consider-able — worth considering because it is big
+    definition: Large enough in amount or degree to be worth noting.
+    example: She put considerable effort into the project.
+    synonyms:
+      - substantial
+      - significant
+      - marked
+    syn_pos: adjective
+    syn_example: Considerable / substantial / significant — quantifiers for essays.
+    components:
+      - spelling
+      - definitions
+  - word: constitute
+    ipa: /ˈkɒn.stɪ.tjuːt/
+    pos: verb
+    tip: con-sti-tute — 'sti', not 'stit'
+    spelling_hint: ""
+    definition: To be or form part of something; to make up.
+    example: Women constitute the majority of the workforce.
+    synonyms:
+      - form
+      - make up
+      - comprise
+      - represent
+      - account for
+    syn_pos: verb
+    syn_example: Students constitute / form / make up a large share of users.
+    syn_examples:
+      - the: Women constitute the majority of the workforce.
+        syns:
+          - form
+          - make up
+          - comprise
+          - represent
+          - account for
+      - the: This single payment will constitute the entire fee.
+        syns:
+          - form
+          - make up
+          - represent
+          - comprise
+    syn_notes:
+      form: make something
+      make up: be the parts that form
+      comprise: consist of
+      represent: stand for
+      account for: be the amount or cause of
+    syn_near:
+      - compose
+      - consist
+      - construct
+      - establish
+    syn_avoid:
+      account for: >-
+        = to be a share or the cause, so it needs a figure or a causer, as in
+        women account for 60%: it never means to equal a whole, so the single
+        payment cannot account for the whole fee
+      compose: >-
+        = to put parts together into a text, a tune or a whole, and the passive
+        runs composed of: a subject cannot compose its own majority, so the
+        direction is reversed in both frames
+      consist: >-
+        = intransitive and only ever takes of, as in the workforce consists of
+        women: standing alone before a noun it fails both the majority frame and
+        the fee frame
+      construct: >-
+        = to build a physical thing or a system out of parts, a making word rather
+        than an equals word, so it fits neither the majority sentence nor the fee
+        sentence
+      establish: >-
+        = to set up an institution, to prove a fact or to fix a price: it never
+        means to make up a whole, so a payment cannot establish the entire fee
+    syn_nuance: >-
+      Constitute, form and make up all put the part first and the whole second, as
+      in women constitute the majority, while comprise reverses that with the
+      whole as subject. Constitute is the formal, legal register of make up.
+      Represent means to stand for, and account for takes a share or a cause, so
+      it never equals one whole.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: constrained
+    ipa: /kənˈstreɪnd/
+    pos: adjective
+    tip: con-strained — "strain" limits it
+    definition: Limited or restricted, often by circumstances.
+    example: The team worked under constrained budgets.
+    synonyms:
+      - limited
+      - restricted
+      - tight
+    syn_pos: adjective
+    syn_example: Constrained / restricted / limited — kept within limits.
+    components:
+      - spelling
+      - definitions
+  - word: contemporary
+    ipa: /kənˈtem.pər.ər.i/
+    pos: adjective
+    tip: con-tem-por-ary — keep the 'por'
+    spelling_hint: ""
+    definition: Living or occurring at the same time; modern or current.
+    example: Contemporary art challenges traditional ideas.
+    synonyms:
+      - modern
+      - current
+      - present-day
+      - recent
+      - up-to-date
+    syn_pos: adjective
+    syn_example: Modern / contemporary / present-day society faces new problems.
+    syn_examples:
+      - the: She buys contemporary art.
+        syns:
+          - modern
+          - present-day
+          - current
+      - the: The journal covers contemporary research in biology.
+        syns:
+          - current
+          - up-to-date
+          - recent
+          - present-day
+    syn_notes:
+      modern: of today’s era
+      current: of the present time
+      present-day: nowadays
+      up-to-date: containing the latest information
+      recent: happened not long ago
+    syn_near:
+      - new
+      - latest
+      - cutting-edge
+      - nowadays
+    syn_avoid:
+      modern: >-
+        = the loose, everyday word for the present era, as in modern art: in the
+        research frame the journal reports work that is current, recent or up to
+        date, not merely work of this era
+      recent: >-
+        = dated to the near past, so it wants an event, a change or a report that
+        has a date: a style or a school of art is not recent, it is contemporary
+      up-to-date: >-
+        = carrying the newest information, and it is the right word for a guide or
+        a database: here it measures how fresh a piece of content is, not which
+        era an art style belongs to
+      new: >-
+        = recently made and not yet established, and it adds a hint of novelty, as
+        in a new theory: for a style, a field or a body of research the era word
+        is contemporary
+      latest: >-
+        = the most recent item in a series, so it always names one specific thing,
+        as in the latest report: it cannot describe a whole era, a style or a
+        discipline
+      cutting-edge: >-
+        = at the very frontier of innovation, and it is a journalistic word: right
+        for cutting-edge technology, but far too narrow and too informal for a
+        whole style or discipline
+      nowadays: >-
+        = an adverb of time, meaning in these days, and it can never modify a
+        noun: the adjective with that sense is present-day, as in present-day art
+    syn_nuance: >-
+      Contemporary means of the present era, and it is the fixed term for art,
+      design and the scholarship of today, set against historical. Current, up to
+      date and recent grade how fresh the information is, which is what a journal
+      covers, modern is the loose everyday word, and present-day is an adjective
+      placed before a noun.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: contentious
+    ipa: /kənˈten.ʃəs/
+    pos: adjective
+    tip: con-ten-tious — causes "tension"
+    definition: Likely to cause argument or disagreement between people.
+    example: Immigration remains a contentious political issue.
+    synonyms:
+      - controversial
+      - divisive
+      - debatable
+      - disputed
+    syn_pos: adjective
+    syn_example: Contentious / controversial — likely to cause argument.
+    components:
+      - spelling
+      - definitions
+  - word: contribute
+    ipa: /kənˈtrɪb.juːt/
+    pos: verb
+    tip: con-tri-bute — the stressed 'trɪ'
+    spelling_hint: ""
+    definition: To give something (money, effort, ideas) to help achieve something.
+    example: Everyone contributed to the discussion.
+    synonyms:
+      - donate
+      - add to
+      - help
+      - play a part in
+      - chip in
+    syn_pos: verb
+    syn_example: Several factors contribute / add to the rising cost.
+    syn_examples:
+      - the: Several factors contribute to the rising cost.
+        syns:
+          - add to
+          - play a part in
+        avoid:
+          donate: >-
+            = to give money or goods to a charity or a fund, so it needs a giver and
+            a recipient; "factors donate to the rising cost" names neither a donor
+            nor anything given away
+          help: >-
+            = to make a person's task easier, and it takes a person as its object,
+            as in "help the team"; the subject here is factors and the object a
+            cost, so nobody is helped
+      - the: Each member can contribute ideas to the discussion.
+        syns:
+          - chip in
+          - add to
+          - play a part in
+        avoid:
+          donate: >-
+            = to give money or goods to a charity or a fund, so it needs a
+            recipient; here the frame is "contribute ideas to + noun", not
+            "contribute to + noun", and an idea is not a gift
+          help: >-
+            = to make a person's task easier; here the frame is "contribute ideas to
+            + noun", not "contribute to + noun", so the right pattern is "help with
+            ideas"
+      - the: Companies are urged to contribute to local charities.
+        syns:
+          - donate
+          - chip in
+        avoid:
+          help: >-
+            = to make a person's task easier, and it takes a person or a task, not
+            an institution; "help to local charities" is wrong, and the pattern is
+            "help local charities"
+    syn_notes:
+      donate: give money or goods
+      add to: increase something
+      help: assist
+      play a part in: be one of the causes
+      chip in: give a share (informal)
+    syn_near:
+      - give
+      - input
+      - support
+      - foster
+      - attribute
+    syn_avoid:
+      add to: >-
+        = to make a total bigger, so it takes a quantity as its object: it fits
+        the cost and the ideas frames, but add to local charities has no amount to
+        add and would need add to the funds of
+      chip in: >-
+        = informal, and it is always a small gift of money or a share of the work:
+        it fits the ideas and the charity frames, but a factor cannot chip in,
+        because a factor gives nothing
+      donate: >-
+        = to give money or goods to a charity, an institution or a fund: it needs
+        a giver and a recipient, so it cannot name a cause or an idea
+      help: >-
+        = to make a person's task easier, and it takes a person as its object, as
+        in help the team: factors help to the cost and help to charities both
+        fail, and the right pattern is help with ideas
+      play a part in: >-
+        = to be one contributing cause, and it needs a noun of activity after in:
+        it fits the cost frame, but a factor that plays a part in charity is not
+        what the money frames mean
+      give: >-
+        = the general verb of transfer, which needs to or an indirect object: give
+        to the cost and give ideas to the discussion are not idiomatic, so only
+        the charity frame works
+      input: >-
+        = a noun for a contribution, and it takes an input to or input into: as a
+        verb it means to enter data, so no frame here accepts it in the contribute
+        slot
+      support: >-
+        = to hold up or finance something, which keeps it going rather than making
+        it bigger: it takes a bare object, as in support charities, so the
+        family's to + noun pattern fails too
+      foster: >-
+        = to encourage the growth of something positive, such as trust or
+        innovation: it will not take the rising cost as the thing that grows, and
+        it cannot mean to give to a charity
+      attribute: >-
+        = to explain the cause of something, and it needs an agent plus attribute
+        X to Y: the direction runs the other way here, so a factor cannot
+        attribute the cost
+    syn_nuance: >-
+      Contribute to + noun is the core frame, taking a cause, as in factors
+      contribute to the cost, or a destination, as in contribute to charity.
+      Contribute something to something adds a gift of money, time or ideas.
+      Donate takes only money or goods, play a part in marks one cause among
+      others, chip in is informal, and help needs a person.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: controversial
+    ipa: /ˌkɒn.trəˈvɜː.ʃəl/
+    pos: adjective
+    tip: con-tro-vers-ial — the 'ro' then 'vers'
+    spelling_hint: ""
+    definition: Causing disagreement or discussion.
+    example: The policy proved highly controversial.
+    synonyms:
+      - debatable
+      - disputed
+      - contentious
+      - arguable
+      - divisive
+    syn_pos: adjective
+    syn_example: A controversial / contentious / debated topic in the news.
+    syn_examples:
+      - the: The new policy is highly controversial.
+        syns:
+          - contentious
+          - divisive
+          - disputed
+          - debatable
+      - the: It remains a controversial decision.
+        syns:
+          - disputed
+          - arguable
+          - debatable
+          - contentious
+    syn_notes:
+      debatable: open to debate
+      disputed: challenged as false
+      contentious: causing argument
+      arguable: can be argued
+      divisive: causing disagreement between people
+    syn_near:
+      - controversy
+      - problematic
+      - polarizing
+      - sensitive
+    syn_avoid:
+      arguable: >-
+        = open to argument in principle, and it usually governs a clause, as in it
+        is arguable that: placed before a noun it does not describe the decision
+        itself, so a controversial decision is the frame
+      divisive: >-
+        = it splits people into opposing camps, and its subject is a group: it
+        works for the policy, but a decision cannot be divisive on its own, since
+        the reaction is what divides
+      controversy: >-
+        = a noun for the public argument itself, and it takes over, as in a
+        controversy over: the copula needs an adjective here, so is highly
+        controversy fails
+      problematic: >-
+        = full of practical faults or difficulties, which is a criticism of
+        quality: it fits a decision or a design, but it says nothing about the
+        argument the public is having
+      polarizing: >-
+        = an American, journalistic word for driving people into opposite camps:
+        natural after a policy or an issue, but too informal and too narrow before
+        a decision in IELTS prose
+      sensitive: >-
+        = delicate or painful to handle, as in a sensitive issue or a sensitive
+        subject: it marks tact rather than disagreement, so the highly + decision
+        frame fails
+    syn_nuance: >-
+      All say a matter is open to argument. Controversial and contentious mark
+      public conflict, disputed implies a formal challenge, as in disputed
+      figures, debatable and arguable mean open to debate, and arguable often
+      takes it is arguable that, while divisive means a subject that splits people
+      into camps. All take a copula, never an adverb.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: convert
+    ipa: /kənˈvɜːt/
+    pos: verb
+    tip: con-vert — "vert" turn
+    definition: To change something into a different form or use.
+    example: The old warehouse was converted into flats.
+    synonyms:
+      - transform
+      - change
+      - redevelop
+    syn_pos: verb
+    syn_example: Convert / transform — to change into a different form.
+    components:
+      - spelling
+      - definitions
+  - word: convey
+    ipa: /kənˈveɪ/
+    pos: verb
+    tip: con-vey — "vey" as in "carry" (via)
+    definition: To communicate or carry a message, idea or feeling.
+    example: The report fails to convey the scale of the crisis.
+    synonyms:
+      - communicate
+      - express
+      - transmit
+      - impart
+    syn_pos: verb
+    syn_example: Convey / communicate / express — to pass on a message or idea.
+    components:
+      - spelling
+      - definitions
+  - word: convincing
+    ipa: /kənˈvɪn.sɪŋ/
+    pos: adjective
+    tip: con-vin-cing — "vinc" as in "victor" (win)
+    definition: Able to make someone believe it is true or right.
+    example: She gave a convincing argument for reform.
+    synonyms:
+      - persuasive
+      - compelling
+      - credible
+    syn_pos: adjective
+    syn_example: Convincing / persuasive / compelling — makes you believe it.
+    components:
+      - spelling
+      - definitions
+  - word: convoluted
+    ipa: /ˈkɒn.və.luː.tɪd/
+    pos: adjective
+    tip: con-vo-lut-ed — "volute" curled
+    definition: Extremely complicated and hard to follow.
+    example: The rules were needlessly convoluted.
+    synonyms:
+      - complicated
+      - intricate
+      - tangled
+    syn_pos: adjective
+    syn_example: Convoluted / intricate — needlessly twisted and complex.
+    components:
+      - spelling
+      - definitions
+  - word: core
+    ipa: /kɔː/
+    pos: adjective
+    tip: core — one o, as in the Core of an apple
+    definition: Central, essential and most important.
+    example: Cores values such as honesty matter most.
+    synonyms:
+      - central
+      - key
+      - fundamental
+      - essential
+    syn_pos: adjective
+    syn_example: Core / central / key — the most important part.
+    components:
+      - spelling
+      - definitions
+  - word: counsel
+    ipa: /ˈkaʊn.səl/
+    pos: verb
+    tip: coun-sel — "coun" advice, one l (BrE)
+    definition: To give advice, especially expert or professional advice.
+    example: Doctors counsel patients on healthy living.
+    synonyms:
+      - advise
+      - guide
+      - recommend
+    syn_pos: verb
+    syn_example: Counsel / advise — to give guidance.
+    components:
+      - spelling
+      - definitions
+  - word: countless
+    ipa: /ˈkaʊnt.ləs/
+    pos: adjective
+    tip: count-less — "less" = without count
+    definition: Too many to be counted.
+    example: Countless studies support the link.
+    synonyms:
+      - numerous
+      - innumerable
+      - many
+    syn_pos: adjective
+    syn_example: Countless / innumerable / numerous — too many to count.
+    components:
+      - spelling
+      - definitions
+  - word: credible
+    ipa: /ˈkred.ə.bəl/
+    pos: adjective
+    tip: cred-ible — "cred" as in "credit" trust
+    definition: Able to be believed because trustworthy or well supported.
+    example: The witness gave a credible account.
+    synonyms:
+      - believable
+      - convincing
+      - plausible
+      - reliable
+    syn_pos: adjective
+    syn_example: Credible / plausible / believable — can be trusted.
+    components:
+      - spelling
+      - definitions
+  - word: critical
+    ipa: /ˈkrɪt.ɪ.kəl/
+    pos: adjective
+    tip: crit-ical — "crit" judge
+    definition: Of decisive importance; able to make or break a situation.
+    example: Public opinion is critical to the success of the reform.
+    synonyms:
+      - crucial
+      - vital
+      - essential
+      - decisive
+    syn_pos: adjective
+    syn_example: Critical / crucial / vital — decisive importance.
+    components:
+      - spelling
+      - definitions
+  - word: crucial
+    ipa: /ˈkruː.ʃəl/
+    pos: adjective
+    tip: cru-cial — 'cru', then 'cial'
+    spelling_hint: ""
+    definition: Extremely important; critical to the success of something.
+    example: Timing is crucial to the project.
+    synonyms:
+      - vital
+      - essential
+      - critical
+      - key
+      - necessary
+    syn_pos: adjective
+    syn_example: It is crucial / vital / essential to plan ahead.
+    syn_examples:
+      - the: Timing is crucial to the success of the project.
+        syns:
+          - critical
+          - vital
+          - essential
+          - key
+        avoid:
+          necessary: >-
+            = required, and it belongs with for, as in "necessary for success"; the
+            frame here is "is crucial to + noun", where a plain adjective will not
+            take necessary to
+      - the: It is crucial that we act quickly.
+        syns:
+          - essential
+          - necessary
+          - vital
+      - the: Trust plays a crucial role here.
+        syns:
+          - key
+          - vital
+          - essential
+          - critical
+        avoid:
+          necessary: >-
+            = required, and it belongs with for, as in "necessary for success"; the
+            frame here is "play a crucial role", so the word would have to stand
+            before role, not after to
+    syn_notes:
+      vital: absolutely needed for success
+      essential: indispensable
+      critical: decisive, make-or-break
+      key: the most important factor
+      necessary: needed
+    syn_near:
+      - important
+      - major
+      - prime
+      - paramount
+      - urgent
+    syn_avoid:
+      critical: >-
+        = the decisive, make or break moment, and it wants a following noun, as in
+        critical to the project or a critical stage: in the that + clause frame
+        use essential, vital or necessary
+      key: >-
+        = the single most important of several, and it always names the thing it
+        labels, as in a key role: it cannot stand alone before that + clause,
+        where the noun is missing
+      necessary: >-
+        = required, and it belongs with to or for, as in necessary for success: it
+        will not sit in the frames with to after a plain adjective or before role,
+        though it is right in the that + clause
+      important: >-
+        = plain and of any degree, so it is far weaker: it loses the sense that
+        the outcome depends on the timing, and it carries no frame of its own
+      major: >-
+        = big in size or importance, and it modifies a following noun, as in
+        'a major role in'; the frames here are 'crucial to + noun', 'it is
+        crucial that ...' and 'a crucial role', none of which it fills
+      prime: >-
+        = first in importance or the best example, and it lives in set phrases
+        such as of prime importance and a prime example: it has no slot in any of
+        these three frames
+      paramount: >-
+        = supreme, and it is usually followed by of with importance or concern, as
+        in of paramount importance: the preposition is of, not to, and it will not
+        modify role
+      urgent: >-
+        = needing immediate action, a different sense altogether from deciding the
+        outcome: it fits tasks, requests and calls, so none of these three frames
+        will take it
+    syn_nuance: >-
+      Crucial, vital and essential all take a following noun with to, for or in,
+      as in timing is crucial to success, and all accept it is crucial that +
+      clause. Crucial and critical also modify a noun, as in a crucial stage, and
+      take part in, as in plays a crucial role. Key is the most important of
+      several, and necessary is only required.
+    components:
+      - spelling
+      - definitions
+      - synonyms

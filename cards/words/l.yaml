@@ -1,0 +1,210 @@
+words:
+  - word: liability
+    ipa: /ˌlaɪ.əˈbɪl.ə.ti/
+    pos: noun
+    tip: li-a-bil-ity — 'a-bil', then 'ity'
+    spelling_hint: ""
+    definition: Legal or financial responsibility for something; a debt or a disadvantage.
+    example: The company faces huge liabilities from the lawsuit.
+    synonyms:
+      - responsibility
+      - obligation
+      - debt
+      - burden
+      - accountability
+    syn_pos: noun
+    syn_example: A company must disclose its liabilities / debts / obligations.
+    syn_examples:
+      - the: The firm took on a heavy liability.
+        syns:
+          - debt
+          - obligation
+          - burden
+      - the: He accepted full liability for the accident.
+        syns:
+          - responsibility
+          - accountability
+          - obligation
+    syn_notes:
+      responsibility: a duty
+      obligation: a moral or legal duty
+      debt: money owed
+      burden: a heavy load
+      accountability: being answerable
+    syn_near:
+      - risk
+      - exposure
+      - expense
+      - disadvantage
+    syn_avoid:
+      responsibility: >-
+        = a moral or practical duty, which takes "for + gerund"; a firm taking on
+        a financial encumbrance is described as taking on debt or obligation, not
+        a responsibility
+      accountability: >-
+        = the state of being answerable, and it needs "accountable for + noun";
+        "took on accountability" is not idiomatic, though "accepted full
+        accountability for the accident" is
+      debt: >-
+        = money owed and repayable, which is right for "a heavy debt"; for legal
+        fault you need "liability for the accident", since nobody has yet been
+        paid anything
+      burden: >-
+        = a heavy load of any kind, physical or emotional; it works in "a heavy
+        burden" but not after "full", and "the burden of proof" is its own set
+        phrase
+      risk: >-
+        = the chance of loss rather than the loss itself; a risk is something you
+        carry or insure, and "a heavy risk" is not an idiom
+      exposure: >-
+        = the degree to which you could be hurt financially, a finance word with
+        the frame "exposure to the market"; it needs "to + noun", not "a heavy
+        exposure"
+      expense: >-
+        = the cost of running something, as in "operating expenses"; it is a
+        running business cost, not a legal claim, and it pairs with "at the
+        expense of"
+      disadvantage: >-
+        = a drawback or an unfavourable feature, so "a serious disadvantage" fits
+        a product comparison; here the issue is a claim the firm must meet
+    syn_nuance: >-
+      All five are things you carry, but liability is a legal or financial claim:
+      take on, accept or face liability for + noun, and it can be full or limited.
+      Responsibility and accountability are duties needing "for + gerund",
+      obligation is imposed by law or contract, debt is money repayable, and
+      burden is any load.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: limited
+    ipa: /ˈlɪm.ɪ.tɪd/
+    pos: adjective
+    tip: lim-it-ed — 'lim', then 'it-ed'
+    spelling_hint: ""
+    definition: Small in amount, number or extent; restricted.
+    example: Resources are limited this year.
+    synonyms:
+      - restricted
+      - narrow
+      - scarce
+      - finite
+      - constrained
+    syn_pos: adjective
+    syn_example: Limited / scarce / narrow resources.
+    syn_examples:
+      - the: Resources are limited this year.
+        syns:
+          - restricted
+          - constrained
+          - scarce
+          - finite
+        avoid:
+          narrow: >-
+            = not wide, or thin in scope, as in 'a narrow range' or 'narrow
+            options'; it points at width or scope, while these frames are
+            amounts in short supply, so the words are limited, scarce or finite
+      - the: We have a limited amount of time.
+        syns:
+          - finite
+        avoid:
+          narrow: >-
+            = not wide, or thin in scope, as in 'narrow options' or 'a narrow
+            majority'; a countable supply that runs short is limited or scarce,
+            and 'narrow resources' is not a natural pairing
+    syn_notes:
+      restricted: limited by rules or capacity
+      narrow: not wide
+      scarce: insufficient supply
+      finite: has a limit
+      constrained: limited by pressure
+    syn_near:
+      - slight
+      - meagre
+      - partial
+      - insufficient
+    syn_avoid:
+      constrained: >-
+        = squeezed by outside pressure, rules or cost; too technical for "a
+        limited amount of time", which is only a small budget, not a tight
+        constraint
+      narrow: >-
+        = not wide, or thin in scope, as in 'a narrow range' or 'narrow
+        options'; it points at width or scope, while these frames are amounts
+        in short supply, so the words are limited, scarce or finite
+      restricted: >-
+        = held inside fixed limits by a rule; right for "restricted access", but
+        "a restricted amount of time" is not how you say a small time budget
+      scarce: >-
+        = in short supply and hard to find, which is fine for "scarce resources"
+        but not for time, since you spend a limited amount of time rather than
+        find it in short supply
+      slight: >-
+        = small in degree, modifying a quality or a change: "a slight increase, a
+        slight difference"; it does not describe a standing cap on supplies
+      meagre: >-
+        = scanty or barely enough, and it implies poverty or poor quality, so it
+        is too loaded and too literary for a neutral time budget
+      partial: >-
+        = covering only part of the whole, the opposite sense here: "limited" caps
+        the size of the whole, while "partial" cuts it into fractions
+      insufficient: >-
+        = not enough to meet a need, a verdict on adequacy; "limited" only reports
+        a ceiling and says nothing about the demand
+    syn_nuance: >-
+      All five put a ceiling on quantity, but the frame differs: limited and
+      restricted = capped by capacity or rules, constrained = squeezed by
+      pressure, scarce = in short supply, finite = has an end date, narrow = too
+      thin in scope. For a measurable amount such as time or money, finite is the
+      natural partner.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: lockdown
+    ipa: /ˈlɒk.daʊn/
+    pos: noun
+    tip: lock-down — things lock down
+    definition: A period when people’s movement is severely restricted.
+    example: The city went into a strict lockdown.
+    synonyms:
+      - curfew
+      - closure
+      - confinement
+      - restriction
+    syn_pos: noun
+    syn_example: A lockdown / confinement — when movement is restricted.
+    components:
+      - spelling
+      - definitions
+  - word: lodging
+    ipa: /ˈlɒdʒ.ɪŋ/
+    pos: noun
+    tip: lodg-ing — a place to "lodge"
+    definition: A place where someone stays temporarily.
+    example: Free lodging is provided for the workers.
+    synonyms:
+      - accommodation
+      - housing
+      - quarters
+      - shelter
+    syn_pos: noun
+    syn_example: Lodging / accommodation / quarters — a place to stay.
+    components:
+      - spelling
+      - definitions
+  - word: looming
+    ipa: /ˈluː.mɪŋ/
+    pos: adjective
+    tip: loom-ing — a "loom" looms over
+    definition: About to happen soon and seeming threatening.
+    example: The looming deadline made everyone nervous.
+    synonyms:
+      - impending
+      - imminent
+      - approaching
+    syn_pos: adjective
+    syn_example: Looming / impending / imminent — visibly about to happen.
+    components:
+      - spelling
+      - definitions

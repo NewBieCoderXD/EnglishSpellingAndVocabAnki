@@ -1,0 +1,168 @@
+words:
+  - word: warrant
+    ipa: /ˈwɒr.ənt/
+    pos: verb
+    tip: war-rant — "war" with two r’s
+    definition: To justify or make an action reasonable or necessary.
+    example: The results warrant further investigation.
+    synonyms:
+      - justify
+      - require
+      - call for
+      - merit
+    syn_pos: verb
+    syn_example: Warrant / justify / call for — to make something reasonable.
+    components:
+      - spelling
+      - definitions
+  - word: waver
+    ipa: /ˈweɪ.vər/
+    pos: verb
+    tip: wa-ver — to "wave" back and forth (not "waver" spelling trap)
+    definition: To hesitate or move unsteadily between choices.
+    example: Her confidence never wavered under pressure.
+    synonyms:
+      - fluctuate
+      - oscillate
+      - hesitate
+      - swing
+    syn_pos: verb
+    syn_example: Waver / fluctuate / oscillate — to move back and forth.
+    components:
+      - spelling
+      - definitions
+  - word: weaken
+    ipa: /ˈwiː.kən/
+    pos: verb
+    tip: weak-en — to make weak
+    definition: To make or become less strong.
+    example: The scandal weakened public trust.
+    synonyms:
+      - undermine
+      - reduce
+      - diminish
+      - erode
+    syn_pos: verb
+    syn_example: Weaken / undermine / erode — to make weaker.
+    components:
+      - spelling
+      - definitions
+  - word: whimsical
+    ipa: /ˈwɪm.zɪ.kəl/
+    pos: adjective
+    tip: whims-i-cal — "whim" sudden fancy
+    definition: Playfully unusual, fanciful or unpredictable.
+    example: Her designs have a whimsical charm.
+    synonyms:
+      - capricious
+      - playful
+      - unpredictable
+      - fanciful
+    syn_pos: adjective
+    syn_example: Whimsical / capricious / playful — playfully unpredictable.
+    components:
+      - spelling
+      - definitions
+  - word: widespread
+    ipa: /ˈwaɪd.spred/
+    pos: adjective
+    tip: wide-spread — two words joined
+    spelling_hint: ""
+    definition: Existing or happening over a large area or among many people.
+    example: There is widespread support for the plan.
+    synonyms:
+      - prevalent
+      - common
+      - broad
+      - extensive
+      - universal
+      - rampant
+    syn_pos: adjective
+    syn_example: Widespread / prevalent / common concern.
+    syn_examples:
+      - the: There is widespread support for the plan.
+        syns:
+          - broad
+          - universal
+          - extensive
+          - common
+      - the: The disease is widespread in rural areas.
+        syns:
+          - prevalent
+          - common
+          - rampant
+          - extensive
+    syn_notes:
+      prevalent: commonly found
+      common: often seen
+      broad: wide
+      extensive: covering much area
+      universal: everyone everywhere
+      rampant: spreading unchecked (often bad)
+    syn_near:
+      - widely
+      - general
+      - popular
+      - commonplace
+      - epidemic
+    syn_avoid:
+      broad: >-
+        = wide in range or scope, so it modifies support, appeal or a base; it
+        measures the size of a group, not how many people hold an opinion or carry
+        a disease
+      prevalent: >-
+        = common in a population at a given time, the word doctors use, and its
+        subject is normally the disease itself, not the feeling people have about
+        a plan
+      rampant: >-
+        = spreading fast and out of control, and it almost always carries blame,
+        as in rampant crime; support cannot spread out of control, so rampant
+        support is the wrong pairing
+      universal: >-
+        = done, accepted or found by absolutely everyone, with the frames
+        universal support and universal access; too absolute for a disease found
+        in some areas only
+      widely: >-
+        = an adverb, so widely support is a word class error, though the adverb is
+        natural with a participle, as in widely spread and widely known
+      general: >-
+        = applying to most cases without exceptions, which is a different idea
+        from existing widely; general support means open to everyone, not held by
+        many
+      popular: >-
+        = liked by many people, with the frames popular with and popular among; it
+        adds a liking judgement that the support sentence does not ask for
+      commonplace: >-
+        = so ordinary that nobody notices it, and it belongs to everyday things
+        rather than to a disease, so it understates a situation that is spreading
+        across areas
+      epidemic: >-
+        = a noun, an adjective only inside a compound such as an epidemic disease;
+        the disease is epidemic in rural areas is a word class error, where
+        endemic is the adjective
+    syn_nuance: >-
+      Widespread says a thing is found across a whole area or population, and the
+      frames are widespread support, widespread in + place, widespread among +
+      group. Prevalent and common count frequency, broad measures the size of a
+      group, universal means everyone, rampant adds fast and uncontrolled. Use it
+      for coverage, not approval.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: worsen
+    ipa: /ˈwɜː.sən/
+    pos: verb
+    tip: wors-en — worse + en
+    definition: To become or make worse.
+    example: The situation may worsen without action.
+    synonyms:
+      - aggravate
+      - exacerbate
+      - intensify
+      - compound
+    syn_pos: verb
+    syn_example: Worsen / aggravate / exacerbate — to become worse.
+    components:
+      - spelling
+      - definitions

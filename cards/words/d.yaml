@@ -1,0 +1,697 @@
+words:
+  - word: damaging
+    ipa: /ˈdæm.ɪ.dʒɪŋ/
+    pos: adjective
+    tip: dam-ag-ing — one m, "ag"
+    definition: Causing harm or damage to something or someone.
+    example: The scandal was damaging to the company’s reputation.
+    synonyms:
+      - harmful
+      - detrimental
+      - hurtful
+    syn_pos: adjective
+    syn_example: Damaging / harmful / detrimental — causing harm.
+    components:
+      - spelling
+      - definitions
+  - word: daunting
+    ipa: /ˈdɔːn.tɪŋ/
+    pos: adjective
+    tip: daunt-ing — "daunt" frighten
+    definition: Seeming difficult or frightening to deal with.
+    example: Climbing the mountain at dawn was daunting.
+    synonyms:
+      - intimidating
+      - challenging
+      - discouraging
+      - formidable
+    syn_pos: adjective
+    syn_example: Daunting / intimidating / formidable — hard to face.
+    components:
+      - spelling
+      - definitions
+  - word: debatable
+    ipa: /dɪˈbeɪ.tə.bəl/
+    pos: adjective
+    tip: de-bat-able — able to be debated
+    definition: Open to question or argument.
+    example: Whether the policy worked is debatable.
+    synonyms:
+      - arguable
+      - questionable
+      - disputable
+    syn_pos: adjective
+    syn_example: Debatable / arguable — open to question.
+    components:
+      - spelling
+      - definitions
+  - word: decline
+    ipa: /dɪˈklaɪn/
+    pos: noun
+    tip: de-cline — think "cli-" a downward slope
+    definition: A gradual decrease in amount, quality or importance.
+    example: The report shows a steady decline in sales.
+    synonyms:
+      - drop
+      - fall
+      - reduction
+    syn_pos: noun
+    syn_example: A decline / drop / fall — all describe a downward trend in IELTS Task 1.
+    components:
+      - spelling
+      - definitions
+  - word: decode
+    ipa: /ˌdiːˈkəʊd/
+    pos: verb
+    tip: de-code — remove the code
+    definition: To work out the meaning of something in code or a special form.
+    example: The app can decode the ancient script.
+    synonyms:
+      - interpret
+      - decipher
+      - translate
+      - read
+    syn_pos: verb
+    syn_example: Decode / decipher / interpret — to work out the meaning of.
+    components:
+      - spelling
+      - definitions
+  - word: decrease
+    ipa: /dɪˈkriːs/
+    pos: verb
+    tip: de-crease — the 'ea' = /iː/
+    spelling_hint: ""
+    definition: To become or make something smaller in size, amount or degree.
+    example: Costs should decrease next year.
+    synonyms:
+      - decline
+      - drop
+      - fall
+      - reduce
+      - diminish
+    syn_pos: verb
+    syn_example: '"Unemployment fell steadily" — verb usage; "plummet" adds emphasis.'
+    syn_id: decrease
+    syn_examples:
+      - the: Sales continue to decrease every quarter.
+        syns:
+          - decline
+          - fall
+          - drop
+      - the: We must decrease our use of plastic.
+        syns:
+          - reduce
+          - diminish
+    syn_notes:
+      decline: go down gradually
+      drop: go down suddenly
+      fall: go down
+      reduce: make less
+      diminish: become less
+    syn_near:
+      - lower
+      - cut
+      - lessen
+      - slump
+      - ease
+    syn_avoid:
+      decline: >-
+        = go down gradually on its own, which fits the sales series; but it cannot
+        act on an object, so it fails the deliberate policy act of we must
+        decrease our use of plastic.
+      reduce: >-
+        = make less, and it is transitive, so it needs an object (reduce plastic
+        use); sales cannot reduce themselves, so it fails the intransitive frame
+        Sales continue to decrease every quarter.
+      diminish: >-
+        = become or make less, mainly of quality, importance or numbers, and it is
+        formal; too vague and too high-register for our use of plastic, which
+        names a measurable quantity.
+      drop: >-
+        = go down suddenly, and it needs a number or a scale; sales drop every
+        quarter is possible but too abrupt for a steady series, and it is
+        intransitive, so it cannot take our use of plastic.
+      fall: >-
+        = go down, intransitive, and it fits the sales series; it cannot act on
+        the object in we must decrease our use of plastic, and a fall in prices is
+        good English but needs a subject, not an object.
+      lower: >-
+        = transitive, so a subject lowers a figure (lower our use of plastic);
+        that is fine in the policy frame, but sales continue to lower is
+        impossible, since it needs an object.
+      cut: >-
+        = transitive and blunt, and it mainly goes with costs, prices or jobs (cut
+        our use of plastic); it is too casual and too much about a decision for a
+        neutral policy report.
+      lessen: >-
+        = make smaller, transitive and formal, and it usually takes risks or
+        effects (lessen the risk); it cannot stand after sales continue to and it
+        is too high-register for plastic use.
+      slump: >-
+        = fall steeply and suddenly, intransitive and dramatic; a slump suggests a
+        collapse, far stronger than the gradual quarterly fall in Sales continue
+        to decrease every quarter.
+      ease: >-
+        = become less intense, and it needs ease off or a noun (ease the
+        pressure); decrease our use of plastic needs a verb with a direct object,
+        and ease does not take one in that frame.
+    syn_nuance: >-
+      The family splits by transitivity as much as by speed. Decline, drop and
+      fall are intransitive and take sales or prices as their subject, while
+      reduce and diminish are transitive and need an object, which is why we must
+      decrease our use of plastic takes reduce, not fall. Drop is sudden, decline
+      steady, and diminish is formal.
+    components:
+      - synonyms
+  - word: decrease
+    ipa: /ˈdiː.kriːs/
+    pos: noun
+    tip: DE-crease — noun stress on the first syllable
+    spelling_hint: ""
+    definition: An act of becoming smaller in size, amount or degree.
+    example: There was a decrease in output.
+    synonyms:
+      - decline
+      - drop
+      - fall
+      - reduction
+      - dip
+    syn_pos: noun
+    syn_example: '"A steady decline in unemployment" — noun usage; "dip" is temporary and slight.'
+    syn_id: decrease-noun
+    syn_examples:
+      - the: There was a 5% decrease in sales.
+        syns:
+          - decline
+          - drop
+          - fall
+          - reduction
+          - dip
+      - the: A decrease in funding would harm research.
+        syns:
+          - reduction
+          - decline
+          - drop
+      - the: The chart shows a slight decrease in demand.
+        syns:
+          - dip
+          - decline
+          - fall
+    syn_notes:
+      decline: a gradual downward move
+      drop: a sudden decrease
+      fall: a decrease
+      reduction: making less
+      dip: a small, slight decrease
+    syn_near:
+      - cut
+      - loss
+      - shortfall
+      - slump
+    syn_avoid:
+      drop: >-
+        = a sudden, often large fall, and it wants a figure or a scale (a 5% drop
+        in sales); that clashes with the small size of a slight decrease in
+        demand, though a sharp drop in demand is good English.
+      dip: >-
+        = a small, short fall in a trend, and it collocates with prices, demand
+        and confidence; a dip in funding is possible but suggests a blip, whereas
+        the sentence means a lasting cut in money.
+      fall: >-
+        = a plain word for a lower level, and it takes a fall in demand, which
+        fits the chart frame; in the funding frame the sentence describes a
+        deliberate cut, and a fall in funding sounds like a collapse.
+      reduction: >-
+        = the act of making something less, so it takes a reduction in funding,
+        which fits the money frame; in the chart frame the noun names the smaller
+        quantity itself, not the act, so slight clashes.
+      cut: >-
+        = an informal countable reduction, and it needs a following in or of (a
+        cut in funding); it is too chatty and too much about a decision for the
+        neutral frame A decrease in funding would harm research.
+      loss: >-
+        = the fact of losing something, and it takes a loss in sales; it suggests
+        something is gone for good, so a 5% decrease is not a loss, and a slight
+        decrease is far too small for it.
+      shortfall: >-
+        = the gap between an actual figure and a target, so it needs a number or a
+        mention of the target (a shortfall of 3 million); a slight decrease in
+        demand says nothing about any target.
+      slump: >-
+        = a steep, dramatic fall, and it takes a slump in sales or in demand; it
+        is far too strong for a 5% decrease in sales and for the slight decrease
+        shown on a chart.
+    syn_nuance: >-
+      All these countables name a lower level, and the frame fixes the size.
+      Decline is the neutral or gradual one, drop is sudden, fall is a plain word
+      that also takes figures and slight, reduction names the act of making less
+      so it wants a funding frame, and dip is a small blip, so the chart frame
+      takes dip, decline or fall, not drop.
+    components:
+      - synonyms
+  - word: defend
+    ipa: /dɪˈfend/
+    pos: verb
+    tip: de-fend — "fend" ward off
+    definition: To protect or to argue in support of someone or something.
+    example: He defended his decision to leave early.
+    synonyms:
+      - justify
+      - protect
+      - support
+      - uphold
+    syn_pos: verb
+    syn_example: Defend / justify / uphold — to defend an idea against attack.
+    components:
+      - spelling
+      - definitions
+  - word: demonstrate
+    ipa: /ˈdem.ən.streɪt/
+    pos: verb
+    tip: de-mon-strate — 'mon', then 'strate'
+    spelling_hint: ""
+    definition: To show clearly; to prove by giving evidence or examples.
+    example: The study demonstrates a clear link.
+    synonyms:
+      - show
+      - prove
+      - illustrate
+      - evidence
+      - exhibit
+    syn_pos: verb
+    syn_example: Demonstrate / show / illustrate a point with examples.
+    syn_examples:
+      - the: The study aims to demonstrate a clear link between the two.
+        syns:
+          - show
+          - prove
+          - evidence
+          - illustrate
+        avoid:
+          exhibit: >-
+            = to display goods or a specimen in public, so it wants a physical
+            object; a clear link is an abstract finding, and the frame takes show.
+            Exhibit is right for the machine in sentence three
+      - the: She used several examples to demonstrate her point.
+        syns:
+          - illustrate
+          - show
+        avoid:
+          exhibit: >-
+            = to put goods or a specimen on public display, so it needs a physical
+            thing; the object here is her point, an argument, and a point is shown,
+            not exhibited
+          evidence: >-
+            = intransitive, meaning to serve as proof, and it suits a figure or a
+            finding as the subject; here it would have to take "her point" as its
+            object. It is accepted in the study frame
+          prove: >-
+            = to establish that a claim is true, and the frame is "prove that ...";
+            examples back a point, they do not prove one, and the point is the claim
+            already being argued
+      - the: He will demonstrate how the machine works.
+        syns:
+          - show
+          - exhibit
+        avoid:
+          evidence: >-
+            = intransitive, meaning to serve as proof, and a how + clause is not a
+            figure or a finding; it cannot take one as its object, though the study
+            frame takes it
+          prove: >-
+            = to establish that a claim is true; it never takes a how + clause, so
+            the frame would have to be "prove that the machine works". It is
+            accepted for the link in the study frame
+    syn_notes:
+      show: make visible
+      prove: establish the truth
+      illustrate: explain with examples
+      evidence: serve as evidence
+      exhibit: display publicly
+    syn_near:
+      - reveal
+      - display
+      - confirm
+      - showcase
+    syn_avoid:
+      evidence: >-
+        = intransitive, meaning to serve as proof, and it suits a figure or a
+        finding as the subject: accepted in the study frame, but it cannot take a
+        point or a how + clause as its object
+      exhibit: >-
+        = to display goods or a specimen in public, so it wants a physical
+        product: a link and a point cannot be exhibited, though it does fit
+        showing the machine in the third sentence
+      illustrate: >-
+        = to explain a point with examples, and it takes a noun object such as a
+        report, a sentence or an argument: it does not take a how + clause, so the
+        machine frame fails
+      prove: >-
+        = to establish that a claim is true, and it needs a claim as its object:
+        examples do not prove a point and prove never takes a how + clause, though
+        it fits the link in the study frame
+      reveal: >-
+        = to disclose something previously hidden, which is a different act from
+        showing: a link is not secret, a point is not disclosed, and reveal takes
+        no how + clause
+      display: >-
+        = to put a visible object before people, and it wants a thing or a figure
+        on a screen, as in display a chart: a point and a how + clause are not
+        displayable in this verb sense
+      confirm: >-
+        = to verify something already believed, so it is stronger than demonstrate
+        and needs a prior claim: it will not take a point to illustrate or a how +
+        clause
+      showcase: >-
+        = to display a product or an achievement in order to impress, and it is
+        marketing English, fine in a launch report: too promotional for a study,
+        and it takes neither a point nor a how + clause
+    syn_nuance: >-
+      Demonstrate is the formal report verb for making a fact or a link clear, and
+      it takes a noun, a that + clause or a how + clause. Show is the neutral
+      everyday equivalent. Prove goes further and establishes that a claim is
+      true, illustrate explains a point with examples, exhibit displays goods in
+      public, and evidence is intransitive.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: detailed
+    ipa: /ˈdiː.teɪld/
+    pos: adjective
+    tip: de-tailed — one l, "tail"
+    definition: Including many facts and much detail.
+    example: She wrote a detailed plan of action.
+    synonyms:
+      - thorough
+      - comprehensive
+      - elaborate
+    syn_pos: adjective
+    syn_example: Detailed / thorough / comprehensive — with great detail.
+    components:
+      - spelling
+      - definitions
+  - word: detention
+    ipa: /dɪˈten.ʃən/
+    pos: noun
+    tip: de-ten-tion — "ten" as in hold
+    definition: The act of keeping someone or being kept in a place, often as punishment.
+    example: The student was given a detention after class.
+    synonyms:
+      - confinement
+      - isolation
+      - custody
+    syn_pos: noun
+    syn_example: Detention / confinement — being held against your will.
+    components:
+      - spelling
+      - definitions
+  - word: detrimental
+    ipa: /ˌdet.rɪˈmen.təl/
+    pos: adjective
+    tip: detri-mental — "detr" harm
+    definition: Having a harmful effect.
+    example: Smoking is detrimental to health.
+    synonyms:
+      - harmful
+      - damaging
+      - adverse
+    syn_pos: adjective
+    syn_example: Detrimental / harmful / damaging — causing harm.
+    components:
+      - spelling
+      - definitions
+  - word: dimension
+    ipa: /daɪˈmen.ʃən/
+    pos: noun
+    tip: di-men-sion — "men" measure
+    definition: An aspect or side of a situation that can be considered.
+    example: Cost is only one dimension of the problem.
+    synonyms:
+      - aspect
+      - facet
+      - element
+      - side
+    syn_pos: noun
+    syn_example: A dimension / aspect / facet — one side of a situation.
+    components:
+      - spelling
+      - definitions
+  - word: diminish
+    ipa: /dɪˈmɪn.ɪʃ/
+    pos: verb
+    tip: di-min-ish — 'min', then 'ish'
+    spelling_hint: ""
+    definition: To make or become smaller or weaker.
+    example: Demand for the product is diminishing.
+    synonyms:
+      - decrease
+      - reduce
+      - decline
+      - lessen
+      - weaken
+    syn_pos: verb
+    syn_example: Costs diminish / decline / decrease over time.
+    syn_examples:
+      - the: Demand for the product continues to diminish.
+        syns:
+          - decrease
+          - decline
+          - lessen
+      - the: The new policy could diminish workers' rights.
+        syns:
+          - reduce
+          - weaken
+    syn_notes:
+      decrease: become smaller
+      reduce: make smaller
+      decline: go downwards
+      lessen: become less
+      weaken: become weaker
+    syn_near:
+      - lower
+      - drop
+      - dwindle
+      - curb
+      - erode
+    syn_avoid:
+      decrease: >-
+        = a smaller number or quantity, and it sits with falling figures such as
+        demand, costs or output: it is flat and mechanical, so it does not fit the
+        abstract rights a policy can spoil
+      decline: >-
+        = intransitive, a downward movement in a trend, as in sales or standards
+        declined: it cannot take workers' rights as its object, though a decline
+        in pay is a fine noun phrase
+      lessen: >-
+        = to make or become less, and it is right with risk, harm or pain, as in
+        lessen the risk: for what a policy does to a right the natural verb is
+        reduce, weaken or undermine
+      reduce: >-
+        = transitive, to bring a number or a level down by deliberate action:
+        demand is not doing that, so demand continues to reduce fails and an
+        intransitive verb is needed
+      weaken: >-
+        = to make or become weaker, and it fits a force, a link, a control or an
+        argument: weakening evidence is good English, but demand falling is a drop
+        in quantity, not a loss of strength
+      lower: >-
+        = transitive and numerical, as in lower prices or lower the risk: it has
+        no intransitive use, so demand continues to lower is ungrammatical
+      drop: >-
+        = intransitive by default and it wants a figure after by, as in demand
+        dropped by 5%: it will not take workers' rights as an object in this use
+      dwindle: >-
+        = intransitive and literary, a steady shrinking of something already
+        small, such as funds or interest: a policy cannot dwindle anyone's rights
+      curb: >-
+        = to restrain and hold back, a transitive verb for spending, emissions or
+        speeds: it has no intransitive use, so the frame with demand as subject
+        fails
+      erode: >-
+        = to wear away gradually, and it usually takes confidence, support or
+        rights: it is transitive and slow, so demand continues to erode is not
+        idiomatic
+    syn_nuance: >-
+      Diminish covers both directions, being intransitive with a shrinking
+      quantity, as in demand continues to diminish, and transitive with something
+      a policy can spoil, as in diminish workers' rights. Reduce is transitive
+      only, decrease and decline are intransitive, lessen goes with risk and harm,
+      and weaken is about strength, not size.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: discrepancy
+    ipa: /dɪsˈkrep.ən.si/
+    pos: noun
+    tip: dis-crep-ancy — "crep" as in "crack" (difference)
+    definition: A difference or inconsistency between things that should match.
+    example: There is a discrepancy between the two reports.
+    synonyms:
+      - difference
+      - inconsistency
+      - gap
+    syn_pos: noun
+    syn_example: A discrepancy / inconsistency — an unexpected difference.
+    components:
+      - spelling
+      - definitions
+  - word: dismissal
+    ipa: /dɪsˈmɪs.əl/
+    pos: noun
+    tip: dis-miss-al — "miss" cast off
+    definition: The act of ending someone’s employment.
+    example: The dismissal left the worker without a job.
+    synonyms:
+      - termination
+      - redundancy
+      - removal
+    syn_pos: noun
+    syn_example: Dismissal / termination / redundancy — the ending of a job.
+    components:
+      - spelling
+      - definitions
+  - word: disparity
+    ipa: /dɪˈspær.ə.ti/
+    pos: noun
+    tip: dis-par-ity — 'par', then 'ity'
+    spelling_hint: ""
+    definition: A great difference or inequality between things.
+    example: There is a wide disparity in income.
+    synonyms:
+      - inequality
+      - gap
+      - difference
+      - imbalance
+      - discrepancy
+    syn_pos: noun
+    syn_example: Highlight the disparity / gap / imbalance between groups.
+    syn_examples:
+      - the: There is a wide disparity in income.
+        syns:
+          - inequality
+          - gap
+          - imbalance
+      - the: The study highlights a disparity between regions.
+        syns:
+          - difference
+          - gap
+          - discrepancy
+    syn_notes:
+      inequality: an unfair difference
+      gap: a difference between two
+      difference: unlikeness
+      imbalance: an unbalanced distribution
+      discrepancy: an inconsistency
+    syn_near:
+      - gulf
+      - divergence
+      - contrast
+      - mismatch
+      - asymmetry
+    syn_avoid:
+      difference: >-
+        = plain unlikeness, too neutral for the wide gap frame, though a
+        difference between regions is fine; income and other measures want a noun
+        that flags the size or the unfairness
+      discrepancy: >-
+        = a mismatch between figures that should agree, as in a discrepancy
+        between two sets of data; an income gap is a real difference between
+        groups, not an error to be explained
+      imbalance: >-
+        = a distribution tipped off balance, so it wants the in + noun form, as in
+        an imbalance in income; it pushes a judgement, which the neutral between
+        frame does not
+      inequality: >-
+        = unfairness, a moral and political judgement, so it fits income and pay;
+        it is too loaded for the measured gap a study reports between two regions
+      gulf: >-
+        = a very wide difference between two groups, and the frame is a gulf
+        between A and B, as in the gulf between rich and poor, never a gulf in
+        income
+      divergence: >-
+        = two trends moving apart over time, a standard economics word such as
+        economic divergence; it reads as a process, not a single measured gap
+      contrast: >-
+        = a striking difference between comparable things, taking between or with,
+        as in a contrast between the two styles; it is not used of a measured
+        spread in a quantity
+      mismatch: >-
+        = a bad fit between things that ought to correspond, as in a mismatch
+        between supply and demand; it reports a fault rather than mere inequality
+      asymmetry: >-
+        = a lack of symmetry, a technical word for shapes, systems or tax rules,
+        as in fiscal asymmetry; it is too specialist for a general gap between
+        groups
+    syn_nuance: >-
+      A disparity is a large, measurable gap between two groups or figures, and it
+      takes a wide disparity in + noun or a disparity between + A and + B.
+      Inequality adds the judgement that it is unfair, imbalance suggests a
+      distribution tipped off balance, discrepancy means two figures that should
+      match do not.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: disputed
+    ipa: /dɪˈspjuː.tɪd/
+    pos: adjective
+    tip: dis-put-ed — the outcome is fought over
+    definition: Challenged and not agreed upon as being correct.
+    example: The exact number of casualties is disputed.
+    synonyms:
+      - contested
+      - questionable
+      - debatable
+    syn_pos: adjective
+    syn_example: Disputed / contested — challenged as not certain.
+    components:
+      - spelling
+      - definitions
+  - word: divisive
+    ipa: /dɪˈvaɪ.sɪv/
+    pos: adjective
+    tip: di-vi-sive — "divide" + "sive"
+    definition: Causing people to divide into opposing groups.
+    example: The plan proved divisive even within the party.
+    synonyms:
+      - controversial
+      - contentious
+      - polarising
+    syn_pos: adjective
+    syn_example: Divisive / polarising — splits people into camps.
+    components:
+      - spelling
+      - definitions
+  - word: donate
+    ipa: /dəʊˈneɪt/
+    pos: verb
+    tip: do-nate — "don" give
+    definition: To give money, goods or time to a cause or charity.
+    example: He donates a part of his salary to charity.
+    synonyms:
+      - give
+      - contribute
+      - gift
+    syn_pos: verb
+    syn_example: Donate / contribute — to give for a good cause.
+    components:
+      - spelling
+      - definitions
+  - word: drawback
+    ipa: /ˈdrɔː.bæk/
+    pos: noun
+    tip: draw-back — the "drawn back" downside
+    definition: A disadvantage or negative feature of something.
+    example: The main drawback is the high cost.
+    synonyms:
+      - disadvantage
+      - downside
+      - problem
+      - obstacle
+    syn_pos: noun
+    syn_example: A drawback / downside — a disadvantage of something.
+    components:
+      - spelling
+      - definitions

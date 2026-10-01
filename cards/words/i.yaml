@@ -1,0 +1,1826 @@
+words:
+  - word: imbalance
+    ipa: /ɪmˈbæl.əns/
+    pos: noun
+    tip: im-balance — not balance
+    definition: A situation in which things are not equal or balanced.
+    example: There is a growing imbalance between imports and exports.
+    synonyms:
+      - disparity
+      - gap
+      - inequality
+      - disproportion
+    syn_pos: noun
+    syn_example: An imbalance / disparity / gap — an unfair difference.
+    components:
+      - spelling
+      - definitions
+  - word: immediate
+    ipa: /ɪˈmiː.di.ət/
+    pos: adjective
+    tip: im-me-di-ate — double m, then 'di'
+    spelling_hint: ""
+    definition: Happening now or without delay; direct and close.
+    example: We need an immediate response.
+    synonyms:
+      - instant
+      - prompt
+      - swift
+      - direct
+      - urgent
+      - pressing
+    syn_pos: adjective
+    syn_example: An immediate / instant / prompt reaction.
+    syn_examples:
+      - the: We need an immediate response.
+        syns:
+          - instant
+          - prompt
+          - swift
+          - urgent
+        avoid:
+          direct: >-
+            = straight to the point, with no step in between, as in a direct answer;
+            a response here is a reply to a request, and "a direct response" makes
+            it blunt. The frame is "a prompt response"
+          pressing: >-
+            = demanding attention before anything else, used of a matter, a need
+            or a priority, as in 'a pressing need'; the frames here are about
+            speed, so the word points at urgency instead
+      - the: The storm caused immediate damage.
+        syns:
+          - direct
+          - instant
+        avoid:
+          pressing: >-
+            = demanding attention before anything else, used of a matter, a need
+            or a priority; 'a pressing response' is not a phrase in general use,
+            and the frame is 'a prompt or instant response'
+          prompt: >-
+            = quick to act, and it describes a person or a firm, as in a prompt
+            reply; the storm caused damage, it did not act, so nothing here can be
+            quick
+          swift: >-
+            = fast in movement or in finishing a task, as in swift action or a swift
+            reply; damage is a result, not a fast task, so there is nothing to move
+      - the: The safety of the crew is our immediate priority.
+        syns:
+          - urgent
+          - pressing
+        avoid:
+          direct: >-
+            = straight to the point, with no step in between, as in a direct result;
+            a priority is a matter of order, not a link in a chain, so the frame is
+            "an urgent priority"
+          prompt: >-
+            = quick to act, and it describes a person or a firm, as in a prompt
+            decision; a priority is a matter, not a responder, so nothing here can
+            act
+          swift: >-
+            = fast in movement or in finishing a task, as in swift action; a
+            priority is a matter of order, not a task that can be done quickly,
+            so 'a swift priority' is not a natural pairing
+    syn_notes:
+      instant: with no delay
+      prompt: quick to act
+      swift: fast
+      direct: straight, with no step in between
+      urgent: needing action now
+      pressing: demanding attention now
+    syn_near:
+      - emergency
+      - imminent
+      - instantaneous
+      - hasty
+      - speedy
+    syn_avoid:
+      direct: >-
+        = straight to the point with no step in between, as in a direct result or
+        a direct answer: it fits damage, but a response is a reply, not a link in
+        a chain
+      instant: >-
+        = with no delay at all, even between cause and effect: it fits damage and
+        a response, but a priority is judged by urgency, not by zero time
+      pressing: >-
+        = demanding attention before anything else, used of a matter, a need
+        or a priority, as in 'a pressing need'; it points at urgency rather
+        than speed
+      prompt: >-
+        = quick to act, and it usually describes a person or a firm, as in a
+        prompt reply: the storm is not prompt, and a priority cannot answer
+      swift: >-
+        = fast in movement or in finishing a task, as in swift action or a
+        swift reply; it measures how fast something is done, so an abstract
+        quality such as urgency wants another word
+      urgent: >-
+        = needing action now, a claim about importance rather than speed: it fits
+        an urgent priority but not the damage a storm caused
+      emergency: >-
+        = a noun, so an emergency response is one given during a crisis, not one
+        given at once: the word for speed here is immediate or instant
+      imminent: >-
+        = about a danger or event about to happen, as in imminent collapse: it
+        cannot describe a response, damage or a priority
+      instantaneous: >-
+        = a technical or scientific adjective for time of zero length, as in
+        instantaneous velocity: far too clinical for a plain request for a reply
+      hasty: >-
+        = done with too little care because of speed, and it criticises the work:
+        here the speed is a virtue, so hasty reverses the meaning
+      speedy: >-
+        = a light, journalistic form of fast, as in a speedy service: it reads
+        informal in a formal report and fits services better than damage
+    syn_nuance: >-
+      All point to no delay, but they split by what is fast. Immediate is the
+      neutral adjective for a response, an effect and a priority, with no agent.
+      Instant claims zero time between cause and result, direct marks a link in a
+      chain, prompt and swift describe how fast a person acts, and urgent and
+      pressing fit a problem needing attention now.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: immense
+    ipa: /ɪˈmens/
+    pos: adjective
+    tip: im-mense — one m, "mense"
+    definition: Extremely large or great.
+    example: The project demands an immense amount of effort.
+    synonyms:
+      - huge
+      - enormous
+      - vast
+      - massive
+    syn_pos: adjective
+    syn_example: Immense / vast / enormous — extremely large.
+    components:
+      - spelling
+      - definitions
+  - word: imminent
+    ipa: /ˈɪm.ɪ.nənt/
+    pos: adjective
+    tip: im-mi-nent — double m, then 'inent'
+    spelling_hint: ""
+    definition: About to happen very soon; impending.
+    example: The company warned of imminent job losses.
+    synonyms:
+      - impending
+      - approaching
+      - looming
+      - forthcoming
+      - near
+    syn_pos: adjective
+    syn_example: Warn of imminent / impending / looming changes.
+    syn_examples:
+      - the: The company warned of imminent job losses.
+        syns:
+          - impending
+          - looming
+        avoid:
+          near: >-
+            = close in space, in time or in relationship, and its frames are "a near
+            miss" and "in the near future"; rewritten as "job losses in the near
+            future" it works, but near cannot sit before job losses
+      - the: An imminent storm forced the evacuation.
+        syns:
+          - approaching
+          - looming
+          - forthcoming
+        avoid:
+          near: >-
+            = close in space, in time or in relationship, and it needs a noun after
+            it, as in "a near miss"; before storm it means nearby, so a near storm
+            points at the place, not at the timing
+    syn_notes:
+      impending: about to happen (often bad)
+      approaching: coming closer
+      looming: visibly about to happen, worrying
+      forthcoming: about to come
+      near: close in time
+    syn_near:
+      - urgent
+      - instant
+      - insidious
+      - due
+    syn_avoid:
+      approaching: >-
+        = coming closer step by step, and it is neutral, as in "the approaching
+        deadline"; job losses a firm has already decided are not drawing near,
+        they are about to happen
+      forthcoming: >-
+        = about to be published, issued or announced, so it suits a report, an
+        exam or a wedding; job losses are bad tidings rather than a scheduled
+        publication
+      impending: >-
+        = about to happen and almost always unwelcome, as in "impending disaster";
+        a storm that has not yet arrived is neutral news, so use approaching or
+        looming
+      near: >-
+        = close in space, in time or in relationship, and it needs a noun, as in
+        "a near miss" or "the near future"; it cannot stand directly before storm
+        or job losses
+      urgent: >-
+        = needing attention now, a quality of a task or a request; it measures
+        pressure on you, not how soon an event will happen
+      instant: >-
+        = happening immediately, the frame of "an instant response or result"; it
+        describes the speed of an action rather than an event that is about to
+        occur
+      insidious: >-
+        = working slowly and unseen, so the harm creeps up over months; an
+        insidious threat is the opposite of imminent, which means the danger
+        arrives now
+      due: >-
+        = expected or scheduled, the frame of "due on Friday, due to arrive"; it
+        fixes a date and carries none of the alarm of an imminent event
+    syn_nuance: >-
+      All five place an event just ahead of us, but the tone and the topic differ.
+      Imminent is neutral and strong, impending is almost always bad, looming adds
+      something visible and threatening and often large in scale, and approaching
+      and forthcoming are calm, with forthcoming fitting things published or
+      announced.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: impact
+    ipa: /ˈɪm.pækt/
+    pos: noun
+    tip: im-pact — "pac" as in "hammer"
+    definition: A strong effect or influence on something.
+    example: The policy had a major impact on house prices.
+    synonyms:
+      - effect
+      - influence
+      - consequence
+      - outcome
+    syn_pos: noun
+    syn_example: Impact / effect / influence — the change something causes.
+    components:
+      - spelling
+      - definitions
+  - word: impartial
+    ipa: /ɪmˈpɑː.ʃəl/
+    pos: adjective
+    tip: im-par-tial — 'par', then 'tial'
+    spelling_hint: ""
+    definition: Fair and neutral; not favouring one side.
+    example: The judge must remain impartial.
+    synonyms:
+      - neutral
+      - unbiased
+      - objective
+      - fair
+      - even-handed
+    syn_pos: adjective
+    syn_example: An impartial / unbiased / objective assessment.
+    syn_examples:
+      - the: The judge must remain impartial.
+        syns:
+          - neutral
+          - fair
+          - unbiased
+          - objective
+      - the: We need an impartial assessment of the evidence.
+        syns:
+          - objective
+          - even-handed
+          - fair
+          - unbiased
+    syn_notes:
+      neutral: not taking sides
+      unbiased: without prejudice
+      objective: based on facts, not feelings
+      fair: just
+      even-handed: balanced
+    syn_near:
+      - disinterested
+      - uninvolved
+      - uncompromising
+      - detached
+    syn_avoid:
+      even-handed: >-
+        = giving both sides equal weight; it describes a decision or a split ("an
+        even-handed ruling"), not a person who has to stay that way all day
+      neutral: >-
+        = not taking sides, and normally it names a stance between others
+        ("neutral sources", "remain neutral"): a neutral assessment suggests an
+        absent middle ground, not balanced evidence
+      disinterested: >-
+        = having no stake in the outcome, as in a disinterested observer: it needs
+        a person, and in casual English it now means bored or uninvolved
+      uninvolved: >-
+        = not taking part in the event, a fact about participation rather than
+        bias: a judge who stays uninvolved can still be biased
+      uncompromising: >-
+        = refusing to give way, so it means stubborn ("an uncompromising
+        attitude"): used of a person here it suggests bias in the opposite
+        direction
+      detached: >-
+        = free from emotion, and it pairs with a person, a voice or a tone ("a
+        detached tone"): an assessment is called objective or impartial, never
+        detached
+    syn_nuance: >-
+      All mean giving no side special weight, but the object decides which. A
+      judge, jury or reporter takes impartial, neutral or unbiased; a piece of
+      analysis takes objective, which stresses facts rather than feelings.
+      Even-handed is for the decision itself, as in an even-handed ruling, and it
+      always shows the two sides balanced.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: impending
+    ipa: /ɪmˈpen.dɪŋ/
+    pos: adjective
+    tip: im-pend-ing — "pend" hanging
+    definition: About to happen, especially something regarded as unpleasant.
+    example: They feared an impending economic crisis.
+    synonyms:
+      - imminent
+      - looming
+      - forthcoming
+      - approaching
+    syn_pos: adjective
+    syn_example: Impending / imminent / looming — about to happen.
+    components:
+      - spelling
+      - definitions
+  - word: imperative
+    ipa: /ɪmˈper.ə.tɪv/
+    pos: adjective/noun
+    tip: im-per-a-tive — 'per', then 'a-tive'
+    spelling_hint: ""
+    definition: Absolutely necessary; vitally important.
+    example: It is imperative that we act now.
+    synonyms:
+      - essential
+      - vital
+      - crucial
+      - mandatory
+      - required
+    syn_pos: adjective
+    syn_example: It is imperative / essential / crucial to respond.
+    syn_examples:
+      - the: It is imperative that we act now.
+        syns:
+          - essential
+          - crucial
+          - vital
+      - the: Pollution control is imperative.
+        syns:
+          - essential
+          - mandatory
+          - required
+    syn_notes:
+      essential: absolutely necessary
+      vital: critically important
+      crucial: make-or-break
+      mandatory: compulsory by rule
+      required: needed or demanded
+    syn_near:
+      - compulsory
+      - indispensable
+      - urgent
+      - paramount
+    syn_avoid:
+      vital: >-
+        = needed to keep someone or something alive, so it takes "vital to + noun"
+        or names an organ: it suits "it is vital that we act", but pollution
+        control is only essential
+      crucial: >-
+        = the whole outcome turns on it, a decision-level word ("a crucial
+        moment", "crucial to the result"): the register is too high for a whole
+        field of policy
+      mandatory: >-
+        = laid down by a rule, statute or contract, so it needs an enforceable
+        source: it can pass with pollution control, but nobody is forcing our
+        decision to act
+      required: >-
+        = needed or formally asked for, with no sense of a near duty: "it is
+        required that we act now" merely states a need, where the frame demands
+        what must not wait
+      compulsory: >-
+        = imposed by a rule or law and enforceable, so it always has an authority
+        behind it: "it is compulsory that we act now" implies a statute, not a
+        judgement
+      indispensable: >-
+        = you cannot function without it, and it takes a person or a tool ("water
+        is indispensable to life"): it cannot describe a field of policy at all
+      urgent: >-
+        = needing to happen now, so it is about timing: an urgent case or an
+        urgent problem fits, but pollution control as a whole is essential, not
+        urgent
+      paramount: >-
+        = the single most important thing, a superlative that wants "a paramount
+        concern": with nothing to compare it to, "pollution control is paramount"
+        says nothing
+    syn_nuance: >-
+      All insist that something must be done, but the source of the duty separates
+      them. Imperative, essential, vital and crucial argue from importance, so
+      they fit "it is imperative that", while mandatory, compulsory and required
+      argue from rules someone enforces. Vital and indispensable are
+      life-or-death, too strong for pollution control.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: implement
+    ipa: /ˈɪm.plɪ.ment/
+    pos: verb
+    tip: im-<b>ple</b>-ment — remember the "e" after "pl"
+    spelling_hint: ""
+    definition: To put a plan, decision or agreement into effect.
+    example: The school will implement the new timetable next term.
+    synonyms:
+      - introduce
+      - enforce
+      - adopt
+      - apply
+    syn_pos: verb
+    syn_example: '"Implement reforms" — introduce / adopt / enforce fit policy sentences.'
+    syn_examples:
+      - the: The school will implement the new timetable next term.
+        syns:
+          - introduce
+          - adopt
+          - apply
+        avoid:
+          enforce: >-
+            = to make sure people obey, so it needs a rule with a penalty behind it;
+            the frame here is "will implement the new timetable", and a school
+            laying out a schedule is not policing anyone
+      - the: Governments must implement stricter environmental rules.
+        syns:
+          - introduce
+          - enforce
+      - the: The company plans to implement the agreed changes.
+        syns:
+          - apply
+          - adopt
+          - introduce
+        avoid:
+          enforce: >-
+            = to make sure people obey, so it needs a rule with a penalty behind it;
+            "plans to implement the agreed changes" is about carrying out terms both
+            sides settled, which nobody has to be made to obey
+    syn_notes:
+      introduce: bring in formally
+      enforce: make sure it is followed
+      adopt: take up officially
+      apply: put into effect
+    syn_near:
+      - examine
+      - comply
+      - impose
+      - installation
+      - launch
+    syn_avoid:
+      adopt: >-
+        = to take up officially, which fits "the agreed changes"; it is rejected
+        for stricter rules, where nothing is being chosen for the first time, only
+        brought into force
+      apply: >-
+        = to put rules into force, but the usual collocation is "apply the rules
+        to conduct"; it is rejected in "Governments must implement stricter
+        rules", where the new rules themselves are the news
+      enforce: >-
+        = to make sure people obey, which needs an authority with power to punish;
+        a school bringing in a timetable or a company applying agreed changes has
+        nobody to enforce them on
+      examine: >-
+        = to inspect closely, a false friend from Latin; the sentences need a verb
+        meaning put into practice, not one meaning study a timetable or a set of
+        changes
+      comply: >-
+        = to obey a rule, and it always takes "with", as in "comply with the new
+        timetable"; here the school and the government are making the rule, not
+        obeying it
+      impose: >-
+        = to force something on people, as in "impose a tax" or "impose a ban"; it
+        fits the announcement of a tax but not bringing agreed changes or a
+        timetable into practice
+      installation: >-
+        = the noun, as in "the installation of the new system"; every sentence
+        here needs a verb after its subject, so a noun cannot fill the slot before
+        the object
+      launch: >-
+        = to start something publicly, as in "launch an app" or "launch a
+        product"; it suits the entrepreneur's app, not the putting of a timetable
+        or agreed changes into effect
+    syn_nuance: >-
+      The family splits between putting something into force and making people
+      obey it. Implement is the neutral policy word, introduce and apply cover a
+      new measure or a rule, adopt stresses official choice, and enforce needs an
+      authority with power to sanction. A firm implements; a government or a court
+      enforces.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: implicit
+    ipa: /ɪmˈplɪs.ɪt/
+    pos: adjective
+    tip: im-pli-cit — 'pli', then 'cit'
+    spelling_hint: ""
+    definition: Suggested or understood without being stated directly.
+    example: There is an implicit assumption in the argument.
+    synonyms:
+      - implied
+      - unspoken
+      - inherent
+      - understood
+      - tacit
+    syn_pos: adjective
+    syn_example: An implicit / implied / unspoken agreement.
+    syn_examples:
+      - the: There is an implicit assumption in the argument.
+        syns:
+          - implied
+          - unspoken
+          - tacit
+          - understood
+      - the: The risks are implicit in the plan.
+        syns:
+          - inherent
+          - understood
+          - implied
+    syn_notes:
+      implied: suggested indirectly
+      unspoken: not expressed in words
+      inherent: existing as an essential part
+      understood: known, grasped
+      tacit: understood without being stated
+    syn_near:
+      - latent
+      - covert
+      - taciturn
+      - unconscious
+    syn_avoid:
+      inherent: >-
+        = existing as an essential part of something: it needs "inherent in +
+        noun" ("risks inherent in the plan"), never "an inherent assumption"
+      tacit: >-
+        = agreed between people without being said ("tacit agreement", "tacit
+        understanding"): fine for an assumption, but the plan's risks are
+        contained in it, not shared
+      unspoken: >-
+        = never said out loud, which implies people chose silence: a risk can sit
+        inside a plan that everyone discusses openly
+      latent: >-
+        = present but not yet active or developed, so it pairs with a defect or
+        potential: the risks here are already in plain sight, not waiting to
+        appear
+      covert: >-
+        = hidden on purpose and usually for a bad reason, as in a covert agenda: a
+        text that leaves something open is not hiding anything
+      taciturn: >-
+        = a person who says very little, a word for people ("a taciturn witness"):
+        it cannot modify an assumption or a plan
+      unconscious: >-
+        = not in awareness, the usual word for motives, habits and bias: "risks
+        are unconscious in the plan" is not a frame English uses
+    syn_nuance: >-
+      All share the idea of meaning that is not spelled out, but the frame decides
+      which fits. Before a noun like assumption or agreement, implicit, implied,
+      tacit and unspoken are all natural, while the pattern "inherent in + noun"
+      says the quality cannot be pulled out of the thing, as in risks inherent in
+      the plan.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: implied
+    ipa: /ɪmˈplaɪd/
+    pos: adjective
+    tip: im-pli-ed — "ply" fold in
+    definition: Suggested but not directly expressed.
+    example: The report carries an implied criticism of the plan.
+    synonyms:
+      - implicit
+      - unspoken
+      - tacit
+      - suggested
+    syn_pos: adjective
+    syn_example: Implied / implicit / tacit — suggested without being stated.
+    components:
+      - spelling
+      - definitions
+  - word: important
+    ipa: /ɪmˈpɔː.tənt/
+    pos: adjective
+    tip: im-por-tant — 'por', then 'tant'
+    spelling_hint: ""
+    definition: Of great significance or value; mattering a lot.
+    example: This is an important decision.
+    synonyms:
+      - significant
+      - crucial
+      - vital
+      - essential
+      - key
+    syn_pos: adjective
+    syn_example: Instead of "very important", write "crucial" / "vital" in essays.
+    syn_id: important
+    syn_examples:
+      - the: It is important that we reach a decision today.
+        syns:
+          - crucial
+          - vital
+          - essential
+      - the: Diet is important in heart disease.
+        syns:
+          - significant
+          - key
+          - crucial
+    syn_notes:
+      significant: notably important
+      crucial: make-or-break
+      vital: essential for life
+      essential: absolutely necessary
+      key: central, most important
+    syn_near:
+      - major
+      - notable
+      - central
+      - prime
+      - serious
+    syn_avoid:
+      vital: >-
+        = needed to keep something alive or working, so it takes vital to or vital
+        for (vital to recovery); too absolute and too biological for the general
+        frame Diet is important in heart disease.
+      essential: >-
+        = absolutely necessary, pointing at something you cannot do without; too
+        strong for important in heart disease, which reports a contribution, not a
+        requirement.
+      significant: >-
+        = large enough to matter, and it wants a measurable result (a significant
+        increase, significant differences), so it says nothing about importance,
+        and the frame significant that we decide is wrong.
+      key: >-
+        = the single most important of a set, so it usually needs a countable noun
+        (a key factor) or key to; it ranks items and cannot fill the plain
+        predicate before that ...
+      major: >-
+        = big in size, scope or amount, so it needs a countable noun (a major
+        factor); it measures scale, not importance, and major in heart disease is
+        not English.
+      notable: >-
+        = worth noticing, clearly weaker than important, and it needs notable for
+        or a countable noun (a notable change); too faint for the it is ___ that
+        frame.
+      central: >-
+        = at the centre of something, so its frame is central to the argument; it
+        does not work as a plain predicate before that or in the topic frame
+        important in heart disease.
+      prime: >-
+        = the single main one of its kind, and it needs a countable noun (prime
+        example, prime target); it cannot stand before that, so it is prime that
+        we decide today is not English.
+      serious: >-
+        = not trivial or not joking, and it takes serious about or a countable
+        noun (a serious illness); it is serious that we decide today is not
+        idiomatic English.
+    syn_nuance: >-
+      Importance is a scale. Crucial, vital and essential say the outcome depends
+      on it, with vital and essential adding that you cannot do without it, so
+      they take it is ___ that we decide. Significant reports a large effect and
+      key names the single most important of a set, which is why both are taken in
+      Diet is ___ in heart disease.
+    components:
+      - synonyms
+  - word: imposing
+    ipa: /ɪmˈpəʊ.zɪŋ/
+    pos: adjective
+    tip: im-pos-ing — "pose" impressive
+    definition: Impressive, large or grand in appearance.
+    example: The bank is an imposing stone building.
+    synonyms:
+      - impressive
+      - grand
+      - awe-inspiring
+      - striking
+    syn_pos: adjective
+    syn_example: Imposing / grand / striking — impressive in size and design.
+    components:
+      - spelling
+      - definitions
+  - word: impression
+    ipa: /ɪmˈpreʃ.ən/
+    pos: noun
+    tip: im-pres-sion — "press" mark
+    definition: The idea or opinion you form about someone or something.
+    example: First impressions matter in an interview.
+    synonyms:
+      - view
+      - notion
+      - belief
+      - "idea "
+    syn_pos: noun
+    syn_example: An impression / view / notion — an opinion formed at first.
+    components:
+      - spelling
+      - definitions
+  - word: increase
+    ipa: /ɪnˈkriːs/
+    pos: verb
+    tip: in-crease — the 'ea' = /iː/
+    spelling_hint: ""
+    definition: To become or make something greater in size, amount or degree.
+    example: Prices continue to increase.
+    synonyms:
+      - rise
+      - grow
+      - surge
+      - climb
+      - escalate
+      - rocket
+    syn_pos: verb
+    syn_example: '"Sales surged in 2024" or "prices rocketed" — vivid verbs for IELTS task 1.'
+    syn_id: increase
+    syn_examples:
+      - the: Prices tend to increase during the winter.
+        syns:
+          - rise
+          - climb
+          - surge
+          - rocket
+        avoid:
+          escalate: >-
+            = get steadily worse, the word for conflict, crime or prices someone has
+            deliberately raised; "prices tend to escalate" blames a decision and is
+            far too strong for a seasonal drift
+      - the: Demand for clean energy continues to increase.
+        syns:
+          - grow
+          - rise
+          - surge
+          - climb
+        avoid:
+          escalate: >-
+            = get steadily worse, normally conflict, crime or prices a supplier has
+            raised; "demand continues to escalate" reads as a hostile build-up, not
+            growth in a market report
+          rocket: >-
+            = shoot up in a sudden leap, far too big for a trend that simply
+            continues; "demand continues to rocket" also fights the plain present
+            perfect of "continues to increase"
+      - the: Tensions between the two nations may increase.
+        syns:
+          - escalate
+          - rise
+          - grow
+        avoid:
+          rocket: >-
+            = shoot up in a sudden leap, and it wants an agent doing the shooting;
+            "tensions may rocket" has nobody to fire them up and the modal may makes
+            the leap impossible
+    syn_notes:
+      rise: go up
+      grow: become larger
+      surge: jump suddenly and strongly
+      climb: rise gradually
+      escalate: increase steadily (often bad)
+      rocket: increase very fast
+    syn_near:
+      - raise
+      - boost
+      - soar
+      - expand
+      - improve
+    syn_avoid:
+      grow: >-
+        = become larger or more numerous, the word for output or demand; after
+        prices it needs a countable or mass noun, and the general term for figures
+        going up is rise.
+      escalate: >-
+        = get steadily worse, usually conflict, crime or prices someone has
+        raised; too negative and too transitive in business for prices tend to
+        escalate or demand continues to escalate.
+      surge: >-
+        = jump up suddenly and sharply, so it needs a one-off event; it cannot
+        describe the winter pattern that repeats in Prices tend to increase, and
+        it is too violent for tensions may increase.
+      climb: >-
+        = go up gradually, and it wants a hill, a ladder or a line of figures;
+        prices tend to climb and tensions may climb are not the natural verb
+        choices here, and it is too physical for demand.
+      rocket: >-
+        = shoot up extremely fast in a sudden leap; far too strong for the gentle
+        seasonal rise in prices, and rocket cannot sit with the modal may in
+        tensions may increase.
+      raise: >-
+        = transitive, so a subject has to raise something (raise prices, the city
+        raised prices); the three frames need an intransitive verb after prices,
+        demand and tensions.
+      boost: >-
+        = lift a figure, transitive and businessy (boost sales); it needs an
+        object, so it cannot stand after prices tend to or after tensions may
+        increase.
+      soar: >-
+        = rise very steeply, and it is stronger than increase; prices tend to soar
+        says the opposite of a steady, moderate winter rise, and soar suits a
+        sudden jump in a figure.
+      expand: >-
+        = grow in size or spread into new areas, and it usually needs an object or
+        expand into; it measures extent, not the level of a figure, so it cannot
+        replace increase here.
+      improve: >-
+        = get better in quality, and it takes improve on or an object; more demand
+        is not the same as better demand, so demand continues to improve would
+        mean something else entirely.
+    syn_nuance: >-
+      All are intransitive verbs of going up, differing by speed and subject.
+      Prices and demand take rise or climb for a gradual trend and surge or rocket
+      for a sudden jump; grow fits a quantity that becomes more numerous; escalate
+      is reserved for a worsening situation, so tensions take escalate, rise or
+      grow, not the others.
+    components:
+      - synonyms
+  - word: increase
+    ipa: /ˈɪn.kriːs/
+    pos: noun
+    tip: IN-crease — noun stress on the first syllable
+    spelling_hint: ""
+    definition: An act of becoming greater in size, amount or degree.
+    example: There was an increase in sales.
+    synonyms:
+      - rise
+      - growth
+      - surge
+      - upsurge
+      - uptick
+    syn_pos: noun
+    syn_example: '"There was a sharp rise in sales" — noun usage: the + rise/surge/uptick.'
+    syn_id: increase-noun
+    syn_examples:
+      - the: There has been a sharp increase in prices.
+        syns:
+          - rise
+          - surge
+          - uptick
+        avoid:
+          growth: >-
+            = a continuous rise in size, the word for population or the economy's
+            long trend, so it takes "growth in population"; "a sharp growth in
+            prices" implies a slow build-up, not one recent jump
+          upsurge: >-
+            = a sudden upward jump in a level, usually "an upsurge in demand"; it is
+            wordy beside "a sharp increase in prices" and the sentence already
+            carries "sharp"
+      - the: The city saw a steady increase in population.
+        syns:
+          - growth
+          - upsurge
+          - rise
+      - the: We noted an increase in sales this quarter.
+        syns:
+          - uptick
+          - rise
+          - surge
+        avoid:
+          growth: >-
+            = a continuous rise in size over years, so it collocates with "growth in
+            population" or a sector's growth, not one quarter's figure; "a growth in
+            sales this quarter" is not how a report speaks
+          upsurge: >-
+            = a sudden jump in a level, formally "an upsurge in demand"; too wordy
+            for the plain "an increase in sales", and a quarter's result is not a
+            sudden leap
+    syn_notes:
+      rise: the act of rising
+      growth: a continuous increase
+      surge: a sudden big increase
+      upsurge: a sudden jump in level
+      uptick: a small improvement in a trend
+    syn_near:
+      - improvement
+      - expansion
+      - jump
+      - inflation
+      - hike
+    syn_avoid:
+      growth: >-
+        = a continuous rise in size or amount, which takes growth in population
+        and fits the steady frame; it means the scale is increasing, not that a
+        particular value has risen in a short report.
+      surge: >-
+        = a sudden large jump, so it cannot carry the steady in a steady increase
+        in population; an increase in sales this quarter is a neutral report, not
+        a spike, although a surge in sales is good English.
+      upsurge: >-
+        = a sudden upward movement in a level, and it takes an upsurge in demand;
+        too dramatic and too wordy for the neutral an increase in sales, and the
+        steadiness of the population frame rules it out.
+      uptick: >-
+        = a small positive turn in a trend, and it needs an uptick in sales; the
+        sharp in a sharp increase in prices is the wrong size, and an uptick does
+        not suit a long population series.
+      improvement: >-
+        = a change for the better in quality, and it needs an adjective or an
+        improvement in; it names a better state, not simply a higher number, so an
+        increase in sales is not an improvement.
+      expansion: >-
+        = a growth in size or scope, and it takes an expansion of or a plural (an
+        expansion of the market); it measures extent, so it cannot fill an
+        increase in sales or in prices.
+      jump: >-
+        = a move from one value to another, and it needs a from ... to ... frame
+        with numbers (a jump from 5% to 8%); an increase in sales names no
+        starting point, so jump is wrong there.
+      inflation: >-
+        = a sustained general rise in the price level of a whole economy, and it
+        is uncountable with no number or adjective before it; far too specific for
+        an increase in population or in sales.
+      hike: >-
+        = an informal word for a sudden rise in price (a price hike), and it is
+        countable; too chatty and too narrow for the report style of We noted an
+        increase in sales this quarter.
+    syn_nuance: >-
+      All are countables for a higher level, differing in size and speed. Rise is
+      neutral, growth suits a long process in size or number, surge and upsurge
+      need a sudden jump, and uptick is a small positive turn, so a sharp increase
+      takes rise, surge or uptick, a steady increase takes growth.
+    components:
+      - synonyms
+  - word: indicate
+    ipa: /ˈɪn.dɪ.keɪt/
+    pos: verb
+    tip: in-di-cate — 'di', then 'cate'
+    spelling_hint: ""
+    definition: To point out or show; to be a sign of something.
+    example: The results indicate a clear improvement.
+    synonyms:
+      - show
+      - suggest
+      - signal
+      - point to
+      - demonstrate
+    syn_pos: verb
+    syn_example: The data indicates / suggests / shows a trend.
+    syn_examples:
+      - the: The results indicate a clear improvement.
+        syns:
+          - show
+          - demonstrate
+          - signal
+          - point to
+      - the: The clouds indicate that rain is coming.
+        syns:
+          - suggest
+          - signal
+          - point to
+    syn_notes:
+      show: make evident
+      suggest: imply
+      signal: send a sign
+      point to: provide evidence toward
+      demonstrate: prove with evidence
+    syn_near:
+      - imply
+      - reflect
+      - highlight
+      - predict
+      - establish
+    syn_avoid:
+      demonstrate: >-
+        = to prove a point by showing evidence or examples, the strongest of the
+        family: clouds are not evidence, so only a test can demonstrate an
+        improvement
+      show: >-
+        = to make something visible or evident, which needs firm evidence: the
+        clouds cannot show that rain is coming, they signal or suggest it
+      suggest: >-
+        = to put forward a possible reading rather than a certain one, so the
+        clouds suggest that rain is coming, but a measured result shows an
+        improvement or it does not
+      imply: >-
+        = to suggest without stating, and it works in the clouds frame as a weaker
+        hedge, but it is too vague for results that imply a clear improvement
+      reflect: >-
+        = to mirror something back, as in a report reflects public opinion: it
+        describes a picture, not a piece of evidence, and cannot stand for the
+        data
+      highlight: >-
+        = to draw the reader's attention to something, as in the report highlights
+        poverty: it describes what a text does, so it takes a topic, not a finding
+      predict: >-
+        = to state what will happen, as in predict a fall in sales: neither the
+        clouds nor the results can forecast an event that has not happened
+      establish: >-
+        = to prove beyond doubt, the opposite of indicating: the results indicate
+        a trend, while only a large trial can establish it
+    syn_nuance: >-
+      All of them say a sign points to something. Indicate, show and demonstrate
+      need hard evidence, so test, results and data can do all three, and
+      demonstrate is the strongest. Suggest, signal and point to work with softer
+      signs such as clouds or early symptoms, and suggest is the hedged one where
+      the others are not.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: indispensable
+    ipa: /ˌɪn.dɪˈspen.sə.bəl/
+    pos: adjective
+    tip: in-dispens-able — you cannot "dispense with" it
+    definition: So essential that you cannot manage without it.
+    example: Good teamwork is indispensable to a happy workplace.
+    synonyms:
+      - essential
+      - vital
+      - necessary
+      - crucial
+    syn_pos: adjective
+    syn_example: Indispensable / essential / vital — all mean "cannot do without".
+    components:
+      - spelling
+      - definitions
+  - word: indistinct
+    ipa: /ˌɪn.dɪˈstɪŋkt/
+    pos: adjective
+    tip: in-dis-tinct — not distinct
+    definition: Not clear or difficult to see, hear or understand.
+    example: The shape in the fog looked indistinct.
+    synonyms:
+      - unclear
+      - vague
+      - blurry
+      - faint
+    syn_pos: adjective
+    syn_example: Indistinct / vague / faint — hard to make out.
+    components:
+      - spelling
+      - definitions
+  - word: ineffective
+    ipa: /ˌɪn.ɪˈfek.tɪv/
+    pos: adjective
+    tip: inef-fective — not effective
+    definition: Not producing the effect that is intended.
+    example: The old policy proved ineffective.
+    synonyms:
+      - useless
+      - inefficient
+      - futile
+      - pointless
+    syn_pos: adjective
+    syn_example: Ineffective / futile / useless — not producing results.
+    components:
+      - spelling
+      - definitions
+  - word: inequality
+    ipa: /ˌɪn.ɪˈkwɒl.ə.ti/
+    pos: noun
+    tip: in-equal-ity — not equal
+    definition: An unfair difference between groups of people.
+    example: Income inequality keeps widening.
+    synonyms:
+      - disparity
+      - imbalance
+      - gap
+    syn_pos: noun
+    syn_example: Inequality / disparity / imbalance — an unfair unequal state.
+    components:
+      - spelling
+      - definitions
+  - word: inescapable
+    ipa: /ˌɪn.ɪˈskeɪ.pə.bəl/
+    pos: adjective
+    tip: in-es-cap-able — cannot escape
+    definition: Impossible to avoid.
+    example: The conclusion is inescapable.
+    synonyms:
+      - unavoidable
+      - inevitable
+      - certain
+    syn_pos: adjective
+    syn_example: Inescapable / inevitable / unavoidable — cannot be avoided.
+    components:
+      - spelling
+      - definitions
+  - word: inevitable
+    ipa: /ɪˈnev.ɪ.tə.bəl/
+    pos: adjective
+    tip: in-<b>evit</b>-able — don't slip in an extra "e" before "able"
+    spelling_hint: ""
+    definition: Certain to happen; impossible to avoid or prevent.
+    example: With rising rents, higher prices were inevitable.
+    synonyms:
+      - unavoidable
+      - inescapable
+      - certain
+      - sure
+    syn_pos: adjective
+    syn_example: '"Conflict became inevitable" — unavoidable / certain for outcome essays.'
+    syn_examples:
+      - the: With rising rents, higher prices were inevitable.
+        syns:
+          - unavoidable
+          - certain
+        avoid:
+          sure: >-
+            = used for what a person knows ("I am sure rents will rise") and it
+            wants of, about or that; "higher prices were sure" is not English here,
+            since the sentence asserts the outcome itself
+      - the: Some job losses are inevitable when firms automate.
+        syns:
+          - unavoidable
+          - inescapable
+        avoid:
+          sure: >-
+            = it reports a person's certainty and wants of, about or that; "job
+            losses are sure" would need "sure to happen" here, and this sentence
+            gives a result, not anyone's belief
+      - the: Change is inevitable in any growing economy.
+        syns:
+          - unavoidable
+          - certain
+          - inescapable
+        avoid:
+          sure: >-
+            = a person's belief, with of, about or that ("I am sure change will
+            come"); "change is sure in any growing economy" is not English, since
+            the claim is general, not anyone's
+    syn_notes:
+      unavoidable: cannot be avoided
+      inescapable: cannot escape
+      certain: not in doubt
+      sure: for certain
+    syn_near:
+      - unforeseen
+      - fated
+      - impending
+      - automatic
+      - bound
+    syn_avoid:
+      certain: >-
+        = not in doubt, usually reporting what a speaker knows ("the outcome is
+        certain"); it fits "prices were certain", but in "some job losses are
+        certain" it turns a likely outcome into knowledge
+      inescapable: >-
+        = you cannot get away from it once it is on you ("an inescapable
+        conclusion"); fine in "job losses are inescapable", but a market rise is
+        no escape from a pursuer, so it is too psychological here
+      sure: >-
+        = used for what a person knows ("I am sure it will happen"), and it wants
+        of, about or that; no sentence here asserts what anyone believes, and
+        "prices were sure" is not English at all
+      unforeseen: >-
+        = not expected in advance; it sits on the opposite axis, since an
+        unforeseen rise is a surprise, while an inevitable one is fully
+        predictable from the causes already named
+      fated: >-
+        = destined by fate, literary and grand ("a fated encounter"); the
+        inflation suits a romance, not a price rise, and "higher prices were
+        fated" is strained where inevitable is plain
+      impending: >-
+        = about to happen very soon ("an impending crisis"); it is a warning that
+        comes before the event, while inevitable argues that the event cannot be
+        dodged whatever the timing
+      automatic: >-
+        = happening with no human action at all ("an automatic response"); a price
+        rise follows from decisions people take, and nobody calls a market outcome
+        automatic
+      bound: >-
+        = certain to happen, but it only works with "bound to + verb", as in
+        "prices are bound to rise"; as a bare adjective after were it gives the
+        wrong frame, so use inevitable
+    syn_nuance: >-
+      Certain means not in doubt and reports what a speaker believes, while
+      inevitable and unavoidable argue from the causes and take a noun such as an
+      outcome or a consequence. Inescapable is stronger, as if you could not get
+      away from it, and sure needs of, about or that.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: inherent
+    ipa: /ɪnˈher.ənt/
+    pos: adjective
+    tip: in-her-ent — "her" stuck in
+    definition: Existing as a natural and permanent part of something.
+    example: There are inherent risks in any investment.
+    synonyms:
+      - inherent
+      - intrinsic
+      - built-in
+      - natural
+    syn_pos: adjective
+    syn_example: Inherent / intrinsic — existing as a natural part.
+    components:
+      - spelling
+      - definitions
+  - word: innovator
+    ipa: /ˈɪn.ə.veɪ.tər/
+    pos: noun
+    tip: in-no-vat-or — "nova" new
+    definition: A person who introduces new methods, ideas or products.
+    example: She is known as an innovator in clean energy.
+    synonyms:
+      - pioneer
+      - founder
+      - trailblazer
+    syn_pos: noun
+    syn_example: An innovator / pioneer — someone who introduces new ideas.
+    components:
+      - spelling
+      - definitions
+  - word: inquiry
+    ipa: /ɪnˈkwaɪə.ri/
+    pos: noun
+    tip: in-quir-y — "quir" as in ask
+    definition: An official examination or process of asking for information.
+    example: The bank launched an inquiry into the fraud.
+    synonyms:
+      - investigation
+      - probe
+      - examination
+      - study
+    syn_pos: noun
+    syn_example: An inquiry / investigation / probe — an official examination.
+    components:
+      - spelling
+      - definitions
+  - word: inspect
+    ipa: /ɪnˈspekt/
+    pos: verb
+    tip: in-spect — "spect" look
+    definition: To look at something carefully to check its condition or quality.
+    example: Officials inspected the building for safety.
+    synonyms:
+      - examine
+      - check
+      - scrutinize
+      - review
+    syn_pos: verb
+    syn_example: Inspect / examine / check — to look over carefully.
+    components:
+      - spelling
+      - definitions
+  - word: institute
+    ipa: /ˈɪn.stɪ.tjuːt/
+    pos: verb
+    tip: in-sti-tute — "stitu" set up
+    definition: To introduce or start a system, rule or process.
+    example: The council will institute new safety rules.
+    synonyms:
+      - introduce
+      - establish
+      - implement
+      - set up
+    syn_pos: verb
+    syn_example: Institute / establish / introduce — to bring in officially.
+    components:
+      - spelling
+      - definitions
+  - word: intact
+    ipa: /ɪnˈtækt/
+    pos: adjective
+    tip: in-tact — the 'tac' in the middle
+    spelling_hint: ""
+    definition: Not damaged, broken or altered; complete and whole.
+    example: Despite the crash, the cargo survived intact.
+    synonyms:
+      - whole
+      - undamaged
+      - complete
+      - unbroken
+      - pristine
+    syn_pos: adjective
+    syn_example: The evidence must remain intact / whole / undamaged.
+    syn_examples:
+      - the: The cargo survived the crash intact.
+        syns:
+          - whole
+          - undamaged
+          - unbroken
+      - the: The evidence must remain intact.
+        syns:
+          - whole
+          - complete
+          - pristine
+          - undamaged
+    syn_notes:
+      whole: all in one piece
+      undamaged: not harmed
+      complete: with all parts
+      unbroken: not broken
+      pristine: in perfectly original condition
+    syn_near:
+      - sound
+      - safe
+      - unharmed
+      - unspoilt
+    syn_avoid:
+      complete: >-
+        = having all its parts, so it says nothing about damage; "the cargo
+        survived the crash complete" would mean the load was not split up, not
+        that it was unmarked
+      pristine: >-
+        = in perfect original condition, a word for a new or barely used car, a
+        room or a beach; a cargo that has been through a crash is not pristine,
+        however unmarked it looks
+      unbroken: >-
+        = literally not broken, which fits the cargo but not documents; for
+        evidence you mean that nothing has been altered or removed, so use
+        "complete" or "undamaged"
+      sound: >-
+        = in good condition, as in "a sound argument or a sound structure"; it
+        evaluates a judgement rather than reporting that damage did not occur
+      safe: >-
+        = out of danger, so it answers a question about risk rather than
+        condition; "the cargo is safe" says nothing about scratches or broken
+        crates
+      unharmed: >-
+        = used of people, animals and bodies, the frame "unharmed passengers"; for
+        goods you say undamaged, and for files you say complete
+      unspoilt: >-
+        = not spoiled, polluted or ruined by use, the frame "unspoilt countryside,
+        an unspoilt meal"; it implies natural quality rather than intact condition
+    syn_nuance: >-
+      All five mean nothing has been lost or spoiled, but each asks a different
+      question. Intact is the neutral summary. Whole and complete concern the
+      parts, so they suit cargo and files. Undamaged and unbroken are physical,
+      and pristine adds the idea of never having been touched or used.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: integral
+    ipa: /ˈɪn.tɪ.ɡrəl/
+    pos: adjective
+    tip: in-te-gral — 'te', then 'gral'
+    spelling_hint: ""
+    definition: Necessary to make something complete; essential.
+    example: Teamwork is integral to the project.
+    synonyms:
+      - essential
+      - vital
+      - intrinsic
+      - indispensable
+      - key
+    syn_pos: adjective
+    syn_example: R&D is integral / essential / key to growth.
+    syn_examples:
+      - the: Teamwork is integral to the project.
+        syns:
+          - essential
+          - vital
+          - key
+          - indispensable
+        avoid:
+          intrinsic: >-
+            = inherent in the nature of something, so it needs "intrinsic to" or
+            "intrinsic in the nature of"; teamwork is a part added to a project, not
+            a property it has by nature
+      - the: Exercise is an integral part of a healthy life.
+        syns:
+          - essential
+          - intrinsic
+          - vital
+      - the: She is an integral member of the team.
+        syns:
+          - indispensable
+          - essential
+          - key
+        avoid:
+          intrinsic: >-
+            = inherent in the nature of something, so it takes "intrinsic to +
+            noun", never "an intrinsic + person"; she joined the team, so membership
+            is not in her nature
+    syn_notes:
+      essential: absolutely necessary
+      vital: critically important
+      intrinsic: part of the nature of
+      indispensable: cannot do without
+      key: most important
+    syn_near:
+      - crucial
+      - compulsory
+      - mandatory
+      - imperative
+      - fundamental
+    syn_avoid:
+      indispensable: >-
+        = you cannot do without it (a person, a tool): too strong for a component
+        that simply belongs to the whole
+      key: >-
+        = the single most important of several; needs "a key part" or "key to",
+        and it ranks rather than belongs
+      intrinsic: >-
+        = inherent in the nature of something: too narrow for a part you add or a
+        member you join
+      vital: >-
+        = the whole thing depends on it, as in "a vital part" or "vital to growth";
+        for one person it needs "vital to the team", not "a vital member of"
+      crucial: '= the outcome depends on it, far too dramatic for "part of a healthy life"'
+      compulsory: "= forced on you by a rule, a contract or the law"
+      mandatory: "= the same as compulsory: imposed from outside, not natural to the thing"
+      imperative: >-
+        needs "imperative to + verb" or "it is imperative that ..."; it marks
+        urgency, never "an imperative part of"
+      fundamental: >-
+        the set phrase is "an integral part"; "fundamental" is stronger and reads
+        oddly with "part of"
+    syn_nuance: >-
+      All of these mean necessary, but the frame decides which is natural:
+      integral and essential = a component that makes up the whole, vital =
+      the whole depends on it, indispensable = you cannot function without it,
+      key = the most important of several, and imperative, mandatory and
+      compulsory = imposed from outside.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: integrated
+    ipa: /ˈɪn.tɪ.ɡreɪ.tɪd/
+    pos: adjective
+    tip: in-te-grat-ed — "teg" whole
+    definition: Combined so that parts work together as a whole.
+    example: The plan takes an integrated approach to transport.
+    synonyms:
+      - combined
+      - unified
+      - holistic
+      - co-ordinated
+    syn_pos: adjective
+    syn_example: Integrated / unified / holistic — parts working as one.
+    components:
+      - spelling
+      - definitions
+  - word: intensify
+    ipa: /ɪnˈten.sɪ.faɪ/
+    pos: verb
+    tip: in-ten-si-fy — "tense" (high pressure)
+    definition: To become or make something stronger or more extreme.
+    example: The fighting intensified over the weekend.
+    synonyms:
+      - increase
+      - escalate
+      - heighten
+      - strengthen
+    syn_pos: verb
+    syn_example: Intensify / escalate / heighten — to make more intense.
+    components:
+      - spelling
+      - definitions
+  - word: intention
+    ipa: /ɪnˈten.ʃən/
+    pos: noun
+    tip: in-ten-tion — "tend" stretch toward
+    definition: What a person plans or intends to do.
+    example: It was never her intention to mislead anyone.
+    synonyms:
+      - aim
+      - purpose
+      - goal
+      - objective
+    syn_pos: noun
+    syn_example: An intention / aim / purpose — what someone plans to do.
+    components:
+      - spelling
+      - definitions
+  - word: interpret
+    ipa: /ɪnˈtɜː.prɪt/
+    pos: verb
+    tip: in-ter-pret — 'ter', then 'pret'
+    spelling_hint: ""
+    definition: To explain the meaning of something; to translate.
+    example: How should we interpret these findings?
+    synonyms:
+      - explain
+      - read
+      - decode
+      - understand
+      - translate
+    syn_pos: verb
+    syn_example: Interpret / read / explain the data carefully.
+    syn_examples:
+      - the: How should we interpret these findings?
+        syns:
+          - explain
+          - read
+          - understand
+        avoid:
+          decode: >-
+            = to crack a cipher, code or unfamiliar system ("decode the message");
+            findings state their meaning openly, so there is no code here to break
+          translate: >-
+            = to render words from one language into another, so it needs two
+            languages; the findings are written in one, and "translate the findings"
+            wants a second version in another tongue
+      - the: He chose to interpret her silence as agreement.
+        syns:
+          - read
+          - understand
+        avoid:
+          decode: >-
+            = to crack a cipher or code; a silence is not encoded, and the frame
+            "read X as Y" draws a meaning out of it rather than breaking anything
+            open
+          translate: >-
+            = to render words from one language into another, so it needs two
+            languages; a silence has no words in a second one, and "read X as Y" is
+            the frame here
+          explain: >-
+            = to make something clear by giving reasons, so it needs an audience;
+            here he is reading a meaning into her silence, and "explain X as Y" is
+            not a frame
+      - the: She will interpret the speech for the audience.
+        syns:
+          - translate
+        avoid:
+          decode: >-
+            = to crack a cipher, code or unfamiliar system; a speech is already in
+            plain words, so the frame for a talk rendered for listeners is
+            "translate"
+          explain: >-
+            = to make something clear by giving reasons; "explain the speech for the
+            audience" would be clarifying a text, not carrying its meaning across
+            live
+    syn_notes:
+      explain: make clear
+      read: derive a meaning
+      decode: convert signs into meaning
+      understand: grasp the meaning
+      translate: convert from one language
+    syn_near:
+      - comprehend
+      - convey
+      - construe
+      - elucidate
+      - judge
+    syn_avoid:
+      decode: >-
+        = to crack an encoded message, cipher or unfamiliar system: fine for a
+        code, but findings and a speech carry meaning openly rather than in code
+      explain: >-
+        = to make something clear to others by giving reasons, so a person
+        explains the findings: here the analyst draws meaning out of them instead
+        of passing it on
+      read: >-
+        = to attach a meaning to a sign, as in read her silence as agreement, but
+        a speaker does not read a speech, since that is rendering it in another
+        language
+      translate: >-
+        = to render words from one language into another, so it needs two
+        languages: right for the conference frame, wrong for findings or a silence
+      understand: >-
+        = to grasp meaning with no argument made about it, but the analyst does
+        not only grasp the findings, he construes them, and a conference does not
+        understand a speech
+      comprehend: >-
+        = a formal alternative to understand, and it works in abstract frames, but
+        how should we comprehend these findings is stilted where interpret names
+        the act of construing
+      convey: >-
+        = to carry a meaning from a speaker to a listener, as in the message
+        conveys a warning: here the analyst takes meaning out of the findings, the
+        other direction
+      construe: >-
+        = to read a meaning into words in a legal or literary register, as in
+        construe an insult: too formal and too narrow for a plain research
+        question
+      elucidate: >-
+        = a formal transitive verb, so you elucidate the findings, never how
+        should we elucidate: it means clarifying something for others, not
+        construing it
+      judge: >-
+        = to assess the worth or quality of something, as in judge the evidence:
+        these sentences ask for a meaning to be read, not a verdict on quality
+    syn_nuance: >-
+      All concern meaning, but the direction differs. Interpret works out a
+      meaning from findings, a silence or symbols, and it takes interpret as.
+      Translate is the two-language sense, decode the cipher sense, and read and
+      understand are plainer, less deliberate versions of construing. Explain runs
+      the other way, giving reasons to others.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: intimidating
+    ipa: /ɪnˈtɪm.ɪ.deɪ.tɪŋ/
+    pos: adjective
+    tip: in-tim-id-ating — "timid" frighten
+    definition: Frightening enough to make people feel less confident.
+    example: The exam room felt intimidating at first.
+    synonyms:
+      - daunting
+      - intimidating
+      - forbidding
+      - threatening
+    syn_pos: adjective
+    syn_example: Intimidating / daunting / forbidding — frightening to face.
+    components:
+      - spelling
+      - definitions
+  - word: intricate
+    ipa: /ˈɪn.trɪ.kət/
+    pos: adjective
+    tip: in-tri-cate — 'tri', then 'cate'
+    spelling_hint: ""
+    definition: Very complicated or detailed; made up of many interconnected parts.
+    example: The watch has an intricate mechanism.
+    synonyms:
+      - complex
+      - elaborate
+      - complicated
+      - detailed
+      - convoluted
+    syn_pos: adjective
+    syn_example: An intricate / elaborate / complex design.
+    syn_examples:
+      - the: The watch has intricate machinery.
+        syns:
+          - complex
+          - elaborate
+          - complicated
+        avoid:
+          convoluted: >-
+            = twisted and hard to unpick, and it normally takes an abstract noun: a
+            process, an argument, a system; a mechanism or a pattern is intricate,
+            not convoluted
+      - the: She drew an intricate pattern.
+        syns:
+          - elaborate
+          - detailed
+          - complex
+        avoid:
+          convoluted: >-
+            = twisted and hard to unpick, and it normally takes an abstract noun, a
+            process or an argument; a pattern really does twist, so the word
+            misleads here, and a drawing is praised, not faulted
+    syn_notes:
+      complex: with many parts
+      elaborate: very detailed and involved
+      complicated: hard to follow
+      detailed: with many details
+      convoluted: twisted, complex
+    syn_near:
+      - delicate
+      - ornate
+      - fine
+      - fussy
+    syn_avoid:
+      complicated: >-
+        = hard to follow or hard to do, so it reads as a criticism; machinery can
+        be complicated, but calling a pattern complicated is a complaint rather
+        than a compliment
+      convoluted: >-
+        = twisted and hard to unpick, and it normally takes an abstract noun: a
+        process, an argument, a system; a mechanism or a pattern is intricate, not
+        convoluted
+      detailed: >-
+        = full of fine points, a word for information, a report or a description;
+        machinery has parts rather than details, so use "complex machinery" or
+        "elaborate workings"
+      delicate: >-
+        = finely made and easily damaged, the frame of "a delicate mechanism,
+        balance or instrument"; it warns about fragility, not about the number of
+        interacting parts
+      ornate: >-
+        = heavily decorated, the frame of "ornate carving, an ornate facade"; it
+        describes looks and workmanship, not complexity of working
+      fine: >-
+        = of high quality, or very small in "fine detail"; it is a word for
+        workmanship and for scale, and it says nothing about how the parts
+        interact
+      fussy: >-
+        = over-fussy about small details, and it is informal and negative; it
+        criticises a person or a style, not the complexity of a mechanism
+    syn_nuance: >-
+      These all describe something with many working parts, but the judgement
+      differs. Intricate and elaborate are approving and take "machinery, a
+      pattern, a design". Complex is neutral and suits systems and processes,
+      detailed counts the fine points and fits descriptions, and complicated and
+      convoluted are critical, so avoid them in praise.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: intrinsic
+    ipa: /ɪnˈtrɪn.zɪk/
+    pos: adjective
+    tip: in-trins-ic — "ins" inside
+    definition: Belonging to the basic nature of something.
+    example: There is intrinsic value in learning for its own sake.
+    synonyms:
+      - inherent
+      - innate
+      - essential
+      - natural
+    syn_pos: adjective
+    syn_example: Intrinsic / inherent — belonging to the nature of something.
+    components:
+      - spelling
+      - definitions
+  - word: investigate
+    ipa: /ɪnˈves.tɪ.ɡeɪt/
+    pos: verb
+    tip: in-ves-ti-gate — 'ves', then 'ti-gate'
+    spelling_hint: ""
+    definition: To carry out a systematic inquiry into something.
+    example: Police are investigating the incident.
+    synonyms:
+      - examine
+      - probe
+      - explore
+      - study
+      - look into
+    syn_pos: verb
+    syn_example: Investigate / examine / probe the causes.
+    syn_examples:
+      - the: Police plan to investigate the incident.
+        syns:
+          - probe
+          - look into
+          - examine
+      - the: Scientists investigate the causes of the disease.
+        syns:
+          - study
+          - explore
+          - examine
+          - probe
+    syn_notes:
+      examine: look closely at
+      probe: investigate deeply
+      explore: investigate widely
+      study: examine over time
+      look into: check into (informal)
+    syn_near:
+      - uncover
+      - inspect
+      - research
+      - audit
+      - solve
+    syn_avoid:
+      explore: >-
+        = to look round a field in a broad, open way, as in explore space: it does
+        not fit one past incident and it drops the search for an explanation
+      look into: >-
+        = an informal phrasal verb for checking up, which suits police work but
+        clashes with the formal register of scientific research into a disease
+      study: >-
+        = to give a subject sustained academic attention, so it belongs with
+        scientists and a disease: police study a scene over weeks, but an inquiry
+        into a single incident is narrower
+      uncover: >-
+        = to discover what was hidden, so you uncover a fact, a corruption or the
+        truth: the incident is already known, so uncover takes the wrong object
+        here
+      inspect: >-
+        = to check an object or site officially for faults or safety, as in
+        inspect a factory: police do not inspect an incident, they investigate it
+      research: >-
+        = to work systematically on a subject or field, as in research a disease:
+        it takes a topic rather than a past event such as an incident
+      audit: >-
+        = an official review of money, accounts or a procedure, as in an audit of
+        the system: no criminal or scientific inquiry takes that frame
+      solve: >-
+        = to find the answer to a puzzle, so you solve a case or a murder: an
+        inquiry is only just starting in this frame, which solve assumes is
+        finished
+    syn_nuance: >-
+      All mean looking into something to find out what happened. Investigate is
+      the formal, neutral verb and takes a case, an incident, a cause or a
+      complaint. Probe and look into add pressure or informality, examine is the
+      closest plain alternative, while explore and study are broader and belong to
+      research into a field or a cause over time.
+    components:
+      - spelling
+      - definitions
+      - synonyms
+  - word: investigation
+    ipa: /ɪnˌves.tɪˈɡeɪ.ʃən/
+    pos: noun
+    tip: in-vesti-ga-tion — "vest" track
+    definition: The process of examining something to find out the truth.
+    example: The police opened a full investigation.
+    synonyms:
+      - inquiry
+      - probe
+      - examination
+      - study
+    syn_pos: noun
+    syn_example: An investigation / inquiry / probe — a systematic examination.
+    components:
+      - spelling
+      - definitions
+  - word: isolation
+    ipa: /ˌaɪ.səˈleɪ.ʃən/
+    pos: noun
+    tip: i-so-la-tion — "isla" island
+    definition: The state of being separated from others.
+    example: The patient was kept in isolation for two weeks.
+    synonyms:
+      - seclusion
+      - confinement
+      - separation
+      - privacy
+    syn_pos: noun
+    syn_example: Isolation / seclusion / confinement — being cut off from others.
+    components:
+      - spelling
+      - definitions

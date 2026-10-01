@@ -1,0 +1,102 @@
+words:
+  - word: justify
+    ipa: /ˈdʒʌs.tɪ.faɪ/
+    pos: verb
+    tip: just-ify — 'just', then 'ify'
+    spelling_hint: ""
+    definition: To give a good reason for an action or decision.
+    example: He tried to justify his decision.
+    synonyms:
+      - explain
+      - defend
+      - argue
+      - account for
+      - rationalize
+      - support
+      - warrant
+    syn_pos: verb
+    syn_example: Justify / defend / argue your position.
+    syn_examples:
+      - the: He tried to justify his decision.
+        syns:
+          - explain
+          - defend
+          - account for
+          - rationalize
+        avoid:
+          argue: >-
+            = to put forward a case for a position, so the frame is "argue for a
+            decision" or "argue that..."; he is only giving his own reasons, with no
+            case to press
+      - the: The evidence may justify this conclusion.
+        syns:
+          - support
+          - warrant
+        avoid:
+          argue: >-
+            = to put forward a case for a position, so it needs a speaker; here the
+            subject is the evidence itself, and the frame is "warrant" or "support a
+            conclusion"
+    syn_notes:
+      explain: give reasons for
+      defend: protect from criticism
+      argue: build a case for
+      account for: answer for, explain
+      rationalize: find a plausible reason for
+      support: back up
+      warrant: make something reasonable
+    syn_near:
+      - argue
+      - condone
+      - excuse
+      - entitle
+      - plead
+    syn_avoid:
+      account for: >-
+        = to answer for something, so he accounts for his decision is fine, but
+        the evidence does not explain the step, it grounds it
+      argue: >-
+        = to put forward a case for a position, and it needs that-clauses or for:
+        you argue for a decision, but the frames here are explain or defend and
+        warrant or support
+      defend: >-
+        = to protect someone or something from attack, so it fits the personal
+        frame: the evidence does not defend a conclusion, it makes the step valid
+      explain: >-
+        = to give reasons so that others can follow, which fits the person as
+        subject: the evidence frame asks what makes the step valid, and English
+        uses warrant or support there
+      rationalize: >-
+        = to invent a plausible reason after the event, with a sense of
+        self-deception: only a person rationalises, evidence grounds a conclusion
+      support: >-
+        = to back up a position with evidence, so it fits the evidence frame: a
+        person justifies or explains a decision rather than supporting it
+      warrant: >-
+        = to make something reasonable or deserved, as in a warrant for search: it
+        fits the evidence frame but cannot follow a person explaining his own
+        choice
+      condone: >-
+        = to accept or overlook wrongdoing, so you condone behaviour, never a
+        decision or a conclusion: it drops the idea of giving good reasons
+      excuse: >-
+        = to apologise for or play down an offence: excusing a decision is good
+        English, but it means minimising it rather than showing it was reasonable
+      entitle: >-
+        = to give someone the right to something, as in entitled to compensation:
+        the frame is entitle somebody to + noun, and no evidence is entitled to a
+        conclusion
+      plead: >-
+        = to state reasons as an excuse or argue a case in court, as in plead
+        ignorance: it takes reasons, a plea or a case, not a decision or a
+        conclusion
+    syn_nuance: >-
+      All mean giving grounds for something, but the two frames split them. With a
+      person as subject, justify goes with explain, defend, account for and
+      rationalize, and rationalize adds self-justification. With evidence as
+      subject, justify goes with support and warrant, since the evidence grounds
+      the step rather than defending anyone.
+    components:
+      - spelling
+      - definitions
+      - synonyms
