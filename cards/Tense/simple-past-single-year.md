@@ -5,20 +5,26 @@ dependencies: []
 
 # Front
 
-<div class="hint">Simple past &middot; one specific year</div>
+<div class="hint">Spot the error &middot; one specific year, no earlier past event</div>
 
-Choose the correct tense:
+This sentence uses a tense that does not belong. Type the correct verb form:
 
-<span class="ex">"In 2023, water (rose / had risen) from X to X."</span>
+<span class="ex">"In 2023, water <span class="no"><u>had risen</u></span> from 2 m to 4 m."</span>
+
+---
+
+# Type
+
+rose
 
 ---
 
 # Back
 
-<b><span class="ans">rose</span></b> (simple past).
+In 2023, water **<span class="ans">rose</span>** from 2 m to 4 m.
 
-When you report an event that happens <b>during a specific past timeframe</b> and there is no earlier past event to line it up against, the simple past is enough.
+<span class="no">had risen</span> would need a second, later past point for the rising to finish before. There is none here — <b>In 2023</b> is the only time reference, so the event happens during a specific past timeframe and the simple past is enough.
 
 <div class="pat">one dated past event, no prior baseline &rarr; <b>simple past</b></div>
 
-<span class="no">had risen</span> would need a second, later past point for the rising to finish before.
+Add the earlier event and the past perfect becomes right: "By 2023, water <b>had risen</b> from 2 m to 4 m."

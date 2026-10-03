@@ -7,15 +7,21 @@ dependencies: []
 
 <div class="hint">Past perfect vs. simple past &middot; "by" + past year</div>
 
-Choose the correct tense:
+Type the verb form:
 
-<span class="ex">"By 2023, the water (rose / had risen), so the village was submerged."</span>
+<span class="ex">"By 2023, the water __________ so the village was submerged."</span>
+
+---
+
+# Type
+
+had risen, had already risen
 
 ---
 
 # Back
 
-<b><span class="ans">had risen</span></b> (past perfect).
+By 2023, the water **<span class="ans">had risen</span>** so the village was submerged.
 
 The water rose <b>before the 2023 milestone</b>, and that completed rise is what caused the submersion. The past perfect marks the action that finished <b>before</b> a later past point.
 

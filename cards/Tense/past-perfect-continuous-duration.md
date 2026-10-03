@@ -5,15 +5,25 @@ dependencies: []
 
 # Front
 
-<div class="hint">Past perfect continuous &middot; duration</div>
+<div class="hint">Past perfect continuous &middot; duration up to a past point</div>
 
-Why does <span class="ex">"By 2026, it had been decreasing for 5 years"</span> use the past perfect continuous instead of the simple past?
+Type the verb form:
+
+<span class="ex">"By 2026, it __________ for 5 years, so the trend had to be reversed."</span>
+
+---
+
+# Type
+
+had been decreasing
 
 ---
 
 # Back
 
-Because it measures a <b>continuous duration</b> — five years of falling — leading up to a <b>past milestone</b> (2026), not a single finished fact about the year 2026.
+By 2026, it **<span class="ans">had been decreasing</span>** for 5 years, so the trend had to be reversed.
+
+It measures a <b>continuous duration</b> — five years of falling — leading up to a <b>past milestone</b> (2026), not a single finished fact about the year 2026.
 
 The continuous part ("been decreasing") shows the action was <b>ongoing</b>; the perfect part ("had") places the whole span <b>before</b> the 2026 point.
 

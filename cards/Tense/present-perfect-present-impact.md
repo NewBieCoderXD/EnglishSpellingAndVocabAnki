@@ -9,13 +9,19 @@ dependencies: []
 
 Choose the correct form — <b>did</b> or <b>have done</b>:
 
-<span class="ex">"I _______ my homework, so I'm gonna rest today."</span>
+<span class="ex">"I __________ my homework, so I'm gonna rest today."</span>
+
+---
+
+# Type
+
+have done, have already done
 
 ---
 
 # Back
 
-<b><span class="ans">have done</span></b> (present perfect).
+I **<span class="ans">have done</span>** my homework, so I'm gonna rest today.
 
 Finishing the homework has a direct <b>cause-and-effect impact on the present</b>: it is what lets you rest <b>right now</b>. That link to now is exactly the present perfect's job.
 

@@ -14,7 +14,7 @@ Built from `cards/` (folder nesting = sub-decks):
 | `Definitions` | Word → definition | word + IPA | recall the meaning | definition + example |
 | `SynonymsV2` | Context → synonyms | sentence with the word underlined + POS | **type a synonym that fits this context** | fitting synonyms + essay tip |
 | `IELTS-Writing::Trends` | Cloze | sentence with a gap | **type the missing word(s)** | filled sentence + explanation |
-| `Tense` | Grammar contrast | sentence(s) with a tense choice or error | decide the form / spot the error | correct form + rule |
+| `Tense` | Grammar contrast | sentence with a gap, or the wrong verb form underlined | **type the correct tense form** | filled sentence + pattern + why the other tense is wrong |
 | `Collocation::{Cause,Data,Comparison,Problem,Preposition,Paraphrase}` | Pattern cloze | sentence with a gap + tag hint | **type the whole collocation** | filled sentence + pattern skeleton + wrong forms + tip |
 | `Pronunciation::Sound-ID` | Listen → sound | audio clip | **type the vowel among 4** | word, IPA, spelling rule |
 | `Pronunciation::{Schwa,Short-U,Foot-U,Long-U}` | Listen (grouped) | audio clip | recall after reveal | word, IPA, spelling rule |
@@ -55,7 +55,7 @@ significant, crucial, vital, essential, key   <- accepted answers, matched as AN
   `significant, crucial` marks either as correct. Whatever you type is scored:
   the box reports how many entries are right and how many are left, a
   **Show answers** button reveals the full list, and it auto-reveals after 3
-  failed tries (see [The shared answer box](#the-shared-answer-box-spelling--synonymsv2--collocation--cloze)).
+  failed tries (see [The shared answer box](#the-shared-answer-box-spelling--synonymsv2--collocation--tense--cloze)).
   Anki's built-in `{{type:...}}` only supports exact matches, which is
   why the answer box is supplied by a **widget** (below). Omit `# Type` for
   plain recall cards.
@@ -96,11 +96,11 @@ the `data-answers` attribute at build time). Cards without `# Type` get no
 widget. Editing `cards/widgets/default.html` restyles the box deck-wide;
 per-type cards can carry their own `# Widget` section (e.g. a mini-synonym map).
 
-### The shared answer box (Spelling + SynonymsV2 + Collocation + cloze)
+### The shared answer box (Spelling + SynonymsV2 + Collocation + Tense + cloze)
 
 `cards/widgets/default.html` is the only answer box in the deck: `Spelling`,
-`SynonymsV2`, `Collocation` and the IELTS cloze cards all grade through it, so
-every typed card behaves identically. Grading rules:
+`SynonymsV2`, `Collocation`, `Tense` and the IELTS cloze cards all grade through
+it, so every typed card behaves identically. Grading rules:
 
 - **Any one accepted entry passes** — a list is a set of alternatives, not a
   set of required slots, so no card turns into a guessing game.
@@ -293,6 +293,33 @@ untruncated **Show answers** list work exactly as they do in `SynonymsV2`.
 Extra CSS used by these cards lives in
 `shared.css`: `.pat` (pattern skeleton), `.no` (wrong form, struck through),
 `.ok` (recommended form).
+
+### Tense drills: type the tense, or fix the wrong one
+
+`cards/Tense/` is a hand-written deck (one `.md` per card) that drills **tense
+choice as a typed answer**, not as a question you answer in your head. All 9
+cards have a `# Type` list, so they grade through the shared answer box exactly
+like `Spelling`, `SynonymsV2` and `Collocation`, in two flavours chosen per card:
+
+| Flavour | Cards | Front |
+|---------|-------|-------|
+| Cloze | 7 | sentence with `__________`, e.g. `"By 2023, the water __________ so the village was submerged."` |
+| Wrong form underlined | 2 | a sentence whose tense is wrong, the bad form marked `<span class="no"><u>…</u></span>`, e.g. `"In 2020, the company <u>has launched</u> the product."` |
+
+The wrong-form style mirrors `SynonymsV2`: the underlined token is the thing you
+replace, and **only the correction is accepted** — `launched` and `rose` pass,
+while the printed wrong form (`has launched`, `had risen`) is never an answer.
+Cloze answers are kept deliberately tight (`have visited`, not `visited`,
+`have done`, not `did`), so the tense is the thing being graded; a couple of
+cards also accept a natural variant (`had risen, had already risen`).
+
+The back keeps the teaching content the old question-style cards had: the filled
+sentence, the `<div class="pat">` skeleton for the contrast
+(`action completed before a past point → had + past participle`), and a
+`<span class="no">` line naming the rejected tense and why it fails. The two
+former rule cards (`past-perfect-timeline`, `present-perfect-vs-simple-past-keys`)
+were turned into cloze drills — the rule moved to the back rather than being
+asked as a question.
 
 ### Deck sizes (current)
 
