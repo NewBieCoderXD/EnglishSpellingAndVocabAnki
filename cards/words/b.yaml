@@ -49,8 +49,12 @@ words:
       - the: A key benefit is stress relief.
         syns:
           - advantage
-          - plus
           - upside
+        avoid:
+          plus: >-
+            = an extra good point in a list of pros and cons, and it takes "big" or
+            "main", not "key": English says "a big plus" or "the main plus", so "a
+            key plus" is not a phrase
       - the: Both sides can benefit from the agreement.
         syns:
           - gain
