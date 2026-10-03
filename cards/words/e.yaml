@@ -201,7 +201,11 @@ words:
         syns:
           - evidence-based
           - factual
-          - observed
+        avoid:
+          observed: >-
+            = seen or measured, so it belongs to data, evidence or behaviour ('observed
+            data'); backing of that kind is 'observational support', since 'observed
+            support' is not a phrase
       - the: The claim is based on empirical data.
         syns:
           - observed
@@ -224,9 +228,9 @@ words:
         approach, policy or treatment; with data it turns circular, since data is
         the evidence itself
       experimental: >-
-        = relying on a designed trial, of a drug, a method or a prototype, and it
-        fits the data frame; the support frame is about a claim no trial has yet
-        backed
+        = of a designed trial, so with support it means support from experiments;
+        narrower than empirical, which also covers observation and measurement.
+        Prefer 'experimental evidence' for trial output
       scientific: >-
         = connected with science as a field, so it is far wider and says nothing
         about the source of the knowledge; it suits the standing of a discipline
