@@ -327,13 +327,13 @@ asked as a question.
 |------|-------|
 | Spelling | 320 (1 per word, all with spelling tips) |
 | Definitions | 320 (1 per word) |
-| SynonymsV2 | 241 (1 per context sentence) |
+| SynonymsV2 | 246 (1 per context sentence) |
 | IELTS-Writing::Trends | 8 |
 | Tense | 9 |
 | Collocation (all) | 69 (11 Cause, 14 Data, 10 Comparison, 13 Problem, 13 Preposition, 8 Paraphrase) |
 | Pronunciation (all) | 56 |
 | Deck guide | 1 |
-| **Total** | **1024** |
+| **Total** | **1029** |
 
 ## Pronunciation audio
 

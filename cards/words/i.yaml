@@ -1199,18 +1199,69 @@ words:
     ipa: /ɪnˈher.ənt/
     pos: adjective
     tip: in-her-ent — "her" stuck in
-    definition: Existing as a natural and permanent part of something.
+    definition: Existing as an essential part of something, which cannot be removed without changing the thing.
     example: There are inherent risks in any investment.
     synonyms:
-      - inherent
       - intrinsic
       - built-in
+      - inbuilt
+      - innate
       - natural
     syn_pos: adjective
-    syn_example: Inherent / intrinsic — existing as a natural part.
+    syn_example: Inherent flaws in the design.
+    syn_examples:
+      - the: Some of the risks are inherent in the design.
+        syns:
+          - built-in
+          - inbuilt
+        avoid:
+          intrinsic: >-
+            = worth that belongs to a thing by itself ("intrinsic value", "intrinsic
+            to + noun"); a risk you cannot design out is an inseparable part, so it
+            takes "inherent in + noun"
+      - the: The delay is inherent in the nature of the problem.
+        syns:
+          - intrinsic
+          - inbuilt
+        avoid:
+          built-in: >-
+            = part of the original make of a machine or product ("built-in
+            safeguards"); this delay comes from what the problem is, not from a
+            feature someone installed
+    syn_notes:
+      intrinsic: worth that belongs to the thing itself
+      built-in: part of the original design
+      inbuilt: built-in, written as one word
+      innate: present from birth
+      natural: typical, not inseparable
+    syn_near:
+      - innate
+      - integral
+      - essential
+    syn_avoid:
+      natural: >-
+        = typical or expected rather than inseparable: "natural risks" reads as the
+        usual risks of an investment, not the ones no design can remove
+      innate: >-
+        = inborn, and English keeps it for people, animals and living things ("an
+        innate sense of fear"); risks in a design are built in, not born
+      integral: >-
+        = necessary to complete something ("integral to the project"): it judges how
+        important a part is, not that the part cannot be taken away
+      essential: >-
+        = absolutely necessary ("it is essential to reply"), so it ranks by importance
+        rather than claiming the quality cannot be removed at all
+    syn_nuance: >-
+      Inherent and intrinsic both mean the quality cannot be taken out of the thing,
+      so they overlap whenever the frame allows it; what differs is where each one
+      sits. Inherent takes "in" and describes a part you cannot design out — risks,
+      flaws, limitations. Intrinsic takes "to" and describes worth that belongs to the
+      thing by itself — value, motivation, merit. Built-in and inbuilt are the plainer
+      versions of inherent, and innate is the inborn version used for living things.
     components:
       - spelling
       - definitions
+      - synonyms
   - word: innovator
     ipa: /ˈɪn.ə.veɪ.tər/
     pos: noun
@@ -1371,14 +1422,18 @@ words:
           - indispensable
         avoid:
           intrinsic: >-
-            = inherent in the nature of something, so it needs "intrinsic to" or
-            "intrinsic in the nature of"; teamwork is a part added to a project, not
-            a property it has by nature
+            = worth a thing has by its own nature, so it takes "intrinsic to + noun"
+            or "intrinsic value"; teamwork is a part added to a project, not a worth
+            it owns
       - the: Exercise is an integral part of a healthy life.
         syns:
           - essential
-          - intrinsic
           - vital
+        avoid:
+          intrinsic: >-
+            = worth a thing has by its own nature, so it needs "intrinsic to + noun"
+            or "intrinsic value"; exercise is a part you add to a life, not a worth
+            it owns
       - the: She is an integral member of the team.
         syns:
           - indispensable
@@ -1392,7 +1447,7 @@ words:
     syn_notes:
       essential: absolutely necessary
       vital: critically important
-      intrinsic: part of the nature of
+      intrinsic: worth the thing has by itself
       indispensable: cannot do without
       key: most important
     syn_near:
@@ -1409,8 +1464,9 @@ words:
         = the single most important of several; needs "a key part" or "key to",
         and it ranks rather than belongs
       intrinsic: >-
-        = inherent in the nature of something: too narrow for a part you add or a
-        member you join
+        = worth a thing has by its own nature, and it takes "intrinsic to + noun"
+        or "intrinsic value": too narrow for a part you add (teamwork, exercise) or
+        a member you join
       vital: >-
         = the whole thing depends on it, as in "a vital part" or "vital to growth";
         for one person it needs "vital to the team", not "a vital member of"
@@ -1703,18 +1759,83 @@ words:
     ipa: /ɪnˈtrɪn.zɪk/
     pos: adjective
     tip: in-trins-ic — "ins" inside
-    definition: Belonging to the basic nature of something.
+    definition: Belonging to a thing by its own nature, not added from outside; said of value, worth or motivation.
     example: There is intrinsic value in learning for its own sake.
     synonyms:
       - inherent
       - innate
-      - essential
       - natural
+      - inbuilt
+      - genuine
     syn_pos: adjective
-    syn_example: Intrinsic / inherent — belonging to the nature of something.
+    syn_example: The intrinsic value of learning.
+    syn_examples:
+      - the: She has intrinsic motivation for the subject.
+        syns:
+          - natural
+          - innate
+          - genuine
+        avoid:
+          inherent: >-
+            = an inseparable part of a thing, and it needs "inherent in + noun"
+            ("risks inherent in the plan"); motivation that belongs to her by nature
+            is intrinsic, not inherent in the subject
+      - the: There is intrinsic value in learning for its own sake.
+        syns:
+          - natural
+          - genuine
+        avoid:
+          inherent: >-
+            = an inseparable part of a thing, and it needs "inherent in + noun"; the
+            worth of learning is not a part you can point to inside it
+          innate: >-
+            = inborn, said of people and animals; the worth of a subject is something
+            you come to see, not something you were born with
+      - the: Curiosity is intrinsic to human nature.
+        syns:
+          - inherent
+          - innate
+          - natural
+        avoid:
+          genuine: >-
+            = real rather than pretended, which suits a feeling or a material
+            ("genuine concern", "genuine leather"); a curiosity that belongs to human
+            nature is not up for debate, so nothing is being faked here
+    syn_notes:
+      inherent: an inseparable part, "inherent in + noun"
+      innate: inborn, said of people and animals
+      natural: arising from the thing itself, not imposed
+      inbuilt: built into a design or machine
+      genuine: real and not pretended
+    syn_near:
+      - integral
+      - essential
+      - valuable
+    syn_avoid:
+      inbuilt: >-
+        = built into a design or a machine ("inbuilt safeguards"); worth is not a
+        part anyone installed, so "inbuilt value" is not a phrase
+      integral: >-
+        = necessary to complete something ("integral to the project"): it ranks a
+        part by how important it is, rather than naming worth that is there already
+      essential: >-
+        = absolutely necessary, so it belongs to what you must have, not to the value
+        something carries by its own nature
+      valuable: >-
+        = worth a lot in someone's judgement, a money sense; "intrinsic" says the
+        worth is in the thing itself, whether or not the market agrees
+    syn_nuance: >-
+      All of these say the quality is there of its own accord, without anything adding
+      it. Intrinsic takes "to" and covers worth that belongs to the thing itself —
+      value, motivation, merit. Inherent is its near twin but takes "in" and covers an
+      inseparable part: where both fit, as in curiosity intrinsic to human nature, the
+      preposition is the only difference. Innate is the inborn version and belongs to
+      people and animals; inbuilt is the mechanical one; genuine and natural are the
+      plain, looser ways to say the same thing.
     components:
       - spelling
       - definitions
+      - synonyms
   - word: investigate
     ipa: /ɪnˈves.tɪ.ɡeɪt/
     pos: verb
